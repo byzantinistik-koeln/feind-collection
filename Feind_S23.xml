@@ -77,8 +77,8 @@
                                     <seg xml:lang="de"><ref
                                             target="http://pbw2016.kdl.kcl.ac.uk/person/Leon/20128/"
                                             >Leon Blangas</ref></seg>
-                                    <interp type="milieu" xml:lang="en">Military, Civil.</interp>
-                                    <interp type="milieu" xml:lang="de">Militär, Zivil.</interp>
+                                    <interp type="milieu" xml:lang="en">Military, Civil.</interp> <!--delete in the new schema-->
+                                    <interp type="milieu" xml:lang="de">Militär, Zivil.</interp> <!--delete in the new schema-->
                                 </roleName>
                             </author>
                         </msItem>
@@ -119,10 +119,10 @@
                             </supportDesc>
                             <layoutDesc>
                                 <layout n="whole">
-                                    <rs type="layout">
+                                    <!--<rs type="layout"> 
                                         <seg xml:lang="en">Legend</seg>
                                         <seg xml:lang="de">Legende</seg>
-                                    </rs>
+                                    </rs>--> <!--delete in the new schema-->
                                     <rs type="execution">
                                         <seg xml:lang="en">Struck</seg>
                                         <seg xml:lang="de">???</seg>
@@ -245,8 +245,8 @@
                                             <seg xml:lang="en">Legend on 5 lines</seg>
                                             <seg xml:lang="de">Legende auf 5 Zeilen</seg>
                                         </rs>
-                                        <p xml:lang="en">Legend on 5 lines.</p>
-                                        <p xml:lang="de">Legende auf 5 Zeilen.</p>
+                                        <!--<p xml:lang="en">Legend on 5 lines.</p>
+                                        <p xml:lang="de">Legende auf 5 Zeilen.</p>--> <!--delete in the new schema-->
                                     </layout>
                                 </layoutDesc>
                             </objectDesc>
@@ -314,8 +314,8 @@
                                             <seg xml:lang="en">Legend of 5 lines</seg>
                                             <seg xml:lang="de">Legende auf 5 Zeilen</seg>
                                         </rs>
-                                        <p xml:lang="en">Legend of 5 lines.</p>
-                                        <p xml:lang="de">Legende auf 5 Zeilen.</p>
+                                        <!--<p xml:lang="en">Legend of 5 lines.</p>
+                                        <p xml:lang="de">Legende auf 5 Zeilen.</p>-->
                                     </layout>
                                 </layoutDesc>
                             </objectDesc>
