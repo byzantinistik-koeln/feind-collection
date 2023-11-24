@@ -6,6 +6,7 @@
 <TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../SigiDoc-Epidoc_schema/tei-epidoc.xsd"
     xmlns="http://www.tei-c.org/ns/1.0">
+    <!-- schema location for users of the SigiDoc's version of EFES available at https://github.com/SigiDoc/SigiDoc-->
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -15,12 +16,15 @@
                 <editor xml:id="MC">Maria Teresa Catalano</editor>
                 <editor xml:id="MF">Martina Filosa</editor>
                 <editor xml:id="CS">Claudia Sode</editor>
+                <!--here go the editors of the printed record, when available-->
             </titleStmt>
             <editionStmt>
                 <edition>
                     <seg/>
                 </edition>
+                
                 <editor xml:id="SE">Sofia Efthymoglou</editor>
+                <!-- here the editor of the digital edition should be defined. If he/she already appears above as editor of the seal, you can refer to them with a ref attribute and point to the xml:id with a #; if they appear for the first time, you should write a new xml:id as you did above on line 14 and 15. As an example I referred to MF as defined on l. 15 and added a new xml:id for, e.g., Pia-->
             </editionStmt>
             <publicationStmt>
                 <authority>ANR/DFG DigiByzSeal - Unlocking the Hidden Value of Seals: New
@@ -58,23 +62,25 @@
                         <collection xml:lang="de">Sammlung Robert Feind</collection>
                         <collection xml:lang="el">Συλλογή Robert Feind</collection>
                         <idno>S-5</idno>
+                        <!--to be completed with the actual idno-->
                         <altIdentifier>
                             <repository/>
+                            <!--to be used when we have an attested older repository -->
                             <idno/>
                         </altIdentifier>
                     </msIdentifier>
                     <msContents>
                         <summary n="whole">
-                            <seg xml:lang="en">Seals of dignitaries</seg> 
-                            <seg xml:lang="de">Siegel der Würdenträger</seg>
+                            <seg xml:lang="en">Dignitaries</seg> 
+                            <seg xml:lang="de">Würdenträger</seg>
                             <seg xml:lang="el">Μολυβδόβουλλα αξιωματούχων</seg>
                         </summary>
                         <msItem>
                             <author>
                                 <roleName role="issuer" type=" aristocracy">
-                                    <seg xml:lang="en">Ioannes</seg>
-                                    <seg xml:lang="de">Ioannes</seg>
-                                    <seg xml:lang="el">Ιωάννης</seg>
+                                    <seg xml:lang="en"><forename>Ioannes Liparinos</forename></seg>
+                                    <seg xml:lang="de"><forename>Ioannes Liparinos</forename></seg>
+                                    <seg xml:lang="el"><forename>Ιωάννης Λιπαρινός</forename></seg>
                                     <interp type="milieu" xml:lang="en">Αristocracy</interp>
                                     <interp type="milieu" xml:lang="de">Aristokratie</interp>
                                     <interp type="milieu" xml:lang="el">Αριστοκρατία</interp>
@@ -250,13 +256,13 @@
                                             <!--not to be used yet-->
                                         </rs>
                                         <rs type="layout">
-                                            <seg xml:lang="en">Legend of 3 lines</seg>
-                                            <seg xml:lang="de">Legende auf 3 Zeilen</seg>
-                                            <seg xml:lang="el">Επιγραφή 3 στίχων</seg>
+                                            <seg xml:lang="en">Legend of 3 lines.</seg>
+                                            <seg xml:lang="de">Legende auf 3 Zeilen.</seg>
+                                            <seg xml:lang="el">Επιγραφή 3 στίχων.</seg>
                                         </rs>
-                                        <p xml:lang="en">Legend of 3 lines beginning with a cross.</p>
-                                        <p xml:lang="de">Legende auf 3 Zeilen, beginnend mit einem Kreuz.</p>
-                                        <p xml:lang="el">Διακοσμητικός σταυρός ο οποίος προηγείται της επιγραφής που εκτείνεται σε 3 στίχους.</p> 
+                                        <p xml:lang="en">Legend of 3 lines.</p>
+                                        <p xml:lang="de">Legende auf 3 Zeilen.</p>
+                                        <p xml:lang="el">Επιγραφή 3 στίχων.</p> 
                                     </layout>
                                 </layoutDesc>
                             </objectDesc>
@@ -274,7 +280,7 @@
                                         <figDesc n="r" xml:lang="en"/>
                                         <figDesc n="r" xml:lang="de"/>
                                         <figDesc n="decoR" xml:lang="en">Cross at the begenning of the legend. Border of tight dots.</figDesc>
-                                        <figDesc n="decoR" xml:lang="de">Vorangestelltes Kreuz, Perlrand.</figDesc>
+                                        <figDesc n="decoR" xml:lang="de">Vorangestelltes Kreuz. Perlrand.</figDesc>
                                         <figDesc n="decoR" xml:lang="el"> Σταυρός στην αρχή της επιγραφής. Στικτό πλαίσιο.</figDesc>
                                     </figure>
                                 </decoNote>
@@ -318,13 +324,13 @@
                                             <!--not to be used yet-->
                                         </rs>
                                         <rs type="layout">
-                                            <seg xml:lang="en">Legend of 3 lines</seg>
-                                            <seg xml:lang="de">Inschrift auf 3 Zeilen</seg>
-                                            <seg xml:lang="el">Επιγραφή 3 στίχων</seg>
+                                            <seg xml:lang="en">Legend of 3 lines.</seg>
+                                            <seg xml:lang="de">Inschrift auf 3 Zeilen.</seg>
+                                            <seg xml:lang="el">Επιγραφή 3 στίχων.</seg>
                                         </rs>
-                                        <p xml:lang="en">Legend of 3 lines</p>
-                                        <p xml:lang="de">Inschrift auf 3 Zeilen</p>
-                                        <p xml:lang="el">Επιγραφή 3 στίχων</p>
+                                        <p xml:lang="en">Legend of 3 lines.</p>
+                                        <p xml:lang="de">Inschrift auf 3 Zeilen.</p>
+                                        <p xml:lang="el">Επιγραφή 3 στίχων.</p>
                                     </layout>
                                 </layoutDesc>
                             </objectDesc>
@@ -340,9 +346,9 @@
                                     <figure>
                                         <figDesc n="v" xml:lang="en"/>
                                         <figDesc n="v" xml:lang="de"/>
-                                        <figDesc n="decoV" xml:lang="en">Border of of tight dots</figDesc>
+                                        <figDesc n="decoV" xml:lang="en">Border of tight dots.</figDesc>
                                         <figDesc n="decoV" xml:lang="de">Perlrand</figDesc>
-                                        <figDesc n="decoV" xml:lang="el">Στικτό πλαίσιο</figDesc>
+                                        <figDesc n="decoV" xml:lang="el">Στικτό πλαίσιο.</figDesc>
                                     </figure>
                                 </decoNote>
                             </decoDesc>
@@ -406,28 +412,33 @@
     </facsimile>
     <text>
         <body>
-            <div type="edition" subtype="editorial" xml:space="preserve"> 
+            <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"> <!--change the language code according to the language of your edition, the values (also when combined, e.g. Greek-Latin) are in the guidelines. Same goes for what comes next, textpart etc.-->
                   <div type="textpart" subtype="face" n="obv" rend="linear" xml:lang="grc"> <!--obverse, editorial-->
+                      
                       <ab><rs type="legendsCases" ref="#acc">
                           <lb n="1"/><expan><abbr>Γραφ</abbr><ex>ὰς</ex></expan>
                           <lb n="2" />σφραγί
-                          <lb n="3" break="no"/>ζω <persName ref="#ioannes-liparinos"><expan><abbr>Ἰω</abbr><ex>άννου</ex></expan></persName>
+                          <lb n="3" break="no"/>ζω <name type="forename"><expan><abbr>Ἰω</abbr><ex>άννου</ex></expan></name>
+         
+                    
+                             
                       </rs></ab>
                   </div>
                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
                       <ab>
                           <lb n="4"/><rs type="dignity" ref="#magistros"><expan>μαγί<ex>σ</ex>
-                          <lb n="5" break="no"/>τρου</expan> </rs>τοῦ <expan>Λ<ex>ι</ex>
-                          <lb n="6" break="no"/>παριν<ex>οῦ</ex></expan>
+                          <lb n="5" break="no"/>τρου</expan> </rs>τοῦ <persName type="attested" ref="#ioannes-liparinos"><name type="surname"><expan>Λ<ex>ι</ex>
+                          <lb n="6" break="no"/>παριν<ex>οῦ</ex></expan></name></persName>
                       </ab>
                   </div>
               </div>
-            <div type="edition" subtype="diplomatic" xml:space="preserve"> 
+            <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"> 
                   <div type="textpart" subtype="face" n="obv" rend="linear" xml:lang="grc"> <!--obverse, diplomatic-->
                       <ab> 
                           <lb n="1"/>+γραφ,
                           <lb n="2"/>Σφραγι
                           <lb n="3"/>ι
+
                       </ab>
                   </div>
                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, diplomatic-->
@@ -435,37 +446,49 @@
                             <lb n="4"/>Μαγι´
                           <lb n="5"/>τρtλ
                           <lb n="6"/>παριν,
+
                       </ab>
                   </div>
               </div>
             <div type="apparatus"> 
                   <listApp>
-                      <app/> <!--if you don't need the apparatus, just delete the xml:lang-->
+                      <app xml:lang=""/> <!--if you don't need the apparatus, just delete the xml:lang-->
                   </listApp>
               </div>
             <div type="translation">
-                <p>Γραφὰς σφραγίζω Ἰωάννου μαγίστρου τοῦ Λιπαρινοῦ.</p>
+                <p>Γραφὰς σφραγίζω Ἰωάννου/μαγίστρου τοῦ Λιπαρινοῦ.</p>
                 <p xml:lang="en">I seal the letters of Ioannes Liparinos, magistros.</p>
                 <p xml:lang="de">Ich siegle die Schriften des magistros Ioannes Liparinos.</p>
                 <p xml:lang="el">Σφραγίζω τις επιστολές του μαγίστρου Ιωάννη Λιπαρινού.</p>
               </div>
-            <div type="commentary" subtype="text">
-                <p xml:lang="en"></p> <!--if you have the commentary only in German and would like to show it also in the English page, you should delete the xml:lang-->
-                <p xml:lang="de"></p>
-            </div>
-            <div type="commentary" subtype="footnotes">
-                <p xml:lang="en"></p> <!--if you have the footnotes only in French and would like to show it also in the English page, you should delete the xml:lang-->
-                <p xml:lang="de"></p>
-            </div>
+            <!--<div type="commentary" subtype="text">
+                  <p xml:lang="en">[your commentary here]</p> <!-\-if you have the commentary only in German and would like to show it also in the English page, you should delete the xml:lang-\->
+                  <p xml:lang="de">[your commentary here]</p>
+              </div>-->
+            <!--<div type="commentary" subtype="footnotes">
+                  <p xml:lang="en">[your footnotes here]</p> <!-\-if you have the footnotes only in French and would like to show it also in the English page, you should delete the xml:lang-\->
+                  <p xml:lang="de">[your footnotes here]</p>
+              </div>-->
             <div type="bibliography" subtype="edition">
-                <p/>
-            </div>
-            <div type="bibliography" subtype="parallels">
-                <p/>
-            </div>
-            <div type="bibliography" subtype="discussion">
-                <p/>
-            </div>
+                <p> 
+                    <bibl> <!-- <ptr target=""/>, <citedRange unit=""/> <!-\-before citedRange add the right abbreviation, e.g. if it's a page, p. etc.-\->
+-->                      </bibl>
+                  </p>
+              </div>
+            <div type="bibliography" subtype="parallels"> <!--if you don't have parallels, put this div in a comment-->
+                  <p>
+                      <bibl>
+<!--                          <ptr target=""/>, <citedRange unit=""/>
+-->                      </bibl>
+                  </p>
+              </div>
+            <div type="bibliography" subtype="discussion"> <!--if you don't have further bibliography, put this div in a comment-->
+                  <p>
+                      <!--<bibl>
+                          <ptr target=""/>, <citedRange unit=""/>
+                      </bibl>-->
+                  </p>
+              </div>
         </body>
     </text>
 </TEI>

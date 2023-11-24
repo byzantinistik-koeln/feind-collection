@@ -22,7 +22,6 @@
                 <edition>
                     <seg/>
                 </edition>
-                
                 <editor xml:id="SE">Sofia Efthymoglou</editor>
                 <!-- here the editor of the digital edition should be defined. If he/she already appears above as editor of the seal, you can refer to them with a ref attribute and point to the xml:id with a #; if they appear for the first time, you should write a new xml:id as you did above on line 14 and 15. As an example I referred to MF as defined on l. 15 and added a new xml:id for, e.g., Pia-->
             </editionStmt>
@@ -71,13 +70,13 @@
                     </msIdentifier>
                     <msContents>
                         <summary n="whole">
-                            <seg xml:lang="en">Provincial administration seals</seg> 
-                            <seg xml:lang="de">Siegel der Provinzialverwaltug</seg>
+                            <seg xml:lang="en">Provincial administration</seg> 
+                            <seg xml:lang="de">Provinzialverwaltug</seg>
                             <seg xml:lang="el">Μολυβδόβουλλα αξιωματούχων της περιφερειακής διοίκησης</seg>
                         </summary>
                         <msItem>
                             <author>
-                                <roleName role="issuer" type="  civil">
+                                <roleName role="issuer" type=" civil">
                                     <seg xml:lang="en"><forename>Michael</forename></seg>
                                     <seg xml:lang="de"><forename>Michael</forename></seg>
                                     <seg xml:lang="el"><forename>Μιχαήλ</forename></seg>
@@ -112,15 +111,15 @@
                                     <dimensions type="support" unit="mm">
                                         <dim type="diameter">21</dim>
                                     </dimensions>
-                                    <measure type="weight" unit="g">9,7 </measure>
+                                    <measure type="weight" unit="g">9.7 </measure>
                                     <measure type="axis" unit="clock"></measure>
                                     <measure type="overstrikeOrient" unit="clock"/>
                                     <measure type="channelOrient" unit="clock">1-7 </measure>
                                     <measure type="countermark" unit="clock"/>
                                 </support>
-                                <condition rend="  obliterated ">
+                                <condition rend="obliterated">
                                     <p xml:lang="en">Partially dented and effaced on both sides. </p>
-                                    <p xml:lang="de">Auf beiden Seiten teilweise verbeult und befleckt</p>
+                                    <p xml:lang="de">Auf beiden Seiten teilweise verbeult und befleckt.</p>
                                     <p xml:lang="el"> Η σφραγίδα έχει υποστεί ελαφρώς συμπίεση  και έχουν σβηστεί τα γράμματα στο σημείο αυτό και στις δυο πλευρές.</p>
                                 </condition>
                             </supportDesc>
@@ -182,12 +181,12 @@
                             <!-- for a date range or centuries (NOT BEFORE - NOT AFTER)-->
                             <origDate type="analysis" notBefore="1051" notAfter="1075" evidence=" epigraphy titulature " 
                                 resp="MC">
-                                <seg xml:lang="en">11th c., third quarter</seg>
-                                <seg xml:lang="de">11. Jh., drittes Quartal</seg>
+                                <seg xml:lang="en">11th c., third quarter.</seg>
+                                <seg xml:lang="de">11. Jh., drittes Quartal.</seg>
                                 <seg xml:lang="el">11ος αι., τρίτο τέταρτο.</seg>
-                                <interp type="datingCriteria" xml:lang="en">Epigraphy, Titulature</interp>
-                                <interp type="datingCriteria" xml:lang="de">Epigraphik, Titulatur</interp>
-                                <interp type="datingCriteria" xml:lang="el"> Επιγραφική, Τίτλος- αξίωμα</interp>                                
+                                <interp type="datingCriteria" xml:lang="en">Epigraphy, Titulature.</interp>
+                                <interp type="datingCriteria" xml:lang="de">Epigraphik, Titulatur.</interp>
+                                <interp type="datingCriteria" xml:lang="el">Επιγραφική, Τίτλος-Aξίωμα.</interp>                                
                             </origDate>
                             <!-- for an internal date -->
                             <!--<origDate type="internal" when="0001" when-custom="2023" datingMethod="">
@@ -255,13 +254,13 @@
                                             <!--not to be used yet-->
                                         </rs>
                                         <rs type="layout">
-                                            <seg xml:lang="en">Legend of 5 lines </seg>
-                                            <seg xml:lang="de">Inschrift auf 5 Zeilen</seg>
-                                            <seg xml:lang="el">Επιγραφή 5 στίχων</seg>
+                                            <seg xml:lang="en">Legend of 5 lines.</seg>
+                                            <seg xml:lang="de">Inschrift auf 5 Zeilen.</seg>
+                                            <seg xml:lang="el">Επιγραφή 5 στίχων.</seg>
                                         </rs>
-                                        <p xml:lang="en">Legend of 5 lines</p>
-                                        <p xml:lang="de">Inschrift auf 5 Zeilen</p>
-                                        <p xml:lang="el">Επιγραφή 5 στίχων</p> 
+                                        <p xml:lang="en">Legend of 5 lines.</p>
+                                        <p xml:lang="de">Inschrift auf 5 Zeilen.</p>
+                                        <p xml:lang="el">Επιγραφή 5 στίχων.</p> 
                                     </layout>
                                 </layoutDesc>
                             </objectDesc>
@@ -278,9 +277,9 @@
                                     <figure>
                                         <figDesc n="r" xml:lang="en"/>
                                         <figDesc n="r" xml:lang="de"/>
-                                        <figDesc n="decoR" xml:lang="en">Border of dots</figDesc>
-                                        <figDesc n="decoR" xml:lang="de">Perlrand</figDesc>
-                                        <figDesc n="decoR" xml:lang="el">Στικτό πλαίσιο</figDesc>
+                                        <figDesc n="decoR" xml:lang="en">Border of dots.</figDesc>
+                                        <figDesc n="decoR" xml:lang="de">Perlrand.</figDesc>
+                                        <figDesc n="decoR" xml:lang="el">Στικτό πλαίσιο.</figDesc>
                                     </figure>
                                 </decoNote>
                             </decoDesc>
@@ -306,7 +305,7 @@
                             </summary>
                             <textLang n="v" mainLang="grc">
                                 <!--if the language changes, also the value of mainLang should change accordingly-->
-                                <seg xml:lang="en">Byzantine Greek</seg>
+                                <seg xml:lang="en">Greek</seg>
                                 <seg xml:lang="de">Griechisch</seg>
                                 <seg xml:lang="el">Μεσαιωνική ελληνική γλώσσα</seg>
                             </textLang>
@@ -324,12 +323,12 @@
                                         </rs>
                                         <rs type="layout">
                                             <seg xml:lang="en">Legend of 5 lines. </seg>
-                                            <seg xml:lang="de">Inschrift auf 5 Zeilen</seg>
-                                            <seg xml:lang="el">Επιγραφή 5 στίχων</seg>
+                                            <seg xml:lang="de">Inschrift auf 5 Zeilen.</seg>
+                                            <seg xml:lang="el">Επιγραφή 5 στίχων.</seg>
                                         </rs>
-                                        <p xml:lang="en">Legend of 5 lines</p>
-                                        <p xml:lang="de">Inschrift auf 5 Zeilen</p>
-                                        <p xml:lang="el">Επιγραφή 5 στίχων</p>
+                                        <p xml:lang="en">Legend of 5 lines.</p>
+                                        <p xml:lang="de">Inschrift auf 5 Zeilen.</p>
+                                        <p xml:lang="el">Επιγραφή 5 στίχων.</p>
                                     </layout>
                                 </layoutDesc>
                             </objectDesc>
@@ -346,9 +345,9 @@
                                     <figure>
                                         <figDesc n="v" xml:lang="en"/>
                                         <figDesc n="v" xml:lang="de"/>
-                                        <figDesc n="decoV" xml:lang="en">Above the legend, a decoration consisting of a dot between two dashes. Border of dots</figDesc>
-                                        <figDesc n="decoV" xml:lang="de">Über der Legende befindet sich eine Verzierung, die aus einem Punkt zwischen zwei Strichen besteht. Perlrand</figDesc>
-                                        <figDesc n="decoV" xml:lang="el">Πάνω απο την επιγραφή, διακοσμητικό μοτίβο, το οποίο αποτελείται από μια τελεία ανάμεσα σε δύο παύλες. Στικτό πλαίσιο</figDesc>
+                                        <figDesc n="decoV" xml:lang="en">Above the legend, a decoration consisting of a dot between two dashes. Border of dots.</figDesc>
+                                        <figDesc n="decoV" xml:lang="de">Über der Legende befindet sich eine Verzierung, die aus einem Punkt zwischen zwei Strichen besteht. Perlrand.</figDesc>
+                                        <figDesc n="decoV" xml:lang="el">Πάνω απο την επιγραφή, διακοσμητικό μοτίβο, το οποίο αποτελείται από μια τελεία ανάμεσα σε δύο παύλες. Στικτό πλαίσιο.</figDesc>
                                     </figure>
                                 </decoNote>
                             </decoDesc>
@@ -416,14 +415,12 @@
                   <div type="textpart" subtype="face" n="obv" rend="linear" xml:lang="grc"> <!--obverse, editorial-->
                       
                       <ab><rs type="legendsCases" ref="#dat">
-                            <lb n="1"/><rs type="invocation" ref="#inv004" ><expan><abbr>Κύ</abbr><ex>ριε</ex> <abbr>βο</abbr><ex>ή</ex><abbr>θ</abbr><ex>ει </ex></expan>
+                            <lb n="1"/><rs type="invocation" ref="#inv004" ><expan><abbr>Κύ</abbr><ex>ριε</ex> <abbr>βο</abbr><ex>ή</ex><abbr>θ</abbr><ex>ει</ex></expan>
                                <lb n="2"/><supplied reason="lost">τῷ</supplied>σῷ <expan><abbr> δού</abbr><ex>λῳ</ex> </expan></rs>
                                <lb n="3"/><persName type="forename" ref="#Michael-5"><supplied reason="lost">Μ</supplied>ιχαήλ </persName>
                                <lb n="4"/><rs type="dignity" ref="#patrikios"><supplied reason="lost">π<ex>ατ</ex></supplied>ρι<ex>κίῳ</ex></rs> <rs type="office" subtype="civil" ref="#krites_002"><expan><abbr>κριτ</abbr><ex>ῇ</ex> </expan>
                                <lb n="5"/>τοῦ <expan><abbr>βήλ</abbr><ex>ου</ex></expan></rs>
-                            
                         </rs>
-                          
                       </ab>
                   </div>
                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
@@ -433,7 +430,6 @@
                           <lb n="8"/>λερ<ex>οῦ</ex> Στρ<supplied reason="lost">υμ<ex>ό</ex></supplied>
                           <lb n="9" break="no"/>νο<ex>ς</ex> <ex>καὶ</ex> Θεσ<supplied reason="lost">σα</supplied>
                           <lb n="10" break="no"/>λονίκ<supplied reason="lost">ης</supplied></placeName></rs>
-                        
                       </ab>
                   </div>
               </div>
@@ -445,8 +441,6 @@
                                <lb n="3"/>.ΙΧΑΗλ
                                <lb n="4"/>.Ρ̅Ι̅⸣Κ̣ΡΙΤ,
                                <lb n="5"/>ΤΗλ,
-
-
                       </ab>
                   </div>
                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, diplomatic-->
@@ -467,9 +461,9 @@
                   </listApp>
               </div>
             <div type="translation">
-                <p>Κύριε βοήθει τῷ σῷ δούλῳ Μιχαήλ πατρικίῳ, κριτῇ τοῦ βήλου, τοῦ ἱπποδρόμου, Βολεροῦ Στρυμόνος καὶ Θεσσαλονίκης.</p>
-                <p xml:lang="en">Lord, help your servant Michael patrikios, krites of the velum, of the hippodrome, and of Boleron, Strymon, and Thessalonike</p>
-                <p xml:lang="de">Herr, hilf deinem Diener Michael Patrikios, Krites des Velums, des Hippodroms und von Boleron, Strymon und Thessalonike</p>
+                <p>Κύριε βοήθει τῷ σῷ δούλῳ Μιχαήλ πατρικίῳ, κριτῇ τοῦ βήλου,/ τοῦ ἱπποδρόμου, Βολεροῦ Στρυμόνος καὶ Θεσσαλονίκης.</p>
+                <p xml:lang="en">Lord, help your servant Michael patrikios, krites of the velum, of the hippodrome, and of Boleron, Strymon, and Thessalonike.</p>
+                <p xml:lang="de">Herr, hilf deinem Diener Michael Patrikios, Krites des Velums, des Hippodroms und von Boleron, Strymon und Thessalonike.</p>
                 <p xml:lang="el">Κύριε, βοήθησε τον δούλο σου Μιχαήλ πατρίκιο, κριτή του βήλου, του ιπποδρόμου, του Βολερού, Στρυμόνος και της Θεσσαλονίκης.</p>
               </div>
             <!--<div type="commentary" subtype="text">
@@ -481,13 +475,13 @@
                   <p xml:lang="de">[your footnotes here]</p>
               </div>-->
             <div type="bibliography" subtype="edition">
-                <p> Feind, Einführung, p. 151, no. 20.
+                <p> <bibl><ptr target="Feind2010"/>, <citedRange unit="page">p. 151</citedRange>, <citedRange unit="part">no. 20</citedRange>.</bibl>
                     <bibl> <!-- <ptr target=""/>, <citedRange unit=""/> <!-\-before citedRange add the right abbreviation, e.g. if it's a page, p. etc.-\->
 -->                      </bibl>
                   </p>
               </div>
             <div type="bibliography" subtype="parallels"> <!--if you don't have parallels, put this div in a comment-->
-                <p>Thessaloniki, Museum of Byzantine Culture, BMo 29/5 - <bibl> <ptr target="Leontiades2006"/>, no. <citedRange unit="entry">17</citedRange>.</bibl>
+                <p>Thessaloniki, Museum of Byzantine Culture, BMo 29/5 − <bibl> <ptr target="Leontiades2006"/>, <citedRange unit="part">no. 17</citedRange>.</bibl>
                       <bibl>
 <!--                          <ptr target=""/>, <citedRange unit=""/>
 -->                      </bibl>

@@ -4,8 +4,8 @@
 <!-- last changed before 1.1 release: 2023-04-12 -->
 
 <TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../SigiDoc-Epidoc_schema/tei-epidoc.xsd"
-    xmlns="http://www.tei-c.org/ns/1.0">
+ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../OneDrive/GitHub/byzantinistik-koeln/EFES-SigiDoc-feind/webapps/ROOT/content/SigiDoc-Epidoc_schema/tei-epidoc.xsd"
+ xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -62,7 +62,7 @@
                     </msIdentifier>
                     <msContents>
                         <summary n="whole">
-                            <seg xml:lang="en">Central administration.</seg>
+                            <seg xml:lang="en">Central administration</seg>
                             <seg xml:lang="de">Zentralverwaltung</seg>
                         </summary>
                         <msItem>
@@ -231,11 +231,11 @@
                                             <!--not to be used yet-->
                                         </rs>
                                         <rs type="layout">
-                                            <seg xml:lang="en">Legend of 5 lines</seg>
-                                            <seg xml:lang="de">Legende auf 5 Zeilen</seg>
+                                            <seg xml:lang="en">Linear legend of 5 lines</seg>
+                                            <seg xml:lang="de">Lineare Legende auf 5 Zeilen</seg>
                                         </rs>
-                                        <p xml:lang="en">Legend of 5 lines.</p>
-                                        <p xml:lang="de">Legende auf 5 Zeilen.</p>
+                                        <p xml:lang="en">Linear legend of 5 lines.</p>
+                                        <p xml:lang="de">Lineare Legende auf 5 Zeilen.</p>
                                     </layout>
                                 </layoutDesc>
                             </objectDesc>
@@ -294,11 +294,11 @@
                                             <!--not to be used yet-->
                                         </rs>
                                         <rs type="layout">
-                                            <seg xml:lang="en">Legend of 4 lines.</seg>
-                                            <seg xml:lang="de">Legende auf 4 Zeilen.</seg>
+                                            <seg xml:lang="en">Linear legend of 4 lines.</seg>
+                                            <seg xml:lang="de">Lineare Legende auf 4 Zeilen.</seg>
                                         </rs>
-                                        <p xml:lang="en">Legend of 4 lines.</p>
-                                        <p xml:lang="de">Legende auf 4 Zeilen.</p>
+                                        <p xml:lang="en">Linear legend of 4 lines.</p>
+                                        <p xml:lang="de">Lineare Legende auf 4 Zeilen.</p>
                                     </layout>
                                 </layoutDesc>
                             </objectDesc>
@@ -355,8 +355,6 @@
             </charDecl>
         </encodingDesc>
         <revisionDesc>
-            <change when="2023-10-05" who="#PE">reviewed metadata</change>
-            <change when="2023-06-18" who="#PE">reviewed metadata</change>
             <change when="2023-04-27" who="#PE">Created xml file</change>
         </revisionDesc>
     </teiHeader>
@@ -384,7 +382,8 @@
             <div type="edition" subtype="editorial" xml:space="preserve"> 
                   <div type="textpart" subtype="face" n="obv" rend="linear" xml:lang="grc"> <!--obverse, editorial-->
                       <ab>
-                          <rs type="legendsCases" ref="#gen"><lb n="1"/><supplied reason="lost">Σφρα</supplied> 
+                          <rs type="legendsCases" ref="#gen">
+                         <lb n="1"/><supplied reason="lost">Σφρα</supplied> 
                           <lb n="2" break="no"/>γὶς <persName ref="#basileios-mauros">Βα<supplied reason="lost">σιλεί</supplied>
                           <lb n="3" break="no"/>ου</persName> <rs type="office" subtype="civil" ref="#proedros_001"><expan><abbr>προ<supplied reason="lost">έ</supplied>δ</abbr><supplied reason="lost"><abbr>ρ</abbr><ex>ου</ex></supplied></expan></rs> 
                           <lb n="4"/>καὶ <rs type="office" subtype="civil" ref="#krites_003">κρι
@@ -425,7 +424,7 @@
                   </listApp>
               </div>
             <div type="translation">
-                <p>Σφραγὶς Βασιλείου προέδρου καὶ κριτοῦ / ἐπὶ τοῦ ἱπποδρόμου τοῦ Μαυροῦ.</p>
+                <p>Σφραγὶς Βασιλείου προέδρου καὶ κριτοῦ ἐπὶ τοῦ ἱπποδρόμου τοῦ Μαυροῦ.</p>
                 <p xml:lang="en">Seal of Basileios Mauros, proedros and krites epi tou hippodromou.</p>
                 <p xml:lang="de">Siegel des Basileios Mauros, proedros und krites epi tou hippodromou.</p>
               </div>
@@ -434,19 +433,24 @@
                   <p xml:lang="de"/>
               </div>
             <div type="commentary" subtype="footnotes">
-                <p xml:id="footnote-1">[1]. <bibl><ptr target="PBW"/>, <ref target="http://pbw2016.kdl.kcl.ac.uk/person/Basileios/20221/">Basileios 20221</ref></bibl>.</p>
+                <p xml:id="footnote-1">[1]. <bibl><ptr target="PBW"/>, <citedRange unit="entry"><ref target="http://pbw2016.kdl.kcl.ac.uk/person/Basileios/20221/">Basileios 20221</ref></citedRange></bibl>.</p>
                 <p xml:id="footnote-2">[2]. <bibl><ptr target="DOsealsOnline"/>, <ref target="https://www.doaks.org/resources/seals/byzantine-seals/BZS.1958.106.2105">BZS.1958.106.2105</ref></bibl>; a second parallel specimen (BZS 1958.106.5515) has not yet been published and couldn’t be verified.</p>
               </div>
             <div type="bibliography" subtype="edition">
                   <p/>
               </div>
             <div type="bibliography" subtype="parallels">
-                <p> (1) American Numismatic Society, Mabbott, no. 223 – <bibl><ptr target="LaurentCorpus2"/>, no. <citedRange unit="entry">886</citedRange></bibl> ; (2) American Numismatic Society, Mabbott, no. 333 – <bibl><ptr target="LaurentCorpus2"/>, no. <citedRange unit="entry">886</citedRange></bibl> ; (3) Yambol, Historical Museum, no. 5463 – <bibl><ptr target="JordanovCorpus2"/>, no. <citedRange unit="entry">427</citedRange></bibl>; <bibl><ptr target="JordanovCorpus3"/>, no. <citedRange unit="entry">936</citedRange></bibl>; <bibl><ptr target="Jordanov2002"/>, p. <citedRange unit="page">28-29</citedRange>, no. <citedRange unit="entry">7</citedRange></bibl> ; (4) private collection (V. Vurbanov, Bulgaria) – <bibl><ptr target="JordanovCorpus2"/>, nos. <citedRange unit="entry">428</citedRange></bibl>; <bibl><ptr target="JordanovCorpus3"/>, no. <citedRange unit="entry">937</citedRange></bibl>; <bibl><ptr target="Jordanov2002"/>, p. <citedRange unit="page">28-29</citedRange>, no. <citedRange unit="entry">8</citedRange></bibl> ; (5) private collection (Bulgaria) – <bibl><ptr target="JordanovCorpus2"/>, no. <citedRange unit="entry">429</citedRange></bibl>; <bibl><ptr target="JordanovCorpus3"/>, no. <citedRange unit="entry">938</citedRange></bibl> (in both cases only a mention). (1) and (2) don’t seem to have been struck by the same boulloterion as ours.                   
+                <p> (1) American Numismatic Society, Mabbott, no. 223 – <bibl><ptr target="LaurentCorpus2"/>,<citedRange unit="part"> no. 886</citedRange></bibl> ; 
+                    (2) American Numismatic Society, Mabbott, no. 333 – <bibl><ptr target="LaurentCorpus2"/>, <citedRange unit="part">no. 886</citedRange></bibl> ; (3) Yambol, Historical Museum, no. 5463 – <bibl><ptr target="JordanovCorpus2"/>,  <citedRange unit="part">no. 427</citedRange></bibl>; <bibl><ptr target="JordanovCorpus3"/>,  <citedRange unit="part">no. 936</citedRange></bibl>; <bibl><ptr target="Jordanov2002"/>, <citedRange unit="page">p. 28-29</citedRange>, <citedRange unit="part">no. 7</citedRange></bibl> ; (4) private collection (V. Vurbanov, Bulgaria) – <bibl><ptr target="JordanovCorpus2"/>, <citedRange unit="part">no. 428</citedRange></bibl>; <bibl><ptr target="JordanovCorpus3"/>, <citedRange unit="part">no. 937</citedRange></bibl>; <bibl><ptr target="Jordanov2002"/>,<citedRange unit="page"> p. 28-29</citedRange>, <citedRange unit="part">no. 8</citedRange></bibl> ; (5) private collection (Bulgaria) – <bibl><ptr target="JordanovCorpus2"/>, <citedRange unit="part">no. 429</citedRange></bibl>; <bibl><ptr target="JordanovCorpus3"/>, <citedRange unit="part">no. 938</citedRange></bibl> (in both cases only a mention). (1) and (2) don’t seem to have been struck by the same boulloterion as ours.                   
                   </p>
               </div>
-            <div type="bibliography" subtype="discussion"><!-- if you don't have further bibliography, put this div in a comment-->
-                  <p/>
-              </div>
+            <!--<div type="bibliography" subtype="discussion"> if you don't have further bibliography, put this div in a comment
+                  <p>
+                      <bibl>
+                          <ptr target=""/>, <citedRange unit=""/>
+                      </bibl>
+                  </p>
+              </div>-->
         </body>
     </text>
 </TEI>
