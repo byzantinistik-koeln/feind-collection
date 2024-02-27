@@ -446,7 +446,7 @@
                   
                 <div type="textpart" subtype="face" n="rev" rend="circular" xml:lang="grc"> <!--reverse, diplomatic-->
                       <ab>
-                        <lb n="0"/>   
+                          <lb n="0"/>   
                        <lb n="1"/>.ΗΡ
                            <lb n="2"/>ΔΑτΟ
                             <lb n="3"/>ΣυΠΑΤ
