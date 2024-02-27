@@ -22,7 +22,6 @@
                 <edition>
                     <seg/>
                 </edition>
-                
                 <editor xml:id="SE">Sofia Efthymoglou</editor>
                 <!-- here the editor of the digital edition should be defined. If he/she already appears above as editor of the seal, you can refer to them with a ref attribute and point to the xml:id with a #; if they appear for the first time, you should write a new xml:id as you did above on line 14 and 15. As an example I referred to MF as defined on l. 15 and added a new xml:id for, e.g., Pia-->
             </editionStmt>
