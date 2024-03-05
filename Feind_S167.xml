@@ -250,8 +250,8 @@
                                         </rs>
                                         <p xml:lang="en">Legend of 5 lines, the first line
                                             missing.</p>
-                                        <p xml:lang="de">Legende auf 5 Zeilen, die erste
-                                            Zeile fehlt.</p>
+                                        <p xml:lang="de">Legende auf 5 Zeilen, die erste Zeile
+                                            fehlt.</p>
                                     </layout>
                                 </layoutDesc>
                             </objectDesc>
@@ -404,10 +404,14 @@
             <div type="edition" subtype="editorial" xml:space="preserve"> 
                   <div type="textpart" subtype="face" n="obv" rend="linear" xml:lang="grc"> <!--obverse, editorial-->
                       <ab>
-                          <rs type="legendsCases" ref="#dat"><lb n="1"/><rs type="invocation" ref="#inv004"><supplied reason="lost">+<expan><abbr>K</abbr><ex>ύρι</ex><abbr>ε</abbr></expan> <expan><abbr>β</abbr><ex>οή</ex><abbr>θ</abbr><ex>ει</ex></expan> 
+                          <rs type="legendsCases" ref="#dat">
+                              <lb n="1"/><rs type="invocation" ref="#inv004"><supplied reason="lost">+<expan><abbr>K</abbr><ex>ύρι</ex><abbr>ε</abbr></expan> 
+                                  <expan><abbr>β</abbr><ex>οή</ex><abbr>θ</abbr><ex>ει</ex></expan> 
                               <lb n="2"/>τ</supplied>ῷ σῷ <expan><abbr>δ</abbr><supplied reason="lost"><abbr>ού</abbr><ex>λῳ</ex></supplied></expan></rs>
-                              <lb n="3"/><persName ref="#konstantinos-1"><expan><supplied reason="lost"><abbr>Κ</abbr></supplied><abbr>ων</abbr><ex>σταντίνῳ</ex></expan></persName> <rs type="dignities" ref="#prosospatharios"><expan><ex>πρωτο</ex><abbr>σπ</abbr><supplied reason="lost"><abbr>α
-                          <lb n="4" break="no"/>θ</abbr><ex>αρίῳ</ex></supplied></expan></rs> <rs type="office" subtype="civil" ref="#imp-notarios_002"><expan><abbr>β</abbr><ex>ασιλικῷ</ex></expan> <expan><abbr>ν</abbr><ex>ο</ex><abbr>τ</abbr><ex>αρίῳ</ex></expan> <expan><abbr>τ</abbr><ex>οῦ</ex></expan> 
+                              <lb n="3"/><persName ref="#konstantinos-1"><expan><supplied reason="lost"><abbr>Κ</abbr></supplied><abbr>ων</abbr><ex>σταντίνῳ</ex></expan></persName> 
+                              <rs type="dignities" ref="#prosospatharios"><expan><ex>πρωτο</ex><abbr>σπ</abbr><supplied reason="lost"><abbr>α
+                          <lb n="4" break="no"/>θ</abbr><ex>αρίῳ</ex></supplied></expan></rs> <rs type="office" subtype="civil" ref="#imp-notarios_002"><expan><abbr>β</abbr><ex>ασιλικῷ</ex></expan> 
+                              <expan><abbr>ν</abbr><ex>ο</ex><abbr>τ</abbr><ex>αρίῳ</ex></expan> <expan><abbr>τ</abbr><ex>οῦ</ex></expan> 
                           <lb n="5"/><expan><supplied reason="lost"><abbr>ε</abbr></supplied><abbr>ἰδικ</abbr><ex>οῦ</ex></expan></rs></rs>
                       </ab>
                   </div>

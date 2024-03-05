@@ -10,9 +10,12 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title xml:lang="en">Seal of Aetios protospatharios epi tou chrysotriklinou and krites epi tou hippodromou</title>
-                <title xml:lang="de">Siegel des Aetios protospatharios epi tou chrysotriklinou and krites epi tou hippodromou</title>
-                <title xml:lang="el">Μολυβδόβουλλο του Αετίου, πρωτοσπαθάριος επί του χρυσοτρικλίνου και κριτής επί του ιπποδρόμου</title>
+                <title xml:lang="en">Seal of Aetios protospatharios epi tou chrysotriklinou and
+                    krites epi tou hippodromou</title>
+                <title xml:lang="de">Siegel des Aetios protospatharios epi tou chrysotriklinou and
+                    krites epi tou hippodromou</title>
+                <title xml:lang="el">Μολυβδόβουλλο του Αετίου, πρωτοσπαθάριος επί του χρυσοτρικλίνου
+                    και κριτής επί του ιπποδρόμου</title>
                 <editor xml:id="MC">Maria Teresa Catalano</editor>
                 <editor xml:id="MF">Martina Filosa</editor>
                 <editor xml:id="CS">Claudia Sode</editor>
@@ -22,7 +25,7 @@
                 <edition>
                     <seg/>
                 </edition>
-                
+
                 <editor xml:id="SE">Sofia Efthymoglou</editor>
                 <!-- here the editor of the digital edition should be defined. If he/she already appears above as editor of the seal, you can refer to them with a ref attribute and point to the xml:id with a #; if they appear for the first time, you should write a new xml:id as you did above on line 14 and 15. As an example I referred to MF as defined on l. 15 and added a new xml:id for, e.g., Pia-->
             </editionStmt>
@@ -71,9 +74,10 @@
                     </msIdentifier>
                     <msContents>
                         <summary n="whole">
-                            <seg xml:lang="en">Central administration </seg> 
+                            <seg xml:lang="en">Central administration </seg>
                             <seg xml:lang="de">Zentralverwaltung</seg>
-                            <seg xml:lang="el">Μολυβδόβουλλα αξιωματούχων της κεντρικής διοίκησης </seg>
+                            <seg xml:lang="el">Μολυβδόβουλλα αξιωματούχων της κεντρικής διοίκησης
+                            </seg>
                         </summary>
                         <msItem>
                             <author>
@@ -83,7 +87,8 @@
                                     <seg xml:lang="el"><forename>Αέτιος</forename></seg>
                                     <interp type="milieu" xml:lang="en">Civil</interp>
                                     <interp type="milieu" xml:lang="de">Zivil</interp>
-                                    <interp type="milieu" xml:lang="el">Κρατικό (πεδίο δραστηριοποίησης)</interp>
+                                    <interp type="milieu" xml:lang="el">Κρατικό (πεδίο
+                                        δραστηριοποίησης)</interp>
                                 </roleName>
                             </author>
                         </msItem>
@@ -102,7 +107,8 @@
                                             impression</interp>
                                         <interp type="workType" xml:lang="de">Origineller
                                             Siegelabdruck</interp>
-                                        <interp type="workType" xml:lang="el">Αρχική αποτύπωση</interp>
+                                        <interp type="workType" xml:lang="el">Αρχική
+                                            αποτύπωση</interp>
                                     </objectType>
                                     <material>
                                         <seg xml:lang="en">Lead</seg>
@@ -113,15 +119,19 @@
                                         <dim type="diameter">27</dim>
                                     </dimensions>
                                     <measure type="weight" unit="g">13.3</measure>
-                                    <measure type="axis" unit="clock"></measure>
+                                    <measure type="axis" unit="clock"/>
                                     <measure type="overstrikeOrient" unit="clock"/>
                                     <measure type="channelOrient" unit="clock">6-12 </measure>
                                     <measure type="countermark" unit="clock"/>
                                 </support>
                                 <condition rend="  corroded not-centered ">
-                                    <p xml:lang="en">Dark green patina, corroded, struck off-centre to the top.</p>
-                                    <p xml:lang="de">Dunkelgrüne Patina, korrodiert, oben außermittig angeschlagen.</p>
-                                    <p xml:lang="el"> Πατίνα σκούρη πράσινη χρώματος, διαβρωμένη, η αποτύπωση της σφραγίδας αποκλίνει απο το κέντρο προς τα άνω. </p>
+                                    <p xml:lang="en">Dark green patina, corroded, struck off-centre
+                                        to the top.</p>
+                                    <p xml:lang="de">Dunkelgrüne Patina, korrodiert, oben
+                                        außermittig angeschlagen.</p>
+                                    <p xml:lang="el"> Πατίνα σκούρη πράσινη χρώματος, διαβρωμένη, η
+                                        αποτύπωση της σφραγίδας αποκλίνει απο το κέντρο προς τα άνω.
+                                    </p>
                                 </condition>
                             </supportDesc>
                             <layoutDesc>
@@ -156,7 +166,7 @@
                                     <figDesc n="whole" xml:lang="en"> </figDesc>
                                     <!--only some keywords regarding the iconography, if applicable, e.g. Saint Theodore standing, Bust of the Mother of God -->
                                     <figDesc n="whole" xml:lang="de"> </figDesc>
-                                    <figDesc n="whole" xml:lang="el"></figDesc>
+                                    <figDesc n="whole" xml:lang="el"/>
                                 </figure>
                             </decoNote>
                         </decoDesc>
@@ -180,14 +190,14 @@
                                 <interp type="datingCriteria" xml:lang="de"/>
                             </origDate>-->
                             <!-- for a date range or centuries (NOT BEFORE - NOT AFTER)-->
-                            <origDate type="analysis" notBefore="1041" notAfter="1060" evidence=" epigraphy " 
-                                resp="MC">
+                            <origDate type="analysis" notBefore="1041" notAfter="1060"
+                                evidence=" epigraphy " resp="MC">
                                 <seg xml:lang="en">mid-11th c.</seg>
                                 <seg xml:lang="de">Mitte 11. Jh..</seg>
                                 <seg xml:lang="el">μέσα 11ου αι.</seg>
                                 <interp type="datingCriteria" xml:lang="en">Epigraphy</interp>
                                 <interp type="datingCriteria" xml:lang="de">Epigraphik</interp>
-                                <interp type="datingCriteria" xml:lang="el"> Επιγραφική</interp>                                
+                                <interp type="datingCriteria" xml:lang="el"> Επιγραφική</interp>
                             </origDate>
                             <!-- for an internal date -->
                             <!--<origDate type="internal" when="0001" when-custom="2023" datingMethod="">
@@ -223,9 +233,9 @@
                             <p xml:lang="de"/>
                         </provenance>
                         <acquisition>
-                            <p xml:lang="en"></p>
-                            <p xml:lang="de"></p>
-                            <p xml:lang="el"></p>
+                            <p xml:lang="en"/>
+                            <p xml:lang="de"/>
+                            <p xml:lang="el"/>
                         </acquisition>
                     </history>
                     <msPart n="r">
@@ -261,7 +271,7 @@
                                         </rs>
                                         <p xml:lang="en">Legend of 4 lines.</p>
                                         <p xml:lang="de">Inschrift auf 4 Zeilen.</p>
-                                        <p xml:lang="el">Επιγραφή 4 στίχων.</p> 
+                                        <p xml:lang="el">Επιγραφή 4 στίχων.</p>
                                     </layout>
                                 </layoutDesc>
                             </objectDesc>
@@ -270,7 +280,7 @@
                                     <!--NB: in this field you can refer to epigraphic features on the seal using also AthenaRuby-->
                                     <seg xml:lang="en"/>
                                     <seg xml:lang="de"/>
-                                    <seg xml:lang="de"/> 
+                                    <seg xml:lang="de"/>
                                 </handNote>
                             </handDesc>
                             <decoDesc>
@@ -278,9 +288,16 @@
                                     <figure>
                                         <figDesc n="r" xml:lang="en"/>
                                         <figDesc n="r" xml:lang="de"/>
-                                        <figDesc n="decoR" xml:lang="en">Cross at the beginning of the legend. Below, a decoration consisting of a dot between two dashes. Border of dots.</figDesc>
-                                        <figDesc n="decoR" xml:lang="de">Kreuz am Anfang der Legende. Darunter eine Verzierung, bestehend aus einem Punkt zwischen zwei Strichen. Perlrand.</figDesc>
-                                        <figDesc n="decoR" xml:lang="el">Σταυρός στην αρχή της επιγραφής. Κάτω απο την επιγραφή, διακοσμητικό μοτίβο το οποίο αποτελείται απο μία τελεία ανάμεσα σε δυο παύλες. Στικτό πλαίσιο.</figDesc>
+                                        <figDesc n="decoR" xml:lang="en">Cross at the beginning of
+                                            the legend. Below, a decoration consisting of a dot
+                                            between two dashes. Border of dots.</figDesc>
+                                        <figDesc n="decoR" xml:lang="de">Kreuz am Anfang der
+                                            Legende. Darunter eine Verzierung, bestehend aus einem
+                                            Punkt zwischen zwei Strichen. Perlrand.</figDesc>
+                                        <figDesc n="decoR" xml:lang="el">Σταυρός στην αρχή της
+                                            επιγραφής. Κάτω απο την επιγραφή, διακοσμητικό μοτίβο το
+                                            οποίο αποτελείται απο μία τελεία ανάμεσα σε δυο παύλες.
+                                            Στικτό πλαίσιο.</figDesc>
                                     </figure>
                                 </decoNote>
                             </decoDesc>
@@ -336,9 +353,9 @@
                             <handDesc>
                                 <handNote n="v">
                                     <!--NB: in this field you can refer to epigraphic features on the seal using also AthenaRuby-->
-                                    <seg xml:lang="en"></seg>
+                                    <seg xml:lang="en"/>
                                     <seg xml:lang="de"/>
-                                    <seg xml:lang="el"></seg>
+                                    <seg xml:lang="el"/>
                                 </handNote>
                             </handDesc>
                             <decoDesc>
@@ -346,9 +363,18 @@
                                     <figure>
                                         <figDesc n="v" xml:lang="en"/>
                                         <figDesc n="v" xml:lang="de"/>
-                                        <figDesc n="decoV" xml:lang="en">Above, remnants of a decoration; below, a decoration consisting of a cross between two dashes. Border of dots.</figDesc>
-                                        <figDesc n="decoV" xml:lang="de">Über der Legende Reste einer Verzierung; unterhalb eine Verzierung, die aus einem Kreuz zwischen zwei Strichen besteht. Perlrand.</figDesc>
-                                        <figDesc n="decoV" xml:lang="el">Πάνω απο την επιγραφή, υπολείμματα διακοσμητικού μοτίβου˙ κάτω απο την επιγραφή, διακοσμητικό μοτίβο το οποίο αποτελείται απο ένα σταυρό ανάμεσα σε δύο παύλες. Στικτό πλαίσιο.</figDesc>
+                                        <figDesc n="decoV" xml:lang="en">Above, remnants of a
+                                            decoration; below, a decoration consisting of a cross
+                                            between two dashes. Border of dots.</figDesc>
+                                        <figDesc n="decoV" xml:lang="de">Über der Legende Reste
+                                            einer Verzierung; unterhalb eine Verzierung, die aus
+                                            einem Kreuz zwischen zwei Strichen besteht.
+                                            Perlrand.</figDesc>
+                                        <figDesc n="decoV" xml:lang="el">Πάνω απο την επιγραφή,
+                                            υπολείμματα διακοσμητικού μοτίβου˙ κάτω απο την
+                                            επιγραφή, διακοσμητικό μοτίβο το οποίο αποτελείται απο
+                                            ένα σταυρό ανάμεσα σε δύο παύλες. Στικτό
+                                            πλαίσιο.</figDesc>
                                     </figure>
                                 </decoNote>
                             </decoDesc>
@@ -416,7 +442,7 @@
                   <div type="textpart" subtype="face" n="obv" rend="linear" xml:lang="grc"> <!--obverse, editorial-->
                       
                       <ab><rs type="legendsCases" ref="#dat">
-                            <lb n="1"/><rs type="invocation" ref="#inv004" ><expan><abbr>Κ</abbr><ex>ύρι</ex><abbr>ε</abbr></expan> β<supplied reason="lost">ο</supplied>
+                            <lb n="1"/><rs type="invocation" ref="#inv004"><expan><abbr>Κ</abbr><ex>ύρι</ex><abbr>ε</abbr></expan> β<supplied reason="lost">ο</supplied>
                                  <lb n="2"/>ήθε<supplied reason="lost">ι</supplied> τῷ
                                <lb n="3"/>  σῷ δούλῳ</rs> 
                          <lb n="4"/>   Ἀετίῳ
