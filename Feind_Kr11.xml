@@ -42,7 +42,7 @@
             </publicationStmt>
             <sourceDesc>
                 <listPerson  type="issuer">
-                    <person sex="M" role="military"> <!--gender to be changed as wished; the value of role is imperial civil military aristocracy secular-church monastic civic corporate private undetermined-->
+                    <person gender="M" role="military"> <!--gender to be changed as wished; the value of role is imperial civil military aristocracy secular-church monastic civic corporate private undetermined-->
                         <persName xml:lang="grc">
                             <forname>Νικηφόρος</forname>
                             <surname/>
