@@ -420,7 +420,7 @@
                   </div>
                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
                       <lg met="dodecasyllabic" subtype="true">
-                          <l n="1">
+                          <l n="2">
                               <lb n="4"/><rs type="office" subtype="civil" ref="#kensor_001"><expan>τοῦ κέν
                               <lb n="5" break="no"/><supplied reason="lost">σ</supplied>ορος </expan></rs>
                               <lb n="6 "/><expan><supplied reason="lost">τ</supplied>ῶν</expan> λό
@@ -446,7 +446,7 @@
                 
                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, diplomatic-->
                      <lg met="dodecasyllabic" subtype="true">
-                          <l n="1">
+                          <l n="2">
                               <lb n="0"/>
                               <lb n="4"/>ΤΚΕΝ
                               <lb n="5"/>.Ο̣ΡΟΣ
