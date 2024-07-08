@@ -9,8 +9,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt> 
-                <title xml:lang="en">Webhook</title>
-             <!--   <title xml:lang="en">Seal of N. imperial protospatharios epi tou chrysotriklinou and strategos of Cephalonia and Nikopolis</title> -->
+                <title xml:lang="en">Seal of N. imperial protospatharios epi tou chrysotriklinou and strategos of Cephalonia and Nikopolis</title>
                 <title xml:lang="de">Siegel des N. kaiserlicher protospatharios epi tou chrysotriklinou und strategos von Kefalonia und Nikopolis</title>
                 <editor xml:id="MC">Maria Teresa Catalano</editor>
                 <editor xml:id="MF">Martina Filosa</editor>
