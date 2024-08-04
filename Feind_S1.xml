@@ -372,7 +372,7 @@
             <!--<listPrefixDef>
                 <prefixDef replacementPattern=""/>
             </listPrefixDef>-->
-            <!--<charDecl>
+            <charDecl>
                 <glyph>
                     <charProp>
                         <localName>glyph-display</localName>
@@ -383,7 +383,7 @@
                         <value/>
                     </charProp>
                 </glyph>
-            </charDecl>-->
+            </charDecl>
         </encodingDesc>
         <revisionDesc>
             <change when="2023-08-07" who="#SE">First correction of the XML file according to the new schema.</change>
@@ -414,7 +414,7 @@
                   <div type="textpart" subtype="face" n="obv" rend="linear" xml:lang="grc"> <!--obverse, editorial-->
                       
                       <ab>
-                          <lb n="1"/><g ref="#uniE822"/><rs type="invocation" ref="#inv007"><expan><abbr>Θ</abbr><ex>εοτό</ex><abbr>κε</abbr> </expan>
+                          <lb n="1"/><rs type="invocation" ref="#inv007"><expan><abbr>Θ</abbr><ex>εοτό</ex><abbr>κε</abbr> </expan>
                           <lb n="2"/>βοήθι 
                           <lb n="3"/>τὴν σὴν 
                           <lb n="4"/><expan><abbr>δούλ</abbr><ex>ηv</ex></expan></rs>
