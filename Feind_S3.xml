@@ -427,14 +427,13 @@
     <expan><am>S</am><ex>καὶ</ex></expan>γρα
     <lb n="6" break="no"/>φὰς
 </w>
-<w lemma="Νικηφόρος">
-    <persName type="forename" ref="#nikephoros-2">Νι
+
+    <persName type="forename" ref="#nikephoros-2"><w lemma="Νικηφόρος">Νι
     <lb n="7" break="no"/>κηφό
-    <lb n="8" break="no"/>ρου
+    <lb n="8" break="no"/>ρου</w>
     </persName>
-</w>
 </l>
-                      </>
+                      </lg>
                   </div>
               </div>
             <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"> 
