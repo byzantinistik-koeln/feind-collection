@@ -3,9 +3,9 @@
 <!-- last changed before 1.0 version release 2021-08-02 -->
 <!-- last changed before 1.1 release: 2023-04-12 -->
 
-<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../SigiDoc-Epidoc_schema/tei-epidoc.xsd"
-    xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <!-- schema location for users of the SigiDoc's version of EFES available at https://github.com/SigiDoc/SigiDoc-->
     <teiHeader>
         <fileDesc>
@@ -412,16 +412,16 @@
         <body>
             <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"> <!--change the language code according to the language of your edition, the values (also when combined, e.g. Greek-Latin) are in the guidelines. Same goes for what comes next, textpart etc.-->
                   <div type="textpart" subtype="face" n="obv" rend="linear" xml:lang="grc"> <!--obverse, editorial-->
-                      <lg met="dodecasyllabic" subtype="true"><rs type="legendsCases" ref="#acc">
+                      <lg met="dodecasyllabic">
                           <l n="1"><lb n="1"/>
 <w lemma="λόγος">Λό<lb n="2" break="no"/>γους</w>
 
 <lb n="3"/>
 <w lemma="σφραγίζω">σφρα<lb n="4" break="no"/>γίζω</w></l> 
-                      </rs></l>
+                      </lg>
                   </div>
                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
-                      <lg met="dodecasyllabic" subtype="true">
+                      <lg met="dodecasyllabic">
                           <l n="2"><lb n="5"/>
 <w lemma="καί"> 
     <expan><am>S</am><ex>καὶ</ex></expan>γρα
