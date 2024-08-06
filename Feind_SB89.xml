@@ -426,11 +426,16 @@
                       </div>-->
                 
                 <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc">
-                      <ab><rs type="legendsCases" ref="#gen">
-                          <lb n="1"/>Εὐ
-                              <lb n="2"/>θύμι
-                          <lb n="3"/>ου
-                      </rs></ab>
+                      <ab>
+    <rs type="legendsCases" ref="#gen">
+        <lb n="1"/>
+        <w lemma="Εὐθύμιος">Εὐ
+            <lb n="2"/>θύμι
+            <lb n="3"/>ου
+        </w>
+    </rs>
+</ab>
+
                   </div>
                     </div>
             <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"> 
