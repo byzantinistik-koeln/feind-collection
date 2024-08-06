@@ -58,9 +58,9 @@
                         </settlement>
                         <institution/>
                         <repository/>
-                        <collection xml:lang="en">Robert Feind Collection.</collection>
-                        <collection xml:lang="de">Sammlung Robert Feind.</collection>
-                        <collection xml:lang="el">Συλλογή Robert Feind.</collection>
+                        <collection xml:lang="en">Robert Feind Collection</collection>
+                        <collection xml:lang="de">Sammlung Robert Feind</collection>
+                        <collection xml:lang="el">Συλλογή Robert Feind</collection>
                         <idno>SB-4</idno>
                         <!--to be completed with the actual idno-->
                         <altIdentifier>
