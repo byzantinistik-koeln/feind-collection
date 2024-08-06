@@ -3,9 +3,9 @@
 <!-- last changed before 1.0 version release 2021-08-02 -->
 <!-- last changed before 1.1 release: 2023-04-12 -->
 
-<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../SigiDoc-Epidoc_schema/tei-epidoc.xsd"
-    xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <!-- schema location for users of the SigiDoc's version of EFES available at https://github.com/SigiDoc/SigiDoc-->
     <teiHeader>
         <fileDesc>
@@ -449,15 +449,11 @@
                   </div>
                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
             
-                            <lg met="dodecasyllabic" subtype="true">
-                                 <l n="1">
-                            <rs type="legendsCases" ref="#acc">
-                                <lb n="1"/><expan><abbr>σῴζοι</abbr><ex>ς</ex> </expan>
-                                <lb n="2"/><expan><abbr>πάναγν</abbr><ex>ε</ex></expan>
-                                <lb n="3"/><expan><abbr>Θεό</abbr><supplied reason="lost">δ</supplied><abbr>ωρ</abbr><ex>ον</ex> </expan>
-                                <lb n="4"/><expan><abbr>ο</abbr><supplied reason="lost">ἰ</supplied><abbr>κέτ</abbr><ex>ην</ex></expan>
-                         </rs> 
-                                 </l>
+                            <lg met="dodecasyllable">
+                                <l n="1"><lb n="1"/><expan><abbr>σῴζοι</abbr><ex>ς</ex> </expan>
+                                <lb n="2"/><expan><abbr>πάναγν</abbr><ex>ε</ex></expan></l>
+                                 <l n="2"><lb n="3"/><expan><abbr>Θεό</abbr><supplied reason="lost">δ</supplied><abbr>ωρ</abbr><ex>ον</ex> </expan>
+                                <lb n="4"/><expan><abbr>ο</abbr><supplied reason="lost">ἰ</supplied><abbr>κέτ</abbr><ex>ην</ex></expan></l>
                           </lg>
                                   
                             

@@ -412,7 +412,7 @@
         <body>
             <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"> <!--change the language code according to the language of your edition, the values (also when combined, e.g. Greek-Latin) are in the guidelines. Same goes for what comes next, textpart etc.-->
                   <div type="textpart" subtype="face" n="obv" rend="linear" xml:lang="grc"> <!--obverse, editorial-->
-                      <lg met="dodecasyllabic">
+                      <lg met="dodecasyllable">
                           <l n="1"><lb n="1"/>
 <w lemma="λόγος">Λό<lb n="2" break="no"/>γους</w>
 
@@ -421,10 +421,10 @@
                       </lg>
                   </div>
                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
-                      <lg met="dodecasyllabic">
+                      <lg met="dodecasyllable">
                           <l n="2"><lb n="5"/>
 <w lemma="καί"> 
-    <expan><am>S</am><ex>καὶ</ex></expan>γρα
+    <expan><ex>καὶ</ex></expan> γρα
     <lb n="6" break="no"/>φὰς
 </w>
 
