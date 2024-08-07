@@ -422,12 +422,9 @@
                 <expan>
                     <w lemma="μήτηρ"><abbr>Μ</abbr><ex>ήτη</ex><abbr>ρ</abbr></w>
                 </expan>
-                <cb n="b" />
+                <cb n="b"/>
                 <expan>
-                    <supplied reason="lost">
-                        <w lemma="θεός"><abbr>Θ</abbr><ex>εο</ex><abbr>ῦ</abbr></w>
-                    </supplied>
-                </expan>
+                    <supplied reason="lost"><w lemma="θεός"><abbr>Θ</abbr><ex>εο</ex><abbr>ῦ</abbr></w></supplied></expan>
             </rs>
         </ab> 
     </div>
@@ -435,7 +432,7 @@
     <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc">
         <ab>
             <rs type="legendsCases" ref="#nom">
-                <w lemma="Θηρδάτος"><supplied reason="lost">Θ</supplied>ηρ<lb n="2" break="no"/>δάτο<lb n="3" break="no"/>ς</w>
+                <lb n="1"/><w lemma="Θηρδάτος"><supplied reason="lost">Θ</supplied>ηρ<lb n="2" break="no"/>δάτο<lb n="3" break="no"/>ς</w>
                 <rs type="dignity" ref="#hypatos">
                     <w lemma="ὕπατος">ὕπατ<lb n="4" break="no"/>ος</w>
                 </rs>
@@ -462,49 +459,16 @@
                       </ab>
                   </div>
               </div>
-            <div type="apparatus"> 
-                  <listApp>
-                      <app xml:lang=""/> <!--if you don't need the apparatus, just delete the xml:lang-->
-                  </listApp>
-              </div>
-            <div type="translation">
+                <div type="translation">
                 <p>Θηρδάτος ὕπατος.</p>
                 <p xml:lang="en">Therdatos hypatos.</p>
                 <p xml:lang="de">Therdatos hypatos</p>
                 <p xml:lang="el">Θηρδάτος ύπατος.</p>
               </div>
-            <div type="commentary" subtype="text">
-                <p xml:lang="en"></p> <!--if you have the commentary only in German and would like to show it also in the English page, you should delete the xml:lang-->
-                  <!--<p xml:lang="de">[your commentary here]</p>-->
-              </div>
-            <div type="commentary" subtype="footnotes">
-                <p xml:lang="en"></p> <!--if you have the footnotes only in French and would like to show it also in the English page, you should delete the xml:lang-->
-                
-                
-                <p xml:lang="de">[your footnotes here]</p>
-              </div>
-            <div type="bibliography" subtype="edition">
-                <p> 
-                    
-                        
-<!--                        <ptr target=""/>, <citedRange unit=""/> <!-\-before citedRange add the right abbreviation, e.g. if it's a page, p. etc.-\->
--->                 
-                  </p>
-              </div>
-            <div type="bibliography" subtype="parallels"> <!--if you don't have parallels, put this div in a comment-->
-                  <p>
-                      <bibl>
-<!--                          <ptr target=""/>, <citedRange unit=""/>
--->                      </bibl>
-                  </p>
-              </div>
-            <div type="bibliography" subtype="discussion"> <!--if you don't have further bibliography, put this div in a comment-->
-                  <p>
-                      <!--<bibl>
-                          <ptr target=""/>, <citedRange unit=""/>
-                      </bibl>-->
-                  </p>
-              </div>
+            <div type="commentary" subtype="text"/>
+            <div type="bibliography" subtype="edition"/>
+            <div type="bibliography" subtype="parallels"/>
+            <div type="bibliography" subtype="discussion"/> 
         </body>
     </text>
 </TEI>
