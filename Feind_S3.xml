@@ -410,32 +410,31 @@
     </facsimile>
     <text>
         <body>
-            <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"> <!--change the language code according to the language of your edition, the values (also when combined, e.g. Greek-Latin) are in the guidelines. Same goes for what comes next, textpart etc.-->
-                  <div type="textpart" subtype="face" n="obv" rend="linear" xml:lang="grc"> <!--obverse, editorial-->
-                      <lg met="dodecasyllable">
-                          <l n="1"><lb n="1"/>
-<w lemma="λόγος">Λό<lb n="2" break="no"/>γους</w>
-
-<lb n="3"/>
-<w lemma="σφραγίζω">σφρα<lb n="4" break="no"/>γίζω</w></l> 
-                      </lg>
-                  </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
-                      <lg met="dodecasyllable">
-                          <l n="2"><lb n="5"/>
-<w lemma="καί"> 
-    <expan><ex>καὶ</ex></expan> γρα
-    <lb n="6" break="no"/>φὰς
-</w>
-
-    <persName type="forename" ref="#nikephoros-2"><w lemma="Νικηφόρος">Νι
-    <lb n="7" break="no"/>κηφό
-    <lb n="8" break="no"/>ρου</w>
-    </persName>
-</l>
-                      </lg>
-                  </div>
-              </div>
+    <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc">
+    <div type="textpart" subtype="face" n="obv" rend="linear" xml:lang="grc">
+        <lg met="dodecasyllable">
+            <l n="1">
+                <lb n="1"/>
+                <w lemma="λόγος">Λό<lb n="2" break="no"/>γους</w>
+                <lb n="3"/>
+                <w lemma="σφραγίζω">σφρα<lb n="4" break="no"/>γίζω</w>
+            </l>
+        </lg>
+    </div>
+    <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc">
+        <lg met="dodecasyllable">
+            <l n="2">
+                <lb n="5"/>
+                <w lemma="καί">
+                    <expan><ex>καὶ</ex></expan> γρα<lb n="6" break="no"/>φὰς
+                </w>
+                <persName type="forename" ref="#nikephoros-2">
+                    <w lemma="Νικηφόρος">Νι<lb n="7" break="no"/>κηφό<lb n="8" break="no"/>ρου</w>
+                </persName>
+            </l>
+        </lg>
+    </div>
+</div>            
             <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"> 
                   <div type="textpart" subtype="face" n="obv" rend="linear" xml:lang="grc"> <!--obverse, diplomatic-->
                       <ab> 
@@ -464,19 +463,15 @@
                 <p xml:lang="de">Ich siegele die Wörter und die Schriften des Nikephoros.</p>
                 <p xml:lang="el">Σφραγίζω τους λόγους και τα γράμματα του Νικηφόρου.</p>
               </div>
-            <div type="commentary" subtype="text">
-                  <p xml:lang="en">[your commentary here]</p> <!--if you have the commentary only in German and would like to show it also in the English page, you should delete the xml:lang-->
-                  <p xml:lang="de">[your commentary here]</p>
-              </div>
-            <div type="commentary" subtype="footnotes">
-                  <p xml:lang="en">[your footnotes here]</p> <!--if you have the footnotes only in French and would like to show it also in the English page, you should delete the xml:lang-->
-                  <p xml:lang="de">[your footnotes here]</p>
-              </div>
+            <div type="commentary" subtype="text"/>
+                  
+              
+            <div type="commentary" subtype="footnotes"/>
+                 
+              
             <div type="bibliography" subtype="edition">
                 <p> 
-                    <bibl><ptr target="Feind2010"/>, <citedRange unit="page">p. 165</citedRange>, <citedRange unit="part">nο. 25</citedRange>.
-<!--                        <ptr target=""/>, <citedRange unit=""/> <!-\-before citedRange add the right abbreviation, e.g. if it's a page, p. etc.-\->
--->                      </bibl>
+                    <bibl><ptr target="Feind2010"/>, <citedRange unit="page">p. 165</citedRange>, <citedRange unit="part">nο. 25</citedRange>.</bibl>
                   </p>
               </div>
             <div type="bibliography" subtype="parallels"> <!--if you don't have parallels, put this div in a comment-->
