@@ -418,12 +418,12 @@
             <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang=""> 
                   <div type="textpart" subtype="face" n="obv" rend="circular" xml:lang="grc"> <!--obverse, diplomatic-->
                       <ab>
-                          <lb n="1"/>+ΚΕΟΗθʹτCΔΟυΛ
+                          <lb n="1"/>ΚΕΟΗθʹτCΔΟυΛ
                       </ab>
                   </div>
                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, diplomatic-->
                       <ab>
-                          <lb n="2"/>+.α̣μ.
+                          <lb n="2"/>.α̣μ.
                           <lb n="3"/>.ν̣ο̣ταπη̣
                           <lb n="4"/>ν̣ο̣αμα
                           <lb n="5"/>ρ̣τολο̣
@@ -447,9 +447,9 @@
             <div type="commentary" subtype="footnotes"/>
                   
               
-            <div type="bibliography" subtype="edition">
-                <p><bibl><ptr target="Athens1917"/></bibl></p>
-            </div>
+            <div type="bibliography" subtype="edition"/>
+                
+            
                   
            
             <div type="bibliography" subtype="parallels"/> 
