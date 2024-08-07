@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- last changed before 1.0 version release 2021-08-02 -->
 <!-- last changed before 1.1 release: 2023-04-12 -->
-<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
- xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../SigiDoc-Epidoc_schema/tei-epidoc.xsd"
- xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <!-- schema location for users of the SigiDoc's version of EFES available at https://github.com/SigiDoc/SigiDoc-->
     <teiHeader>
         <fileDesc>
@@ -367,7 +367,8 @@
             </charDecl>
         </encodingDesc>
         <revisionDesc>
-            <change when="2024-03-19" who="#PE">Created xml file</change>
+            <change when="2024-03-20" who="#MF"/>
+            <change when="2024-03-19" who="#PE"/>
         </revisionDesc>
     </teiHeader>
     <facsimile>
@@ -439,22 +440,22 @@
                 <p xml:lang="en">Lord, help your servant Damianos, humble and sinner.</p>
                 <p xml:lang="de">Herr, hilf deinem Diener Damianos, Demütiger und Sünder.</p>
               </div>
-            <div type="commentary" subtype="text">
-                <p xml:lang="en"/><!--if you have the commentary only in German and would like to show it also in the English page, you should delete the xml:lang-->
+            <div type="commentary" subtype="text"/>
+                
                   
-              </div>
-            <div type="commentary" subtype="footnotes">
-                  <p xml:id="footnote-1"/>
-              </div>
+              
+            <div type="commentary" subtype="footnotes"/>
+                  
+              
             <div type="bibliography" subtype="edition">
-                  <p/>
-           </div>
-            <div type="bibliography" subtype="parallels"> <!--if you don't have parallels, put this div in a comment-->
-                <p/>
-              </div>
-            <div type="bibliography" subtype="discussion"> <!--if you don't have further bibliography, put this div in a comment-->
-                  <p/>
+                <p><bibl><ptr target="Athens1917"/></bibl></p>
             </div>
+                  
+           
+            <div type="bibliography" subtype="parallels"/> 
+                
+              
+            <div type="bibliography" subtype="discussion"/> 
         </body>
     </text>
 </TEI>
