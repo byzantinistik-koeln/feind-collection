@@ -274,7 +274,7 @@
                                             <seg xml:lang="el">Εικονογραφία με κυκλοτερή
                                                 επιγραφή.</seg>
                                         </rs>
-                                        <p xml:lang="en">conography with circular
+                                        <p xml:lang="en">Iconography with circular
                                             legend.</p>
                                         <p xml:lang="de">Ikonographie mit umlaufender
                                             Legende</p>
@@ -403,21 +403,6 @@
             <editorialDecl>
                 <p/>
             </editorialDecl>
-            <!--<listPrefixDef>
-                <prefixDef replacementPattern=""/>
-            </listPrefixDef>-->
-            <charDecl>
-                <glyph>
-                    <charProp>
-                        <localName>glyph-display</localName>
-                        <value/>
-                    </charProp>
-                    <charProp>
-                        <localName>text-display</localName>
-                        <value/>
-                    </charProp>
-                </glyph>
-            </charDecl>
         </encodingDesc>
         <revisionDesc>
             <change when="2023-04-25" who="#SE">First correction of the XML file according to the
@@ -445,14 +430,19 @@
     </facsimile>
     <text>
         <body>
-            <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"> <!--change the language code according to the language of your edition, the values (also when combined, e.g. Greek-Latin) are in the guidelines. Same goes for what comes next, textpart etc.-->
+            <div type="edition" subtype="editorial" xml:space="preserve"> <!--change the language code according to the language of your edition, the values (also when combined, e.g. Greek-Latin) are in the guidelines. Same goes for what comes next, textpart etc.-->
                   <div type="textpart" subtype="face" n="obv" rend="circular" xml:lang="grc"> <!--obverse, editorial-->
+                      <ab><rs type="legendsCases" ref="#dat">
+                          <lb n="1"/><rs type="invocation" ref="#inv004" rend="circular"><expan><abbr>Κ</abbr><ex>ύρι</ex><abbr>ε </abbr></expan>βοήθει <supplied reason="lost">τῷ σῷ δούλῳ</supplied></rs>
+                      </rs></ab>
+                  </div>
+                <div type="textpart" subtype="label" n="obv" rend="sigla" xml:lang="la"> <!--obverse, editorial-->
                       <ab><rs type="legendsCases" ref="#dat">
                           <lb n="1"/><rs type="invocation" ref="#inv004" rend="circular"><expan><abbr>Κ</abbr><ex>ύρι</ex><abbr>ε </abbr></expan>βοήθει <supplied reason="lost">τῷ σῷ δούλῳ</supplied></rs>
                           
                       </rs></ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
+                  <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="la-Grek"> <!--reverse, editorial-->
                       <ab>
                           <lb n="2"/><persName type="forename" ref="#Basileios-1"><expan><supplied reason="lost">Βασ</supplied>ιλείῳ</expan></persName>
                           <lb n="3"/><rs type="dignity" ref="#imp-prosospatharios"><supplied reason="lost"><expan><abbr>β</abbr><ex>ασιλικῷ</ex></expan><ex>πρωτο</ex>σπ</supplied>αθ<ex>αρίῳ</ex></rs><ex>καὶ</ex> γε
