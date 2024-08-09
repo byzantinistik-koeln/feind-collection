@@ -389,7 +389,7 @@
                           
                       </ab>
                   </div>
-                      <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="lat"> <!--reverse, editorial-->
+                      <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="la"> <!--reverse, editorial-->
                       <ab>
                           <lb n="3"/>Bon
                           <lb n="4" break="no"/>osu
