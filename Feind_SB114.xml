@@ -5,8 +5,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title xml:lang="de">Siegel des Stephanos ostiarios und chartoularios</title>
-                <title xml:lang="en">Seal of Stephanos ostiarios and chartoularios</title>
+                <title xml:lang="de">Siegel des Konstantinos Potholinos, Geldwechsler</title>
+                <title xml:lang="en">Seal of Konstantinos Potholinos, money-changer</title>
                 <editor role="seal-editor" xml:id="MC">Maria Teresa Catalano</editor>
                 <editor role="seal-editor" xml:id="MF">Martina Filosa</editor>
                 <editor role="seal-editor" xml:id="CS">Claudia Sode</editor>
@@ -27,8 +27,8 @@
             <publicationStmt>
                 <authority>ANR/DFG DigiByzSeal - Unlocking the Hidden Value of Seals: New
                     Methodologies for Historical Research in Byzantine Studies </authority>
-                <idno type="filename">Feind_SB110</idno>
-                <idno type="SigiDocID">s-ql3ilU</idno>
+                <idno type="filename">Feind_SB114</idno>
+                <idno type="SigiDocID">s-yMN8NU</idno>
                 <idno type="sequence"/>
                 <!--what to do with sequence for now?-->
                 <date when="2025-01-02"/>
@@ -39,25 +39,19 @@
                 </availability>
             </publicationStmt>
             <sourceDesc>
-                <!-- alternative between listOrg and listPerson -->
-                <!-- listOrg commented out because it is alternative to listPerson -->
-                <!--<listOrg type="issuer">
-                    <org role="corporate" type="monastic">
-                        <orgName xml:lang="grc">Μονῆς τοῦ Στύλου</orgName>
-                        <orgName xml:lang="fr">Monastère de Stylos</orgName>
-                        <idno type="URI"></idno>
-                    </org>
-                </listOrg>-->
-                <listPerson type="issuer">
+                    <listPerson type="issuer">
                     <person gender="M" role="civil">
                         <persName xml:lang="grc">
-                            <forename>Στέφανος</forename>
+                            <forename>Κωνσταντῖνος</forename>
+                            <surname>Ποθόλινος</surname><!--acut right?-->
                         </persName>
                         <persName xml:lang="de">
-                            <forename>Stephanos</forename>
+                            <forename>Konstantinos</forename>
+                            <surname>Potholinos</surname>
                         </persName>
                         <persName xml:lang="en">
-                            <forename>Stephanos</forename>
+                            <forename>Konstantinos</forename>
+                            <surname>Potholinos</surname>
                         </persName>
                         <!--<idno type="PBW" ana=""></idno>
                         <idno type="PmbZ" ana=""></idno>-->
@@ -83,7 +77,7 @@
                             <!--persname for Robert Feind here necessary? Like in Tatis?-->
                             <rs type="collection-name" xml:lang="de">Sammlung Robert Feind.</rs>
                         </collection>
-                        <idno type="inv-nr-current">SB-110</idno>
+                        <idno type="inv-nr-current">SB-114</idno>
                         <altIdentifier>
                             <repository/>
                             <collection type="private">
@@ -96,8 +90,8 @@
                     </msIdentifier>
                     <msContents>
                         <summary n="whole">
-                            <seg xml:lang="en">Central administration.</seg>
-                            <seg xml:lang="de">Zentralverwaltung</seg>
+                            <seg xml:lang="en">Undetermined</seg>
+                            <seg xml:lang="de">Unbestimmt</seg>
                         </summary>
                     </msContents>
                     <physDesc>
@@ -119,17 +113,17 @@
                                         <seg xml:lang="en">Lead</seg>
                                     </material>
                                     <dimensions type="support" unit="mm">
-                                        <dim type="diameter">22</dim>
+                                        <dim type="diameter">21</dim>
                                     </dimensions>
-                                    <measure type="weight" unit="g">8.5</measure>
+                                    <measure type="weight" unit="g">7.4</measure>
                                     <measure type="axis" unit="clock"/>
                                     <measure type="overstrikeOrient" unit="clock"/>
                                     <measure type="channelOrient" unit="clock">6-12</measure>
                                     <measure type="countermark" unit="clock"/>
                                 </support>
-                                <condition rend="obliterated well-struck">
-                                    <p xml:lang="de">Teilweise abgenutzt auf beiden Seiten.</p>
-                                    <p xml:lang="en">Partially effaced on either side.</p>
+                                <condition rend="obliterated">
+                                    <p xml:lang="de">Eingedrückt auf dem Avers, schwache Prägung.</p>
+                                    <p xml:lang="en">Dented on the obverse, weak imprint.</p>
                                 </condition>
                             </supportDesc>
                             <layoutDesc>
@@ -143,7 +137,7 @@
                                         <seg xml:lang="en">Round</seg>
                                     </rs>
                                     <rs type="matrix" subtype="not-surviving">
-                                        <idno type="SigiDoc">m-dnAheb</idno>
+                                        <idno type="SigiDoc">m-reSHri</idno>
                                         <!--<idno type="PBW" corresp=""></idno>-->
                                     </rs>
                                 </layout>
@@ -155,35 +149,12 @@
                             <origPlace>
                                 <seg xml:lang="en"/>
                             </origPlace>
-                            <!-- possible alternatives for dates:
-                            for a precise year:
-                           
-                            <origDate type="analysis" when="1192" evidence="attached-document"
-                                cert="high" resp="#MF">
-                                <seg xml:lang="en">1192 CE</seg>
-                            </origDate>-->
-                            <!-- for a date range or centuries-->
-                            <origDate type="analysis" notBefore="1001" notAfter="1050"
+                            <origDate type="analysis" notBefore="1051" notAfter="1100"
                                 evidence="epigraphy" cert="high" resp="#MC">
-                                <seg xml:lang="en">11th c., first half.</seg>
-                                <seg xml:lang="de">11. Jh., erste Hälfte.</seg>
+                                <seg xml:lang="en">11th c., second half.</seg>
+                                <seg xml:lang="de">11. Jh., zweite Hälfte.</seg>
                             </origDate>
-                            <!-- for an internal date
-                            <origDate type="internal" notBefore="" notAfter=""
-                                when-custom=""
-                                datingMethod="https://www.wikidata.org/wiki/Q1339127"
-                                evidence="internal-date">
-                                <seg xml:lang="en">Indiction 6, corresponding to the year 692-693
-                                    CE</seg>
-                            </origDate>-->
-                            <!-- <date>
-                                <choice>
-                                    <sic resp="#AS"/>
-                                    <corr resp="#AS" cert="low" evidence="epigraphy decoration"/>
-                                </choice>
-                                <interp type="datingCriteria" xml:lang=""/> now deprecated not discussed with Jan
-                            </date>-->
-                        </origin>
+                            </origin>
                         <provenance type="found" subtype="discovered">
                             <placeName type="ancientFindspot" ref="URI" xml:lang=""/>
                             <placeName type="modernFindspot" ref="URI" xml:lang=""/>
@@ -238,15 +209,9 @@
                                 <decoNote>
                                     <figure>
                                         <figDesc n="r" xml:lang="en"
-                                            ana="female person Virgin Christ bust child">Bust of the
-                                            Mother of God holding the Child on her left arm
-                                            (Hodegetria). Details indistinct. Traces of a sigla on
-                                            either side.</figDesc>
+                                            ana="2-persons male saint St-Peter St-Paul standing">Two standing saints (Peter and Paul?). Details indistinct. Traces of a legend at right.</figDesc>
                                         <figDesc n="r" xml:lang="de"
-                                            ana="female person Virgin Christ bust child">Büste der
-                                            Muttergottes, die das Christuskind auf dem linken Arm
-                                            hält (Hodegetria). Details undeutlich. Reste von Siglen
-                                            auf beiden Seiten erkennbar.</figDesc>
+                                            ana="2-persons male saint St-Peter St-Paul standing">Zwei stehende Heilige (Petrus und Paulus?). Details undeutlich. Reste einer Legende auf der rechten Seite.</figDesc>
                                         <figDesc n="decoR" xml:lang="en">Border of dots.</figDesc>
                                         <figDesc n="decoR" xml:lang="de">Perlrand</figDesc>
                                     </figure>
@@ -299,11 +264,8 @@
                                 <decoNote>
                                     <figure>
                                         <!--<figDesc n="v" xml:lang="en" ana=""/>-->
-                                        <figDesc n="decoV" xml:lang="en">The last line is between
-                                            two dashes (preserved at right). Border of dots.</figDesc>
-                                        <figDesc n="decoV" xml:lang="de">Die letzte Zeile ist
-                                            zwischen zwei Zierlinien (auf der rechten Seite
-                                            erhalten). Perlrand.</figDesc>
+                                        <figDesc n="decoV" xml:lang="en">Cross at the beginning of the legend. The last line ist between two dots. Above the legend, a decoration consists of a dash and a dot. Border of dots.</figDesc>
+                                        <figDesc n="decoV" xml:lang="de">Kreuz am Anfang der Legende. Die letzte Zeile ist zwischen zwei Punkten. Oberhalb der Legende ist eine Dekoration aus einer Zierlinie und einem Punkt. Perlrand.</figDesc>
                                     </figure>
                                 </decoNote>
                             </decoDesc>
@@ -321,26 +283,26 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
-            <change when="2025-01-02" who="#PE">Created xml file</change>
+            <change when="2025-01-03" who="#PE">Created xml file</change>
         </revisionDesc>
     </teiHeader>
     <facsimile>
         <surfaceGrp>
             <surface n="r">
                 <desc>Obverse</desc>
-                <graphic url="SB_110a.jpg" type="photo">
+                <graphic url="SB_114a.jpg" type="photo">
                     <desc>Digital image of the obverse (2024).</desc>
                 </graphic>
-                <graphic url="SB_110a.jpg" type="RTI">
+                <graphic url="SB_114a.jpg" type="RTI">
                     <desc>RTI image of the obverse (2024).</desc>
                 </graphic>
             </surface>
             <surface n="v">
                 <desc>Reverse</desc>
-                <graphic url="SB_110b.jpg" type="photo">
+                <graphic url="SB_114b.jpg" type="photo">
                     <desc>Digital image of the reverse (2024).</desc>
                 </graphic>
-                <graphic url="SB_110b.jpg" type="RTI">
+                <graphic url="SB_114b.jpg" type="RTI">
                     <desc>RTI image of the reverse (2024).</desc>
                 </graphic>
             </surface>
@@ -349,52 +311,45 @@
     <text>
         <body>
             <div type="edition" subtype="editorial" xml:space="preserve">
-                  <div type="textpart" n="obv" subtype="sigla" rend="columns" xml:lang="grc">
+                  <div type="textpart" n="obv" subtype="label" rend="columns" xml:lang="grc">
                       <ab/>
                   </div>
-                  <div type="textpart" n="rev" subtype="face" rend="linear" xml:lang="grc"><!--ostiarios both dignity and office-->
-                      <ab ana="dat nom">
-                          <lb n="1"/><expan><abbr><supplied reason="lost">Σ</supplied>τέφ
-                          <lb n="2" break="no"/>α<supplied reason="lost">ν</supplied>ο</abbr><ex>ς</ex></expan> <rs type="office" subtype="civil" ref="#of0152"><rs type="dignity" ref="#d0041"><expan><abbr>ὠστ
-                          <lb n="3" break="no"/><supplied reason="lost">ι</supplied>ά<supplied reason="lost">ρι</supplied>ο</abbr><ex>ς</ex></expan></rs></rs> <expan><abbr><am>S</am></abbr><ex>καί</ex></expan> <rs type="office" subtype="civil" ref="#of0193">χαρ
-                          <lb n="4" break="no"/>του<supplied reason="lost">λ</supplied>άρ
-                          <lb n="5" break="no"/>ηος</rs>
+                  <div type="textpart" n="rev" subtype="face" rend="linear" xml:lang="grc">
+                      <ab ana="dat">
+                          <lb n="1"/><rs type="invocation" ref="#inv003"><expan><abbr>Κ</abbr><ex>ύρι</ex><abbr>ε</abbr></expan> <expan><abbr>β</abbr><ex>οή</ex><abbr>θ</abbr><ex>ει</ex></expan></rs> 
+                          <lb n="2"/><expan><abbr>Κων</abbr><ex>σταντίνῳ</ex></expan> <rs type="office" subtype="civil" ref="#of0190"><expan><abbr>τρα
+                          <lb n="3" break="no"/>πεζίτ</abbr><ex>ῃ</ex></expan></rs> το 
+                          <lb n="4"/>Ποθολί
+                          <lb n="5" break="no"/>νο
                       </ab>
                   </div>
               </div>
             <div type="edition" subtype="diplomatic" xml:space="preserve">
-                  <div type="textpart" subtype="sigla" n="obv" rend="columns" xml:lang="grc">
+                  <div type="textpart" subtype="label" n="obv" rend="columns" xml:lang="grc">
                       <ab/>
                   </div>
                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc">
                       <ab>
-                          <lb n="1"/>.ΤΕΦ
-                          <lb n="2"/>Α.ΟCT
-                          <lb n="3"/>.Ạ..OSΧΑΡ̣
-                          <lb n="4"/>ΤΟ̣Υ.ΑΡ
-                          <lb n="5"/>hΟΣ
+                         <lb n="0"/>·
+                          <lb n="1"/>+ΚΕΒΘ,
+                          <lb n="2"/>Κ̅ν̅ΤΡΑ
+                          <lb n="3"/>ΠΕΙΤ,ΤΟ
+                          <lb n="4"/>ΠΟΘΟΛΙ̣
+                          <lb n="5"/>NO
                       </ab>
                   </div>
               </div>
             <div type="translation">
-                <p>Στέφανος ὠστιάριος καὶ χαρτουλάρηος.</p>
-                <p xml:lang="en">Stephanos ostiarios and chartoularios.</p>
-                <p xml:lang="de">Stephanos ostiarios und chartoularios.</p>
+                <p>Κύριε βοήθει Κωνσταντίνῳ τραπεζίτῃ το Ποθολινο.</p>
+                <p xml:lang="en">Lord, help Konstantinos Potholinos, money-changer.</p>
+                <p xml:lang="de">Herr, hilf Konstantinos Potholinos, Geldwechsler.</p>
             </div>
             <div type="commentary" subtype="text">
-                <p xml:lang="en">The legend can be interpreted in two distinct ways. One possibility
-                    is that both the dative (Stephanos and ostiarios, written with an omicron) and
-                    the nominative (chartoularios) are mixed in the text. An alternative
-                    interpretation is that the nominative is used throughout, with the name and the
-                    title of the issuer written without the sigma, i.e. abbreviated.</p>
+                <p xml:lang="en"/>
             </div>
-            <!--<div type="bibliography" subtype="parallels">
-                <p>
-                    <bibl>
-                        <ptr target="xxx"/>, <citedRange unit="page"/>
-                    </bibl>
-                </p>
-            </div>-->
+            <div type="bibliography" subtype="parallels">
+                <p><bibl><ptr target="DOsealsOnline"/>, <citedRange unit="entry"><ref target="https://www.doaks.org/resources/seals/byzantine-seals/BZS.1955.1.3267/view">BZS.1955.1.3267</ref></citedRange></bibl>.</p>
+            </div>
         </body>
     </text>
 </TEI>

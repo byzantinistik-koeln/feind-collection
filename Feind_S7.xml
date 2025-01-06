@@ -476,7 +476,7 @@
                 
               </div>
             <div type="bibliography" subtype="parallels">
-                <p>Tatis Collection, nο. 3021 –<bibl> <ptr target="CheynetTatış"/>, <citedRange unit="page">p.196</citedRange>, <citedRange unit="part">nο. 5.13</citedRange>,  museum invetory nο. <citedRange unit="entry">3021</citedRange>. </bibl>                
+                <p>Tatis Collection, nο. 3021 – <bibl> <ptr target="CheynetTatış"/>, <citedRange unit="page">p.196</citedRange>, <citedRange unit="part">nο. 5.13</citedRange>,  museum invetory nο. <citedRange unit="entry">3021</citedRange>. </bibl>                
                     <bibl> <!-- <ptr target=""/>, <citedRange unit=""/> <!-\-before citedRange add the right abbreviation, e.g. if it's a page, p. etc.-\->
 -->                      </bibl>
                 </p>
