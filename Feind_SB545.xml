@@ -366,6 +366,7 @@
             </charDecl>
         </encodingDesc>
         <revisionDesc>
+            <change when="2025-01-15" who="#PE">updated interpretive edition according to the new schema and authority files</change>
             <change when="2023-08-03" who="#PE">Created xml file</change>
         </revisionDesc>
     </teiHeader>
@@ -395,11 +396,11 @@
                       <ab/>
                   </div>
                       <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
-                      <ab>
+                      <ab ana="gen">
                           <lb n="1"/><supplied reason="lost">Εὐστ</supplied>
                           <lb n="2"/>αθί<supplied reason="lost">ου</supplied> 
-                          <lb n="3"/>ἐπισκ
-                          <lb n="4" break="no"/>όπου
+                          <lb n="3"/><rs type="office" subtype="ecclesiastical" ref="#of0206">ἐπισκ
+                          <lb n="4" break="no"/>όπου</rs>
                       </ab>
                   </div>
               </div>

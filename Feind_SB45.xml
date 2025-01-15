@@ -424,8 +424,8 @@
                       </ab>
                   </div>
                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
-                      <ab>
-                            <rs type="legendsCases" ref="#dat">
+                      <ab ana="dat">
+                            
                           <lb n="1"/><rs type="invocation" ref="#inv001"><expan><abbr>Θ</abbr><ex>εοτόκε</ex></expan><expan> <abbr>β</abbr><ex>οή</ex><abbr>θ</abbr><ex>ει</ex></expan></rs>
                                    <lb n="2"/><supplied reason="lost">Θ</supplied>εοδώρῳ 
                                        <lb n="3"/><rs type="dignity" ref="#magistros"><supplied reason="lost">μ</supplied>αγίστρῳ</rs> 
@@ -433,7 +433,6 @@
                                        <lb n="5"/><rs type="office" subtype="military" ref="#droug_002"><supplied reason="lost"><ex>καὶ</ex></supplied><expan><abbr>δρουγγαρ</abbr><ex>ίῳ</ex></expan>
                                        <lb n="6"/>τῆς <expan><abbr>βί
                                        <lb n="7" break="no"/>γλ</abbr><ex>ας</ex></expan></rs>
-                            </rs>
                             </ab>
                   </div>
               </div>

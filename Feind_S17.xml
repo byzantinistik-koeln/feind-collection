@@ -413,12 +413,12 @@
             <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"> <!--change the language code according to the language of your edition, the values (also when combined, e.g. Greek-Latin) are in the guidelines. Same goes for what comes next, textpart etc.-->
                   <div type="textpart" subtype="face" n="obv" rend="linear" xml:lang="grc"> <!--obverse, editorial-->
                       
-                      <ab><rs type="legendsCases" ref="#dat">
+                      <ab ana="dat">
                           <lb n="1"/><rs type="invocation" ref="#inv004"><expan><supplied reason="lost"><abbr>Κ</abbr><ex>ύρι</ex></supplied><abbr>ε</abbr></expan> <supplied reason="lost">βο
                          <lb n="2" break="no"/>ή</supplied>θη τῷ 
                            <lb n="3"/> <supplied reason="lost">σ</supplied>ῷ <expan><abbr>δού</abbr><ex>λῳ</ex></expan> </rs><expan><abbr>Μ
                        <lb n="4" break="no"/><supplied reason="lost">α</supplied>ριάν</abbr><ex>ῳ</ex></expan>
-                      </rs></ab>
+                      </ab>
                   </div>
                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
                       <ab>

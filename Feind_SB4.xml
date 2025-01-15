@@ -425,10 +425,10 @@
                       </div>
                 
                 <div type="textpart" subtype="face" n="obv" rend="circular" xml:lang="grc">
-                      <ab><rs type="legendsCases" ref="#dat">
+                      <ab ana="dat">
                           <lb n="1"/>Σφραγὶ<ex>ς</ex> σῷζ<ex>ε</ex> τῷ <persName type="attested" ref="#michael-lazaritzes"><name type="forename"><expan><abbr>Μι</abbr><ex>χαὴλ</ex> </expan></name><name type="surname">Λαζαρ<ex>ί</ex>τζι</name></persName>
                               
-                      </rs></ab>
+                      </ab>
                   </div>
                   <div type="textpart" subtype="sigla" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
                       <ab>

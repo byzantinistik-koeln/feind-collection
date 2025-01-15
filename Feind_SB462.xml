@@ -404,7 +404,7 @@
                       <ab/>
                   </div>
                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial--><!--omitted so korrekt?-->
-                      <ab>
+                      <ab ana="gen">
                           <lb n="1"/>Σε<supplied reason="omitted">ρ</supplied>
                           <lb n="2" break="no"/>γίου
                          </ab>

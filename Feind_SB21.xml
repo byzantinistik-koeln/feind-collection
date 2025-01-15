@@ -446,10 +446,8 @@
                       </ab>
                            </div>
                 <div type="textpart" subtype="face" n="obv" rend="circular" xml:lang="grc">
-                         <ab>
-                    <rs type="legendsCases" ref="#dat">
-                          <lb n="1"/><rs type="invocation" ref="#inv004"><expan><abbr>Κ</abbr><ex>ύρι</ex><abbr>ε</abbr> </expan><expan><abbr>β</abbr><supplied reason="lost"><ex>οή</ex>θ<ex>ει</ex></supplied></expan> τῷ <supplied reason="lost">σ</supplied>ῷ δούλῳ</rs>
-                          </rs>
+                         <ab ana="dat">
+                     <lb n="1"/><rs type="invocation" ref="#inv004"><expan><abbr>Κ</abbr><ex>ύρι</ex><abbr>ε</abbr> </expan><expan><abbr>β</abbr><supplied reason="lost"><ex>οή</ex>θ<ex>ει</ex></supplied></expan> τῷ <supplied reason="lost">σ</supplied>ῷ δούλῳ</rs>
                       </ab>
                    
                   </div>

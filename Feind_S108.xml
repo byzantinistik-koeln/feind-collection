@@ -421,13 +421,11 @@
                   </div>
                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--obverse, editorial-->
                       
-                      <ab>
-                                  <rs type="legendsCases" ref="#dat">
-                             <lb n="4"/>Ἰωά
+                      <ab ana="dat">
+                                                               <lb n="4"/>Ἰωά
                               <lb n="5"/>ννη <rs type="dignity" ref="#hypatos">ὑπ
                               <lb n="6"/>άτω</rs>
                          
-                     </rs>
                       </ab>
                   </div>
               </div>

@@ -423,12 +423,11 @@
                       </ab>
                   </div>
                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
-                      <ab> <rs  type="legendsCases" ref="#dat">
+                      <ab ana="dat"> 
                           <lb n="4"/>Σερ
                           <lb n="5" break="no"/>γίῳ πα
                           <lb n="6" break="no"/>τρικί
                           <lb n="7" break="no"/>ω
-                        </rs>
                       </ab>
                   </div>
               </div>

@@ -419,13 +419,12 @@
                       </ab>
                   </div>
                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
-                      <ab> 
-                         <rs type="legendsCases" ref="#dat">
+                      <ab ana="dat"> 
+                         
                              <lb n="4"/><persName type="forename" ref="#theodoros-2">Θεο
                              <lb n="5" break="no"/>δώρῳ </persName>
                              <lb n="6"/>ἀπὸ ἐπά
                              <lb n="7" break="no"/>ρχων
-                         </rs>
                       </ab>
                   </div>
               </div>
