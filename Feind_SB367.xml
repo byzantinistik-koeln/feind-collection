@@ -241,7 +241,7 @@
                                 <!--if the language changes, also the value of mainLang should change accordingly-->
                                 <seg xml:lang="en">Greek</seg>
                                 <seg xml:lang="de">Griechisch</seg>
-                                <seg xml:lang="el">Μεσαιωνική ελληνική γλώσσα</seg>
+                                <seg xml:lang="el">Μεσαιωνική ελληνική γλώσσα.</seg>
                             </textLang>
                         </msContents>
                         <physDesc>
@@ -310,7 +310,7 @@
                                 <!--if the language changes, also the value of mainLang should change accordingly-->
                                 <seg xml:lang="en">Greek</seg>
                                 <seg xml:lang="de">Griechisch</seg>
-                                <seg xml:lang="el">Μεσαιωνική ελληνική γλώσσα</seg>
+                                <seg xml:lang="el">Μεσαιωνική ελληνική γλώσσα.</seg>
                             </textLang>
                         </msContents>
                         <physDesc>
@@ -391,6 +391,7 @@
         </encodingDesc>
         <revisionDesc>
             <change when="2023-07-29" who="#SE">First encoding of the seal.</change>
+            <change when="2024-06-04" who="#SE">Corrections according to the new schema.</change>
         </revisionDesc>
     </teiHeader>
     <facsimile>
@@ -419,7 +420,7 @@
                       
                       <ab>
                          
-                     <cb n="a"/><rs type="saintsTerm" subtype="sigla" ref="#st-demetrios">Ο <expan><abbr>ἅ</abbr><ex>γιος</ex></expan>Δημή
+                     <cb n="a"/><rs type="saintsTerm" subtype="sigla" ref="#st-demetrios">Ο <expan><abbr>ἅ</abbr><ex>γιος</ex></expan> Δημή
                          <cb n="b"/><supplied reason="lost">τριος</supplied></rs>
                       </ab>
                   </div>
@@ -427,7 +428,7 @@
                       <ab>
                             <rs type="legendsCases" ref="#gen">
                           <lb n="1"/><supplied reason="lost">Σ</supplied>φραγὶς 
-                                <lb n="2"/><supplied reason="lost">᾿Αλ</supplied>εξίου 
+                                <lb n="2"/>᾿<supplied reason="lost">Αλ</supplied>εξίου 
                                 <lb n="3"/><rs type="dignity" ref="#sebastos"><supplied reason="lost">σεβ</supplied>αστοῦ </rs>
                                 <lb n="4"/><supplied reason="lost">τοῦ</supplied><rs type="office" subtype="military" ref="#protostrator_001"><expan><abbr>πρωτο
                                 <lb n="5" break="no"/><supplied reason="lost">στ</supplied>ράτορο</abbr><ex>ς</ex></expan></rs>
@@ -460,19 +461,19 @@
                   </listApp>
               </div>
             <div type="translation">
-                <p>῾Ο ἅγιος Δημήτριος/ Σφραγὶς ᾿Αλεξίου σεβαστοῦ τοῦ πρωτοστράτορος.</p>
+                <p>῾Ο ἅγιος Δημήτριος/ Σφραγὶς᾿Αλεξίου σεβαστοῦ τοῦ πρωτοστράτορος.</p>
                 <p xml:lang="en">St. Demetrius. Seal of Alexios sebastos and protostrator.</p>
                 <p xml:lang="de">Hl. Demetrius Siegel des Alexios sebastos und protostrator. </p>
                 <p xml:lang="el">Ο άγ. Δημήτριος. Σφραγίδα του Αλεξίου σεβαστού και πρωτοστράτορα.</p>
               </div>
             <div type="commentary" subtype="text">
-                <p xml:lang="en">The seal is usually attributed to Alexios Axouchos[1],  son of the megadomestikos Ioannes Axouchos, and doux of Kilikia in 1165. </p> <!--if you have the commentary only in German and would like to show it also in the English page, you should delete the xml:lang-->
+                <p xml:lang="en">The seal is usually attributed to Alexios Axouchos (PBW Alexios 17004),  son of the megadomestikos Ioannes Axouchos, and doux of Kilikia in 1165. </p> <!--if you have the commentary only in German and would like to show it also in the English page, you should delete the xml:lang-->
                   <p xml:lang="de">[your commentary here]</p>
               </div>
             <div type="commentary" subtype="footnotes">
-                <p xml:id="footnote-1">[1].  <bibl><ptr target="PBW"/> <citedRange unit="entry"><ref target="http://pbw2016.kdl.kcl.ac.uk/person/Alexios/17004/">Alexios 17004</ref></citedRange></bibl>.
+                <!--<p xml:id="footnote-1">[1].  <bibl><ptr target="PBW"/> <citedRange unit="entry"><ref target="http://pbw2016.kdl.kcl.ac.uk/person/Alexios/17004/">Alexios 17004</ref></citedRange></bibl>.
                     
-                </p><!--if you have the footnotes only in French and would like to show it also in the English page, you should delete the xml:lang-->
+                </p>--><!--if you have the footnotes only in French and would like to show it also in the English page, you should delete the xml:lang-->
                   <p xml:lang="de">[your footnotes here]</p>
               </div>
             <div type="bibliography" subtype="edition">
@@ -485,17 +486,17 @@
             <div type="bibliography" subtype="parallels"> <!--if you don't have parallels, put this div in a comment-->
                   <p>
                       <bibl><ptr target="DOsealsOnline"/><citedRange unit="entry">, <ref target="https://www.doaks.org/resources/seals/byzantine-seals/BZS.1951.31.5.486/view">BZS.1951.31.5.486 </ref>(Zacos Collection)</citedRange> </bibl> – <bibl><ptr target="Zacos1"/>, <citedRange unit="part">no. 2731bis</citedRange></bibl>;
-                      <bibl><ptr target="LaurentMélanges1"/>, <citedRange unit="page">p. 433-434</citedRange>, <citedRange unit="part">no. 6</citedRange></bibl>;
-                      <bibl><ptr target="Laurent1931"/>,<citedRange unit="part"> no. 572</citedRange>.</bibl>
+                      <bibl><ptr target="Laurent1932b"/>, <citedRange unit="page">p. 433-434</citedRange>, <citedRange unit="part">no. 6</citedRange></bibl>;
+                      <bibl><ptr target="Laurent1931b"/>,<citedRange unit="part"> no. 572</citedRange>.</bibl>
                      
                   </p>
               </div>
             <div type="bibliography" subtype="discussion"> <!--if you don't have further bibliography, put this div in a comment-->
-                  <p>
+                  <!--<p>-->
                       <!--<bibl>
                           <ptr target=""/>, <citedRange unit=""/>
                       </bibl>-->
-                  </p>
+                  <!--</p>-->
               </div>
         </body>
     </text>

@@ -11,7 +11,7 @@
         <fileDesc>
             <titleStmt>
                 <title xml:lang="en">Seal of Theodoros palatinos</title>
-                <title xml:lang="de">Siegel des Theodoros Palatinos</title>
+                <title xml:lang="de">Siegel des Theodoros palatinos</title>
                 <title xml:lang="el">Μολυβδόβουλλο του Θεοδώρου παλατίνου</title>
                 <editor xml:id="MC">Maria Teresa Catalano</editor>
                 <editor xml:id="MF">Martina Filosa</editor>
@@ -445,9 +445,9 @@
                   </div>
                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
                       <ab>
-                          <lb n="4"/>παλ
+                          <lb n="4"/><rs type="office" subtype="civil" ref="#palatinos_001">παλ
                             <lb n="5" break="no"/> ατίν
-                            <lb n="6" break="no"/>ου
+                            <lb n="6" break="no"/>ου</rs>
                           
                       </ab>
                   </div>
@@ -479,7 +479,7 @@
                 <p>Θεοδώρου/ παλατίνου.</p>
                 <p xml:lang="en">(Seal) of Theodoros palatinos.</p>
                 <p xml:lang="de">(Siegel) des Theodoros palatinos.</p>
-                <p xml:lang="el">(Σφραγίδα) του Θεόδωρου παλατινού.</p>
+                <p xml:lang="el">(Σφραγίδα) του Θεόδωρου παλατίνου.</p>
               </div>
             <div type="commentary" subtype="text">
                 <p xml:lang="en">The seal issuer[1] is known from this seal type. </p> <!--if you have the commentary only in German and would like to show it also in the English page, you should delete the xml:lang-->

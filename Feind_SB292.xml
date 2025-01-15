@@ -477,7 +477,7 @@
                      <ab>
                           
 
-                          <lb n="0"/>
+                          <lb n="0"/>  
                               <lb n="1"/>+ΝΙΚΗ
                                <lb n="2"/>.Α.ẠγΝΗ
                                <lb n="3"/>χΑρτοφY
@@ -513,15 +513,15 @@
                   <p xml:lang="de"/>
               </div>
             <div type="bibliography" subtype="edition">
-                  <p>
+               <!--   <p>-->
                      <!--before citedRange add the right abbreviation, e.g. if it's a page, p. etc.-->
                  
-                  </p>
+                  <!--</p>-->
               </div>
             <div type="bibliography" subtype="parallels"> <!--if you don't have parallels, put this div in a comment-->
-                <p>  
+               <!-- <p>  -->
                     
-                  </p>
+                  <!--</p>-->
               </div>
             <!--<div type="bibliography" subtype="discussion"> <!-\-if you don't have further bibliography, put this div in a comment-\->
                   <p>

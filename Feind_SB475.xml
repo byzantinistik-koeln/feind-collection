@@ -84,7 +84,7 @@
                                     <interp type="milieu" xml:lang="en">Μonastic</interp>
                                     <interp type="milieu" xml:lang="de">Μonastic</interp>
                                     <interp type="milieu" xml:lang="el">Μοναστικό (πεδίο
-                                        δραστηριοποίησης)</interp>
+                                        δραστηριοποίησης).</interp>
                                 </roleName>
                             </author>
                         </msItem>
@@ -121,11 +121,10 @@
                                     <measure type="countermark" unit="clock"/>
                                 </support>
                                 <condition rend=" not-centered obliterated ">
-                                    <p xml:lang="en">Grey patina, struck off-centre to the top,
+                                    <p xml:lang="en">Struck off-centre to the top,
                                         weakly imprinted.</p>
-                                    <p xml:lang="de">Graue Patina, außermittig nach oben geschlagen, schwach eingeprägt.</p>
-                                    <p xml:lang="el"> Πατίνα γκριζωπού χρώματος, χτυπημένη εκτός
-                                        κέντρου με κατεύθυνση προς τα άνω; η αποτύπωση είναι
+                                    <p xml:lang="de">Außermittig nach oben geschlagen, schwach eingeprägt.</p>
+                                    <p xml:lang="el"> Χτυπημένη εκτός κέντρου με κατεύθυνση προς τα άνω˙ η αποτύπωση είναι
                                         αχνή.</p>
                                 </condition>
                             </supportDesc>
@@ -365,7 +364,7 @@
                                             the legend. Above, a partially preserved decoration
                                             consisting of a dot between two dashes. Border of
                                             dots.</figDesc>
-                                        <figDesc n="decoV" xml:lang="de">Kreuz am Anfang der Legende. Oben eine teilweise erhaltene Verzierung, bestehend aus einem Punkt zwischen zwei Strichen. Perlrand</figDesc>
+                                        <figDesc n="decoV" xml:lang="de">Kreuz am Anfang der Legende. Oben eine teilweise erhaltene Verzierung, bestehend aus einem Punkt zwischen zwei Strichen. Perlrand.</figDesc>
                                         <figDesc n="decoV" xml:lang="el"> Σταυρός στην αρχή της
                                             επιγραφής. Πάνω απο την επιγραφή διατηρείται εν μέρει
                                             διακοσμητικό μοτίβο το οποίο αποτελείται από μία τελεία
@@ -410,6 +409,7 @@
         </encodingDesc>
         <revisionDesc>
             <change when="2023-07-11" who="#SE">First encoding of the seal</change>
+            <change when="2024-06-04" who="#SE">Corrections after the new schema</change>
         </revisionDesc>
     </teiHeader>
     <facsimile>
@@ -442,7 +442,7 @@
                           
                           <rs type="legendsCases" ref="#dat">
                               
-                              <lb n="1"/><rs type="invocation" ref="#inv004"><expan><abbr>Κ</abbr><ex>ύρι</ex><abbr>ε</abbr></expan>, <expan><abbr>β</abbr><ex>οή</ex><abbr>θ</abbr><ex>ει</ex> </expan>
+                              <lb n="1"/>+<rs type="invocation" ref="#inv004"><expan><abbr>Κ</abbr><ex>ύρι</ex><abbr>ε</abbr></expan>, <expan><abbr>β</abbr><ex>οή</ex><abbr>θ</abbr><ex>ει</ex> </expan>
                                    <lb n="2"/>τῷ σῷ <expan><abbr>δού</abbr><ex>λῳ</ex></expan></rs>
                                    <lb n="3"/>Καλινῖ
                                    <lb n="4" break="no"/>κo <rs type="office" subtype="ecclesiastical" ref="#monk_001"><expan><abbr>μον</abbr><ex>α</ex>
@@ -458,8 +458,8 @@
                 
                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, diplomatic-->
                     <ab>
-                              <lb n="0"/>
-                              <lb n="1"/>+ΚΕRθ,
+                              <lb n="0"/> 
+                              <lb n="1"/>ΚΕRθ,
                               <lb n="2"/>TΣΔ
                               <lb n="3"/>KAΛINI
                               <lb n="4"/>KΟMON
@@ -480,27 +480,27 @@
                 <p xml:lang="de">Herr, hilf deinem Diener Kallinikos monachos.</p>
                 <p xml:lang="el">Κύριε βοήθησε τον δούλο σου Καλλίνικο μοναχό.</p>
               </div>
-            <div type="commentary" subtype="text">
-                <p xml:lang="en"></p> <!--if you have the commentary only in German and would like to show it also in the English page, you should delete the xml:lang-->
-                  <p xml:lang="de">[your commentary here]</p>
-              </div>
+            <!--<div type="commentary" subtype="text">
+                <p xml:lang="en"></p> <!-\-if you have the commentary only in German and would like to show it also in the English page, you should delete the xml:lang-\->
+                  <p xml:lang="de">[your commentary here]</p>-->
+              <!--</div>-->
             <div type="commentary" subtype="footnotes">
                   <p xml:lang="en"/>
-                <p xml:id="footnote-1">
+              <!--<!-\-  <p xml:id="footnote-1">-\->
                     
                     
-                </p><!--if you have the footnotes only in French and would like to show it also in the English page, you should delete the xml:lang-->
+                </p>--><!--if you have the footnotes only in French and would like to show it also in the English page, you should delete the xml:lang-->
                   <p xml:lang="de"/>
               </div>
-            <!--<div type="bibliography" subtype="edition">
-                  <p>
+            <div type="bibliography" subtype="edition">
+               <!--   <p>-->
                       <bibl>
-                          <ptr target=""/>, <citedRange unit=""/> <!-\-before citedRange add the right abbreviation, e.g. if it's a page, p. etc.-\->
+                         <!-- <ptr target=""/>, <citedRange unit=""/> --><!--before citedRange add the right abbreviation, e.g. if it's a page, p. etc.-->
                       </bibl>
-                  </p>
-              </div>-->
+                  <!--</p>-->
+              </div>
             <div type="bibliography" subtype="parallels"> <!--if you don't have parallels, put this div in a comment-->
-                <p></p>
+              <!--  <p></p>-->
                 
               </div>
             <!--<div type="bibliography" subtype="discussion"> <!-\-if you don't have further bibliography, put this div in a comment-\->

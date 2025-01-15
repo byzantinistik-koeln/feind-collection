@@ -268,9 +268,9 @@
                             <handDesc>
                                 <handNote n="r">
                                     <!--NB: in this field you can refer to epigraphic features on the seal using also AthenaRuby-->
-                                    <seg xml:lang="en"/>
-                                    <seg xml:lang="de"/>
-                                    <seg xml:lang="de"/> 
+                                    <seg xml:lang="en">Ligature of ΘV.</seg>
+                                    <seg xml:lang="de">Ligatur von ΘV.</seg>
+                                    <seg xml:lang="el"> Συμπίλημα  ΘV.</seg> 
                                 </handNote>
                             </handDesc>
                             <decoDesc>
@@ -449,7 +449,7 @@
                   </div>
                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, diplomatic-->
                       <ab>
-                         <lb n="0"/>   
+                         <lb n="0"/>     
                             <lb n="1"/>+κε̅θ,
                         <lb n="2"/>̅naσπα
                            <lb n="3"/>θ̣α̣ρ,επι
@@ -468,7 +468,7 @@
                 <p>Μήτηρ Θεοῦ/ Κύριε βοήθει Κωνσταντίνῳ πρωτοσπαθαρίῳ καὶ ἐπὶ τοῦ μαγλαβίου. </p>
                 <p xml:lang="en">Mother of God. Lord, help  Konstantinos protospatharios and epi tou manglaviou.</p>
                 <p xml:lang="de">Muttergottes. Herr, hilf dem Konstantinos protospatharios und epi tu manglabiu.</p>
-                <p xml:lang="el">Θεοτόκος. Κύριε βοήθησε τον Κωσταντίνο πρωτοσπαθάριο και επί του μαγλαβίου.</p>
+                <p xml:lang="el">Θεοτόκε. Κύριε βοήθησε τον Κωσταντίνο πρωτοσπαθάριο και επί του μαγλαβίου.</p>
               </div>
             <!--<div type="commentary" subtype="text">
                   <p xml:lang="en">[your commentary here]</p> <!-\-if you have the commentary only in German and would like to show it also in the English page, you should delete the xml:lang-\->
@@ -479,24 +479,24 @@
                   <p xml:lang="de">[your footnotes here]</p>
               </div>-->
             <div type="bibliography" subtype="edition">
-                <p> 
+              <!--  <p> -->
                     <bibl> <!-- <ptr target=""/>, <citedRange unit=""/> <!-\-before citedRange add the right abbreviation, e.g. if it's a page, p. etc.-\->
 -->                      </bibl>
-                  </p>
+                  <!--</p>-->
               </div>
             <div type="bibliography" subtype="parallels"> <!--if you don't have parallels, put this div in a comment-->
-                  <p>
+                  <!--<p>-->
                       <bibl>
 <!--                          <ptr target=""/>, <citedRange unit=""/>
 -->                      </bibl>
-                  </p>
+                  <!--</p>-->
               </div>
             <div type="bibliography" subtype="discussion"> <!--if you don't have further bibliography, put this div in a comment-->
-                  <p>
+                  <!--<p>-->
                       <!--<bibl>
                           <ptr target=""/>, <citedRange unit=""/>
                       </bibl>-->
-                  </p>
+                  <!--</p>-->
               </div>
         </body>
     </text>

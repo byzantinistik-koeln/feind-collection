@@ -241,7 +241,7 @@
                                 <!--if the language changes, also the value of mainLang should change accordingly-->
                                 <seg xml:lang="en">Greek</seg>
                                 <seg xml:lang="de">Griechisch</seg>
-                                <seg xml:lang="el">Μεσαιωνική ελληνική γλώσσα</seg>
+                                <seg xml:lang="el">Μεσαιωνική ελληνική γλώσσα.</seg>
                             </textLang>
                         </msContents>
                         <physDesc>
@@ -279,7 +279,7 @@
                                     <figure>
                                         <figDesc n="r" xml:lang="en">Bust of the Mother of God with her hands upraised in prayer (Episkepsis) and the medallion of Christ before her. Sigla on either side.</figDesc>
                                         <figDesc n="r" xml:lang="de">Büste der Muttergottes orans /Typ Episkepsis mit Christusmedaillon vor der Brust. Inschrift auf beiden Seiten.</figDesc>
-                                        <figDesc n="r" xml:lang="el">Προτομή της Θεοτόκου, δεόμενη, (τύπος Επίσκεψις), και με το μετάλλιο του Χριστού μπροστά στο στήθος της.  Σίγλλα διατηρούνται εκατέρωθεν του πεδίου.</figDesc>
+                                        <figDesc n="r" xml:lang="el">Προτομή της Θεοτόκου, δεόμενη, (Επίσκεψις), με το μετάλλιο του Χριστού μπροστά στο στήθος της.  Σίγλλα διατηρούνται εκατέρωθεν του πεδίου.</figDesc>
                                         <figDesc n="decoR" xml:lang="en">Border of tight dots.</figDesc>
                                         <figDesc n="decoR" xml:lang="de">Perlrand</figDesc>
                                         <figDesc n="decoR" xml:lang="el">Στικτό πλαίσιο.</figDesc>
@@ -310,7 +310,7 @@
                                 <!--if the language changes, also the value of mainLang should change accordingly-->
                                 <seg xml:lang="en">Greek</seg>
                                 <seg xml:lang="de">Griechisch</seg>
-                                <seg xml:lang="el">Μεσαιωνική ελληνική γλώσσα</seg>
+                                <seg xml:lang="el">Μεσαιωνική ελληνική γλώσσα.</seg>
                             </textLang>
                         </msContents>
                         <physDesc>
@@ -466,21 +466,21 @@
                 <p xml:lang="el">Θεοτόκε. Θεοτόκε βοήθησε τη Μαρία Δαλασσηνή.</p>
               </div>
             <div type="commentary" subtype="text">
-                <p xml:lang="en">On another seal type Maria Dalassene [1] refers to herself as a nun, with the addition of a in ligature in the legend [2].  </p> <!--if you have the commentary only in German and would like to show it also in the English page, you should delete the xml:lang-->
+                <p xml:lang="en">On another seal type Maria Dalassene (PBW Maria 20126) refers to herself as a nun, with the addition of a in ligature in the legend [1].  </p> <!--if you have the commentary only in German and would like to show it also in the English page, you should delete the xml:lang-->
                   <p xml:lang="de">[your commentary here]</p>
               </div>
             <div type="commentary" subtype="footnotes">
-                <p xml:id="footnote-1">[1].  <bibl><ptr target="PBW"/>, <citedRange unit="entry"><ref target="http://pbw2016.kdl.kcl.ac.uk/person/Maria/20126/"> Maria 20126</ref></citedRange></bibl>.</p>
-                <p xml:id="footnote-2">[2]. <bibl> <ptr target="DOsealsOnline"/>, <citedRange unit="entry"> <ref target="https://www.doaks.org/resources/seals/byzantine-seals/BZS.1947.2.1123">BZS.1947.2.1123</ref></citedRange></bibl>.</p>
+                <!--<p xml:id="footnote-1">[1].  <bibl><ptr target="PBW"/>, <citedRange unit="entry"><ref target="http://pbw2016.kdl.kcl.ac.uk/person/Maria/20126/"> Maria 20126</ref></citedRange></bibl>.</p>-->
+                <p xml:id="footnote-1">[1]. <bibl> <ptr target="DOsealsOnline"/>, <citedRange unit="entry"> <ref target="https://www.doaks.org/resources/seals/byzantine-seals/BZS.1947.2.1123">BZS.1947.2.1123</ref></citedRange></bibl>.</p>
                 <!--if you have the footnotes only in French and would like to show it also in the English page, you should delete the xml:lang-->
                   <p xml:lang="de">[your footnotes here]</p>
               </div>
             <div type="bibliography" subtype="edition">
-                <p> 
+              <!--  <p> -->
                     <bibl>
                         <!-- <ptr target=""/>, <citedRange unit=""/> <!-\-before citedRange add the right abbreviation, e.g. if it's a page, p. etc.-\->
 -->                      </bibl>
-                  </p>
+                  <!--</p>-->
               </div>
             <div type="bibliography" subtype="parallels"> <!--if you don't have parallels, put this div in a comment-->
                   <p>
@@ -491,11 +491,11 @@
                   </p>
               </div>
             <div type="bibliography" subtype="discussion"> <!--if you don't have further bibliography, put this div in a comment-->
-                  <p>
+                  <!--<p>-->
                       <!--<bibl>
                           <ptr target=""/>, <citedRange unit=""/>
                       </bibl>-->
-                  </p>
+                  <!--</p>-->
               </div>
         </body>
     </text>

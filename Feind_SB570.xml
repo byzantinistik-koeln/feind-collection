@@ -78,9 +78,9 @@
                         <msItem>
                             <author>
                                 <roleName role="issuer" type=" civil">
-                                    <seg xml:lang="en"><forename>Theodosios  </forename></seg>
-                                    <seg xml:lang="de"><forename>Theodosios  </forename></seg>
-                                    <seg xml:lang="el"><forename>Θεοδόσιος</forename></seg>
+                                    <seg xml:lang="en"><forename><ref target="http://pbw2016.kdl.kcl.ac.uk/person/Theodosios/20118/">Theodosios </ref></forename></seg>
+                                    <seg xml:lang="de"><forename><ref target="http://pbw2016.kdl.kcl.ac.uk/person/Theodosios/20118/">Theodosios </ref></forename></seg>
+                                    <seg xml:lang="el"><forename><ref target="http://pbw2016.kdl.kcl.ac.uk/person/Theodosios/20118/">Θεοδόσιος</ref></forename></seg>
                                     <interp type="milieu" xml:lang="en">Civil</interp>
                                     <interp type="milieu" xml:lang="de">Zivil</interp>
                                     <interp type="milieu" xml:lang="el">Κρατικό (πεδίο δραστηριοποίησης).</interp>
@@ -119,9 +119,9 @@
                                     <measure type="countermark" unit="clock"/>
                                 </support>
                                 <condition rend="  not-centered obliterated ">
-                                    <p xml:lang="en">Grey-brown patina, chipped at both ends of the channel.</p>
-                                    <p xml:lang="de">Graubraune Patina, an beiden Enden des Kanals bestoßen.</p>
-                                    <p xml:lang="el">Πατίνα γκριζοπράσινου χρώματος, σπασμένη και στα δυο στόμια του διαύλου.</p>
+                                    <p xml:lang="en">Chipped at both ends of the channel.</p>
+                                    <p xml:lang="de">An beiden Enden des Kanals bestoßen.</p>
+                                    <p xml:lang="el">Σπασμένη και στα δυο στόμια του διαύλου.</p>
                                 </condition>
                             </supportDesc>
                             <layoutDesc>
@@ -390,7 +390,8 @@
             </charDecl>
         </encodingDesc>
         <revisionDesc>
-            <change when="2023-08-04" who="#SE">First encoding of the seal.</change>
+            <change when="2023-04-04" who="#SE">First encoding of the seal.</change>
+            <change when="2024-06-04" who="#SE">Corrections after the new schema.</change>
         </revisionDesc>
     </teiHeader>
     <facsimile>
@@ -425,14 +426,14 @@
                   </div>  
                  <div type="textpart" subtype="face" n="obv" rend="circular" xml:lang="grc">
                      <ab>
-                                  <lb n="1"/><rs type="invocation" ref="#inv004"><expan><abbr>Κ</abbr><ex>ύρι</ex><abbr>ε</abbr></expan> βοήθ<supplied reason="lost">ει τ</supplied>ῷ σῷ <expan><abbr>δούλ</abbr><ex>ῳ</ex></expan></rs>
+                                  <lb n="1"/>+<rs type="invocation" ref="#inv004"><expan><abbr>Κ</abbr><ex>ύρι</ex><abbr>ε</abbr></expan> βοήθ<supplied reason="lost">ει τ</supplied>ῷ σῷ <expan><abbr>δούλ</abbr><ex>ῳ</ex></expan></rs>
                      </ab>
                  
                       </div>  
                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
                       <ab>
                             <rs type="legendsCases" ref="#dat">
-                                <lb n="2"/> <persName type="forename" ref="#theodosios-2">Θεο
+                                <lb n="2"/>+<persName type="forename" ref="#theodosios-2">Θεο
                                  <lb n="3" break="no"/>δοσίῳ </persName>
                                 <lb n="4" break="no"/><rs type="office" subtype="civil" ref="#imp-notarios_001"><expan><abbr>β</abbr><ex>ασιλικῷ</ex> </expan>νοταρί 
                                  <lb n="5" break="no"/> ῳ</rs>  <ex>καὶ</ex><rs type="office" subtype="civil" ref="#protonotarios_001"> <expan><ex>πρωτο</ex><abbr>νο
@@ -457,12 +458,12 @@
                       
                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, diplomatic-->
                       <ab>
-                         <lb n="2"/>+θEO
+                         <lb n="2"/>θEO
                             <lb n="3"/>ΔOCI
                         <lb n="4"/>RNOTAPI
                            <lb n="5"/>SANO
                           <lb n="6"/>TARI
-                                <lb n="7"/>
+                                <lb n="7"/>  
 
                        
                        
@@ -481,18 +482,18 @@
                 <p xml:lang="el">Ο  άγ. Νικόλαος. Κύριε βοήθησε τον δούλο σου Θεοδόσιο βασιλικό νοτάριο και πρωτονοτάριο.</p>
               </div>
             <div type="commentary" subtype="text">
-                <p xml:lang="en">The seal issuer is known only from this seal type [1]. </p> <!--if you have the commentary only in German and would like to show it also in the English page, you should delete the xml:lang-->
-                  <p xml:lang="de">[your commentary here]</p>
+                <!--<p xml:lang="en"></p> <!-\-if you have the commentary only in German and would like to show it also in the English page, you should delete the xml:lang-\->
+                  <p xml:lang="de">[your commentary here]</p>-->
               </div>
             <div type="commentary" subtype="footnotes">
-                <p xml:lang="en" xml:id="footnote-1">[1]. <bibl><ptr target="PBW"/>, <citedRange unit="entry"><ref target="http://pbw2016.kdl.kcl.ac.uk/person/Theodosios/20118/">Theodosios 20118</ref></citedRange>.</bibl></p> <!--if you have the footnotes only in French and would like to show it also in the English page, you should delete the xml:lang-->
-                  <p xml:lang="de">[your footnotes here]</p>
+               <!-- <p xml:lang="en" xml:id="footnote-1"></p>--> <!--if you have the footnotes only in French and would like to show it also in the English page, you should delete the xml:lang-->
+       <!--           <p xml:lang="de">[your footnotes here]</p>-->
               </div>
             <div type="bibliography" subtype="edition">
-                <p> 
+             <!--   <p>--> 
                     <bibl> <!-- <ptr target=""/>, <citedRange unit=""/> <!-\-before citedRange add the right abbreviation, e.g. if it's a page, p. etc.-\->
 -->                      </bibl>
-                  </p>
+                  <!--</p>-->
               </div>
             <div type="bibliography" subtype="parallels"> <!--if you don't have parallels, put this div in a comment-->
                   <p>
@@ -502,11 +503,11 @@
                   </p>
               </div>
             <div type="bibliography" subtype="discussion"> <!--if you don't have further bibliography, put this div in a comment-->
-                  <p>
-                      <!--<bibl>
+                 <!--<!-\- <p>-\->
+                      <bibl>
                           <ptr target=""/>, <citedRange unit=""/>
-                      </bibl>-->
-                  </p>
+                      </bibl>
+                  <!-\-</p>-\->-->
               </div>
         </body>
     </text>
