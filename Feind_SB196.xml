@@ -422,15 +422,13 @@
                       </ab>
                   </div>
                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
-                      <ab>
-                            <rs type="legendsCases" ref="#dat">
-                          <lb n="1"/><rs type="invocation" ref="#inv001"><supplied reason="lost">Θ<ex>εοτό</ex>κε</supplied> β<ex>οή</ex>θ<ex>ει</ex></rs>
+                      <ab ana="dat">
+                                                     <lb n="1"/><rs type="invocation" ref="#inv001"><supplied reason="lost">Θ<ex>εοτό</ex>κε</supplied> β<ex>οή</ex>θ<ex>ει</ex></rs>
                           <lb n="2"/><persName type="attested" ref="#Niketas-4"><supplied reason="lost">Νική</supplied>τᾳ</persName> <rs type="dignity" ref="#patrikios"><expan><abbr>π</abbr><ex>ατ</ex><abbr>ρι</abbr><ex>κίῳ</ex></expan></rs>, 
                           <lb n="3"/><rs type="office" subtype="civil" ref="#krites_002"><supplied reason="lost">κριτῇ</supplied> τοῦ <expan><abbr>βήλ</abbr><ex>ου</ex></expan></rs>, 
                           <lb n="4"/><rs type="office" subtype="civil" ref="#krites_008"><placeName type="geography" ref="#geo0016"><supplied reason="lost">Χαλδ<ex>ίας</ex></supplied> </placeName></rs><ex>καὶ</ex> <rs type="office" subtype="civil" ref="#krites_009"><placeName type="geography" ref="#geo0017">Δ<supplied reason="lost">ε</supplied>ρ
                           <lb n="5" break="no"/><supplied reason="lost">ζην<ex>ῆς</ex></supplied></placeName></rs> <supplied reason="lost"><ex>καὶ</ex></supplied><rs type="office" subtype="civil" ref="#anthropos_002"> <expan> <abbr>ἀν</abbr><ex>θρώπ</ex><abbr>ου </abbr></expan>
                           <lb n="6"/><supplied reason="lost">τ<ex>οῦ</ex> <expan><abbr>β</abbr><ex>ασιλέως</ex></expan></supplied></rs><supplied reason="lost"> ἡμ<ex>ῶν</ex> τ<ex>οῦ</ex></supplied><expan> <abbr>ἁγ</abbr><ex>ίου</ex></expan>
-                            </rs>
                             </ab>
                   </div>
               </div>

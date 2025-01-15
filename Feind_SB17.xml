@@ -421,16 +421,13 @@
                       
                   </div>
                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
-                      <ab>
-                          
-                          <rs  type="legendsCases" ref="#dat">
-                              
+                      <ab ana="dat">
+                                                     
                               <lb n="2"/> <supplied reason="lost">Αρ</supplied>σενίῳ 
                                 <lb n="3"/><rs type="office" subtype="ecclesiastical" ref="#presbyter_001"><expan><supplied reason="lost">πρ</supplied>εσβυτ<ex>έρῳ</ex></expan></rs> <ex>καὶ</ex> <rs type="office" subtype="ecclesiastical" ref="#hegoumenos_001"><expan>ἡ
                                 <lb n="4" break="no"/> <supplied reason="lost">γ</supplied><abbr>ουμ</abbr><ex>ένῳ</ex></expan></rs> τοῦ<expan> ἁγ<ex>ίου</ex></expan> Θε
                                 <lb n="5" break="no"/> ωδόρου
                            
-                          </rs>
                       </ab>
                   </div>
               </div>

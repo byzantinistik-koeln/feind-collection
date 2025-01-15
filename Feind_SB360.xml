@@ -424,14 +424,13 @@
                       </ab>
                   </div>
                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
-                      <ab>
-                            <rs type="legendsCases" ref="#dat">
+                      <ab ana="dat">
+                            
                           <lb n="1"/><rs type="invocation" ref="#inv001"><expan><supplied reason="lost"><abbr>Θ</abbr><ex>εοτό</ex></supplied><abbr>κε</abbr></expan> β<supplied reason="lost">οή
                                   <lb n="2" break="no"/>θ</supplied>ει</rs><persName type="attested" ref="#maria-dalassene"> Μαρίᾳ 
                                   <lb n="3"/>τῇ Δαλασ
                                   <lb n="4"/>σηνῇ</persName>
             
-                            </rs>
                             </ab>
                   </div>
               </div>

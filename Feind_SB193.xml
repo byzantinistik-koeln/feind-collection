@@ -416,10 +416,9 @@
                       
                   </div>
                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
-                      <ab>
+                      <ab ana="nom">
                           
-                          <rs  type="legendsCases" ref="#nom">
-                              
+                                                       
                               <lb n="1"/> <persName type="forename" ref="#Michael-4">Μιχαὴ<supplied reason="lost">λ</supplied></persName>
                                <lb n="2"/> <rs type="dignity" ref="#prosospatharios"><expan><ex>πρωτο</ex><abbr>σπαθ</abbr><ex>άριος</ex></expan></rs> <rs type="office" subtype="civil" ref="#krites_003"><expan><abbr>κρ</abbr><supplied reason="lost">ι</supplied>
                                <lb n="3" break="no"/> τ<ex>ὴς</ex></expan>ἐπὶ τοῦ <expan><abbr>ἱπ
@@ -427,7 +426,7 @@
                                <lb n="5" break="no"/> γραφ<ex>εὺς</ex> τοῦ  <placeName type="geography" ref="#geo0018"><supplied reason="lost">Αἰγ<ex>αίου</ex></supplied>
                                <lb n="6"/><expan><supplied reason="lost">Π</supplied><abbr>ελ</abbr><supplied reason="lost">άγ<ex>ους</ex></supplied></expan></placeName></rs>
                            
-                          </rs>
+                          
                       </ab>
                   </div>
               </div>

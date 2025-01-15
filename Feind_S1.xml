@@ -422,13 +422,12 @@
                   </div>
                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--obverse, editorial-->
                       
-                      <ab>
-                                  <rs type="legendsCases" ref="#acc">
+                      <ab ana="acc">
+                                  
                              <lb n="5"/>Μα
                               <lb n="6"/>ρήα <rs type="dignity" ref="#patrikia">πα
                               <lb n="7"/>τρική
                              <lb n="8"/>α</rs>
-                     </rs>
                       </ab>
                   </div>
               </div>

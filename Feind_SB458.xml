@@ -360,6 +360,7 @@
             </charDecl>
         </encodingDesc>
         <revisionDesc>
+            <change when="2025-01-15" who="#PE">updated interpretive edition according to new schema and authority files</change>
             <change when="2023-10-05" who="#PE">reviewed metadata</change>
             <change when="2023-06-18" who="#PE">reviewed metadata</change>
             <change when="2023-06-15" who="#PE">Created xml file</change>
@@ -393,13 +394,13 @@
                           <cb n="b"/><expan><abbr>Θ</abbr><supplied reason="lost"><ex>εο</ex><abbr>ῦ</abbr></supplied></expan>
                       </ab>
                   </div>
-                      <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
-                      <ab>
-                          <lb n="1"/><supplied reason="lost"><expan><abbr>Θ</abbr><ex>εοτό</ex><abbr>κε</abbr></expan> <expan><abbr>β</abbr><ex>οή</ex><abbr>θ</abbr><ex>ει</ex></expan></supplied> 
-                          <lb n="2"/><expan><abbr><supplied reason="lost">Γ</supplied>εωργ</abbr><ex>ίῳ</ex></expan> <expan><supplied reason="lost"><ex>πρωτο</ex>
-                          <lb n="3" break="no"/><abbr>σ</abbr></supplied><abbr>παθ</abbr><ex>αρίῳ</ex></expan> <expan><abbr>κριτ</abbr><ex>ῇ</ex></expan>
-                          <lb n="4"/><supplied reason="lost">ἐ</supplied>πὶ τοῦ <expan><abbr>ἱππ<supplied reason="lost">ο
-                          <lb n="5" break="no"/>δ</supplied>ρ</abbr><ex>όμου</ex></expan> <expan><ex>καὶ</ex></expan> <expan><abbr>τ</abbr><ex>ῶν</ex></expan> <expan><abbr>Ἀρμε</abbr>
+                      <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial--><!--ARMENIAKON THEMATA to be added in geography-->
+                      <ab ana="dat">
+                          <lb n="1"/><rs type="invocation" ref="#inv001"><supplied reason="lost"><expan><abbr>Θ</abbr><ex>εοτό</ex><abbr>κε</abbr></expan> <expan><abbr>β</abbr><ex>οή</ex><abbr>θ</abbr><ex>ει</ex></expan></supplied></rs> 
+                          <lb n="2"/><expan><abbr><supplied reason="lost">Γ</supplied>εωργ</abbr><ex>ίῳ</ex></expan> <rs type="dignity" ref="#d0066"><expan><supplied reason="lost"><ex>πρωτο</ex>
+                          <lb n="3" break="no"/><abbr>σ</abbr></supplied><abbr>παθ</abbr><ex>αρίῳ</ex></expan></rs> <rs type="office" subtype="civil" ref="#of0112"><expan><abbr>κριτ</abbr><ex>ῇ</ex></expan></rs>
+                          <lb n="4"/><supplied reason="lost">ἐ</supplied>πὶ τοῦ <rs type="institution" ref="org0017"><abbr>ἱππ<supplied reason="lost">ο
+                          <lb n="5" break="no"/>δ</supplied>ρ</abbr><ex>όμου</ex></expan></rs> <expan><abbr><am>S</am></abbr><ex>καὶ</ex></expan> <expan><abbr>τ</abbr><ex>ῶν</ex></expan> <expan><abbr>Ἀρμε</abbr>
                           <lb n="6" break="no"/><supplied reason="lost"><abbr>ν</abbr><ex>ικῶν</ex></supplied></expan> <expan><supplied reason="lost"><abbr>Θ</abbr><ex>ε</ex></supplied><abbr>μ</abbr><ex>άτων</ex></expan> ὁ <expan><abbr>Ἑξα</abbr>
                           <lb n="7" break="no"/><supplied reason="lost"><abbr>μηλ</abbr><ex>ί</ex><abbr>τ</abbr><ex>ης</ex></supplied></expan>
                       </ab>

@@ -414,14 +414,14 @@
             <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"> <!--change the language code according to the language of your edition, the values (also when combined, e.g. Greek-Latin) are in the guidelines. Same goes for what comes next, textpart etc.-->
                   <div type="textpart" subtype="face" n="obv" rend="linear" xml:lang="grc"> <!--obverse, editorial-->
                       
-                      <ab><rs type="legendsCases" ref="#acc">
+                      <ab ana="acc">
                           <lb n="1"/><expan>Γρα
                           <lb n="2" break="no"/><ex>φ</ex>ῶν</expan> <persName type="forename" ref="#michael-karantenos">Μι
                           <lb n="3" break="no"/>χαὴλ</persName>
          
                     
                              
-                      </rs></ab>
+                      </ab>
                   </div>
                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
                       <ab>

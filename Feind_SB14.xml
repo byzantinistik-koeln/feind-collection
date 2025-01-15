@@ -425,16 +425,14 @@
                       </ab>
                   </div>
                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
-                      <ab>
-                            <rs type="legendsCases" ref="#dat">
-                          <lb n="1"/><rs type="invocation" ref="#inv004"><expan><supplied reason="lost">Κ</supplied><ex>ύρι</ex>ε <abbr>β</abbr><ex>οή</ex><abbr>θ</abbr><ex>ει</ex></expan>
+                      <ab ana="dat">
+                                <lb n="1"/><rs type="invocation" ref="#inv004"><expan><supplied reason="lost">Κ</supplied><ex>ύρι</ex>ε <abbr>β</abbr><ex>οή</ex><abbr>θ</abbr><ex>ει</ex></expan>
                                 <lb n="2"/><supplied reason="lost">τ</supplied>ῷ <expan><abbr>σ</abbr><ex>ῷ</ex></expan> <expan><abbr>δού</abbr><supplied reason="lost">λ<ex>ῳ</ex></supplied></expan></rs>
                                 <lb n="3"/>Νικηφόρω
                                 <lb n="4"/><rs type="dignity" ref="#patrikios"><expan><abbr>π</abbr><ex>ατ</ex><abbr>ρί</abbr><ex>κιῳ</ex></expan></rs> <ex>καὶ</ex> <rs type="office" subtype="military" ref="#strateg_001"><expan><abbr>στρα</abbr>
                                 <lb n="5" break="no"/><abbr>τ</abbr><ex>η</ex><abbr>γ</abbr><ex>ῷ</ex></expan></rs> τῷ <expan><abbr>Θεο
                                 <lb n="6" break="no"/>δωρ</abbr><ex>ο</ex><abbr>κάν</abbr><ex>ῳ</ex></expan>
 
-                            </rs>
                             </ab>
                   </div>
               </div>

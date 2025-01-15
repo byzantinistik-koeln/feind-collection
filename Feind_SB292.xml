@@ -452,16 +452,14 @@
                       
                   </div>
                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
-                      <ab>
+                      <ab ana="acc">
                           
-                          <rs type="legendsCases" ref="#acc">
-                              
+                                                        
                               <lb n="1"/><persName type="forename" ref="#niketas-4">Νική
                                    <lb n="2" break="no"/><supplied reason="lost">τ</supplied>α<supplied reason="lost">ν</supplied></persName>῾Αγνή 
                                    <lb n="3"/><rs type="office" subtype="ecclesiastical" ref="#chartophylax_001">χαρτοφύ
                               <lb n="4" break="no"/>λα<supplied reason="lost">κ</supplied>α</rs> σκέ
                                    <lb n="5" break="no"/>ποις
-                          </rs>
                       </ab>
                   </div>
               </div>

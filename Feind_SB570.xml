@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
-<!-- last changed before 1.0 version release 2021-08-02 -->
-<!-- last changed before 1.1 release: 2023-04-12 -->
-
-<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../SigiDoc-Epidoc_schema/tei-epidoc.xsd"
-    xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <!-- last changed before 1.0 version release 2021-08-02 -->
+    <!-- last changed before 1.1 release: 2023-04-12 -->
     <!-- schema location for users of the SigiDoc's version of EFES available at https://github.com/SigiDoc/SigiDoc-->
     <teiHeader>
         <fileDesc>
@@ -390,6 +388,7 @@
             </charDecl>
         </encodingDesc>
         <revisionDesc>
+            <change when="2025-01-15" who="#PE">adjust interpretive edition according to the new schema and new authority files</change>
             <change when="2023-08-04" who="#SE">First encoding of the seal.</change>
         </revisionDesc>
     </teiHeader>
@@ -419,30 +418,28 @@
                       
                       <ab>
                          
-                          <cb n="a"/><rs type="saintsTerm" subtype="sigla" ref="#st-nicholas">ὁ <expan><abbr>ἅ</abbr><ex>γιος</ex> </expan><expan> <abbr>Νι
+                          <cb n="a"/><rs type="saintsTerm" subtype="label" ref="#st-nicholas">ὁ <expan><abbr>ἅ</abbr><ex>γιος</ex> </expan><expan> <abbr>Νι
                          <cb n="b"/>κ</abbr><ex>ό</ex><abbr>λαος</abbr></expan></rs>
                           </ab>
                   </div>  
                  <div type="textpart" subtype="face" n="obv" rend="circular" xml:lang="grc">
-                     <ab>
+                     <ab ana="dat">
                                   <lb n="1"/><rs type="invocation" ref="#inv004"><expan><abbr>Κ</abbr><ex>ύρι</ex><abbr>ε</abbr></expan> βοήθ<supplied reason="lost">ει τ</supplied>ῷ σῷ <expan><abbr>δούλ</abbr><ex>ῳ</ex></expan></rs>
                      </ab>
                  
                       </div>  
                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
-                      <ab>
-                            <rs type="legendsCases" ref="#dat">
-                                <lb n="2"/> <persName type="forename" ref="#theodosios-2">Θεο
-                                 <lb n="3" break="no"/>δοσίῳ </persName>
-                                <lb n="4" break="no"/><rs type="office" subtype="civil" ref="#imp-notarios_001"><expan><abbr>β</abbr><ex>ασιλικῷ</ex> </expan>νοταρί 
-                                 <lb n="5" break="no"/> ῳ</rs>  <ex>καὶ</ex><rs type="office" subtype="civil" ref="#protonotarios_001"> <expan><ex>πρωτο</ex><abbr>νο
-                                 <lb n="6" break="no"/> ταρίῳ</abbr></expan></rs>
-                                  </rs>
+                      <ab ana="dat">
+                                 <lb n="2"/> Θεο
+                                 <lb n="3" break="no"/>δοσίῳ 
+                                <lb n="4" break="no"/><rs type="office" subtype="civil" ref="#of0144"><expan><abbr>β</abbr><ex>ασιλικῷ</ex></expan> νοταρί
+                                 <lb n="5" break="no"/>ῳ</rs>  <expan><abbr><am>S</am></abbr><ex>καὶ</ex></expan> <rs type="office" subtype="civil" ref="#of0172"><expan><ex>πρωτο</ex><abbr>νο
+                                 <lb n="6" break="no"/>ταρίῳ</abbr></expan></rs>
                             </ab>
                   </div>
               </div>
             <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"> 
-                  <div type="textpart" subtype="sigla" n="obv" rend="columns" xml:lang="grc"> <!--obverse, diplomatic-->
+                  <div type="textpart" subtype="label" n="obv" rend="columns" xml:lang="grc"> <!--obverse, diplomatic-->
                       <ab> 
                           <cb n="a"/>|ν|i
                           <cb n="b"/>k|o|λ|ạ 
@@ -475,7 +472,7 @@
                   </listApp>
               </div>
             <div type="translation">
-                <p> Ὁ ἅγιος Νικόλαος. Κύριε βοήθει τῷ σῷ δούλῳ/  Θεοδοσίῳ βασιλικῷ νοταρίῳ καὶ πρωτονοταρίῳ. </p>
+                <p> Ὁ ἅγιος Νικόλαος. Κύριε βοήθει τῷ σῷ δούλῳ / Θεοδοσίῳ βασιλικῷ νοταρίῳ καὶ πρωτονοταρίῳ. </p>
                 <p xml:lang="en">St Nicholas. Lord, help your servant Theodosios imperial notarios and protonotarios.</p>
                 <p xml:lang="de">Hl. Nikolaus. Herr, hilf deinem Diener Theodosios kaiserlichem notarios und protonotarios.</p>
                 <p xml:lang="el">Ο  άγ. Νικόλαος. Κύριε βοήθησε τον δούλο σου Θεοδόσιο βασιλικό νοτάριο και πρωτονοτάριο.</p>

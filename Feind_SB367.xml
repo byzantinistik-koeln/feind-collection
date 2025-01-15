@@ -424,14 +424,12 @@
                       </ab>
                   </div>
                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
-                      <ab>
-                            <rs type="legendsCases" ref="#gen">
-                          <lb n="1"/><supplied reason="lost">Σ</supplied>φραγὶς 
+                      <ab ana="gen">
+                                <lb n="1"/><supplied reason="lost">Σ</supplied>φραγὶς 
                                 <lb n="2"/><supplied reason="lost">᾿Αλ</supplied>εξίου 
                                 <lb n="3"/><rs type="dignity" ref="#sebastos"><supplied reason="lost">σεβ</supplied>αστοῦ </rs>
                                 <lb n="4"/><supplied reason="lost">τοῦ</supplied><rs type="office" subtype="military" ref="#protostrator_001"><expan><abbr>πρωτο
                                 <lb n="5" break="no"/><supplied reason="lost">στ</supplied>ράτορο</abbr><ex>ς</ex></expan></rs>
-                            </rs>
                             </ab>
                   </div>
               </div>

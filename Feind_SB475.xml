@@ -409,6 +409,7 @@
             </charDecl>
         </encodingDesc>
         <revisionDesc>
+            <change when="2025-01-15" who="#PE">updated interpretive edition according to new schema and authority files</change>
             <change when="2023-07-11" who="#SE">First encoding of the seal</change>
         </revisionDesc>
     </teiHeader>
@@ -438,16 +439,12 @@
                  
                   </div>-->
                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
-                      <ab>
-                          
-                          <rs type="legendsCases" ref="#dat">
-                              
-                              <lb n="1"/><rs type="invocation" ref="#inv004"><expan><abbr>Κ</abbr><ex>ύρι</ex><abbr>ε</abbr></expan>, <expan><abbr>β</abbr><ex>οή</ex><abbr>θ</abbr><ex>ει</ex> </expan>
+                      <ab ana="dat">
+                                   <lb n="1"/><rs type="invocation" ref="#inv004"><expan><abbr>Κ</abbr><ex>ύρι</ex><abbr>ε</abbr></expan> <expan><abbr>β</abbr><ex>οή</ex><abbr>θ</abbr><ex>ει</ex></expan>
                                    <lb n="2"/>τῷ σῷ <expan><abbr>δού</abbr><ex>λῳ</ex></expan></rs>
                                    <lb n="3"/>Καλινῖ
-                                   <lb n="4" break="no"/>κo <rs type="office" subtype="ecclesiastical" ref="#monk_001"><expan><abbr>μον</abbr><ex>α</ex>
+                                   <lb n="4" break="no"/>κo <rs type="office" subtype="ecclesiastical" ref="#of0216"><expan><abbr>μον</abbr><ex>α</ex>
                                    <lb n="5" break="no"/><abbr>χ</abbr><ex>ῷ</ex></expan></rs>
-                          </rs>
                       </ab>
                   </div>
               </div>

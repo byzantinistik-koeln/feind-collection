@@ -426,12 +426,12 @@
                       </div>
                 
                 <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc">
-                      <ab><rs type="legendsCases" ref="#gen">
+                      <ab ana="gen">
                           <lb n="1"/><expan><abbr>Σφραγ</abbr><ex>ὶς</ex></expan>
                               <lb n="2"/><persName type="attested" ref="#niketas-platys">Νικήτ<supplied reason="lost">α</supplied>
                           <lb n="3"/>τοῦ Πλατ
                           <lb n="4"/>οῦ</persName>
-                      </rs></ab>
+                      </ab>
                   </div>
                     </div>
             <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"> 
