@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
+<?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
 <!-- last changed before 1.0 version release 2021-08-02 -->
 <!-- last changed before 1.1 release: 2023-04-12 -->
-
-<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../../SigiDoc-Epidoc_schema/tei-epidoc.xsd"
-    xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -399,7 +397,7 @@
                           <lb n="1"/><rs type="invocation" ref="#inv001"><supplied reason="lost"><expan><abbr>Θ</abbr><ex>εοτό</ex><abbr>κε</abbr></expan> <expan><abbr>β</abbr><ex>οή</ex><abbr>θ</abbr><ex>ει</ex></expan></supplied></rs> 
                           <lb n="2"/><expan><abbr><supplied reason="lost">Γ</supplied>εωργ</abbr><ex>ίῳ</ex></expan> <rs type="dignity" ref="#d0066"><expan><supplied reason="lost"><ex>πρωτο</ex>
                           <lb n="3" break="no"/><abbr>σ</abbr></supplied><abbr>παθ</abbr><ex>αρίῳ</ex></expan></rs> <rs type="office" subtype="civil" ref="#of0112"><expan><abbr>κριτ</abbr><ex>ῇ</ex></expan></rs>
-                          <lb n="4"/><supplied reason="lost">ἐ</supplied>πὶ τοῦ <rs type="institution" ref="org0017"><abbr>ἱππ<supplied reason="lost">ο
+                          <lb n="4"/><supplied reason="lost">ἐ</supplied>πὶ τοῦ <rs type="institution" ref="org0017"><expan><abbr>ἱππ<supplied reason="lost">ο
                           <lb n="5" break="no"/>δ</supplied>ρ</abbr><ex>όμου</ex></expan></rs> <expan><abbr><am>S</am></abbr><ex>καὶ</ex></expan> <expan><abbr>τ</abbr><ex>ῶν</ex></expan> <expan><abbr>Ἀρμε</abbr>
                           <lb n="6" break="no"/><supplied reason="lost"><abbr>ν</abbr><ex>ικῶν</ex></supplied></expan> <expan><supplied reason="lost"><abbr>Θ</abbr><ex>ε</ex></supplied><abbr>μ</abbr><ex>άτων</ex></expan> ὁ <expan><abbr>Ἑξα</abbr>
                           <lb n="7" break="no"/><supplied reason="lost"><abbr>μηλ</abbr><ex>ί</ex><abbr>τ</abbr><ex>ης</ex></supplied></expan>
