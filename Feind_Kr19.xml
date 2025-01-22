@@ -422,17 +422,17 @@
         <body>
             <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"> <!--change the language code according to the language of your edition, the values (also when combined, e.g. Greek-Latin) are in the guidelines. Same goes for what comes next, textpart etc.-->
                   <div type="textpart" subtype="face" n="obv" rend="circular" xml:lang="grc"> <!--obverse, editorial-->
-                      <ab>
-                          <lb n="1"/>+<expan><abbr>Κ</abbr><ex>ύρι</ex><abbr>ε</abbr></expan> <expan><abbr>βοήθ</abbr><ex>ει</ex></expan> τ<supplied reason="lost">ῷ σῷ δούλῳ</supplied>
+                      <ab ana="dat">
+                          <lb n="1"/><rs type="invocation" ref="#inv004"><expan><abbr>Κ</abbr><ex>ύρι</ex><abbr>ε</abbr></expan> <expan><abbr>βοήθ</abbr><ex>ει</ex></expan> τ<supplied reason="lost">ῷ σῷ δούλῳ</supplied></rs>
                       </ab>
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
-                      <ab>
-                          <lb n="2"/><supplied reason="lost">+Ν</supplied>ηκο
-                          <lb n="3" break="no"/><supplied reason="lost">λάῳ</supplied> <expan><abbr>β</abbr><ex>ασιλικῷ</ex></expan> <expan><abbr>καν</abbr>
-                          <lb n="4" break="no"/><supplied reason="lost"><abbr>δ</abbr><ex>ιδάτῳ</ex></supplied></expan> <supplied reason="lost"><expan><ex>καὶ</ex></expan></supplied> <supplied reason="lost">ἐ</supplied>πὶ τοῦ υ
+                  <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial--><!--epi tou oikistikou not in authority yet! IMPORTANT-->
+                      <ab ana="dat">
+                          <lb n="2"/><supplied reason="lost">Ν</supplied>ηκο
+                          <lb n="3" break="no"/><supplied reason="lost">λάῳ</supplied> <rs type="dignity" ref="#d0031"><expan><abbr>β</abbr><ex>ασιλικῷ</ex></expan> <expan><abbr>καν</abbr>
+                          <lb n="4" break="no"/><supplied reason="lost"><abbr>δ</abbr><ex>ιδάτῳ</ex></supplied></expan></rs> <supplied reason="lost"><expan><ex>καὶ</ex></expan></supplied> <rs type="office" subtype="civil" ref="#xxx"><supplied reason="lost">ἐ</supplied>πὶ τοῦ υ
                           <lb n="5" break="no"/><supplied reason="lost">κι</supplied>στη
-                          <lb n="6" break="no"/><supplied reason="lost">κ</supplied>οῦ
+                          <lb n="6" break="no"/><supplied reason="lost">κ</supplied>οῦ</rs>
                                                 </ab>
                   </div>
               </div>

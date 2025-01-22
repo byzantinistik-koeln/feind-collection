@@ -382,16 +382,16 @@
         <body>
             <div type="edition" subtype="editorial" xml:space="preserve"> 
                   <div type="textpart" subtype="face" n="obv" rend="circular" xml:lang="grc"> <!--obverse, editorial-->
-                      <ab>
-                          <lb n="1"/><expan><abbr>Κ</abbr><supplied reason="lost"><ex>ύρι</ex><abbr>ε</abbr></supplied></expan> <expan><supplied reason="lost"><abbr>β</abbr></supplied><abbr>οήθ</abbr><ex>ει</ex></expan> τῷ σῷ δούλῳ
+                      <ab ana="dat">
+                          <lb n="1"/><rs type="invocation" ref="#inv004"><expan><abbr>Κ</abbr><supplied reason="lost"><ex>ύρι</ex><abbr>ε</abbr></supplied></expan> <expan><supplied reason="lost"><abbr>β</abbr></supplied><abbr>οήθ</abbr><ex>ει</ex></expan> τῷ σῷ δούλῳ</rs>
                       </ab>
                   </div>
                       <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
-                      <ab>
+                      <ab ana="dat">
                           <lb n="2"/>Νηκο
-                          <lb n="3" break="no"/><supplied reason="lost">λ</supplied>άῳ <expan><abbr>β</abbr><ex>ασιλικῷ</ex></expan> <expan><abbr>σπ
-                          <lb n="4" break="no"/><supplied reason="lost">α</supplied>θ</abbr><ex>αρίῳ</ex></expan> <expan><ex>καὶ</ex></expan> <expan><abbr>ἀση
-                          <lb n="5" break="no"/><supplied reason="lost">κ</supplied>ρῆτ</abbr><ex>ις</ex></expan>
+                          <lb n="3" break="no"/><supplied reason="lost">λ</supplied>άῳ <rs type="dignity" ref="d0079"><expan><abbr>β</abbr><ex>ασιλικῷ</ex></expan> <expan><abbr>σπ
+                          <lb n="4" break="no"/><supplied reason="lost">α</supplied>θ</abbr><ex>αρίῳ</ex></expan></rs> <expan><abbr><am>S</am></abbr><ex>καὶ</ex></expan> <rs type="office" subtype="civil" ref="#of0026"><expan><abbr>ἀση
+                          <lb n="5" break="no"/><supplied reason="lost">κ</supplied>ρῆτ</abbr><ex>ις</ex></expan></rs>
                       </ab>
                   </div>
               </div>

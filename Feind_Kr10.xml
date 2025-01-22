@@ -430,13 +430,13 @@
                       </ab>
                   </div>
                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
-                      <ab>
+                      <ab ana="dat">
                          <lb n="2"/>Βάρδ
-                          <lb n="3" break="no"/>ᾳ <rs type="dignity" ref="#patrikios">πατρικί
-                          <lb n="4" break="no"/>ο</rs> <rs type="dignity" ref="#imp-prosospatharios"><expan><abbr>β</abbr><ex>ασιλικῷ</ex></expan> <expan><ex>πρωτο</ex><abbr>σπαθ</abbr><ex>αρίῳ</ex></expan></rs> <ex>καὶ</ex>
-                          <lb n="5"/><rs type="office" subtype="military" ref="#strateg_005">στρατ<supplied reason="lost">ηγῷ 
-                          <lb n="6"/>τ</supplied>ῶν <expan>Ἀν<supplied reason="lost">α
-                          <lb n="7" break="no"/>τ</supplied><abbr>ολικ</abbr><ex>ῶν</ex></expan></rs>
+                          <lb n="3" break="no"/>ᾳ <rs type="dignity" ref="#d0047">πατρικί
+                          <lb n="4" break="no"/>ο</rs> <rs type="dignity" ref="#d0067"><expan><abbr>β</abbr><ex>ασιλικῷ</ex></expan> <expan><abbr><am>Α</am></abbr><ex>πρωτο</ex><abbr>σπαθ</abbr><ex>αρίῳ</ex></expan></rs> <expan><abbr><am>S</am></abbr><ex>καὶ</ex></expan>
+                          <lb n="5"/><rs type="office" subtype="military" ref="#of0279">στρατ<supplied reason="lost">ηγῷ</supplied></rs> 
+                          <lb n="6"/><supplied reason="lost">τ</supplied>ῶν <placename ref="#geo0016"><expan><abbr>Ἀν<supplied reason="lost">α
+                          <lb n="7" break="no"/>τ</supplied>ολικ</abbr><ex>ῶν</ex></expan></placename>
                       </ab>
                   </div>
               </div>
@@ -463,9 +463,9 @@
                   </listApp>
               </div>
             <div type="translation">
-                <p>Κύριε βοήθει τῷ σῷ δούλῳ/ Βάρδᾳ πατρικίο, βασιλικῷ πρωτοσπαθαρίῳ καὶ στρατηγῷ τῶν Ἀνατολικῶν.</p>
+                <p>Κύριε βοήθει τῷ σῷ δούλῳ / Βάρδᾳ πατρικίο, βασιλικῷ πρωτοσπαθαρίῳ καὶ στρατηγῷ τῶν Ἀνατολικῶν.</p>
                 <p xml:lang="en">Lord, help your servant Bardas patrikios, imperial protospatharios, and strategos of Anatolikoi.</p>
-                <p xml:lang="de">Herr, hilf deinem Diener Barda patrikios, kaiserlichem protospatharios und strategos von Anatolikoi.</p>
+                <p xml:lang="de">Herr, hilf deinem Diener Barda patrikios, kaiserlicher protospatharios und strategos von Anatolikoi.</p>
                 <p xml:lang="el">Κύριε βοήθησε τον δούλο σου Βάρδα, πατρίκιο, βασιλικό πρωτοσπαθάριο και στρατηγό των Ανατολικών. </p>
               </div>
             <div type="commentary" subtype="text">

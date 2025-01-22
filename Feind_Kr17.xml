@@ -402,13 +402,13 @@
         <body>
             <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"> <!--change the language code according to the language of your edition, the values (also when combined, e.g. Greek-Latin) are in the guidelines. Same goes for what comes next, textpart etc.-->
                   <div type="textpart" subtype="face" n="obv" rend="circular" xml:lang="grc"> <!--obverse, editorial-->
-                      <ab>
-                          <lb n="1"/>+<expan><abbr>Κ</abbr><ex>ύρι</ex><abbr>ε</abbr></expan> <expan><abbr>βοήθ</abbr><ex>ει</ex></expan> τῷ σῷ <expan><abbr>δούλ</abbr><ex>ῳ</ex></expan>
+                      <ab ana="dat">
+                          <lb n="1"/><rs type="invocation" ref="#inv004"><expan><abbr>Κ</abbr><ex>ύρι</ex><abbr>ε</abbr></expan> <expan><abbr>βοήθ</abbr><ex>ει</ex></expan> τῷ σῷ <expan><abbr>δούλ</abbr><ex>ῳ</ex></expan></rs>
                       </ab>
                   </div>
                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
-                      <ab>
-                          <lb n="2"/>+<supplied reason="lost">Δ</supplied>αμ<supplied reason="lost">ι
+                      <ab ana="dat">
+                          <lb n="2"/><supplied reason="lost">Δ</supplied>αμ<supplied reason="lost">ι
                           <lb n="3" break="no"/>α</supplied>νò ταπη
                           <lb n="4" break="no"/>νò <expan><ex>καὶ</ex></expan> ἁμα
                           <lb n="5" break="no"/>ρτολó

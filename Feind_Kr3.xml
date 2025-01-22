@@ -433,15 +433,15 @@
             <div type="edition" subtype="editorial" xml:space="preserve"> <!--change the language code according to the language of your edition, the values (also when combined, e.g. Greek-Latin) are in the guidelines. Same goes for what comes next, textpart etc.-->
                   <div type="textpart" subtype="face" n="obv" rend="circular" xml:lang="grc"> <!--obverse, editorial-->
                       <ab ana="dat">
-                          <lb n="1"/><rs type="invocation" ref="#inv004" rend="circular"><expan><abbr>Κ</abbr><ex>ύρι</ex><abbr>ε </abbr></expan>βοήθει <supplied reason="lost">τῷ σῷ δούλῳ</supplied></rs>
+                          <lb n="1"/><rs type="invocation" ref="#inv004"><expan><abbr>Κ</abbr><ex>ύρι</ex><abbr>ε </abbr></expan>βοήθει <supplied reason="lost">τῷ σῷ δούλῳ</supplied></rs>
                           
                       </ab>
                   </div>
                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
-                      <ab>
-                          <lb n="2"/><persName type="forename" ref="#Basileios-1"><expan><supplied reason="lost">Βασ</supplied>ιλείῳ</expan></persName>
-                          <lb n="3"/><rs type="dignity" ref="#imp-prosospatharios"><supplied reason="lost"><expan><abbr>β</abbr><ex>ασιλικῷ</ex></expan><ex>πρωτο</ex>σπ</supplied>αθ<ex>αρίῳ</ex></rs><ex>καὶ</ex> γε
-                          <lb n="4"/><supplied reason="lost">νικ<ex>ῷ</ex></supplied>λογοθ<ex>έτῃ</ex>
+                      <ab ana="dat">
+                          <lb n="2"/><supplied reason="lost">Βασι</supplied>λείῳ
+                          <lb n="3"/><rs type="dignity" ref="#d0067"><supplied reason="lost"><expan><abbr>β</abbr><ex>ασιλικῷ</ex></expan></supplied><supplied reason="lost"><expan><abbr><am>Α</am></abbr><ex>πρωτο</ex><abbr>σπ</abbr></supplied><abbr>αθ</abbr><ex>αρίῳ</ex></expan></rs><expan><abbr><am>S</am></abbr><ex>καὶ</ex></expan> <rs type="office" subtype="civil" ref="#of0118"><expan><abbr>γε</abbr>
+                          <lb n="4" break="no"/><supplied reason="lost"><abbr>νικ</abbr><ex>ῷ</ex></supplied></expan> <expan><abbr>λογοθ</abbr><ex>έτῃ</ex></expan></rs>
                       </ab>
                   </div>
               </div>
@@ -467,9 +467,9 @@
                   </listApp>
               </div>
             <div type="translation">
-                <p>Κύριε βοήθει τῷ σῷ δούλῳ/ Βασιλείῳ βασιλικῷ πρωτοσπαθαρίῳ καὶ γενικῷ̣ λογοθέτῃ.</p>
+                <p>Κύριε βοήθει τῷ σῷ δούλῳ / Βασιλείῳ βασιλικῷ πρωτοσπαθαρίῳ καὶ γενικῷ̣ λογοθέτῃ.</p>
                 <p xml:lang="en">Lord, help your servant Basileios imperial protospatharios and genikos logothetes.</p>
-                <p xml:lang="de">Herr, hilf deinem Diener Basileios kaiserlichen protospatharios und genikos logothetes.</p>
+                <p xml:lang="de">Herr, hilf deinem Diener Basileios kaiserlicher protospatharios und genikos logothetes.</p>
                 <p xml:lang="el">Κύριε βοήθησε τον δούλο σου Βασίλειο βασιλικό πρωτοσπαθάριο και γενικό λογοθέτη. </p>
               </div>
             <div type="commentary" subtype="text">

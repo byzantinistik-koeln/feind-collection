@@ -417,16 +417,16 @@
         <body>
             <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"> <!--change the language code according to the language of your edition, the values (also when combined, e.g. Greek-Latin) are in the guidelines. Same goes for what comes next, textpart etc.-->
                   <div type="textpart" subtype="face" n="obv" rend="circular" xml:lang="grc"> <!--obverse, editorial-->
-                      <ab>
-                          <lb n="1"/>+<supplied reason="lost"><expan><abbr>Κ</abbr><ex>ύρι</ex><abbr>ε</abbr></expan> βοήθει τῷ σῷ δούλῳ ...</supplied>
+                      <ab ana="dat">
+                          <lb n="1"/><supplied reason="lost"><rs type="invocation" ref="#inv004"><expan><abbr>Κ</abbr><ex>ύρι</ex><abbr>ε</abbr></expan> βοήθει τῷ σῷ δούλῳ</rs></supplied> <gap reason="lost" extent="unknown" unit="character"/>
                       </ab>
                   </div>
                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
-                      <ab>
-                          <lb n="2"/><supplied reason="lost"><expan><abbr>β</abbr><ex>ασιλικῷ</ex></expan></supplied> <expan><abbr>σπα</abbr>
-                          <lb n="3" break="no"/><supplied reason="lost"><abbr>θ</abbr><ex>αρο</ex><abbr>κ</abbr></supplied><abbr>ανδ</abbr><ex>ιδάτῳ</ex></expan> 
-                          <lb n="4"/><supplied reason="lost"><expan><ex>καὶ</ex></expan> ἀ</supplied>σικ<supplied reason="lost">ρ
-                          <lb n="5" break="no"/>ῆ</supplied>τι<supplied reason="lost">ς</supplied>
+                      <ab ana="dat">
+                          <lb n="2"/><rs type="dignity" ref="d0081"><supplied reason="lost"><expan><abbr>β</abbr><ex>ασιλικῷ</ex></expan></supplied> <expan><abbr>σπα</abbr>
+                          <lb n="3" break="no"/><supplied reason="lost"><abbr>θ</abbr><ex>αρο</ex><abbr>κ</abbr></supplied><abbr>ανδ</abbr><ex>ιδάτῳ</ex></expan></rs> 
+                          <lb n="4"/><supplied reason="lost"><expan><ex>καὶ</ex></expan></supplied> <rs type="office" subtype="civil" ref="#of0026"><supplied reason="lost">ἀ</supplied>σικ<supplied reason="lost">ρ
+                          <lb n="5" break="no"/>ῆ</supplied>τι<supplied reason="lost">ς</supplied></rs>
                                                 </ab>
                   </div>
               </div>

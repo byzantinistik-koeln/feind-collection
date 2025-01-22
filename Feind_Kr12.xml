@@ -391,17 +391,18 @@
                           <cb n="d" break="no"/>κᾷ
                       </ab>
                   </div>
-                      <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
-                      <ab>
-                          <lb n="3"/><expan><supplied reason="lost"><abbr>στ</abbr><ex>αυ</ex></supplied><abbr>ροὺ</abbr></expan> φα
+                      <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial--><!--metrical elements just in the interpretaive edition? Or also in the diplomatic ed? versline-elements correctly numbered?-->
+                      <lg type="metrical" met="dodecasyllabic" subtype="true">
+                          <l n="1">
+                              <lb n="3"/><expan><supplied reason="lost"><abbr>στ</abbr><ex>αυ</ex></supplied><abbr>ροὺ</abbr></expan> φα
                           <lb n="4" break="no"/>νέντος κ<supplied reason="lost">υ
                           <lb n="5" break="no"/>ρ</supplied>ούσθω τὰ πρ
-                          <lb n="6" break="no"/><supplied reason="lost">ακτέ</supplied>α τῷ Μ<supplied reason="lost">α
+                          <lb n="6" break="no"/><supplied reason="lost">ακτέ</supplied>α</l> <l n="2">τῷ Μ<supplied reason="lost">α
                           <lb n="7" break="no"/>νδρομηνῷ</supplied> Μ
                           <lb n="8" break="no"/><supplied reason="lost">ανουὴλ ἐξαι
                           <lb n="9" break="no"/>σί</supplied>ως
-                          
-                      </ab>
+                          </l>
+                      </lg>
                   </div>
               </div>
             <div type="edition" subtype="diplomatic" xml:space="preserve"> 

@@ -382,18 +382,18 @@
         <body>
             <div type="edition" subtype="editorial" xml:space="preserve"> 
                   <div type="textpart" subtype="face" n="obv" rend="circular" xml:lang="grc"> <!--obverse, editorial-->
-                      <ab>
-                          <lb n="1"/><supplied reason="lost"><expan><abbr>Κ</abbr><ex>ύρι</ex><abbr>ε</abbr></expan> βοήθει τῷ σ</supplied>ῷ δούλῳ
+                      <ab ana="dat">
+                          <lb n="1"/><rs type="invocation" ref="#inv004"><supplied reason="lost"><expan><abbr>Κ</abbr><ex>ύρι</ex><abbr>ε</abbr></expan> βοήθει τῷ σ</supplied>ῷ δούλῳ</rs>
                       </ab>
                   </div>
                       <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
-                      <ab>
-                          <lb n="2"/>...
-                          <lb n="3"/><supplied reason="lost"><expan><abbr>β</abbr><ex>ασιλικῷ</ex></expan></supplied> <expan><ex>πρωτο</ex><abbr>σπαθ</abbr><supplied reason="lost"><ex>α</ex><abbr>ρ</abbr><ex>ίῳ</ex></supplied></expan> 
-                          <lb n="4"/><expan><ex>καὶ</ex></expan> ἐπὶ <expan><abbr>τ</abbr><ex>οῦ</ex></expan> <expan><abbr>χρυσο
-                          <lb n="5" break="no"/>τρι</abbr><ex>κλίνου</ex></expan> <expan><ex>καὶ</ex></expan> <expan><abbr>στρατ</abbr><ex>ηγῷ</ex></expan> 
-                          <lb n="6"/><expan><abbr>Κ</abbr><ex>ε</ex><abbr>φα</abbr><ex>λ</ex><abbr>λι</abbr><ex>νίας</ex></expan> <expan><ex>καὶ</ex></expan> <expan><abbr>Νι
-                          <lb n="7" break="no"/>κοπό</abbr><supplied reason="lost"><abbr>λ</abbr><ex>εως</ex></supplied></expan>
+                      <ab ana="dat">
+                          <lb n="2"/><gap reason="lost" quantity="1" unit="line"/>
+                          <lb n="3"/><rs type="dignity" ref="#d0067"><supplied reason="lost"><expan><abbr>β</abbr><ex>ασιλικῷ</ex></expan></supplied> <expan><abbr><am>Α</am></abbr><ex>πρωτο</ex><abbr>σπαθ</abbr><supplied reason="lost"><ex>α</ex><abbr>ρ</abbr><ex>ίῳ</ex></supplied></expan></rs> 
+                          <lb n="4"/><expan><abbr><am>S</am></abbr><ex>καὶ</ex></expan> <rs type="office" subtype="civil" ref="#of0070">ἐπὶ <expan><abbr>τ</abbr><ex>οῦ</ex></expan> <expan><abbr>χρυσο
+                          <lb n="5" break="no"/>τρι</abbr><ex>κλίνου</ex></expan></rs> <expan><abbr><am>S</am></abbr><ex>καὶ</ex></expan> <rs type="office" subtype="military" ref="#of0279"><expan><abbr>στρατ</abbr><ex>ηγῷ</ex></expan></rs> 
+                          <lb n="6"/><placeName ref="#geo0054"><expan><abbr>Κ</abbr><ex>ε</ex><abbr>φα</abbr><ex>λ</ex><abbr>λι</abbr><ex>νίας</ex></expan></placeName> <expan><abbr><am>S</am></abbr><ex>καὶ</ex></expan> <placeName ref="#geo0064"><expan><abbr>Νι
+                          <lb n="7" break="no"/>κοπό</abbr><supplied reason="lost"><abbr>λ</abbr><ex>εως</ex></supplied></expan></placeName>
                       </ab>
                   </div>
               </div>
@@ -422,7 +422,7 @@
             <div type="translation">
                 <p>Κύριε βοήθει τῷ σῷ δούλῳ / … βασιλικῷ πρωτοσπαθαρίῳ καὶ ἐπὶ τοῦ χρυσοτρικλίνου καὶ στρατηγῷ Κεφαλληνίας καὶ Νικοπόλεως.</p>
                 <p xml:lang="en">Lord, help your servant … basilikos protospatharios epi tou chrysotriklinou and strategos of Cephalonia and Nikopolis.</p>
-                <p xml:lang="de">Herr, hilf deinem Diener … kaiserlicher protospatharios epi tou chrysotriklinou und strategos von Kefalonia und Nikopolis.</p>
+                <p xml:lang="de">Herr, hilf deinem Diener … kaiserlicher protospatharios epi tu chrysotriklinu und strategos von Kefalonia und Nikopolis.</p>
               </div>
             <div type="commentary" subtype="text">
                 <p xml:lang="en"/>

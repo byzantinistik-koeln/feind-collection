@@ -382,16 +382,16 @@
         <body>
             <div type="edition" subtype="editorial" xml:space="preserve"> 
                   <div type="textpart" subtype="face" n="obv" rend="circular" xml:lang="grc"> <!--obverse, editorial-->
-                      <ab>
-                          <lb n="1"/><expan><abbr>Κ</abbr><ex>ύρι</ex><abbr>ε</abbr></expan> <expan><abbr>βοήθ</abbr><ex>ει</ex></expan> τῷ σῷ δούλῳ
+                      <ab ana="dat">
+                          <lb n="1"/><rs type="invocation" ref="#inv004"><expan><abbr>Κ</abbr><ex>ύρι</ex><abbr>ε</abbr></expan> <expan><abbr>βοήθ</abbr><ex>ει</ex></expan> τῷ σῷ δούλῳ</rs>
                       </ab>
                   </div>
                       <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
-                      <ab>
+                      <ab ana="dat">
                           <lb n="2"/><expan><abbr>Θεοδ
-                          <lb n="3" break="no"/>οσί</abbr><ex>ῳ</ex></expan> <expan><abbr>β</abbr><ex>ασιλικῷ</ex></expan> <expan><abbr>σπ
-                          <lb n="4" break="no"/>αθ</abbr><ex>αρίῳ</ex></expan> <expan><ex>καὶ</ex></expan> <supplied reason="lost">ἐ</supplied>πὶ 
-                          <lb n="5"/><expan><abbr>τ</abbr><ex>ῶν</ex></expan> <expan><abbr>ὐκ</abbr><supplied reason="lost"><ex>ει</ex><abbr>ακ</abbr></supplied><ex>ῶν</ex></expan>
+                          <lb n="3" break="no"/>οσί</abbr><ex>ῳ</ex></expan> <rs type="dignity" ref="#d0079"><expan><abbr>β</abbr><ex>ασιλικῷ</ex></expan> <expan><abbr>σπ
+                          <lb n="4" break="no"/>αθ</abbr><ex>αρίῳ</ex></expan></rs> <expan><abbr><am>S</am></abbr><ex>καὶ</ex></expan> <rs type="office" subtype="civil" ref="#of0072"><supplied reason="lost">ἐ</supplied>πὶ 
+                          <lb n="5"/><expan><abbr>τ</abbr><ex>ῶν</ex></expan> <expan><abbr>ὐκ</abbr><supplied reason="lost"><ex>ει</ex><abbr>ακ</abbr></supplied><ex>ῶν</ex></expan></rs>
                       </ab>
                   </div>
               </div>
