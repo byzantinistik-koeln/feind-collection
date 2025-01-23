@@ -240,8 +240,8 @@
                            <figure>
                               <figDesc ana="" n="r" xml:lang="en">Patriarchal cross (with a X at the lower transverse bar) mounted on three steps. Fleurons on either side. In the upper field, a decoration of a pellet at left and right.</figDesc>
                               <figDesc ana="" n="r" xml:lang="de">Patriarchenkreuz auf drei Stufen mit Zierranken. Die Balken sind auch gekreuzt. Rechts und links im oberen Feld ein Punkt.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="en">Cross at the beginning of the legend. Border of dots.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="de">Kreuz am Anfang der Legende. Perlrand.</figDesc>
+                              <figDesc n="decoR" xml:lang="en">Cross at the beginning of the legend. Border of dots.</figDesc>
+                              <figDesc n="decoR" xml:lang="de">Kreuz am Anfang der Legende. Perlrand.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -284,10 +284,10 @@
                      <decoDesc>
                         <decoNote>
                            <figure>
-                              <figDesc ana="" n="v" xml:lang="en"/>
-                              <figDesc ana="" n="v" xml:lang="de"/>
-                              <figDesc ana="" n="decoV" xml:lang="en">No border visible.</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="de">Kein Rand sichtbar.</figDesc>
+                              <!--<figDesc ana="" n="v" xml:lang="en"/>-->
+                              <!--<figDesc ana="" n="v" xml:lang="de"/>-->
+                              <figDesc n="decoV" xml:lang="en">No border visible.</figDesc>
+                              <figDesc n="decoV" xml:lang="de">Kein Rand sichtbar.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
