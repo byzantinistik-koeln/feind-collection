@@ -1,9 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
 <!-- last changed before 1.0 version release 2021-08-02 -->
 <!-- last changed before 1.1 release: 2023-04-12 -->
    <teiHeader>
@@ -28,7 +23,7 @@
             <authority>ANR/DFG DigiByzSeal - Unlocking the Hidden Value of Seals: New Methodologies for Historical Research in Byzantine Studies</authority>
             <idno type="filename">Feind_SB458</idno>
             <!--here goes the name of the file-->
-            <idno type="SigiDocID"/>
+            <idno type="SigiDocID">"s-tZLw1a"</idno>
             <!--SigiDocID should be ignored for now-->
             <idno type="sequence"/>
             <!--you can add the sequence number of this specific seal in your digital corpus. It is not compulsory however-->
@@ -140,7 +135,7 @@
                               <seg xml:lang="de">Rund</seg>
                            </rs>
                            <rs type="matrix" subtype="not-surviving">
-                              <idno type="SigiDoc"/>
+                              <idno type="SigiDoc">"m-Lv7q3f"</idno>
                            </rs>
                         </layout>
                      </layoutDesc>
@@ -165,11 +160,7 @@
                                 <interp type="datingCriteria" xml:lang="de"/>
                             </origDate>-->
                      <!-- for a date range or centuries (NOT BEFORE - NOT AFTER)-->
-                     <origDate type="analysis"
-                               notBefore="1041"
-                               notAfter="1060"
-                               evidence="epigraphy"
-                               resp="#MC">
+                     <origDate type="analysis" notBefore="1041" notAfter="1060" evidence="epigraphy" resp="#MC">
                         <seg xml:lang="en">Mid-11th c.</seg>
                         <seg xml:lang="de">Mitte 11. Jh.</seg>
                      </origDate>

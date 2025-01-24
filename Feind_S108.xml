@@ -1,9 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<!-- last changed before 1.0 version release 2021-08-02 -->
-<!-- last changed before 1.1 release: 2023-04-12 -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- last changed before 1.0 version release 2021-08-02 --><!-- last changed before 1.1 release: 2023-04-12 --><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <!-- schema location for users of the SigiDoc's version of EFES available at https://github.com/SigiDoc/SigiDoc-->
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
@@ -30,7 +25,7 @@
             <authority>ANR/DFG DigiByzSeal - Unlocking the Hidden Value of Seals: New Methodologies for Historical Research in Byzantine Studies</authority>
             <idno type="filename">Feind_S108</idno>
             <!--here goes the name of the file-->
-            <idno type="SigiDocID"/>
+            <idno type="SigiDocID">"s-wQE4Qs"</idno>
             <!--SigiDocID should be ignored for now-->
             <idno type="sequence"/>
             <!--you can add the sequence number of this specific seal in your digital corpus. It is not compulsory however-->
@@ -156,7 +151,7 @@
                               <seg xml:lang="el">Σφαιρικό</seg>
                            </rs>
                            <rs type="matrix" subtype="not-surviving">
-                              <idno type="SigiDoc"/>
+                              <idno type="SigiDoc">"m-zIZCl1"</idno>
                            </rs>
                         </layout>
                      </layoutDesc>
@@ -181,11 +176,7 @@
                                 <interp type="datingCriteria" xml:lang="de"/>
                             </origDate>-->
                      <!-- for a date range or centuries (NOT BEFORE - NOT AFTER)-->
-                     <origDate type="analysis"
-                               notBefore="0701"
-                               notAfter="0750"
-                               evidence=" epigraphy "
-                               resp="MC">
+                     <origDate type="analysis" notBefore="0701" notAfter="0750" evidence=" epigraphy " resp="MC">
                         <seg xml:lang="en">8th c., first half</seg>
                         <seg xml:lang="de">8. Jh., erste Hälfte.</seg>
                         <seg xml:lang="el">8ος αι., πρώτο μισό.</seg>

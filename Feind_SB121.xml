@@ -1,9 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -31,7 +26,7 @@
          <publicationStmt>
             <authority>ANR/DFG DigiByzSeal - Unlocking the Hidden Value of Seals: New Methodologies for Historical Research in Byzantine Studies</authority>
             <idno type="filename">Feind_SB121</idno>
-            <idno type="SigiDocID">s-iAENTp</idno>
+            <idno type="SigiDocID">"s-GuRayo"</idno>
             <idno type="sequence"/>
             <!--what to do with sequence for now?-->
             <date when="2025-01-04"/>
@@ -134,7 +129,7 @@
                               <seg xml:lang="en">Round</seg>
                            </rs>
                            <rs type="matrix" subtype="not-surviving">
-                              <idno type="SigiDoc"/>
+                              <idno type="SigiDoc">"m-k7Th1m"</idno>
                            </rs>
                         </layout>
                      </layoutDesc>
@@ -145,12 +140,7 @@
                      <origPlace>
                         <seg xml:lang="en"/>
                      </origPlace>
-                     <origDate type="analysis"
-                               notBefore="1101"
-                               notAfter="1200"
-                               evidence="epigraphy"
-                               cert="high"
-                               resp="#MC">
+                     <origDate type="analysis" notBefore="1101" notAfter="1200" evidence="epigraphy" cert="high" resp="#MC">
                         <seg xml:lang="en">12th c.</seg>
                         <seg xml:lang="de">12. Jh.</seg>
                      </origDate>
@@ -205,13 +195,9 @@
                      <decoDesc>
                         <decoNote>
                            <figure>
-                              <figDesc ana="person male saint St-George standing military spear"
-                                       n="r"
-                                       xml:lang="en">St George standing, holding a spear in his right hand.
+                              <figDesc ana="person male saint St-George standing military spear" n="r" xml:lang="en">St George standing, holding a spear in his right hand.
                                             Remnants of a legend at left.</figDesc>
-                              <figDesc ana="person male saint St-George standing military spear"
-                                       n="r"
-                                       xml:lang="de">Stehender Hl. Georgios, der einen Speer in der rechten
+                              <figDesc ana="person male saint St-George standing military spear" n="r" xml:lang="de">Stehender Hl. Georgios, der einen Speer in der rechten
                                             Hand hält. Reste einer Legende auf der linken
                                             Seite.</figDesc>
                               <figDesc ana="" n="decoR" xml:lang="en">Border of dots.</figDesc>

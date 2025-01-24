@@ -1,9 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -32,7 +27,7 @@
          <publicationStmt>
             <authority>ANR/DFG DigiByzSeal - Unlocking the Hidden Value of Seals: New Methodologies for Historical Research in Byzantine Studies</authority>
             <idno type="filename">Feind_S217</idno>
-            <idno type="SigiDocID">s-ql3ilU</idno>
+            <idno type="SigiDocID">"s-8UUNuj"</idno>
             <idno type="sequence"/>
             <!--what to do with sequence for now?-->
             <date when="2025-01-12"/>
@@ -67,8 +62,7 @@
                   </persName>
                   <!-- <idno type="PBW" ana=""></idno>
                         <idno type="PmbZ" ana=""></idno>-->
-                  <idno type="PLRE"
-                        ana="https://archive.org/details/prosopography-later-roman-empire/PLRE-III-B/page/n221/mode/2up">Stephanus 42</idno>
+                  <idno type="PLRE" ana="https://archive.org/details/prosopography-later-roman-empire/PLRE-III-B/page/n221/mode/2up">Stephanus 42</idno>
                </person>
                <idno/>
             </listPerson>
@@ -161,7 +155,7 @@
                               <seg xml:lang="el">Σφαιρικό</seg>
                            </rs>
                            <rs type="matrix" subtype="not-surviving">
-                              <idno type="SigiDoc"/>
+                              <idno type="SigiDoc">"m-G7IqRp"</idno>
                            </rs>
                         </layout>
                      </layoutDesc>
@@ -180,12 +174,7 @@
                                 <seg xml:lang="en">1192 CE</seg>
                             </origDate>-->
                      <!-- for a date range or centuries-->
-                     <origDate type="analysis"
-                               notBefore="0651"
-                               notAfter="0700"
-                               evidence="epigraphy"
-                               cert="high"
-                               resp="#MC">
+                     <origDate type="analysis" notBefore="0651" notAfter="0700" evidence="epigraphy" cert="high" resp="#MC">
                         <seg xml:lang="en">7th c., second half.</seg>
                         <seg xml:lang="de">7. Jh., zweite Hälfte.</seg>
                         <seg xml:lang="el">7ος αι., δεύτερο μισό.</seg>

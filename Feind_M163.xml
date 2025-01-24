@@ -1,9 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -31,7 +26,7 @@
          <publicationStmt>
             <authority>ANR/DFG DigiByzSeal - Unlocking the Hidden Value of Seals: New Methodologies for Historical Research in Byzantine Studies</authority>
             <idno type="filename">Feind_M163</idno>
-            <idno type="SigiDocID">s-rlQL6F</idno>
+            <idno type="SigiDocID">"s-k2XLSu"</idno>
             <idno type="sequence"/>
             <!--what to do with sequence for now?-->
             <date when="2025-01-02"/>
@@ -132,7 +127,7 @@
                               <seg xml:lang="en">Round</seg>
                            </rs>
                            <rs type="matrix" subtype="not-surviving">
-                              <idno type="SigiDoc"/>
+                              <idno type="SigiDoc">"m-l7ECDm"</idno>
                            </rs>
                         </layout>
                      </layoutDesc>
@@ -143,12 +138,7 @@
                      <origPlace>
                         <seg xml:lang="en"/>
                      </origPlace>
-                     <origDate type="analysis"
-                               notBefore="0601"
-                               notAfter="0650"
-                               evidence="epigraphy"
-                               cert="high"
-                               resp="#MC">
+                     <origDate type="analysis" notBefore="0601" notAfter="0650" evidence="epigraphy" cert="high" resp="#MC">
                         <seg xml:lang="en">7th c., first half.</seg>
                         <seg xml:lang="de">7. Jh., erste Hälfte.</seg>
                      </origDate>

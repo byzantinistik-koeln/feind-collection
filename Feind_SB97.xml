@@ -1,9 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -35,7 +30,7 @@
          <publicationStmt>
             <authority>ANR/DFG DigiByzSeal - Unlocking the Hidden Value of Seals: New Methodologies for Historical Research in Byzantine Studies</authority>
             <idno type="filename">Feind_SB97</idno>
-            <idno type="SigiDocID">s-ql3ilU</idno>
+            <idno type="SigiDocID">"s-WImtkl"</idno>
             <idno type="sequence"/>
             <!--what to do with sequence for now?-->
             <date when="2025-01-13"/>
@@ -168,7 +163,7 @@
                               <seg xml:lang="el">Σφαιρικό</seg>
                            </rs>
                            <rs type="matrix" subtype="not-surviving">
-                              <idno type="SigiDoc"/>
+                              <idno type="SigiDoc">"m-UZHQmS"</idno>
                            </rs>
                         </layout>
                      </layoutDesc>
@@ -187,12 +182,7 @@
                                 <seg xml:lang="en">1192 CE</seg>
                             </origDate>-->
                      <!-- for a date range or centuries-->
-                     <origDate type="analysis"
-                               notBefore="1041"
-                               notAfter="1060"
-                               evidence="epigraphy"
-                               cert="high"
-                               resp="#MC">
+                     <origDate type="analysis" notBefore="1041" notAfter="1060" evidence="epigraphy" cert="high" resp="#MC">
                         <seg xml:lang="en">Mid-11th c.</seg>
                         <seg xml:lang="de">Mitte des 11. Jahrhunderts.</seg>
                         <seg xml:lang="el">Μέσα 11ου αι..</seg>
@@ -264,18 +254,12 @@
                      <decoDesc>
                         <decoNote>
                            <figure>
-                              <figDesc ana="female person Virgin Christ bust child medallion"
-                                       n="r"
-                                       xml:lang="en">Bust of the Mother of God with the medallion of Christ
+                              <figDesc ana="female person Virgin Christ bust child medallion" n="r" xml:lang="en">Bust of the Mother of God with the medallion of Christ
                                             before her. Details indistinct. Sigla on either
                                             side.</figDesc>
-                              <figDesc ana="female person Virgin Christ bust child medallion"
-                                       n="r"
-                                       xml:lang="de">Büste der Gottesmutter mit dem Medaillon Christi vor
+                              <figDesc ana="female person Virgin Christ bust child medallion" n="r" xml:lang="de">Büste der Gottesmutter mit dem Medaillon Christi vor
                                             ihr. Details unklar. Sigla auf beiden Seiten.</figDesc>
-                              <figDesc ana="female person Virgin Christ bust child medallion"
-                                       n="r"
-                                       xml:lang="el">Προτομή της Θεοτόκου με το μετάλλιο του Χριστού μπροστά
+                              <figDesc ana="female person Virgin Christ bust child medallion" n="r" xml:lang="el">Προτομή της Θεοτόκου με το μετάλλιο του Χριστού μπροστά
                                             της. Οι λεπτομέρειες δεν είναι διακριτές. Σίγλλα και
                                             στις δύο πλευρές.</figDesc>
                               <figDesc ana="" n="decoR" xml:lang="en">Border of dots.</figDesc>

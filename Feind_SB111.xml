@@ -1,9 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -34,7 +29,7 @@
          <publicationStmt>
             <authority>ANR/DFG DigiByzSeal - Unlocking the Hidden Value of Seals: New Methodologies for Historical Research in Byzantine Studies</authority>
             <idno type="filename">Feind_SB111</idno>
-            <idno type="SigiDocID">s-c4vFYh</idno>
+            <idno type="SigiDocID">"s-w38ZZZ"</idno>
             <idno type="sequence"/>
             <!--what to do with sequence for now?-->
             <date when="2025-01-02"/>
@@ -58,9 +53,7 @@
                      <forename>N.</forename>
                      <surname>Libellisios</surname>
                   </persName>
-                  <idno type="PBW"
-                        ana="http://pbw2016.kdl.kcl.ac.uk/person/Ioannes/20154/"
-                        cert="low">Ioannes 20154</idno>
+                  <idno type="PBW" ana="http://pbw2016.kdl.kcl.ac.uk/person/Ioannes/20154/" cert="low">Ioannes 20154</idno>
                   <!--<idno type="PmbZ" ana=""></idno>-->
                </person>
                <idno/>
@@ -142,7 +135,7 @@
                               <seg xml:lang="en">Round</seg>
                            </rs>
                            <rs type="matrix" subtype="not-surviving">
-                              <idno type="SigiDoc"/>
+                              <idno type="SigiDoc">"m-VKpbDH"</idno>
                            </rs>
                         </layout>
                      </layoutDesc>
@@ -153,12 +146,7 @@
                      <origPlace>
                         <seg xml:lang="en"/>
                      </origPlace>
-                     <origDate type="analysis"
-                               notBefore="1051"
-                               notAfter="1100"
-                               evidence="epigraphy"
-                               cert="high"
-                               resp="#MC">
+                     <origDate type="analysis" notBefore="1051" notAfter="1100" evidence="epigraphy" cert="high" resp="#MC">
                         <seg xml:lang="en">11th c., second half.</seg>
                         <seg xml:lang="de">11. Jh., zweite Hälfte.</seg>
                      </origDate>
@@ -213,14 +201,10 @@
                      <decoDesc>
                         <decoNote>
                            <figure>
-                              <figDesc ana="person male saint St-Nicholas blessing standing gospel bishop"
-                                       n="r"
-                                       xml:lang="en">A saint standing (probably St Nicholas), offering a
+                              <figDesc ana="person male saint St-Nicholas blessing standing gospel bishop" n="r" xml:lang="en">A saint standing (probably St Nicholas), offering a
                                             blessing with his right hand, and holding the book in
                                             his left. Details indistinct.</figDesc>
-                              <figDesc ana="person male saint St-Nicholas blessing standing gospel bishop"
-                                       n="r"
-                                       xml:lang="de">Stehender Heiliger (wahrscheinlich Hl. Nikolaos), der
+                              <figDesc ana="person male saint St-Nicholas blessing standing gospel bishop" n="r" xml:lang="de">Stehender Heiliger (wahrscheinlich Hl. Nikolaos), der
                                             einen Segen mit der rechten Hand gibt und ein Buch in
                                             seiner linken Hand hält. Details undeutlich.</figDesc>
                               <figDesc ana="" n="decoR" xml:lang="en">Border of dots.</figDesc>
