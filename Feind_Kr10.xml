@@ -38,7 +38,7 @@
          </publicationStmt>
          <sourceDesc>
             <listPerson type="issuer">
-               <person role=" military" gender="M">
+               <person role="military" gender="M">
                   <persName xml:lang="en">
                      <forename>Bardas</forename>
                   </persName>
@@ -86,12 +86,12 @@
                   </summary>
                   <msItem>
                      <author>
-                        <roleName role="issuer" type=" military">
+                        <roleName role="issuer" type="military">
                            <seg xml:lang="en">
-                              <forename>Bardas </forename>
+                              <forename>Bardas</forename>
                            </seg>
                            <seg xml:lang="de">
-                              <forename>Bardas </forename>
+                              <forename>Bardas</forename>
                            </seg>
                            <seg xml:lang="el">
                               <forename>Βάρδας</forename>
@@ -179,7 +179,7 @@
                                 <interp type="datingCriteria" xml:lang="de"/>
                             </origDate>-->
                      <!-- for a date range or centuries (NOT BEFORE - NOT AFTER)-->
-                     <origDate type="analysis" notBefore="0901" notAfter="1000" evidence=" iconography" cert="low" resp="MC">
+                     <origDate type="analysis" notBefore="0901" notAfter="1000" evidence="iconography" cert="low" resp="MC">
                         <seg xml:lang="en">10th c.</seg>
                         <seg xml:lang="de">10. Jh.</seg>
                         <seg xml:lang="el">10ος αι.</seg>

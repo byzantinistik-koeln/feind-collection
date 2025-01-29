@@ -56,7 +56,6 @@
                   <idno type="PBW" ana="http://pbw2016.kdl.kcl.ac.uk/person/Ioannes/20154/" cert="low">Ioannes 20154</idno>
                   <!--<idno type="PmbZ" ana=""></idno>-->
                </person>
-               <idno/>
             </listPerson>
             <msDesc>
                <msIdentifier>
@@ -278,7 +277,7 @@
                <desc xml:lang="de">[Bildbeschriftung]</desc>
             </graphic>
          </surface>
-      </surfaceGrp>
+               </surfaceGrp>
       <surfaceGrp>
          <surface n="v">
             <desc>Reverse</desc>
@@ -292,9 +291,9 @@
    <text>
       <body>
          <div type="edition" subtype="editorial" xml:space="preserve">
-                  <div type="textpart" n="obv" subtype="label" rend="columns" xml:lang="grc">
+                  <!--<div type="textpart" n="obv" subtype="label" rend="columns" xml:lang="grc">
                       <ab/>
-                  </div>
+                  </div>-->
                   <div type="textpart" n="rev" subtype="face" rend="linear" xml:lang="grc">
                       <ab ana="gen">
                           <lb n="1"/><rs type="office" subtype="civil" ref="#of0112"><supplied reason="lost">κρι</supplied>τοῦ</rs> 
@@ -336,7 +335,7 @@
                     Libellesios' selection of matrices. </p>
          </div>
          <div type="bibliography" subtype="parallels"><!--N. P. Lichačev, Molivdovuly grečeskogo vostoka, Moskow 1991. add to bibliography as "Lichačev1991" and Ch. Chotzakoglou, Byzantinische Bleisiegel aus Ungarn, SBS 6, 1999, 59-70 as "Chotzakoglou1999"!-->
-            <p>On followings seals, only the reverse is parallel to ours: (1) DO
+            <p>On following seals, only the reverse is parallel to ours: (1) DO
                     BZS.1951.31.5.1214 (Fogg Collection, no. 1214) – <bibl>
                   <ptr target="LaurentCorpus2"/>, no. <citedRange unit="entry">221</citedRange>
                </bibl>; <bibl>
