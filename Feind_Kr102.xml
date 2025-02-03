@@ -327,17 +327,17 @@
       <body>
          <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"> <!--change the language code according to the language of your edition, the values (also when combined, e.g. Greek-Latin) are in the guidelines. Same goes for what comes next, textpart etc.-->
                   <div type="textpart" subtype="face" n="obv" rend="circular" xml:lang="grc"> <!--obverse, editorial-->
-                      <ab>
-                          <lb n="1"/><supplied reason="lost">+<expan><abbr>Κ</abbr><ex>ύρι</ex><abbr>ε</abbr></expan> βοήθει τ</supplied>ῷ σῷ <expan><abbr>δούλ</abbr><ex>ῳ</ex></expan>
+                      <ab ana="dat">
+                          <lb n="1"/><rs type="invocation" ref="#inv004"><supplied reason="lost"><expan><abbr>Κ</abbr><ex>ύρι</ex><abbr>ε</abbr></expan> βοήθει τ</supplied>ῷ σῷ <expan><abbr>δούλ</abbr><ex>ῳ</ex></expan></rs>
                       </ab>
                   </div>
                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
-                      <ab>
-                          <lb n="2"/>+Θ<supplied reason="lost">εοφ</supplied>
-                          <lb n="3" break="no"/>ανίο <supplied reason="lost"><expan><abbr>β</abbr><ex>ασιλικῷ</ex></expan></supplied> <expan><supplied reason="lost"><ex>πρωτο</ex><abbr>σπ</abbr></supplied>
-                          <lb n="4" break="no"/><abbr>αθαρ<supplied reason="lost">ίῳ</supplied></abbr></expan> 
-                          <lb n="5"/><expan><abbr>κ</abbr><ex>αὶ</ex></expan> <expan><abbr>στρ</abbr><supplied reason="lost"><abbr>ατ</abbr><ex>ηγῷ</ex></supplied></expan>
-                          <lb n="6"/><expan><supplied reason="lost"><abbr>Χ</abbr><ex>ε</ex></supplied><abbr>ρσό</abbr><supplied reason="lost"><abbr>ν</abbr><ex>ος</ex></supplied></expan>
+                      <ab ana="dat">
+                          <lb n="2"/>Θ<supplied reason="lost">εοφ</supplied>
+                          <lb n="3" break="no"/>ανίο <rs type="dignity" ref="#d0067"><supplied reason="lost"><expan><abbr>β</abbr><ex>ασιλικῷ</ex></expan></supplied> <expan><supplied reason="lost"><ex>πρωτο</ex><abbr>σπ</abbr></supplied>
+                          <lb n="4" break="no"/><abbr>αθαρ<supplied reason="lost">ίῳ</supplied></abbr></expan></rs> 
+                          <lb n="5"/><expan><abbr>κ</abbr><ex>αὶ</ex></expan> <rs type="office" subtype="military" ref="#of0279"><expan><abbr>στρ</abbr><supplied reason="lost"><abbr>ατ</abbr><ex>ηγῷ</ex></supplied></expan></rs>
+                          <lb n="6"/><placeName ref="#geo0056"><expan><supplied reason="lost"><abbr>Χ</abbr><ex>ε</ex></supplied><abbr>ρσό</abbr><supplied reason="lost"><abbr>ν</abbr><ex>ος</ex></supplied></expan></placeName>
                      </ab>
                   </div>
               </div>

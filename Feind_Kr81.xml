@@ -344,14 +344,13 @@
          <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"> <!--change the language code according to the language of your edition, the values (also when combined, e.g. Greek-Latin) are in the guidelines. Same goes for what comes next, textpart etc.-->
                   <div type="textpart" subtype="face" n="obv" rend="circular" xml:lang="grc"> <!--obverse, editorial-->
                       <ab ana="dat"> 
-                          <lb n="1"/><rs type="invocation" ref="#inv004" rend="circular"><expan><abbr>Κ</abbr><ex>ύρι</ex><abbr>ε</abbr></expan> βοήθη τῷ σῷ δούλῳ</rs>
-                          
+                          <lb n="1"/><rs type="invocation" ref="#inv004"><expan><abbr>Κ</abbr><ex>ύρι</ex><abbr>ε</abbr></expan> βοήθη τῷ σῷ δούλῳ</rs>
                       </ab>
                   </div>
                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
-                      <ab>
+                      <ab ana="dat">
                          <lb n="2"/>Βασι
-                            <lb n="3" break="no"/>λίῳ <rs type="office" subtype="civil" ref="#kοurator_002">κου
+                            <lb n="3" break="no"/>λίῳ <rs type="office" subtype="civil" ref="#of0107">κου
                             <lb n="4" break="no"/>ράτωρι τ
                             <lb n="5" break="no"/>οῦ στρα
                             <lb n="6" break="no"/>τιγοῦ</rs>

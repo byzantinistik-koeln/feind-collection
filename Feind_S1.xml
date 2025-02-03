@@ -334,9 +334,8 @@
       <body>
          <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"> <!--change the language code according to the language of your edition, the values (also when combined, e.g. Greek-Latin) are in the guidelines. Same goes for what comes next, textpart etc.-->
                   <div type="textpart" subtype="face" n="obv" rend="linear" xml:lang="grc"> <!--obverse, editorial-->
-                      
-                      <ab>
-                          <lb n="1"/><rs type="invocation" ref="#inv007"><expan><abbr>Θ</abbr><ex>εοτό</ex><abbr>κε</abbr> </expan>
+                         <ab ana="acc"><!--INVOCATION IS MISSING IN AUTHORITY-->
+                          <lb n="1"/><rs type="invocation"><expan><abbr>Θ</abbr><ex>εοτό</ex><abbr>κε</abbr> </expan>
                           <lb n="2"/>βοήθι 
                           <lb n="3"/>τὴν σὴν 
                           <lb n="4"/><expan><abbr>δούλ</abbr><ex>ηv</ex></expan></rs>
@@ -347,7 +346,7 @@
                       <ab ana="acc">
                                   
                              <lb n="5"/>Μα
-                              <lb n="6"/>ρήα <rs type="dignity" ref="#patrikia">πα
+                              <lb n="6"/>ρήα <rs type="dignity" ref="#d0046">πα
                               <lb n="7"/>τρική
                              <lb n="8"/>α</rs>
                       </ab>

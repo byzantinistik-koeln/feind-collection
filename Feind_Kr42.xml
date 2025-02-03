@@ -321,15 +321,15 @@
       <body>
          <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"> <!--change the language code according to the language of your edition, the values (also when combined, e.g. Greek-Latin) are in the guidelines. Same goes for what comes next, textpart etc.-->
                   <div type="textpart" subtype="face" n="obv" rend="circular" xml:lang="grc"> <!--obverse, editorial-->
-                      <ab>
-                          <lb n="1"/>+<expan><abbr>Κ</abbr><ex>ύρι</ex><abbr><supplied reason="lost">ε</supplied></abbr></expan> <expan><abbr>β</abbr><ex>οήθει</ex></expan> το σῷ δ<supplied reason="lost">ο</supplied>ύλῳ 
+                      <ab ana="dat">
+                          <lb n="1"/><rs type="invocation" ref="#inv004"><expan><abbr>Κ</abbr><ex>ύρι</ex><abbr><supplied reason="lost">ε</supplied></abbr></expan> <expan><abbr>β</abbr><ex>οήθει</ex></expan> το σῷ δ<supplied reason="lost">ο</supplied>ύλῳ</rs> 
                       </ab>
                   </div>
                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
-                      <ab>
-                          <lb n="2"/>+Νη
+                      <ab ana="gen">
+                          <lb n="2"/>Νη
                           <lb n="3" break="no"/>κωλάου 
-                          <lb n="4"/><expan><abbr>ἄρχων</abbr><supplied reason="lost"><abbr>τ</abbr><ex>ος</ex></supplied></expan> 
+                          <lb n="4"/><rs type="office" subtype="civil" ref="#of0031"><expan><abbr>ἄρχων</abbr><supplied reason="lost"><abbr>τ</abbr><ex>ος</ex></supplied></expan></rs> 
                           <lb n="5"/><expan><abbr>Διμιτ</abbr><ex>ριάδος</ex></expan>
                                                 </ab>
                   </div>

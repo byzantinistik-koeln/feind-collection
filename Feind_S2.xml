@@ -335,22 +335,21 @@
       <body>
          <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"> <!--change the language code according to the language of your edition, the values (also when combined, e.g. Greek-Latin) are in the guidelines. Same goes for what comes next, textpart etc.-->
                   <div type="textpart" subtype="face" n="obv" rend="linear" xml:lang="grc"> <!--obverse, editorial-->
-                      
-                      <ab ana="dat">
-                            <lb n="1"/><rs type="invocation" ref="#inv004"><expan><abbr>Κύ</abbr><ex>ριε</ex> <abbr>βο</abbr><ex>ή</ex><abbr>θ</abbr><ex>ει</ex></expan>
-                               <lb n="2"/><supplied reason="lost">τῷ</supplied>σῷ <expan><abbr> δού</abbr><ex>λῳ</ex> </expan></rs>
-                               <lb n="3"/><persName type="forename" ref="#Michael-5"><supplied reason="lost">Μ</supplied>ιχαήλ </persName>
-                               <lb n="4"/><rs type="dignity" ref="#patrikios"><supplied reason="lost">π<ex>ατ</ex></supplied>ρι<ex>κίῳ</ex></rs> <rs type="office" subtype="civil" ref="#krites_002"><expan><abbr>κριτ</abbr><ex>ῇ</ex> </expan>
-                               <lb n="5"/>τοῦ <expan><abbr>βήλ</abbr><ex>ου</ex></expan></rs>
+                           <ab ana="dat">
+                            <lb n="1"/><rs type="invocation" ref="#inv004"><expan><abbr>Κύ</abbr><ex>ριε</ex></expan> <expan><abbr>βο</abbr><ex>ή</ex><abbr>θ</abbr><ex>ει</ex></expan>
+                               <lb n="2"/><supplied reason="lost">τῷ</supplied> σῷ <expan><abbr>δού</abbr><ex>λῳ</ex></expan></rs>
+                               <lb n="3"/><supplied reason="lost">Μ</supplied>ιχαήλ 
+                               <lb n="4"/><rs type="dignity" ref="#d0047"><expan><supplied reason="lost"><abbr>π</abbr><ex>ατ</ex></supplied><abbr>ρι</abbr><ex>κίῳ</ex></expan></rs> <rs type="office" subtype="civil" ref="#of0112"><expan><abbr>κριτ</abbr><ex>ῇ</ex></expan></rs>
+                               <lb n="5"/>τοῦ <rs type="institution" ref="org0007"><expan><abbr>βήλ</abbr><ex>ου</ex></expan></rs>
                       </ab>
                   </div>
                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
                       <ab>
-                          <lb n="6"/><rs type="office" subtype="civil" ref="#krites_003">τοῦ ἱππο
-                          <lb n="7" break="no"/>δρόμου </rs><rs type="office" subtype="civil" ref="#krites_007"><placeName type="geography" ref="#geo0019"><supplied reason="lost">Βο</supplied>
-                          <lb n="8"/>λερ<ex>οῦ</ex> Στρ<supplied reason="lost">υμ<ex>ό</ex></supplied>
-                          <lb n="9" break="no"/>νο<ex>ς</ex> <ex>καὶ</ex> Θεσ<supplied reason="lost">σα</supplied>
-                          <lb n="10" break="no"/>λονίκ<supplied reason="lost">ης</supplied></placeName></rs>
+                          <lb n="6"/><rs type="institution" ref="#org0017">τοῦ ἱππο
+                          <lb n="7" break="no"/>δρόμου</rs> <placeName type="geography" ref="#geo0094"><expan><abbr><supplied reason="lost">Βο</supplied>
+                          <lb n="8"/>λερ</abbr><ex>οῦ</ex></expan></placeName> <placeName ref="#geo0088"><expan><abbr>Στρ</abbr><supplied reason="lost"><abbr>υμ</abbr><ex>ό</ex></supplied>
+                          <lb n="9" break="no"/><abbr>νο</abbr><ex>ς</ex></expan></placeName> <expan><abbr><am>S</am></abbr><ex>καὶ</ex></expan> <placeName ref="#geo0027">Θεσ<supplied reason="lost">σα</supplied>
+                          <lb n="10" break="no"/>λονίκ<supplied reason="lost">ης</supplied></placeName>
                       </ab>
                   </div>
               </div>
@@ -383,7 +382,7 @@
             </listApp>
          </div>
          <div type="translation">
-            <p>Κύριε βοήθει τῷ σῷ δούλῳ Μιχαήλ πατρικίῳ, κριτῇ τοῦ βήλου,/ τοῦ ἱπποδρόμου, Βολεροῦ Στρυμόνος καὶ Θεσσαλονίκης.</p>
+            <p>Κύριε βοήθει τῷ σῷ δούλῳ Μιχαήλ πατρικίῳ κριτῇ τοῦ βήλου / τοῦ ἱπποδρόμου Βολεροῦ Στρυμόνος καὶ Θεσσαλονίκης.</p>
             <p xml:lang="en">Lord, help your servant Michael patrikios, krites of the velum, of the hippodrome, and of Boleron, Strymon, and Thessalonike.</p>
             <p xml:lang="de">Herr, hilf deinem Diener Michael Patrikios, Krites des Velums, des Hippodroms und von Boleron, Strymon und Thessalonike.</p>
             <p xml:lang="el">Κύριε, βοήθησε τον δούλο σου Μιχαήλ πατρίκιο, κριτή του βήλου, του ιπποδρόμου, του Βολερού, Στρυμόνος και της Θεσσαλονίκης.</p>

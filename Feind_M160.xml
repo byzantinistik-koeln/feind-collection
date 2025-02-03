@@ -278,9 +278,9 @@
                   <div type="textpart" n="obv" subtype="face" rend="monogram-cross" xml:lang="grc">
                       <ab ana="gen"><lb n="1"/><expan><ex>Μαρτίνου</ex></expan></ab>
                   </div>
-                  <div type="textpart" n="rev" subtype="face" rend="monogram-cross" xml:lang="grc"><!--stratelates both office and dignitary-->
+                  <div type="textpart" n="rev" subtype="face" rend="monogram-cross" xml:lang="grc">
                       <ab ana="gen">
-                          <lb n="1"/><rs type="office" subtype="military" ref="#of0281"><rs type="dignitary" ref="#d0083"><expan><ex>στρατηλάτου</ex></expan></rs></rs>
+                          <lb n="1"/><rs type="dignitary" ref="#d0083"><expan><ex>στρατηλάτου</ex></expan></rs>
                       </ab>
                   </div>
               </div>

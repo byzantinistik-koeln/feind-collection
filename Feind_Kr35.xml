@@ -353,17 +353,17 @@
          <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"> <!--change the language code according to the language of your edition, the values (also when combined, e.g. Greek-Latin) are in the guidelines. Same goes for what comes next, textpart etc.-->
                   <div type="textpart" subtype="face" n="obv" rend="circular" xml:lang="grc"> <!--obverse, editorial-->
                       <ab ana="dat">
-                          <lb n="1"/><rs type="invocation" ref="#inv004" rend="circular"><expan><abbr>Κ</abbr><ex>ύρι</ex><abbr>ε </abbr></expan>βοήθη τῷ σῷ δούλῳ</rs>
+                          <lb n="1"/><rs type="invocation" ref="#inv004"><expan><abbr>Κ</abbr><ex>ύρι</ex><abbr>ε </abbr></expan>βοήθη τῷ σῷ δούλῳ</rs>
                           
                       </ab>
                   </div>
                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
-                      <ab>
-                          <lb n="2"/>Βάρδᾳ <rs type="dignity" ref="#magistros"><expan><abbr>μα
-                           <lb n="3" break="no"/>γ</abbr><ex>ίστρῳ</ex></expan></rs>, <rs type="dignity" ref="#anthypatos"><expan><abbr>ἀνθυπάτ</abbr><ex>ῳ</ex></expan></rs>, <rs type="dignity" ref="#patrikios"><expan><abbr>πα
-                           <lb n="4" break="no"/> τρικί</abbr><ex>ῳ</ex></expan></rs>, <rs type="dignity" ref="#imp-prosospatharios"><expan><abbr>β</abbr><ex>ασιλικῷ</ex> </expan> <expan><ex>πρωτο</ex><abbr>σπαθαρί</abbr><ex>ῳ</ex></expan></rs>
-                           <lb n="5"/> <ex>καὶ</ex> <rs type="office" subtype="military" ref="#domestikos_003"><expan><abbr>δομεστίκ</abbr><ex>ῳ</ex></expan> τῶν 
-                           <lb n="6"/> σχολῶν</rs>
+                      <ab ana="dat">
+                          <lb n="2"/>Βάρδᾳ <rs type="dignity" ref="#d0038"><expan><abbr>μα
+                           <lb n="3" break="no"/>γ</abbr><ex>ίστρῳ</ex></expan></rs> <rs type="dignity" ref="#d0006"><expan><abbr>ἀνθυπάτ</abbr><ex>ῳ</ex></expan> <expan><abbr>πα
+                           <lb n="4" break="no"/>τρικί</abbr><ex>ῳ</ex></expan></rs> <rs type="dignity" ref="#d0067"><expan><abbr>β</abbr><ex>ασιλικῷ</ex></expan> <expan><abbr><am>Α</am></abbr><ex>πρωτο</ex><abbr>σπαθαρί</abbr><ex>ῳ</ex></expan></rs>
+                           <lb n="5"/><expan><abbr><am>S</am></abbr><ex>καὶ</ex></expan> <rs type="office" subtype="military" ref="#of0243"><expan><abbr>δομεστίκ</abbr><ex>ῳ</ex></expan></rs> τῶν 
+                           <lb n="6"/><rs type="institution" ref="#org0086">σχολῶν</rs>
                       </ab>
                   </div>
               </div>
@@ -393,7 +393,7 @@
             </listApp>
          </div>
          <div type="translation">
-            <p>Κύριε βοήθη τῷ σῷ δούλῳ/ Βάρδᾳ μαγίστρῳ, ἀνθυπάτῳ, πατρικίῳ, βασιλικῷ πρωτοσπαθαρίῳ καὶ δομεστίκῳ τῶν σχολῶν.</p>
+            <p>Κύριε βοήθη τῷ σῷ δούλῳ / Βάρδᾳ μαγίστρῳ, ἀνθυπάτῳ, πατρικίῳ, βασιλικῷ πρωτοσπαθαρίῳ καὶ δομεστίκῳ τῶν σχολῶν.</p>
             <p xml:lang="en">Lord, help your servant Bardas magistros, anthypatos, patrikios, imperial protospatharios, and domestikos of the Scholai.</p>
             <p xml:lang="de">Herr, hilf deinem Diener Barda magistros, anthypatos, patrikios, kaiserlicher protospatharios und domestikos der Scholai.</p>
             <p xml:lang="el">Κύριε βοήθησε τον δούλο σου Βάρδα, μάγιστρο, ανθύπατο, πατρίκιο βασιλικό πρωτοσπαθάριο και δομέστικο των σχολών. </p>
