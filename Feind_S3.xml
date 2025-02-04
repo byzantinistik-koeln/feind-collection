@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- last changed before 1.0 version release 2021-08-02 --><!-- last changed before 1.1 release: 2023-04-12 --><?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <!-- schema location for users of the SigiDoc's version of EFES available at https://github.com/SigiDoc/SigiDoc-->
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- last changed before 1.0 version release 2021-08-02 --><!-- last changed before 1.1 release: 2023-04-12 --><?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <!-- schema location for users of the SigiDoc's version of EFES available at https://github.com/SigiDoc/SigiDoc-->
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -10,7 +11,9 @@
             <editor role="seal-editor" xml:id="MF">Martina Filosa</editor>
             <editor role="seal-editor" xml:id="CS">Claudia Sode</editor>
             <funder>
-               <orgName corresp="https://anr.fr/">Agence Nationale de la Recherche (ANR)</orgName>, France /<orgName corresp="https://www.dfg.de/">Deutsche Forschungsgemeinschaft(DFG)</orgName>, Deutschland.</funder>
+               <orgName corresp="https://anr.fr/">Agence Nationale de la Recherche (ANR)</orgName>,
+               France /<orgName corresp="https://www.dfg.de/">Deutsche
+                  Forschungsgemeinschaft(DFG)</orgName>, Deutschland.</funder>
             <principal>Claudia Sode</principal>
             <!--here go the editors of the printed record, when available-->
          </titleStmt>
@@ -23,7 +26,8 @@
             <!-- here the editor of the digital edition should be defined. If he/she already appears above as editor of the seal, you can refer to them with a ref attribute and point to the xml:id with a #; if they appear for the first time, you should write a new xml:id as you did above on line 14 and 15. As an example I referred to MF as defined on l. 15 and added a new xml:id for, e.g., Pia-->
          </editionStmt>
          <publicationStmt>
-            <authority>ANR/DFG DigiByzSeal - Unlocking the Hidden Value of Seals: New Methodologies for Historical Research in Byzantine Studies</authority>
+            <authority>ANR/DFG DigiByzSeal - Unlocking the Hidden Value of Seals: New Methodologies
+               for Historical Research in Byzantine Studies</authority>
             <idno type="filename">Feind_S3</idno>
             <!--here goes the name of the file-->
             <idno type="SigiDocID">"s-aK2TIh"</idno>
@@ -33,8 +37,9 @@
             <date when="2023-04-17"/>
             <!--change the date according to what you need-->
             <availability>
-               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International - CC BY-NC-SA
-                        4.0</licence>
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/"
+                  >Attribution-NonCommercial-ShareAlike 4.0 International - CC BY-NC-SA
+                  4.0</licence>
             </availability>
          </publicationStmt>
          <sourceDesc>
@@ -113,10 +118,9 @@
                                  <seg xml:lang="de">Siegel</seg>
                                  <seg xml:lang="el">Μολυβδόβουλλο</seg>
                               </term>
-                              <interp type="workType" xml:lang="en">Original
-                                            impression</interp>
+                              <interp type="workType" xml:lang="en">Original impression</interp>
                               <interp type="workType" xml:lang="de">Origineller
-                                            Siegelabdruck</interp>
+                                 Siegelabdruck</interp>
                               <interp type="workType" xml:lang="el">Αρχική αποτύπωση</interp>
                            </objectType>
                            <material>
@@ -177,7 +181,8 @@
                                 <interp type="datingCriteria" xml:lang="de"/>
                             </origDate>-->
                      <!-- for a date range or centuries (NOT BEFORE - NOT AFTER)-->
-                     <origDate type="analysis" notBefore="1066" notAfter="1100" evidence=" epigraphy" cert="low" resp="MC">
+                     <origDate type="analysis" notBefore="1066" notAfter="1100"
+                        evidence=" epigraphy" cert="low" resp="MC">
                         <seg xml:lang="en">11th c., last third.</seg>
                         <seg xml:lang="de">11. Jh., letztes Drittel. </seg>
                         <seg xml:lang="el">11ος αι, τελευταίο τρίτο. </seg>
@@ -237,7 +242,7 @@
                      </objectDesc>
                      <handDesc>
                         <handNote n="r">
-                                    <!--NB: in this field you can refer to epigraphic features on the seal using also AthenaRuby-->
+                           <!--NB: in this field you can refer to epigraphic features on the seal using also AthenaRuby-->
                            <seg xml:lang="en">Ζ retrograde</seg>
                            <seg xml:lang="de"> Ζ rückläufig </seg>
                            <seg xml:lang="de"> Ζ ανάποδο </seg>
@@ -248,9 +253,12 @@
                            <figure>
                               <figDesc ana="" n="r" xml:lang="en"/>
                               <figDesc ana="" n="r" xml:lang="de"/>
-                              <figDesc ana="" n="decoR" xml:lang="en">Cross at the beginning of the legend. Border of tight dots.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="de">Vorangestelltes Kreuz. Perlrand.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="el"> Σταυρός στην αρχή της επιγραφής. Στικτό πλαίσιο.</figDesc>
+                              <figDesc ana="" n="decoR" xml:lang="en">Cross at the beginning of the
+                                 legend. Border of tight dots.</figDesc>
+                              <figDesc ana="" n="decoR" xml:lang="de">Vorangestelltes Kreuz.
+                                 Perlrand.</figDesc>
+                              <figDesc ana="" n="decoR" xml:lang="el"> Σταυρός στην αρχή της
+                                 επιγραφής. Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -265,10 +273,8 @@
                         <seg xml:lang="en">Reverse</seg>
                      </summary>
                      <textLang n="v" mainLang="grc">
-                        <seg xml:lang="en">greek
-            </seg>
-                        <seg xml:lang="fr">grec
-            </seg>
+                        <seg xml:lang="en">greek </seg>
+                        <seg xml:lang="fr">grec </seg>
                      </textLang>
                   </msContents>
                   <physDesc>
@@ -286,7 +292,7 @@
                      </objectDesc>
                      <handDesc>
                         <handNote n="v">
-                                    <!--NB: in this field you can refer to epigraphic features on the seal using also AthenaRuby-->
+                           <!--NB: in this field you can refer to epigraphic features on the seal using also AthenaRuby-->
                            <seg xml:lang="en"/>
                            <seg xml:lang="de"/>
                         </handNote>
@@ -308,7 +314,8 @@
          </sourceDesc>
       </fileDesc>
       <revisionDesc>
-         <change when="2023-04-17" who="#SE">First correction of the XML file according to the new schema.</change>
+         <change when="2023-04-17" who="#SE">First correction of the XML file according to the new
+            schema.</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -333,27 +340,24 @@
    </facsimile>
    <text>
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc">
+         <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"><!--CHECK METRIC ENCODING WITH PARTS-->
     <div type="textpart" subtype="face" n="obv" rend="linear" xml:lang="grc">
-        <lg met="dodecasyllable">
-            <l n="1">
-                <lb n="1"/>
-                <w lemma="λόγος">Λό<lb n="2" break="no"/>γους</w>
-                <lb n="3"/>
-                <w lemma="σφραγίζω">σφρα<lb n="4" break="no"/>γίζω</w>
+        <lg type="metrical" met="dodecasyllable" subtype="true">
+            <l n="1" part="1">
+                <lb n="1"/>Λό
+               <lb n="2" break="no"/>γους
+                <lb n="3"/>σφρα
+               <lb n="4" break="no"/>γίζω
             </l>
         </lg>
     </div>
     <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc">
-        <lg met="dodecasyllable">
-            <l n="2">
-                <lb n="5"/>
-                <w lemma="καί">
-                    <expan><ex>καὶ</ex></expan> γρα<lb n="6" break="no"/>φὰς
-                </w>
-                <persName type="forename" ref="#nikephoros-2">
-                    <w lemma="Νικηφόρος">Νι<lb n="7" break="no"/>κηφό<lb n="8" break="no"/>ρου</w>
-                </persName>
+        <lg type="metrical" met="dodecasyllable" subtype="true">
+            <l n="1" part="2">
+                <lb n="5"/><expan><abbr><am>S</am></abbr><ex>καὶ</ex></expan> γρα
+               <lb n="6" break="no"/>φὰς Νι
+               <lb n="7" break="no"/>κηφό
+               <lb n="8" break="no"/>ρου
             </l>
         </lg>
     </div>
@@ -384,7 +388,7 @@
          <div type="translation">
             <p>Λόγους σφραγίζω / καὶ γραφὰς Νικηφόρου.</p>
             <p xml:lang="en">I seal the words and the letters of Nikephoros.</p>
-            <p xml:lang="de">Ich siegele die Wörter und die Schriften des Nikephoros.</p>
+            <p xml:lang="de">Ich siegle die Wörter und die Schriften des Nikephoros.</p>
             <p xml:lang="el">Σφραγίζω τους λόγους και τα γράμματα του Νικηφόρου.</p>
          </div>
          <div type="commentary" subtype="text"/>
@@ -392,22 +396,26 @@
          <div type="bibliography" subtype="edition">
             <p>
                <bibl>
-                  <ptr target="Feind2010"/>, <citedRange unit="page">p. 165</citedRange>, <citedRange unit="part">nο. 25</citedRange>.</bibl>
+                  <ptr target="Feind2010"/>, <citedRange unit="page">p. 165</citedRange>,
+                     <citedRange unit="part">nο. 25</citedRange>.</bibl>
             </p>
          </div>
-         <div type="bibliography" subtype="parallels"> <!--if you don't have parallels, put this div in a comment-->
+         <div type="bibliography" subtype="parallels">
+            <!--if you don't have parallels, put this div in a comment-->
             <p>
                <bibl>
-<!--                          <ptr target=""/>, <citedRange unit=""/>
--->                      </bibl>
+                  <!--                          <ptr target=""/>, <citedRange unit=""/>
+-->
+               </bibl>
             </p>
          </div>
-         <div type="bibliography" subtype="discussion"> <!--if you don't have further bibliography, put this div in a comment-->
+         <div type="bibliography" subtype="discussion">
+            <!--if you don't have further bibliography, put this div in a comment-->
             <p>
-                      <!--<bibl>
+               <!--<bibl>
                           <ptr target=""/>, <citedRange unit=""/>
                       </bibl>-->
-                  </p>
+            </p>
          </div>
       </body>
    </text>

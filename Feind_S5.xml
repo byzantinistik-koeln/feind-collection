@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- last changed before 1.0 version release 2021-08-02 --><!-- last changed before 1.1 release: 2023-04-12 --><TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <!-- schema location for users of the SigiDoc's version of EFES available at https://github.com/SigiDoc/SigiDoc-->
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- last changed before 1.0 version release 2021-08-02 --><!-- last changed before 1.1 release: 2023-04-12 -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <!-- schema location for users of the SigiDoc's version of EFES available at https://github.com/SigiDoc/SigiDoc-->
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
@@ -10,7 +11,9 @@
             <editor role="seal-editor" xml:id="MF">Martina Filosa</editor>
             <editor role="seal-editor" xml:id="CS">Claudia Sode</editor>
             <funder>
-               <orgName corresp="https://anr.fr/">Agence Nationale de la Recherche (ANR)</orgName>, France /<orgName corresp="https://www.dfg.de/">Deutsche Forschungsgemeinschaft(DFG)</orgName>, Deutschland.</funder>
+               <orgName corresp="https://anr.fr/">Agence Nationale de la Recherche (ANR)</orgName>,
+               France /<orgName corresp="https://www.dfg.de/">Deutsche
+                  Forschungsgemeinschaft(DFG)</orgName>, Deutschland.</funder>
             <principal>Claudia Sode</principal>
             <!--here go the editors of the printed record, when available-->
          </titleStmt>
@@ -22,7 +25,8 @@
             <!-- here the editor of the digital edition should be defined. If he/she already appears above as editor of the seal, you can refer to them with a ref attribute and point to the xml:id with a #; if they appear for the first time, you should write a new xml:id as you did above on line 14 and 15. As an example I referred to MF as defined on l. 15 and added a new xml:id for, e.g., Pia-->
          </editionStmt>
          <publicationStmt>
-            <authority>ANR/DFG DigiByzSeal - Unlocking the Hidden Value of Seals: New Methodologies for Historical Research in Byzantine Studies</authority>
+            <authority>ANR/DFG DigiByzSeal - Unlocking the Hidden Value of Seals: New Methodologies
+               for Historical Research in Byzantine Studies</authority>
             <idno type="filename">Feind_S5</idno>
             <!--here goes the name of the file-->
             <idno type="SigiDocID">"s-XvpqUl"</idno>
@@ -32,8 +36,9 @@
             <date when="2023-04-17"/>
             <!--change the date according to what you need-->
             <availability>
-               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International - CC BY-NC-SA
-                        4.0</licence>
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/"
+                  >Attribution-NonCommercial-ShareAlike 4.0 International - CC BY-NC-SA
+                  4.0</licence>
             </availability>
          </publicationStmt>
          <sourceDesc>
@@ -107,10 +112,9 @@
                                  <seg xml:lang="de">Siegel</seg>
                                  <seg xml:lang="el">Μολυβδόβουλλο</seg>
                               </term>
-                              <interp type="workType" xml:lang="en">Original
-                                            impression</interp>
+                              <interp type="workType" xml:lang="en">Original impression</interp>
                               <interp type="workType" xml:lang="de">Origineller
-                                            Siegelabdruck</interp>
+                                 Siegelabdruck</interp>
                               <interp type="workType" xml:lang="el">Αρχική αποτύπωση</interp>
                            </objectType>
                            <material>
@@ -128,11 +132,12 @@
                            <measure type="countermark" unit="clock"/>
                         </support>
                         <condition rend=" well-preserved blank-too-small worn-edge">
-                           <p xml:lang="en">Green patina, corroded, blank slightly too small for the die. </p>
-                           <p xml:lang="de">Grüne Patina, korrodiert, Rohling etwas zu klein für den Stempel.</p>
-                           <p xml:lang="el"> Πατίνα πρασινωπού χρώματος, ελαφρώς μη
-                                        κεντραρισμένη σφραγίδα, ελαφρώς μικρότερος δίσκος αποτύπωσης
-                                        της σφραγίδας. </p>
+                           <p xml:lang="en">Green patina, corroded, blank slightly too small for the
+                              die. </p>
+                           <p xml:lang="de">Grüne Patina, korrodiert, Rohling etwas zu klein für den
+                              Stempel.</p>
+                           <p xml:lang="el"> Πατίνα πρασινωπού χρώματος, ελαφρώς μη κεντραρισμένη
+                              σφραγίδα, ελαφρώς μικρότερος δίσκος αποτύπωσης της σφραγίδας. </p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -173,7 +178,8 @@
                                 <interp type="datingCriteria" xml:lang="de"/>
                             </origDate>-->
                      <!-- for a date range or centuries (NOT BEFORE - NOT AFTER)-->
-                     <origDate type="analysis" notBefore="1067" notAfter="1100" evidence=" epigraphy" resp="MC">
+                     <origDate type="analysis" notBefore="1067" notAfter="1100"
+                        evidence=" epigraphy" resp="MC">
                         <seg xml:lang="en">11th c., last third.</seg>
                         <seg xml:lang="de">11. Jh., letztes Drittel. </seg>
                         <seg xml:lang="el">11ος αι, τελευταίο τρίτο. </seg>
@@ -233,7 +239,7 @@
                      </objectDesc>
                      <handDesc>
                         <handNote n="r">
-                                    <!--NB: in this field you can refer to epigraphic features on the seal using also AthenaRuby-->
+                           <!--NB: in this field you can refer to epigraphic features on the seal using also AthenaRuby-->
                            <seg xml:lang="en">Ζ retrograde</seg>
                            <seg xml:lang="de"> Ζ rückläufig </seg>
                            <seg xml:lang="de"> Ζ ανάποδο </seg>
@@ -244,9 +250,12 @@
                            <figure>
                               <figDesc ana="" n="r" xml:lang="en"/>
                               <figDesc ana="" n="r" xml:lang="de"/>
-                              <figDesc ana="" n="decoR" xml:lang="en">Cross at the begenning of the legend. Border of tight dots.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="de">Vorangestelltes Kreuz. Perlrand.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="el"> Σταυρός στην αρχή της επιγραφής. Στικτό πλαίσιο.</figDesc>
+                              <figDesc ana="" n="decoR" xml:lang="en">Cross at the begenning of the
+                                 legend. Border of tight dots.</figDesc>
+                              <figDesc ana="" n="decoR" xml:lang="de">Vorangestelltes Kreuz.
+                                 Perlrand.</figDesc>
+                              <figDesc ana="" n="decoR" xml:lang="el"> Σταυρός στην αρχή της
+                                 επιγραφής. Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -261,10 +270,8 @@
                         <seg xml:lang="en">Reverse</seg>
                      </summary>
                      <textLang n="v" mainLang="grc">
-                        <seg xml:lang="en">greek
-            </seg>
-                        <seg xml:lang="fr">grec
-            </seg>
+                        <seg xml:lang="en">greek </seg>
+                        <seg xml:lang="fr">grec </seg>
                      </textLang>
                   </msContents>
                   <physDesc>
@@ -282,7 +289,7 @@
                      </objectDesc>
                      <handDesc>
                         <handNote n="v">
-                                    <!--NB: in this field you can refer to epigraphic features on the seal using also AthenaRuby-->
+                           <!--NB: in this field you can refer to epigraphic features on the seal using also AthenaRuby-->
                            <seg xml:lang="en"/>
                            <seg xml:lang="de"/>
                         </handNote>
@@ -292,7 +299,8 @@
                            <figure>
                               <figDesc ana="" n="v" xml:lang="en"/>
                               <figDesc ana="" n="v" xml:lang="de"/>
-                              <figDesc ana="" n="decoV" xml:lang="en">Border of tight dots.</figDesc>
+                              <figDesc ana="" n="decoV" xml:lang="en">Border of tight
+                                 dots.</figDesc>
                               <figDesc ana="" n="decoV" xml:lang="de">Perlrand</figDesc>
                               <figDesc ana="" n="decoV" xml:lang="el">Στικτό πλαίσιο.</figDesc>
                            </figure>
@@ -304,7 +312,8 @@
          </sourceDesc>
       </fileDesc>
       <revisionDesc>
-         <change when="2023-04-20" who="#SE">First correction of the XML file according to the new schema.</change>
+         <change when="2023-04-20" who="#SE">First correction of the XML file according to the new
+            schema.</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -331,21 +340,17 @@
       <body>
          <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"> <!--change the language code according to the language of your edition, the values (also when combined, e.g. Greek-Latin) are in the guidelines. Same goes for what comes next, textpart etc.-->
                   <div type="textpart" subtype="face" n="obv" rend="linear" xml:lang="grc"> <!--obverse, editorial-->
-                      
-                      <ab>
+                             <ab>
                           <lb n="1"/><expan><abbr>Γραφ</abbr><ex>ὰς</ex></expan>
                           <lb n="2"/>σφραγί
-                          <lb n="3" break="no"/>ζω <name type="forename"><expan><abbr>Ἰω</abbr><ex>άννου</ex></expan></name>
-         
-                    
-                             
-                      </ab>
+                          <lb n="3" break="no"/>ζω <expan><abbr>Ἰω</abbr><ex>άννου</ex></expan>
+                          </ab>
                   </div>
                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
                       <ab>
-                          <lb n="4"/><rs type="dignity" ref="#magistros"><expan>μαγί<ex>σ</ex>
-                          <lb n="5" break="no"/>τρου</expan> </rs>τοῦ <persName type="attested" ref="#ioannes-liparinos"><name type="surname"><expan>Λ<ex>ι</ex>
-                          <lb n="6" break="no"/>παριν<ex>οῦ</ex></expan></name></persName>
+                          <lb n="4"/><rs type="dignity" ref="#d0038"><expan><abbr>μαγί</abbr><ex>σ</ex>
+                          <lb n="5" break="no"/><abbr>τρου</abbr></expan></rs> τοῦ <expan><abbr>Λ</abbr><ex>ι</ex>
+                          <lb n="6" break="no"/><abbr>παριν</abbr><ex>οῦ</ex></expan>
                       </ab>
                   </div>
               </div>
@@ -374,7 +379,7 @@
             </listApp>
          </div>
          <div type="translation">
-            <p>Γραφὰς σφραγίζω Ἰωάννου/μαγίστρου τοῦ Λιπαρινοῦ.</p>
+            <p>Γραφὰς σφραγίζω Ἰωάννου / μαγίστρου τοῦ Λιπαρινοῦ.</p>
             <p xml:lang="en">I seal the letters of Ioannes Liparinos, magistros.</p>
             <p xml:lang="de">Ich siegle die Schriften des magistros Ioannes Liparinos.</p>
             <p xml:lang="el">Σφραγίζω τις επιστολές του μαγίστρου Ιωάννη Λιπαρινού.</p>
@@ -389,23 +394,28 @@
               </div>-->
          <div type="bibliography" subtype="edition">
             <p>
-               <bibl> <!-- <ptr target=""/>, <citedRange unit=""/> <!-\-before citedRange add the right abbreviation, e.g. if it's a page, p. etc.-\->
--->                      </bibl>
+               <bibl>
+                  <!-- <ptr target=""/>, <citedRange unit=""/> <!-\-before citedRange add the right abbreviation, e.g. if it's a page, p. etc.-\->
+-->
+               </bibl>
             </p>
          </div>
-         <div type="bibliography" subtype="parallels"> <!--if you don't have parallels, put this div in a comment-->
+         <div type="bibliography" subtype="parallels">
+            <!--if you don't have parallels, put this div in a comment-->
             <p>
                <bibl>
-<!--                          <ptr target=""/>, <citedRange unit=""/>
--->                      </bibl>
+                  <!--                          <ptr target=""/>, <citedRange unit=""/>
+-->
+               </bibl>
             </p>
          </div>
-         <div type="bibliography" subtype="discussion"> <!--if you don't have further bibliography, put this div in a comment-->
+         <div type="bibliography" subtype="discussion">
+            <!--if you don't have further bibliography, put this div in a comment-->
             <p>
-                      <!--<bibl>
+               <!--<bibl>
                           <ptr target=""/>, <citedRange unit=""/>
                       </bibl>-->
-                  </p>
+            </p>
          </div>
       </body>
    </text>

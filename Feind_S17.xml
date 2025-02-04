@@ -334,20 +334,19 @@
       <body>
          <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"> <!--change the language code according to the language of your edition, the values (also when combined, e.g. Greek-Latin) are in the guidelines. Same goes for what comes next, textpart etc.-->
                   <div type="textpart" subtype="face" n="obv" rend="linear" xml:lang="grc"> <!--obverse, editorial-->
-                      
                       <ab ana="dat">
                           <lb n="1"/><rs type="invocation" ref="#inv004"><expan><supplied reason="lost"><abbr>Κ</abbr><ex>ύρι</ex></supplied><abbr>ε</abbr></expan> <supplied reason="lost">βο
                          <lb n="2" break="no"/>ή</supplied>θη τῷ 
-                           <lb n="3"/> <supplied reason="lost">σ</supplied>ῷ <expan><abbr>δού</abbr><ex>λῳ</ex></expan> </rs><expan><abbr>Μ
+                           <lb n="3"/> <supplied reason="lost">σ</supplied>ῷ <expan><abbr>δού</abbr><ex>λῳ</ex></expan></rs> <expan><abbr>Μ
                        <lb n="4" break="no"/><supplied reason="lost">α</supplied>ριάν</abbr><ex>ῳ</ex></expan>
                       </ab>
                   </div>
                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
                       <ab>
-                          <lb n="5"/><rs type="dignity" ref="#imp-prosospatharios"><expan><supplied reason="lost"><abbr>β</abbr><ex>ασιλικῷ</ex></supplied></expan> <ex>πρωτο</ex><expan> <abbr>σπ</abbr><supplied reason="lost">α</supplied>
-                          <lb n="6" break="no"/><abbr>θ</abbr><supplied reason="lost">α</supplied><abbr>ρ</abbr><ex>ίῳ</ex></expan></rs> <ex>καὶ</ex><rs type="office" subtype="military" ref="#strateg_006"> <expan><supplied reason="lost">στ</supplied>
-                          <lb n="7" break="no"/><abbr>ρατiγ</abbr><ex>ῷ</ex></expan> <expan><supplied reason="lost">Δ</supplied>
-                         <lb n="8" break="no"/><abbr> οροστ</abbr><ex>όλου</ex></expan></rs>
+                          <lb n="5"/><rs type="dignity" ref="#d0067"><supplied reason="lost"><expan><abbr>β</abbr><ex>ασιλικῷ</ex></expan></supplied> <expan><abbr><am>Α</am></abbr><ex>πρωτο</ex><abbr>σπ<supplied reason="lost">α</supplied>
+                          <lb n="6" break="no"/>θ<supplied reason="lost">α</supplied>ρ</abbr><ex>ίῳ</ex></expan></rs> <expan><abbr><am>S</am></abbr><ex>καὶ</ex></expan> <rs type="office" subtype="military" ref="#of0279"><expan><abbr><supplied reason="lost">στ</supplied>
+                          <lb n="7" break="no"/>ρατiγ</abbr><ex>ῷ</ex></expan></rs> <placeName ref="#geo0307"><expan><abbr><supplied reason="lost">Δ</supplied>
+                         <lb n="8" break="no"/>οροστ</abbr><ex>όλου</ex></expan></placeName>
                       </ab>
                   </div>
               </div>
@@ -376,9 +375,9 @@
             </listApp>
          </div>
          <div type="translation">
-            <p>Κύριε βοήθη τῷ σῷ δούλῳ Μαριάνῳ/ βασιλικῷ πρωτοσπαθαρίῳ καὶ στρατiγῷ Δοροστόλου.</p>
+            <p>Κύριε βοήθη τῷ σῷ δούλῳ Μαριάνῳ / βασιλικῷ πρωτοσπαθαρίῳ καὶ στρατiγῷ Δοροστόλου.</p>
             <p xml:lang="en">Lord, help Marianos imperial protospatharios and strategos of Dorostolon.</p>
-            <p xml:lang="de">Herr, hilf deinem Diener Marianos kaiserlichen protospatharios und strategos von Dorostolon.</p>
+            <p xml:lang="de">Herr, hilf deinem Diener Marianos kaiserlicher protospatharios und strategos von Dorostolon.</p>
             <p xml:lang="el">Κύριε βοήθησε τον δούλο σου Μαριάνο, βασιλικό πρωτοσπαθάριο και στρατηγό Δοροστόλου.</p>
          </div>
          <!--<div type="commentary" subtype="text">

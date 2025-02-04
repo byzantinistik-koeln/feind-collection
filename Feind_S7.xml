@@ -334,8 +334,7 @@
       <body>
          <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"> <!--change the language code according to the language of your edition, the values (also when combined, e.g. Greek-Latin) are in the guidelines. Same goes for what comes next, textpart etc.-->
                   <div type="textpart" subtype="face" n="obv" rend="linear" xml:lang="grc"> <!--obverse, editorial-->
-                      
-                      <ab>
+                       <ab>
                           <lb n="1"/><rs type="invocation" ref="#inv001">Θε
                           <lb n="2" break="no"/>οτόκε
                           <lb n="3"/>βοήθη</rs>
@@ -343,11 +342,10 @@
                   </div>
                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
                       <ab ana="dat"> 
-                         
-                             <lb n="4"/><persName type="forename" ref="#theodoros-2">Θεο
-                             <lb n="5" break="no"/>δώρῳ </persName>
-                             <lb n="6"/>ἀπὸ ἐπά
-                             <lb n="7" break="no"/>ρχων
+                             <lb n="4"/>Θεο
+                             <lb n="5" break="no"/>δώρῳ 
+                             <lb n="6"/><rs type="dignity" ref="#d0007">ἀπὸ ἐπά
+                             <lb n="7" break="no"/>ρχων</rs>
                       </ab>
                   </div>
               </div>

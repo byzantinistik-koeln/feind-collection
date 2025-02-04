@@ -317,7 +317,7 @@
       <body>
          <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"> <!--change the language code according to the language of your edition, the values (also when combined, e.g. Greek-Latin) are in the guidelines. Same goes for what comes next, textpart etc.-->
                   <div type="textpart" subtype="face" n="obv" rend="linear" xml:lang="grc"> <!--obverse, editorial-->
-                      <ab> 
+                      <ab ana="gen"> 
                       <lb n="1"/>Ἰω
                            <lb n="2" break="no"/>άνν
                            <lb n="3" break="no"/>ου
@@ -325,9 +325,9 @@
                       </ab>
                   </div>
                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
-                      <ab>
-                          <lb n="4"/><rs type="dignity" ref="#patrikios">πα
-                            <lb n="5" break="no"/> τρικί
+                      <ab ana="gen">
+                          <lb n="4"/><rs type="dignity" ref="#d0047">πα
+                            <lb n="5" break="no"/>τρικί
                             <lb n="6" break="no"/>ου</rs>
                           
                       </ab>
@@ -358,9 +358,9 @@
             </listApp>
          </div>
          <div type="translation">
-            <p>Ἰωάννου /πατρικίου.</p>
+            <p>Ἰωάννου / πατρικίου.</p>
             <p xml:lang="en">(Sea of) Ioannes patrikios.</p>
-            <p xml:lang="de">(Siege des) Ioannes Patrikios.</p>
+            <p xml:lang="de">(Siegel des) Ioannes patrikios.</p>
             <p xml:lang="el">(Σφράγισμα του) Ιωάννη πατρικίου.</p>
          </div>
          <div type="commentary" subtype="text">

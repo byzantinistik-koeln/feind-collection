@@ -320,16 +320,16 @@
          <div type="edition" subtype="editorial" xml:space="preserve"> 
                   <div type="textpart" subtype="face" n="obv" rend="linear" xml:lang="grc"> <!--obverse, editorial-->
                       <ab>
-                          <lb n="1"/>Θεοτ
+                          <lb n="1"/><rs type="invocation" ref="#inv001">Θεοτ
                           <lb n="2" break="no"/>όκε βο
-                          <lb n="3" break="no"/>ήθει
+                          <lb n="3" break="no"/>ήθει</rs>
                       </ab>
                   </div>
                       <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
-                      <ab>
+                      <ab ana="dat">
                           <lb n="4"/>Ἡράκλ
-                          <lb n="5" break="no"/>είῳ πατ
-                          <lb n="6" break="no"/>ρικίῳ
+                          <lb n="5" break="no"/>είῳ <rs type="dignity" ref="#d0047">πατ
+                          <lb n="6" break="no"/>ρικίῳ</rs>
                       </ab>
                   </div>
               </div>
