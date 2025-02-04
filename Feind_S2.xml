@@ -38,7 +38,7 @@
          </publicationStmt>
          <sourceDesc>
             <listPerson type="issuer">
-               <person role="civil" gender="" xml:id="">
+               <person role="civil" gender="M">
                   <persName xml:lang="en">
                      <forename>Michael</forename>
                   </persName>
