@@ -135,14 +135,14 @@
                         <condition rend="obliterated">
                            <p xml:lang="en">Partially dented and effaced on both sides. </p>
                            <p xml:lang="de">Auf beiden Seiten teilweise verbeult und befleckt.</p>
-                           <p xml:lang="el"> Η σφραγίδα έχει υποστεί ελαφρώς συμπίεση  και έχουν σβηστεί τα γράμματα στο σημείο αυτό και στις δυο πλευρές.</p>
+                           <p xml:lang="el"> Η σφραγίδα έχει υποστεί ελαφρώς συμπίεση  και έχουν σβηστεί τα γράμματα και στις δυο πλευρές.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
                         <layout n="whole">
                            <rs type="execution">
                               <seg xml:lang="en">Struck</seg>
-                              <seg xml:lang="de">???</seg>
+                              <seg xml:lang="de">Geprägt </seg>
                               <seg xml:lang="el">Παιστό</seg>
                            </rs>
                            <rs type="shape">
@@ -176,7 +176,7 @@
                                 <interp type="datingCriteria" xml:lang="de"/>
                             </origDate>-->
                      <!-- for a date range or centuries (NOT BEFORE - NOT AFTER)-->
-                     <origDate type="analysis" notBefore="1051" notAfter="1075" evidence=" epigraphy titulature " resp="MC">
+                     <origDate type="analysis" notBefore="1051" notAfter="1075" evidence="epigraphy titulature " resp="MC">
                         <seg xml:lang="en">11th c., third quarter.</seg>
                         <seg xml:lang="de">11. Jh., drittes Quartal.</seg>
                         <seg xml:lang="el">11ος αι., τρίτο τέταρτο.</seg>
@@ -298,7 +298,7 @@
                               <figDesc ana="" n="v" xml:lang="de"/>
                               <figDesc ana="" n="decoV" xml:lang="en">Above the legend, a decoration consisting of a dot between two dashes. Border of dots.</figDesc>
                               <figDesc ana="" n="decoV" xml:lang="de">Über der Legende befindet sich eine Verzierung, die aus einem Punkt zwischen zwei Strichen besteht. Perlrand.</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="el">Πάνω απο την επιγραφή, διακοσμητικό μοτίβο, το οποίο αποτελείται από μια τελεία ανάμεσα σε δύο παύλες. Στικτό πλαίσιο.</figDesc>
+                              <figDesc ana="" n="decoV" xml:lang="el">Πάνω από την επιγραφή, διακοσμητικό μοτίβο, το οποίο αποτελείται από μια τελεία ανάμεσα σε δύο παύλες. Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -318,6 +318,7 @@
             <graphic url="S_2a.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -327,6 +328,7 @@
             <graphic url="S_2b.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -385,7 +387,7 @@
             <p>Κύριε βοήθει τῷ σῷ δούλῳ Μιχαήλ πατρικίῳ κριτῇ τοῦ βήλου / τοῦ ἱπποδρόμου Βολεροῦ Στρυμόνος καὶ Θεσσαλονίκης.</p>
             <p xml:lang="en">Lord, help your servant Michael patrikios, krites of the velum, of the hippodrome, and of Boleron, Strymon, and Thessalonike.</p>
             <p xml:lang="de">Herr, hilf deinem Diener Michael Patrikios, Krites des Velums, des Hippodroms und von Boleron, Strymon und Thessalonike.</p>
-            <p xml:lang="el">Κύριε, βοήθησε τον δούλο σου Μιχαήλ πατρίκιο, κριτή του βήλου, του ιπποδρόμου, του Βολερού, Στρυμόνος και της Θεσσαλονίκης.</p>
+            <p xml:lang="el">Κύριε, βοήθησε το δούλο σου Μιχαήλ πατρίκιο, κριτή του βήλου, του ιπποδρόμου, του Βολερού, Στρυμόνος και της Θεσσαλονίκης.</p>
          </div>
          <!--<div type="commentary" subtype="text">
                   <p xml:lang="en">[your commentary here]</p> <!-\-if you have the commentary only in German and would like to show it also in the English page, you should delete the xml:lang-\->
@@ -411,13 +413,13 @@
 -->                      </bibl>
             </p>
          </div>
-         <div type="bibliography" subtype="discussion"> <!--if you don't have further bibliography, put this div in a comment-->
+         <!--<div type="bibliography" subtype="discussion"> <!-\-if you don't have further bibliography, put this div in a comment-\->
             <p>
-                      <!--<bibl>
+                      <!-\-<bibl>
                           <ptr target=""/>, <citedRange unit=""/>
-                      </bibl>-->
+                      </bibl>-\->
                   </p>
-         </div>
+         </div>-->
       </body>
    </text>
 </TEI>

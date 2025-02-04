@@ -150,7 +150,7 @@
                         <layout n="whole">
                            <rs type="execution">
                               <seg xml:lang="en">Struck</seg>
-                              <seg xml:lang="de">???</seg>
+                              <seg xml:lang="de">Geprägt </seg>
                               <seg xml:lang="el">Παιστό</seg>
                            </rs>
                            <rs type="shape">
@@ -184,7 +184,7 @@
                                 <interp type="datingCriteria" xml:lang="de"/>
                             </origDate>-->
                      <!-- for a date range or centuries (NOT BEFORE - NOT AFTER)-->
-                     <origDate type="analysis" notBefore="0851" notAfter="0920" evidence=" epigraphy  iconography" cert="low" resp="MC">
+                     <origDate type="analysis" notBefore="0851" notAfter="0920" evidence="epigraphy iconography" cert="low" resp="MC">
                         <seg xml:lang="en">9th c., second half – early 10th c.</seg>
                         <seg xml:lang="de">9. Jh., zweite Hälfte – frühes 10. Jh</seg>
                         <seg xml:lang="el">9ος αι., δεύτερο μισό – αρχές 10ου αι. </seg>
@@ -227,7 +227,7 @@
                      <textLang n="r" mainLang="grc">
                         <seg xml:lang="en">greek</seg>
                         <seg xml:lang="fr">grec</seg>
-                     </textLang>
+                                     </textLang>
                   </msContents>
                   <physDesc>
                      <objectDesc>
@@ -247,7 +247,7 @@
                                     <!--NB: in this field you can refer to epigraphic features on the seal using also AthenaRuby-->
                            <seg xml:lang="en"/>
                            <seg xml:lang="de"/>
-                           <seg xml:lang="de"/>
+                           <seg xml:lang="el"/>
                         </handNote>
                      </handDesc>
                      <decoDesc>
@@ -265,7 +265,7 @@
                               <figDesc ana="" n="decoR" xml:lang="de">Vorangestelltes Kreuz,
                                             Perlrand.</figDesc>
                               <figDesc ana="" n="decoR" xml:lang="el"> Σταυρός στην αρχή της
-                                            επιγραφής, στικτό πλαίσιο.</figDesc>
+                                            επιγραφής. Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -335,6 +335,7 @@
             <graphic url="Kr_35a.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -344,6 +345,7 @@
             <graphic url="Kr_35b.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -396,12 +398,12 @@
             <p>Κύριε βοήθη τῷ σῷ δούλῳ / Βάρδᾳ μαγίστρῳ, ἀνθυπάτῳ, πατρικίῳ, βασιλικῷ πρωτοσπαθαρίῳ καὶ δομεστίκῳ τῶν σχολῶν.</p>
             <p xml:lang="en">Lord, help your servant Bardas magistros, anthypatos, patrikios, imperial protospatharios, and domestikos of the Scholai.</p>
             <p xml:lang="de">Herr, hilf deinem Diener Barda magistros, anthypatos, patrikios, kaiserlicher protospatharios und domestikos der Scholai.</p>
-            <p xml:lang="el">Κύριε βοήθησε τον δούλο σου Βάρδα, μάγιστρο, ανθύπατο, πατρίκιο βασιλικό πρωτοσπαθάριο και δομέστικο των σχολών. </p>
+            <p xml:lang="el">Κύριε βοήθησε τον δούλο σου Βάρδα, μάγιστρο, ανθύπατο, πατρίκιο, βασιλικό πρωτοσπαθάριο και δομέστικο των σχολών. </p>
          </div>
          <div type="commentary" subtype="text">
             <p xml:lang="en"/>
             <!--if you have the commentary only in German and would like to show it also in the English page, you should delete the xml:lang-->
-            <p xml:lang="de">[your commentary here]</p>
+            <p xml:lang="de"></p>
          </div>
          <div type="commentary" subtype="footnotes">
             <p xml:lang="en"> </p>
@@ -409,24 +411,24 @@
             <p xml:id="footnote-1">
                     
                 </p>
-            <p xml:lang="de">[your footnotes here]</p>
+            <p xml:lang="de"></p>
          </div>
-         <div type="bibliography" subtype="edition">
+         <!--<div type="bibliography" subtype="edition">
                 
-              </div>
-         <div type="bibliography" subtype="parallels"> <!--if you don't have parallels, put this div in a comment-->
+              </div>-->
+         <!--<div type="bibliography" subtype="parallels"> <!-\-if you don't have parallels, put this div in a comment-\->
             <p>
-                   <!--                          <ptr target=""/>, <citedRange unit=""/>
--->                    
+                   <!-\-                          <ptr target=""/>, <citedRange unit=""/>
+-\->                    
                   </p>
-         </div>
-         <div type="bibliography" subtype="discussion"> <!--if you don't have further bibliography, put this div in a comment-->
+         </div>-->
+         <!--<div type="bibliography" subtype="discussion"> <!-\-if you don't have further bibliography, put this div in a comment-\->
             <p>
-                      <!--<bibl>
+                      <!-\-<bibl>
                           <ptr target=""/>, <citedRange unit=""/>
-                      </bibl>-->
+                      </bibl>-\->
                   </p>
-         </div>
+         </div>-->
       </body>
    </text>
 </TEI>

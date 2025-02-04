@@ -5,6 +5,7 @@
          <titleStmt>
             <title xml:lang="en">Seal of Symeon imperial protospatharios and kourator of…</title>
             <title xml:lang="de">Siegel des Symeon kaiserlicher protospatharios und kourator von…</title>
+            <title xml:lang="el">Μολυβδόβουλλο του Συμεών βασιλικού πρωτοσπαθαρίου και κουράτορα του…</title>
             <editor role="seal-editor" xml:id="MC">Maria Teresa Catalano</editor>
             <editor role="seal-editor" xml:id="MF">Martina Filosa</editor>
             <editor role="seal-editor" xml:id="CS">Claudia Sode</editor>
@@ -52,6 +53,10 @@
                      <forename>Symeon</forename>
                      <surname/>
                   </persName>
+                  <persName xml:lang="el">
+                     <forename>Συμεών</forename>
+                     <surname/>
+                  </persName>
                   <idno type="PBW"/>
                   <idno type="PmbZ"/>
                   <idno type="PLP"/>
@@ -64,10 +69,12 @@
                   <country>
                      <seg xml:lang="en">Germany</seg>
                      <seg xml:lang="de">Deutschland</seg>
+                     <seg xml:lang="el">Γερμανία</seg>
                   </country>
                   <settlement>
                      <seg xml:lang="en">Cologne</seg>
                      <seg xml:lang="de">Köln</seg>
+                     <seg xml:lang="el">Κολωνία</seg>
                   </settlement>
                   <institution/>
                   <repository/>
@@ -88,6 +95,7 @@
                   <summary n="whole">
                      <seg xml:lang="en">Undetermined</seg>
                      <seg xml:lang="de">Unbestimmt</seg>
+                     <seg xml:lang="el">Απροσδιόριστο</seg>
                   </summary>
                </msContents>
                <physDesc>
@@ -98,15 +106,19 @@
                               <term>
                                  <seg xml:lang="en">Seal</seg>
                                  <seg xml:lang="de">Siegel</seg>
+                                 <seg xml:lang="el">Μολυβδόβουλλο</seg>
                               </term>
                               <interp type="workType" xml:lang="en">Original
                                             impression</interp>
                               <interp type="workType" xml:lang="de">Origineller
                                             Siegelabdruck</interp>
+                              <interp type="workType" xml:lang="el">Αρχική
+                                 αποτύπωση</interp>
                            </objectType>
                            <material>
                               <seg xml:lang="en">Lead</seg>
                               <seg xml:lang="de">Blei</seg>
+                              <seg xml:lang="el">Μόλυβδος</seg>
                            </material>
                            <dimensions type="support" unit="mm">
                               <dim type="diameter">11-22</dim>
@@ -120,17 +132,20 @@
                         <condition rend="broken">
                            <p xml:lang="en">Broken in two halves along the thread channel with one half missing. </p>
                            <p xml:lang="de">Entlang des Fadenkanals gebrochen, nur eine Hälfte erhalten.</p>
+                           <p xml:lang="el">Σπασμένη στη μέση κατά μήκος του διαύλου με το ένα μισό να λείπει. </p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
                         <layout n="whole">
                            <rs type="execution">
                               <seg xml:lang="en">Struck</seg>
-                              <seg xml:lang="de">???</seg>
+                              <seg xml:lang="de">Geprägt</seg>
+                              <seg xml:lang="el">Παιστό</seg>
                            </rs>
                            <rs type="shape">
                               <seg xml:lang="en">Round</seg>
                               <seg xml:lang="de">Rund</seg>
+                              <seg xml:lang="el">Σφαιρικό</seg>
                            </rs>
                            <rs type="matrix" subtype="not-surviving">
                               <idno type="SigiDoc">"m-cC2HC1"</idno>
@@ -161,6 +176,7 @@
                      <origDate type="analysis" notBefore="0901" notAfter="0950" evidence="epigraphy iconography" resp="#MC">
                         <seg xml:lang="en">10th c., first half.</seg>
                         <seg xml:lang="de">10. Jh., erste Hälfte.</seg>
+                        <seg xml:lang="de">10ος αι., πρώτο μισό.</seg>
                      </origDate>
                      <!-- for an internal date -->
                      <!--<origDate type="internal" when="0001" when-custom="2023" datingMethod="">
@@ -198,6 +214,7 @@
                   <acquisition>
                      <p xml:lang="en"/>
                      <p xml:lang="de"/>
+                     <p xml:lang="el"/>
                   </acquisition>
                </history>
                <msPart n="r">
@@ -222,6 +239,7 @@
                               </dimensions>
                               <p xml:lang="en">Iconography with circular legend along the circumference.</p>
                               <p xml:lang="de">Ikonographie mit umlaufender Legende am äußeren Rand.</p>
+                              <p xml:lang="el">Εικονογραφία με κυκλοτερή επιγραφή κατά μήκος της περιφέρειας.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -230,6 +248,7 @@
                                     <!--NB: in this field you can refer to epigraphic features on the seal using also AthenaRuby-->
                            <seg xml:lang="en"/>
                            <seg xml:lang="de"/>
+                           <seg xml:lang="eλ"/>
                         </handNote>
                      </handDesc>
                      <decoDesc>
@@ -237,8 +256,10 @@
                            <figure>
                               <figDesc ana="" n="r" xml:lang="en">Patriarchal cross.</figDesc>
                               <figDesc ana="" n="r" xml:lang="de">Patriarchenkreuz</figDesc>
+                              <figDesc ana="" n="r" xml:lang="el">Πατριαρχικός σταυρός.</figDesc>
                               <figDesc ana="" n="decoR" xml:lang="en">Border of dots.</figDesc>
                               <figDesc ana="" n="decoR" xml:lang="de">Perlrand</figDesc>
+                              <figDesc ana="" n="decoR" xml:lang="el">Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -268,6 +289,7 @@
                               </dimensions>
                               <p xml:lang="en">Legend of 4 (?) lines.</p>
                               <p xml:lang="de">Legende auf 4 (?) Zeilen.</p>
+                              <p xml:lang="el">Επιγραφή 4 (;) στίχων.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -283,8 +305,10 @@
                            <figure>
                               <figDesc ana="" n="v" xml:lang="en"/>
                               <figDesc ana="" n="v" xml:lang="de"/>
+                              <figDesc ana="" n="v" xml:lang="el"/>
                               <figDesc ana="" n="decoV" xml:lang="en">Cross at the beginning of the legend. Border of dots.</figDesc>
                               <figDesc ana="" n="decoV" xml:lang="de">Kreuz am Anfang der Legende. Perlrand.</figDesc>
+                              <figDesc ana="" n="decoV" xml:lang="el"> Σταυρός στην αρχή της επιγραφής. Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -304,6 +328,7 @@
             <graphic url="Kr_40a.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Bildbeschriftung]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -313,6 +338,7 @@
             <graphic url="Kr_40b.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Bildbeschriftung]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -359,6 +385,7 @@
             <p>Κύριε βοήθει τῷ σῷ δούλῳ / Συμεὼν βασιλικῷ πρωτοσπαθαρίῳ καὶ κουράτορι τ...</p>
             <p xml:lang="en">Lord, help your servant Symeon imperial protospatharios and kourator of…</p>
             <p xml:lang="de">Herr, hilf deinem Diener Symeon kaiserlicher protospatharios und kourator von…</p>
+            <p xml:lang="el"> Κύριε βοήθησε το δούλο σου Συμεών, βασιλικό πρωτοσπαθάριο και κουράτορα τ...</p>
          </div>
          <div type="commentary" subtype="text">
             <p xml:lang="en"/>
@@ -370,12 +397,12 @@
          <div type="bibliography" subtype="edition">
             <p/>
          </div>
-         <div type="bibliography" subtype="parallels"> <!--if you don't have parallels, put this div in a comment-->
+         <!--<div type="bibliography" subtype="parallels"> <!-\-if you don't have parallels, put this div in a comment-\->
             <p/>
-         </div>
-         <div type="bibliography" subtype="discussion"> <!--if you don't have further bibliography, put this div in a comment-->
+         </div>-->
+         <!--<div type="bibliography" subtype="discussion"> <!-\-if you don't have further bibliography, put this div in a comment-\->
             <p/>
-         </div>
+         </div>-->
       </body>
    </text>
 </TEI>
