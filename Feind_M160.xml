@@ -4,6 +4,7 @@
          <titleStmt>
             <title xml:lang="de">Siegel des Martinos stratelates</title>
             <title xml:lang="en">Seal of Martinos stratelates</title>
+            <title xml:lang="el">Μολυβδόβουλλο Μαρτίνου στρατηλάτη</title>
             <editor role="seal-editor" xml:id="MC">Maria Teresa Catalano</editor>
             <editor role="seal-editor" xml:id="MF">Martina Filosa</editor>
             <editor role="seal-editor" xml:id="CS">Claudia Sode</editor>
@@ -47,6 +48,9 @@
                   <persName xml:lang="en">
                      <forename>Martinos</forename>
                   </persName>
+                  <persName xml:lang="el">
+                     <forename>Μαρτίνος</forename>
+                  </persName>
                   <!--<idno type="PBW" ana=""></idno>
                         <idno type="PmbZ" ana=""></idno>-->
                </person>
@@ -57,6 +61,7 @@
                   <country>
                      <seg xml:lang="en">Germany</seg>
                      <seg xml:lang="de">Deutschland</seg>
+                     <seg xml:lang="el">Γερμανία</seg>
                   </country>
                   <settlement>
                      <seg xml:lang="en">
@@ -64,6 +69,9 @@
                      </seg>
                      <seg xml:lang="de">
                         <placeName ref="https://www.geonames.org/6553049/koeln.html"/>Köln</seg>
+                     <seg xml:lang="el">
+                        <placeName ref="https://www.geonames.org/6553049/koeln.html">Κολωνία</placeName>
+                     </seg>
                   </settlement>
                   <institution/>
                   <repository/>
@@ -82,6 +90,7 @@
                   <summary n="whole">
                      <seg xml:lang="en">Dignitaries</seg>
                      <seg xml:lang="de">Würdenträger</seg>
+                     <seg xml:lang="de">Μολυβδόβουλλα αξιωματούχων</seg>  
                   </summary>
                </msContents>
                <physDesc>
@@ -92,15 +101,19 @@
                               <term>
                                  <seg xml:lang="de">Siegel</seg>
                                  <seg xml:lang="en">Seal</seg>
+                                 <seg xml:lang="el">Μολυβδόβουλλο</seg>
                               </term>
                               <interp type="workType" xml:lang="de">Origineller
                                             Siegelabdruck.</interp>
                               <interp type="workType" xml:lang="en">Original
                                             impression.</interp>
+                              <interp type="workType" xml:lang="el">Αρχική
+                                 αποτύπωση</interp>
                            </objectType>
                            <material>
                               <seg xml:lang="de">Blei</seg>
                               <seg xml:lang="en">Lead</seg>
+                              <seg xml:lang="el">Μόλυβδος</seg>
                            </material>
                            <dimensions type="support" unit="mm">
                               <dim type="diameter">21</dim>
@@ -114,6 +127,7 @@
                         <condition rend="not-centered well-struck">
                            <p xml:lang="de">Prägung nach rechts versetzt auf dem Avers, gut zentriert auf dem Revers.</p>
                            <p xml:lang="en">Struck off-centre to the upper right on the obverse, well centered on the reverse.</p>
+                           <p xml:lang="el">O εμπροσθότυπος αποκλίνει απο το κέντρο προς το άνω δεξίο  μέρος, στον οπισθότυπο κεντραρισμένη.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -121,10 +135,12 @@
                            <rs type="execution">
                               <seg xml:lang="de">Geprägt</seg>
                               <seg xml:lang="en">Struck</seg>
+                              <seg xml:lang="el">Παιστό</seg>
                            </rs>
                            <rs type="shape">
                               <seg xml:lang="de">Rund</seg>
                               <seg xml:lang="en">Round</seg>
+                              <seg xml:lang="el">Σφαιρικό</seg>
                            </rs>
                            <rs type="matrix" subtype="not-surviving">
                               <idno type="SigiDoc">"m-KWoVQQ"</idno>
@@ -141,6 +157,7 @@
                      <origDate type="analysis" notBefore="0601" notAfter="0650" evidence="epigraphy onomastics" cert="high" resp="#MC">
                         <seg xml:lang="en">7th c., first half.</seg>
                         <seg xml:lang="de">7. Jh., erste Hälfte.</seg>
+                        <seg xml:lang="el">7ος αι., πρώτο μισό. </seg>
                      </origDate>
                   </origin>
                   <provenance type="found" subtype="discovered">
@@ -182,6 +199,7 @@
                               </dimensions>
                               <p xml:lang="en">Cruciform monogram.</p>
                               <p xml:lang="de">Kreuzmonogramm</p>
+                              <p xml:lang="el">Σταυρόσχημο μονόγραμμα.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -197,6 +215,7 @@
                                         <figDesc n="r" xml:lang="de" ana=""></figDesc>-->
                               <figDesc ana="" n="decoR" xml:lang="en">Border of dots.</figDesc>
                               <figDesc ana="" n="decoR" xml:lang="de">Perlrand</figDesc>
+                              <figDesc ana="" n="decoR" xml:lang="el">Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -225,6 +244,7 @@
                               </dimensions>
                               <p xml:lang="en">Cruciform monogram.</p>
                               <p xml:lang="de">Kreuzmonogramm</p>
+                              <p xml:lang="el">Σταυρόσχημο μονόγραμμα.</p>
                               <!--Only controlled vocabulary here? Fomerly there used to be also the possibility for free-text entries...-->
                            </layout>
                         </layoutDesc>
@@ -240,6 +260,7 @@
                                         <!--<figDesc n="v" xml:lang="en" ana=""/>-->
                               <figDesc ana="" n="decoV" xml:lang="en">Border of dots.</figDesc>
                               <figDesc ana="" n="decoV" xml:lang="de">Perlrand</figDesc>
+                              <figDesc ana="" n="decoV" xml:lang="el">Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -259,6 +280,7 @@
             <graphic url="" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -268,6 +290,7 @@
             <graphic url="" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -300,12 +323,13 @@
             <p>Μαρτίνου στρατηλάτου.</p>
             <p xml:lang="en">(Seal of) Martinos stratelates.</p>
             <p xml:lang="de">(Siegel des) Martinos stratelates.</p>
+            <p xml:lang="el">(Σφραγίδα) Μαρτίνου στρατηλάτη.</p>
          </div>
          <div type="commentary" subtype="text"><!--add "Zografopoulos2005" to bibliography: Zografopoulos K. J., Die byzantinischen Bleisiegel aus Karthago [PhD Diss.], Wien 2005.-->
             <p xml:lang="en">A seal of Martinos stratelates edited in <bibl>
                   <ptr target="Zografopoulos2005"/>, <citedRange unit="entry">M17</citedRange>
                </bibl>, and dated to the first half of the 7th century is not a parallel.</p>
-         </div>
+            </div>
          <!--<div type="bibliography" subtype="parallels">
                 <p>
                     <bibl>

@@ -144,7 +144,7 @@
                         <layout n="whole">
                            <rs type="execution">
                               <seg xml:lang="en">Struck</seg>
-                              <seg xml:lang="de">???</seg>
+                              <seg xml:lang="de">Geprägt </seg>
                               <seg xml:lang="el">Παιστό</seg>
                            </rs>
                            <rs type="shape">
@@ -250,7 +250,7 @@
                            <figure>
                               <figDesc ana="" n="r" xml:lang="en">Patriarchal cross mounted on three steps. Along the circumference, within concentric borders of dots, a circular inscription beginning with a cross at 7 o'clock.</figDesc>
                               <figDesc ana="" n="r" xml:lang="de">Patriarchenkreuz auf drei Stufen, nimbiert, mit umlaufender Inschrift.</figDesc>
-                              <figDesc ana="" n="r" xml:lang="el">Πατριαρχικός σταυρός  υψώνεται επάνω σε τριβαθμιδωτή βάση. Περιβάλλεται απο κυκλοτερή επιγραφή, η οποία ξεκινάει με σταυρό στα αριστερά από την  7η ώρα.</figDesc>
+                              <figDesc ana="" n="r" xml:lang="el">Πατριαρχικός σταυρός  υψώνεται επάνω σε τριβαθμιδωτή βάση. Περιβάλλεται απο κυκλοτερή επιγραφή, η οποία ξεκινάει με σταυρό στα αριστερά, στο σημείο του άξονα 7.</figDesc>
                               <figDesc ana="" n="decoR" xml:lang="en">Cross at the begenning of
                                             the legend. Border of dots.</figDesc>
                               <figDesc ana="" n="decoR" xml:lang="de">Vorangestelltes Kreuz.
@@ -326,6 +326,7 @@
             <graphic url="Kr_81a.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -335,6 +336,7 @@
             <graphic url="Kr_81b.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -383,7 +385,7 @@
             <p>Κύριε βοήθει τῷ σῷ δούλῳ/ Βασιλίῳ κουράτωρι τοῦ στρατιγοῦ.</p>
             <p xml:lang="en">Lord, help your servant Basileios kourator of the strategos.</p>
             <p xml:lang="de">Herr, hilf deinem Diener Basileios kurator des strategos.</p>
-            <p xml:lang="el">Κύριε βοήθησε τον δούλο σου Βασίλειο κουράτορα του στρατηγού.</p>
+            <p xml:lang="el">Κύριε βοήθησε το δούλο σου Βασίλειο, κουράτορα του στρατηγού.</p>
          </div>
          <div type="commentary" subtype="text">
             <p xml:lang="en"/>
@@ -401,19 +403,19 @@
          <div type="bibliography" subtype="edition">
                 
               </div>
-         <div type="bibliography" subtype="parallels"> <!--if you don't have parallels, put this div in a comment-->
+         <!--<div type="bibliography" subtype="parallels"> <!-\-if you don't have parallels, put this div in a comment-\->
             <p>
-                   <!--                          <ptr target=""/>, <citedRange unit=""/>
--->                    
+                   <!-\-                          <ptr target=""/>, <citedRange unit=""/>
+-\->                    
                   </p>
-         </div>
-         <div type="bibliography" subtype="discussion"> <!--if you don't have further bibliography, put this div in a comment-->
+         </div>-->
+         <!--<div type="bibliography" subtype="discussion"> <!-\-if you don't have further bibliography, put this div in a comment-\->
             <p>
-                      <!--<bibl>
+                      <!-\-<bibl>
                           <ptr target=""/>, <citedRange unit=""/>
-                      </bibl>-->
+                      </bibl>-\->
                   </p>
-         </div>
+         </div>-->
       </body>
    </text>
 </TEI>
