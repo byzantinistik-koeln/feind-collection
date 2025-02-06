@@ -4,6 +4,7 @@
          <titleStmt>
             <title xml:lang="de">Siegel des Stephanos ostiarios und chartoularios</title>
             <title xml:lang="en">Seal of Stephanos ostiarios and chartoularios</title>
+            <title xml:lang="el">Μολυβδόβουλλο Στεφάνου οστιαρίου και χαρτουλαρίου</title>
             <editor role="seal-editor" xml:id="MC">Maria Teresa Catalano</editor>
             <editor role="seal-editor" xml:id="MF">Martina Filosa</editor>
             <editor role="seal-editor" xml:id="CS">Claudia Sode</editor>
@@ -56,6 +57,9 @@
                   <persName xml:lang="en">
                      <forename>Stephanos</forename>
                   </persName>
+                  <persName xml:lang="el">
+                     <forename>Στέφανος</forename>
+                  </persName>
                   <!--<idno type="PBW" ana=""></idno>
                         <idno type="PmbZ" ana=""></idno>-->
                </person>
@@ -65,6 +69,7 @@
                   <country>
                      <seg xml:lang="en">Germany</seg>
                      <seg xml:lang="de">Deutschland</seg>
+                     <seg xml:lang="el">Γερμανία</seg>
                   </country>
                   <settlement>
                      <seg xml:lang="en">
@@ -72,6 +77,9 @@
                      </seg>
                      <seg xml:lang="de">
                         <placeName ref="https://www.geonames.org/6553049/koeln.html"/>Köln</seg>
+                     <seg xml:lang="en">
+                        <placeName ref="https://www.geonames.org/6553049/koeln.html">Κολωνία</placeName>
+                     </seg>
                   </settlement>
                   <institution/>
                   <repository/>
@@ -90,6 +98,8 @@
                   <summary n="whole">
                      <seg xml:lang="en">Central administration.</seg>
                      <seg xml:lang="de">Zentralverwaltung</seg>
+                     <seg xml:lang="el">Μολυβδόβουλλα αξιωματούχων της κεντρικής διοίκησης.
+                     </seg>
                   </summary>
                </msContents>
                <physDesc>
@@ -100,15 +110,19 @@
                               <term>
                                  <seg xml:lang="de">Siegel</seg>
                                  <seg xml:lang="en">Seal</seg>
+                                 <seg xml:lang="el">Μολυβδόβουλλο</seg>
                               </term>
                               <interp type="workType" xml:lang="de">Origineller
                                             Siegelabdruck.</interp>
                               <interp type="workType" xml:lang="en">Original
                                             impression.</interp>
+                              <interp type="workType" xml:lang="el">Αρχική
+                                 αποτύπωση</interp>
                            </objectType>
                            <material>
                               <seg xml:lang="de">Blei</seg>
                               <seg xml:lang="en">Lead</seg>
+                              <seg xml:lang="el">Μόλυβδος</seg>
                            </material>
                            <dimensions type="support" unit="mm">
                               <dim type="diameter">22</dim>
@@ -122,6 +136,7 @@
                         <condition rend="obliterated well-struck">
                            <p xml:lang="de">Teilweise abgenutzt auf beiden Seiten.</p>
                            <p xml:lang="en">Partially effaced on either side.</p>
+                           <p xml:lang="el">Ελαφρώς σβησμένη και στις δύο όψεις.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -129,10 +144,12 @@
                            <rs type="execution">
                               <seg xml:lang="de">Geprägt</seg>
                               <seg xml:lang="en">Struck</seg>
+                              <seg xml:lang="el">Παιστό</seg>
                            </rs>
                            <rs type="shape">
                               <seg xml:lang="de">Rund</seg>
                               <seg xml:lang="en">Round</seg>
+                              <seg xml:lang="el">Σφαιρικό</seg>
                            </rs>
                            <rs type="matrix" subtype="not-surviving">
                               <idno type="SigiDoc">"m-wrSrnc"</idno>
@@ -157,6 +174,7 @@
                      <origDate type="analysis" notBefore="1001" notAfter="1050" evidence="epigraphy" cert="high" resp="#MC">
                         <seg xml:lang="en">11th c., first half.</seg>
                         <seg xml:lang="de">11. Jh., erste Hälfte.</seg>
+                        <seg xml:lang="el">11ος αι. πρώτο μισό. </seg>
                      </origDate>
                      <!-- for an internal date
                             <origDate type="internal" notBefore="" notAfter=""
@@ -213,6 +231,7 @@
                               </dimensions>
                               <p xml:lang="en">Iconography</p>
                               <p xml:lang="de">Ikonographie</p>
+                              <p xml:lang="en">Εικονογραφία</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -232,8 +251,10 @@
                                             Muttergottes, die das Christuskind auf dem linken Arm
                                             hält (Hodegetria). Details undeutlich. Reste von Siglen
                                             auf beiden Seiten erkennbar.</figDesc>
+                              <figDesc ana="female person Virgin Christ bust child" n="r" xml:lang="el"> Προτομή Θεοτόκου, κρατάει τον Χριστό στο αριστερό της χέρι (Οδηγήτρια). Δεν διακρίνονται λεπτομέρειες. Ίχνη σίγλλα και στις δύο πλευρές. </figDesc>
                               <figDesc ana="" n="decoR" xml:lang="en">Border of dots.</figDesc>
                               <figDesc ana="" n="decoR" xml:lang="de">Perlrand</figDesc>
+                              <figDesc ana="" n="decoR" xml:lang="el">Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -262,6 +283,7 @@
                               </dimensions>
                               <p xml:lang="en">Linear legend of 5 lines.</p>
                               <p xml:lang="de">Lineare Legende auf 5 Zeilen.</p>
+                              <p xml:lang="el">Επιγραφή 5 στίχων.</p>
                               <!--Only controlled vocabulary here? Fomerly there used to be also the possibility for free-text entries...-->
                            </layout>
                         </layoutDesc>
@@ -280,6 +302,7 @@
                               <figDesc ana="" n="decoV" xml:lang="de">Die letzte Zeile ist
                                             zwischen zwei Zierlinien (auf der rechten Seite
                                             erhalten). Perlrand.</figDesc>
+                              <figDesc ana="" n="decoV" xml:lang="el">Διακοσμητικό μοτίβο το οποίο αποτελείται από δύο γραμμές (διατηρείται στα δεξία του πεδίου). Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -299,6 +322,7 @@
             <graphic url="" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -308,6 +332,7 @@
             <graphic url="" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -349,6 +374,7 @@
             <p>Στέφανος ὠστιάριος καὶ χαρτουλάρηος.</p>
             <p xml:lang="en">Stephanos ostiarios and chartoularios.</p>
             <p xml:lang="de">Stephanos ostiarios und chartoularios.</p>
+            <p xml:lang="el">Στέφανος οστιάριος και χαρτουλάριος.</p>
          </div>
          <div type="commentary" subtype="text">
             <p xml:lang="en">The legend can be interpreted in two distinct ways. One possibility

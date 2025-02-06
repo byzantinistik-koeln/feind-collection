@@ -7,6 +7,7 @@
                     kanikleiou</title>
             <title xml:lang="en">Seal of N. Libellisios, krites of the velum, and epi tou
                     kanikleiou</title>
+            <title xml:lang="en">Μολυβφόβουλλο Ν. Λιβελλίσιος, κριτής του βήλου και επί του κανικλείου</title>
             <editor role="seal-editor" xml:id="MC">Maria Teresa Catalano</editor>
             <editor role="seal-editor" xml:id="MF">Martina Filosa</editor>
             <editor role="seal-editor" xml:id="CS">Claudia Sode</editor>
@@ -53,6 +54,10 @@
                      <forename>N.</forename>
                      <surname>Libellisios</surname>
                   </persName>
+                  <persName xml:lang="el">
+                     <forename>N.</forename>
+                     <surname>Λιβελλίσιος</surname>
+                  </persName>
                   <idno type="PBW" ana="http://pbw2016.kdl.kcl.ac.uk/person/Ioannes/20154/" cert="low">Ioannes 20154</idno>
                   <!--<idno type="PmbZ" ana=""></idno>-->
                </person>
@@ -62,6 +67,7 @@
                   <country>
                      <seg xml:lang="en">Germany</seg>
                      <seg xml:lang="de">Deutschland</seg>
+                     <seg xml:lang="el">Γερμανία</seg>
                   </country>
                   <settlement>
                      <seg xml:lang="en">
@@ -69,6 +75,9 @@
                      </seg>
                      <seg xml:lang="de">
                         <placeName ref="https://www.geonames.org/6553049/koeln.html"/>Köln</seg>
+                     <seg xml:lang="en">
+                        <placeName ref="https://www.geonames.org/6553049/koeln.html">Κολωνία</placeName>
+                     </seg>
                   </settlement>
                   <institution/>
                   <repository/>
@@ -87,6 +96,8 @@
                   <summary n="whole">
                      <seg xml:lang="en">Central administration.</seg>
                      <seg xml:lang="de">Zentralverwaltung</seg>
+                     <seg xml:lang="el">Μολυβδόβουλλα αξιωματούχων της κεντρικής διοίκησης.
+                     </seg>
                   </summary>
                </msContents>
                <physDesc>
@@ -97,15 +108,19 @@
                               <term>
                                  <seg xml:lang="de">Siegel</seg>
                                  <seg xml:lang="en">Seal</seg>
+                                 <seg xml:lang="el">Μολυβδόβουλλο</seg>
                               </term>
                               <interp type="workType" xml:lang="de">Origineller
                                             Siegelabdruck.</interp>
                               <interp type="workType" xml:lang="en">Original
                                             impression.</interp>
+                              <interp type="workType" xml:lang="el">Αρχική
+                                 αποτύπωση</interp>
                            </objectType>
                            <material>
                               <seg xml:lang="de">Blei</seg>
                               <seg xml:lang="en">Lead</seg>
+                              <seg xml:lang="el">Μόλυβδος</seg>
                            </material>
                            <dimensions type="support" unit="mm">
                               <dim type="diameter">27</dim>
@@ -121,6 +136,7 @@
                                         teilweise abgenutzt auf dem Avers.</p>
                            <p xml:lang="en">Thin crack at the upper end of the channel,
                                         partially effaced on the obverse.</p>
+                           <p xml:lang="en">Ραγισμένη στο άνω στόμιο του διαύλου, ελαφρώς σβησμένη στον εμπροσθότυπο.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -128,10 +144,12 @@
                            <rs type="execution">
                               <seg xml:lang="de">Geprägt</seg>
                               <seg xml:lang="en">Struck</seg>
+                              <seg xml:lang="el">Παιστό</seg>
                            </rs>
                            <rs type="shape">
                               <seg xml:lang="de">Rund</seg>
                               <seg xml:lang="en">Round</seg>
+                              <seg xml:lang="el">Σφαιρικό</seg>
                            </rs>
                            <rs type="matrix" subtype="not-surviving">
                               <idno type="SigiDoc">"m-VKpbDH"</idno>
@@ -148,6 +166,7 @@
                      <origDate type="analysis" notBefore="1051" notAfter="1100" evidence="epigraphy" cert="high" resp="#MC">
                         <seg xml:lang="en">11th c., second half.</seg>
                         <seg xml:lang="de">11. Jh., zweite Hälfte.</seg>
+                        <seg xml:lang="de">11ος αι. δεύτερο μισό.</seg>
                      </origDate>
                   </origin>
                   <provenance type="found" subtype="discovered">
@@ -189,6 +208,7 @@
                               </dimensions>
                               <p xml:lang="en">Iconography</p>
                               <p xml:lang="de">Ikonographie</p>
+                              <p xml:lang="el">Εικονογραφία</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -206,8 +226,10 @@
                               <figDesc ana="person male saint St-Nicholas blessing standing gospel bishop" n="r" xml:lang="de">Stehender Heiliger (wahrscheinlich Hl. Nikolaos), der
                                             einen Segen mit der rechten Hand gibt und ein Buch in
                                             seiner linken Hand hält. Details undeutlich.</figDesc>
+                              <figDesc ana="person male saint St-Nicholas blessing standing gospel bishop" n="r" xml:lang="el"> Ιστάμενη αγιολογική μορφή, (πιθανώς ο αγ. Νικόλαος) ευλογεί με το δεξί χέρι και στο αριστερό κρατάει βιβλίο. Δεν διακρίνονται λεπτομέρειες.</figDesc>
                               <figDesc ana="" n="decoR" xml:lang="en">Border of dots.</figDesc>
                               <figDesc ana="" n="decoR" xml:lang="de">Perlrand</figDesc>
+                              <figDesc ana="" n="decoR" xml:lang="el">Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -236,6 +258,7 @@
                               </dimensions>
                               <p xml:lang="en">Linear legend of 5 lines.</p>
                               <p xml:lang="de">Lineare Legende auf 5 Zeilen.</p>
+                              <p xml:lang="el">Επιγραφή 5 στίχων.</p>
                               <!--Only controlled vocabulary here? Fomerly there used to be also the possibility for free-text entries...-->
                            </layout>
                         </layoutDesc>
@@ -256,6 +279,7 @@
                                             eine Dekoration aus einem Stern zwischen zwei
                                             Zierlinien; unterhalb der Legende sind Reste einer
                                             Dekoration erkennbar. Perlrand.</figDesc>
+                              <figDesc ana="" n="decoV" xml:lang="el">Πάνω από την επιγραφή, διακοσμητικό μοτίβο, το οποίο αποτελείται απο έναν αστερίσκος ανάμεσα σε δύο γραμμές. Κάτω από την επιγραφή ίχνη διακόσμησης. Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -275,6 +299,7 @@
             <graphic url="" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
                </surfaceGrp>
@@ -284,6 +309,7 @@
             <graphic url="" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -325,6 +351,7 @@
                     kanikleiou.</p>
             <p xml:lang="de">(Siegel des) N. Libellesios, krites des Velum und epi tou
                     kanikleiou.</p>
+            <p xml:lang="de">(Σφραγίδα) Ν. Λιβελλησίου, κριτή του βήλου και επί του κανικλείου.</p>
          </div>
          <div type="commentary" subtype="text">
             <p xml:lang="en">It is likely that the first name of the issuer was inscribed on the
@@ -334,7 +361,7 @@
                     provided important information concerning the motives behind Ioannes
                     Libellesios' selection of matrices. </p>
          </div>
-         <div type="bibliography" subtype="parallels"><!--N. P. Lichačev, Molivdovuly grečeskogo vostoka, Moskow 1991. add to bibliography as "Lichačev1991" and Ch. Chotzakoglou, Byzantinische Bleisiegel aus Ungarn, SBS 6, 1999, 59-70 as "Chotzakoglou1999"!-->
+         <div type="bibliography" subtype="parallels"><!--N. P. Lichačev, Molivdovuly grečeskogo vostoka, Moskow 1991. add to bibliography as "Lihačev1991" and Ch. Chotzakoglou, Byzantinische Bleisiegel aus Ungarn, SBS 6, 1999, 59-70 as "Chotzakoglou1999"!-->
             <p>On following seals, only the reverse is parallel to ours: (1) DO
                     BZS.1951.31.5.1214 (Fogg Collection, no. 1214) – <bibl>
                   <ptr target="LaurentCorpus2"/>, no. <citedRange unit="entry">221</citedRange>
@@ -344,7 +371,7 @@
                   </citedRange>
                </bibl>; (2) Saint Petersburg,
                     State Hermitage Museum, M-8047 – <bibl>
-                  <ptr target="Lichačev1991"/>, p.
+                  <ptr target="Lihačev1991"/>, p.
                             <citedRange unit="page">114</citedRange>, no. <citedRange unit="entry">8</citedRange>, table <citedRange unit="entry">LXIV</citedRange>, no.
                             <citedRange unit="entry">8</citedRange>
                </bibl>; (3) Budapest, Hungarian
