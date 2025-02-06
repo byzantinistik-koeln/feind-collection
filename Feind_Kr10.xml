@@ -145,7 +145,7 @@
                         <layout n="whole">
                            <rs type="execution">
                               <seg xml:lang="en">Struck</seg>
-                              <seg xml:lang="de">???</seg>
+                              <seg xml:lang="de">Geprägt </seg>
                               <seg xml:lang="el">Παιστό</seg>
                            </rs>
                            <rs type="shape">
@@ -257,7 +257,7 @@
                               <figDesc ana="" n="decoR" xml:lang="de">Vorangestelltes Kreuz,
                                             Perlrand.</figDesc>
                               <figDesc ana="" n="decoR" xml:lang="el"> Σταυρός στην αρχή της
-                                            επιγραφής, στικτό πλαίσιο.</figDesc>
+                                            επιγραφής. Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -327,6 +327,7 @@
             <graphic url="Kr_10a.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -336,6 +337,7 @@
             <graphic url="Kr_10b.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -387,7 +389,7 @@
             <p>Κύριε βοήθει τῷ σῷ δούλῳ / Βάρδᾳ πατρικίο, βασιλικῷ πρωτοσπαθαρίῳ καὶ στρατηγῷ τῶν Ἀνατολικῶν.</p>
             <p xml:lang="en">Lord, help your servant Bardas patrikios, imperial protospatharios, and strategos of Anatolikoi.</p>
             <p xml:lang="de">Herr, hilf deinem Diener Barda patrikios, kaiserlicher protospatharios und strategos von Anatolikoi.</p>
-            <p xml:lang="el">Κύριε βοήθησε τον δούλο σου Βάρδα, πατρίκιο, βασιλικό πρωτοσπαθάριο και στρατηγό των Ανατολικών. </p>
+            <p xml:lang="el">Κύριε βοήθησε το δούλο σου Βάρδα, πατρίκιο, βασιλικό πρωτοσπαθάριο και στρατηγό των Ανατολικών. </p>
          </div>
          <div type="commentary" subtype="text">
             <p xml:lang="en"/>
@@ -405,19 +407,19 @@
          <div type="bibliography" subtype="edition">
                 
               </div>
-         <div type="bibliography" subtype="parallels"> <!--if you don't have parallels, put this div in a comment-->
+         <!--<div type="bibliography" subtype="parallels"> <!-\-if you don't have parallels, put this div in a comment-\->
             <p>
-                   <!--                          <ptr target=""/>, <citedRange unit=""/>
--->                    
+                   <!-\-                          <ptr target=""/>, <citedRange unit=""/>
+-\->                    
                   </p>
-         </div>
-         <div type="bibliography" subtype="discussion"> <!--if you don't have further bibliography, put this div in a comment-->
+         </div>-->
+         <!--<div type="bibliography" subtype="discussion"> <!-\-if you don't have further bibliography, put this div in a comment-\->
             <p>
-                      <!--<bibl>
+                      <!-\-<bibl>
                           <ptr target=""/>, <citedRange unit=""/>
-                      </bibl>-->
+                      </bibl>-\->
                   </p>
-         </div>
+         </div>-->
       </body>
    </text>
 </TEI>
