@@ -38,7 +38,7 @@
          </publicationStmt>
          <sourceDesc>
             <listPerson type="issuer">
-               <person role="private" gender="" xml:id="">
+               <person role="private" gender="M">
                   <persName xml:lang="en">
                      <forename>Michael</forename>&gt;
                                                     <surname>Karantenos</surname>
@@ -145,7 +145,7 @@
                         <layout n="whole">
                            <rs type="execution">
                               <seg xml:lang="en">Struck</seg>
-                              <seg xml:lang="de">???</seg>
+                              <seg xml:lang="de">Geprägt</seg>
                               <seg xml:lang="el">Παιστό</seg>
                            </rs>
                            <rs type="shape">
@@ -179,7 +179,7 @@
                                 <interp type="datingCriteria" xml:lang="de"/>
                             </origDate>-->
                      <!-- for a date range or centuries (NOT BEFORE - NOT AFTER)-->
-                     <origDate type="analysis" notBefore="1251" notAfter="1300" evidence=" epigraphy" resp="MC">
+                     <origDate type="analysis" notBefore="1251" notAfter="1300" evidence="epigraphy" resp="MC">
                         <seg xml:lang="en">13th c., second half</seg>
                         <seg xml:lang="de">13. Jh., zweite Hälfte.</seg>
                         <seg xml:lang="el">13ος αι. , δεύτερο μισό.</seg>
@@ -321,6 +321,7 @@
             <graphic url="S_9a.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -330,6 +331,7 @@
             <graphic url="S_9b.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -338,14 +340,14 @@
       <body>
          <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"> <!--change the language code according to the language of your edition, the values (also when combined, e.g. Greek-Latin) are in the guidelines. Same goes for what comes next, textpart etc.-->
                   <div type="textpart" subtype="face" n="obv" rend="linear" xml:lang="grc"> <!--obverse, editorial-->
-                          <ab><!--legends case here useful?-->
+                          <ab ana="gen"><!--legends case here useful?-->
                           <lb n="1"/>Γρα
                           <lb n="2" break="no"/><supplied reason="lost">φ</supplied>ῶν Μι
                           <lb n="3" break="no"/>χαὴλ
                       </ab>
                   </div>
                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
-                      <ab>
+                      <ab ana="gen">
                           <lb n="4"/>τοῦ Κα
                           <lb n="5" break="no"/>ραντηvοῦ 
                           <lb n="6"/><expan><abbr>κύρο</abbr><ex>ς</ex></expan>
@@ -396,20 +398,20 @@
 -->                      </bibl>
             </p>
          </div>
-         <div type="bibliography" subtype="parallels"> <!--if you don't have parallels, put this div in a comment-->
+         <!--<div type="bibliography" subtype="parallels"> <!-\-if you don't have parallels, put this div in a comment-\->
             <p>
                <bibl>
-<!--                          <ptr target=""/>, <citedRange unit=""/>
--->                      </bibl>
+<!-\-                          <ptr target=""/>, <citedRange unit=""/>
+-\->                      </bibl>
             </p>
-         </div>
-         <div type="bibliography" subtype="discussion"> <!--if you don't have further bibliography, put this div in a comment-->
+         </div>-->
+         <!--<div type="bibliography" subtype="discussion"> <!-\-if you don't have further bibliography, put this div in a comment-\->
             <p>
-                      <!--<bibl>
+                      <!-\-<bibl>
                           <ptr target=""/>, <citedRange unit=""/>
-                      </bibl>-->
+                      </bibl>-\->
                   </p>
-         </div>
+         </div>-->
       </body>
    </text>
 </TEI>

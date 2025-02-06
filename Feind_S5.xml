@@ -6,7 +6,7 @@
          <titleStmt>
             <title xml:lang="en">Seal of Ioannes Liparinos, magistros</title>
             <title xml:lang="de">Siegel des Ioannes Liparinos, magistros</title>
-            <title xml:lang="el">Μολυβδόβουλλο του Ιωάννη Λιπαρινού, του μαγίστρου</title>
+            <title xml:lang="el">Μολυβδόβουλλο Ιωάννη Λιπαρινού, του μαγίστρου</title>
             <editor role="seal-editor" xml:id="MC">Maria Teresa Catalano</editor>
             <editor role="seal-editor" xml:id="MF">Martina Filosa</editor>
             <editor role="seal-editor" xml:id="CS">Claudia Sode</editor>
@@ -43,7 +43,7 @@
          </publicationStmt>
          <sourceDesc>
             <listPerson type="issuer">
-               <person gender="m" role=" aristocracy" xml:id="ioannes-liparinos">
+               <person gender="M" role=" aristocracy" xml:id="ioannes-liparinos">
                   <persName xml:lang="grc">
                      <forename>Ἰωάννης</forename>
                      <surname>Λιπαρινός</surname>
@@ -144,7 +144,7 @@
                         <layout n="whole">
                            <rs type="execution">
                               <seg xml:lang="en">Struck</seg>
-                              <seg xml:lang="de">???</seg>
+                              <seg xml:lang="de">Geprägt</seg>
                               <seg xml:lang="el">Παιστό</seg>
                            </rs>
                            <rs type="shape">
@@ -179,7 +179,7 @@
                             </origDate>-->
                      <!-- for a date range or centuries (NOT BEFORE - NOT AFTER)-->
                      <origDate type="analysis" notBefore="1067" notAfter="1100"
-                        evidence=" epigraphy" resp="MC">
+                        evidence="epigraphy" resp="MC">
                         <seg xml:lang="en">11th c., last third.</seg>
                         <seg xml:lang="de">11. Jh., letztes Drittel. </seg>
                         <seg xml:lang="el">11ος αι, τελευταίο τρίτο. </seg>
@@ -323,6 +323,7 @@
             <graphic url="S_5a.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -332,6 +333,7 @@
             <graphic url="S_5b.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -340,14 +342,14 @@
       <body>
          <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"> <!--change the language code according to the language of your edition, the values (also when combined, e.g. Greek-Latin) are in the guidelines. Same goes for what comes next, textpart etc.-->
                   <div type="textpart" subtype="face" n="obv" rend="linear" xml:lang="grc"> <!--obverse, editorial-->
-                             <ab>
+                             <ab ana="gen">
                           <lb n="1"/><expan><abbr>Γραφ</abbr><ex>ὰς</ex></expan>
                           <lb n="2"/>σφραγί
                           <lb n="3" break="no"/>ζω <expan><abbr>Ἰω</abbr><ex>άννου</ex></expan>
                           </ab>
                   </div>
                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
-                      <ab>
+                      <ab ana="gen">
                           <lb n="4"/><rs type="dignity" ref="#d0038"><expan><abbr>μαγί</abbr><ex>σ</ex>
                           <lb n="5" break="no"/><abbr>τρου</abbr></expan></rs> τοῦ <expan><abbr>Λ</abbr><ex>ι</ex>
                           <lb n="6" break="no"/><abbr>παριν</abbr><ex>οῦ</ex></expan>
@@ -400,23 +402,23 @@
                </bibl>
             </p>
          </div>
-         <div type="bibliography" subtype="parallels">
-            <!--if you don't have parallels, put this div in a comment-->
+         <!--<div type="bibliography" subtype="parallels">
+            <!-\-if you don't have parallels, put this div in a comment-\->
             <p>
                <bibl>
-                  <!--                          <ptr target=""/>, <citedRange unit=""/>
--->
+                  <!-\-                          <ptr target=""/>, <citedRange unit=""/>
+-\->
                </bibl>
             </p>
-         </div>
-         <div type="bibliography" subtype="discussion">
-            <!--if you don't have further bibliography, put this div in a comment-->
+         </div>-->
+         <!--<div type="bibliography" subtype="discussion">
+            <!-\-if you don't have further bibliography, put this div in a comment-\->
             <p>
-               <!--<bibl>
+               <!-\-<bibl>
                           <ptr target=""/>, <citedRange unit=""/>
-                      </bibl>-->
+                      </bibl>-\->
             </p>
-         </div>
+         </div>-->
       </body>
    </text>
 </TEI>
