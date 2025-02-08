@@ -344,9 +344,9 @@
                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--obverse, editorial-->
                       
                       <ab ana="dat">
-                                                               <lb n="4"/>Ἰωά
-                              <lb n="5"/>ννη <rs type="dignity" ref="#hypatos">ὑπ
-                              <lb n="6"/>άτω</rs>
+                              <lb n="4"/>Ἰωά
+                              <lb n="5" break="no"/>ννη <rs type="dignity" ref="#d0089">ὑπ
+                              <lb n="6" break="no"/>άτω</rs>
                          
                       </ab>
                   </div>
@@ -380,7 +380,7 @@
             </listApp>
          </div>
          <div type="translation">
-            <p>Θεοτόκε βοήθει Ἰωάννη ὑπάτω.</p>
+            <p>Θεοτόκε βοήθει / Ἰωάννη ὑπάτω.</p>
             <p xml:lang="en">Mother of God, help Ioannes hypatos.</p>
             <p xml:lang="de">Muttergottes, hilf Ioannes hypatos.</p>
             <p xml:lang="el">Θεοτόκε βοήθησε τον Ιωάννη ύπατο.</p>

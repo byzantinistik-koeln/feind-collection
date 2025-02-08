@@ -315,22 +315,22 @@
       <body>
          <div type="edition" subtype="editorial" xml:space="preserve"> 
                   <div type="textpart" subtype="face" n="obv" rend="linear" xml:lang="grc"> <!--obverse, editorial-->
-                      <ab>
-                          <lb n="1"/>Θεο
+                      <ab ana="dat">
+                          <lb n="1"/><rs type="invocation" ref="#inv002">Θεο
                           <lb n="2" break="no"/>τόκε <supplied reason="lost">βο
                           <lb n="3" break="no"/>ή</supplied>θει τῷ 
-                          <lb n="4"/><supplied reason="lost">σ</supplied>ῷ <expan><abbr>δούλ</abbr><ex>ῳ</ex></expan> 
+                          <lb n="4"/><supplied reason="lost">σ</supplied>ῷ <expan><abbr>δούλ</abbr><ex>ῳ</ex></expan></rs> 
                           <lb n="5"/>Κοσμᾷ
                       </ab>
                   </div>
                       <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
-                      <ab>
-                          <lb n="6"/><expan><abbr>ἀνθυπ</abbr>
-                          <lb n="7" break="no"/><supplied reason="lost"><abbr>άτ</abbr><ex>ῳ</ex></supplied></expan> <expan><abbr>πατρικ</abbr><ex>ίῳ</ex></expan> <expan><abbr>β</abbr><ex>ασιλικῷ</ex></expan> 
-                          <lb n="8"/><expan><supplied reason="lost"><ex>πρωτο</ex></supplied><abbr>σπ<supplied reason="lost">α</supplied>θαρ</abbr><ex>ίῳ</ex></expan> <expan><ex>καὶ</ex></expan> <expan><abbr>λ</abbr><ex>ο</ex>
-                          <lb n="9" break="no"/><abbr><supplied reason="lost">γ</supplied>οθέτ</abbr><ex>ῃ</ex></expan> τοῦ 
-                          <lb n="10"/><supplied reason="lost">ὀξέ</supplied>ου δρ
-                          <lb n="11" break="no"/>όμου
+                      <ab ana="dat">
+                          <lb n="6"/><rs type="dignity" ref="#d0006"><expan><abbr>ἀνθυπ</abbr>
+                          <lb n="7" break="no"/><supplied reason="lost"><abbr>άτ</abbr><ex>ῳ</ex></supplied></expan> <expan><abbr>πατρικ</abbr><ex>ίῳ</ex></expan></rs> <rs type="dignity" ref="#d0067"><expan><abbr>β</abbr><ex>ασιλικῷ</ex></expan> 
+                          <lb n="8"/><expan><supplied reason="lost"><ex>πρωτο</ex></supplied><abbr>σπ<supplied reason="lost">α</supplied>θαρ</abbr><ex>ίῳ</ex></expan></rs> <expan><abbr><am>S</am></abbr><ex>καὶ</ex></expan> <rs type="office" subtype="civil" ref="#of0116"><expan><abbr>λ</abbr><ex>ο</ex>
+                          <lb n="9" break="no"/><abbr><supplied reason="lost">γ</supplied>οθέτ</abbr><ex>ῃ</ex></expan></rs> τοῦ 
+                          <lb n="10"/><rs type="institution" ref="#org0021"><supplied reason="lost">ὀξέ</supplied>ου δρ
+                          <lb n="11" break="no"/>όμου</rs>
                       </ab>
                   </div>
               </div>

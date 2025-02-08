@@ -328,16 +328,16 @@
       <body>
          <div type="edition" subtype="editorial" xml:space="preserve"> 
                   <div type="textpart" subtype="face" n="obv" rend="linear" xml:lang="grc"> <!--obverse, editorial-->
-                      <ab>
-                          <lb n="1"/><expan><abbr>Θ</abbr><ex>εοτό</ex><abbr>κε</abbr></expan> 
-                          <lb n="2"/>βοἠθει 
+                      <ab ana="dat">
+                          <lb n="1"/><rs type="invocation" ref="#inv001"><expan><abbr>Θ</abbr><ex>εοτό</ex><abbr>κε</abbr></expan> 
+                          <lb n="2"/>βοἠθει</rs> 
                           <lb n="3"/>Ἰωαννι
                           <lb n="4" break="no"/>κίῳ
                       </ab>
                   </div>
                       <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
-                      <ab>
-                          <lb n="5"/><expan><ex>μον</ex><abbr>αχ</abbr><ex>ῷ</ex></expan> 
+                      <ab ana="dat"><!--Eumenias TOBEDONE in authority-->
+                          <lb n="5"/><rs type="office" subtype="ecclesiastical" ref="#of0216"><expan><ex>μον</ex><abbr>αχ</abbr><ex>ῷ</ex></expan></rs> 
                           <lb n="6"/>τῷ Εὐ
                           <lb n="7" break="no"/>μενεί
                           <lb n="8" break="no"/>ας

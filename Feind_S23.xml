@@ -343,20 +343,20 @@
       <body>
          <div type="edition" subtype="editorial" xml:space="preserve"> 
                   <div type="textpart" subtype="face" n="obv" rend="linear" xml:lang="grc"> <!--obverse, editorial-->
-                      <ab>
-                          <lb n="1"/><expan><abbr>Κ</abbr><ex>ὐρι</ex><abbr>ε</abbr></expan> <expan><abbr>β</abbr><ex>οἠ</ex><abbr>θ</abbr><ex>ει</ex></expan> 
-                          <lb n="2"/>τῷ σῷ <expan><abbr>δού</abbr><ex>λῳ</ex></expan> 
+                      <ab ana="dat">
+                          <lb n="1"/><rs type="invocation" ref="#inv004"><expan><abbr>Κ</abbr><ex>ὐρι</ex><abbr>ε</abbr></expan> <expan><abbr>β</abbr><ex>οἠ</ex><abbr>θ</abbr><ex>ει</ex></expan> 
+                          <lb n="2"/>τῷ σῷ <expan><abbr>δού</abbr><ex>λῳ</ex></expan></rs> 
                           <lb n="3"/>Λέοντ<supplied reason="lost">ι</supplied> 
-                          <lb n="4"/>στρατη
-                          <lb n="5" break="no"/>γῷ
+                          <lb n="4"/><rs type="office" subtype="military" ref="#of0279">στρατη
+                          <lb n="5" break="no"/>γῷ</rs>
                       </ab>
                   </div>
                       <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
-                      <ab>
-                          <lb n="6"/><supplied reason="lost"><expan><ex>καὶ</ex></expan></supplied> ἀνα
-                          <lb n="7" break="no"/><supplied reason="lost">γρ</supplied>αφεῖ                          
-                          <lb n="8"/><supplied reason="lost">Σε</supplied>λευκεί
-                          <lb n="9" break="no"/>ας τῷ Βλά
+                      <ab ana="dat">
+                          <lb n="6"/><supplied reason="lost"><expan><abbr><am>S</am></abbr><ex>καὶ</ex></expan></supplied> <rs type="office" subtype="civil" ref="#of0016">ἀνα
+                          <lb n="7" break="no"/><supplied reason="lost">γρ</supplied>αφεῖ</rs>                          
+                          <lb n="8"/><placeName ref="#geo0067"><supplied reason="lost">Σε</supplied>λευκεί
+                          <lb n="9" break="no"/>ας</placeName> τῷ Βλά
                           <lb n="10" break="no"/>γ<supplied reason="lost">γ</supplied>ᾳ
                       </ab>
                   </div>

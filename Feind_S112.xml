@@ -318,19 +318,18 @@
          <div type="edition" subtype="editorial" xml:space="preserve"> 
                   <div type="textpart" subtype="face" n="obv" rend="linear" xml:lang="grc"> <!--obverse, editorial-->
                       <ab ana="gen">
-                          
-                         <lb n="1"/><supplied reason="lost">Σφρα</supplied> 
-                          <lb n="2" break="no"/>γὶς <persName ref="#basileios-mauros">Βα<supplied reason="lost">σιλεί</supplied>
-                          <lb n="3" break="no"/>ου</persName> <rs type="office" subtype="civil" ref="#proedros_001"><expan><abbr>προ<supplied reason="lost">έ</supplied>δ</abbr><supplied reason="lost"><abbr>ρ</abbr><ex>ου</ex></supplied></expan></rs> 
-                          <lb n="4"/>καὶ <rs type="office" subtype="civil" ref="#krites_003">κρι
+                          <lb n="1"/><supplied reason="lost">Σφρα</supplied> 
+                          <lb n="2" break="no"/>γὶς Βα<supplied reason="lost">σιλεί</supplied>
+                          <lb n="3" break="no"/>ου <rs type="office" subtype="civil" ref="#of0165"><expan><abbr>προ<supplied reason="lost">έ</supplied>δ</abbr><supplied reason="lost"><abbr>ρ</abbr><ex>ου</ex></supplied></expan></rs> 
+                          <lb n="4"/>καὶ <rs type="office" subtype="civil" ref="#of0112">κρι
                           <lb n="5" break="no"/>τοῦ</rs>
                       </ab>
                   </div>
                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
-                      <ab>
+                      <ab ana="gen">
                           <lb n="6"/><supplied reason="lost">ἐπὶ</supplied> τοῦ 
-                          <lb n="7"/><supplied reason="lost">ἱ</supplied>πποδρό
-                          <lb n="8" break="no"/>μου τοῦ 
+                          <lb n="7"/><rs type="institution" ref="#org0017"><supplied reason="lost">ἱ</supplied>πποδρό
+                          <lb n="8" break="no"/>μου</rs> τοῦ 
                           <lb n="9"/>Μαυροῦ
                       </ab>
                   </div>
@@ -361,7 +360,7 @@
             </listApp>
          </div>
          <div type="translation">
-            <p>Σφραγὶς Βασιλείου προέδρου καὶ κριτοῦ ἐπὶ τοῦ ἱπποδρόμου τοῦ Μαυροῦ.</p>
+            <p>Σφραγὶς Βασιλείου προέδρου καὶ κριτοῦ / ἐπὶ τοῦ ἱπποδρόμου τοῦ Μαυροῦ.</p>
             <p xml:lang="en">Seal of Basileios Mauros, proedros and krites epi tou hippodromou.</p>
             <p xml:lang="de">Siegel des Basileios Mauros, proedros und krites epi tou hippodromou.</p>
          </div>

@@ -365,19 +365,19 @@
                       <ab ana="dat">
                             <lb n="1"/><rs type="invocation" ref="#inv004"><expan><abbr>Κ</abbr><ex>ύρι</ex><abbr>ε</abbr></expan> β<supplied reason="lost">ο</supplied>
                                  <lb n="2"/>ήθε<supplied reason="lost">ι</supplied> τῷ
-                               <lb n="3"/>  σῷ δούλῳ</rs> 
-                         <lb n="4"/>   Ἀετίῳ
+                               <lb n="3"/>σῷ δούλῳ</rs> 
+                         <lb n="4"/>Ἀετίῳ
                                
                           
                       </ab>
                   </div>
                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
-                      <ab>
-                          <lb n="5"/><rs type="dignity" ref="#prosospatharios"><expan><ex>πρωτο</ex><abbr>σπαθ</abbr><ex>αρίῳ</ex></expan></rs>
-                                  <lb n="6"/><rs type="office" subtype="civil" ref="#chrysotriklinou_001">ἐπὶ <expan><abbr>τ</abbr><ex>οῦ</ex></expan> <expan><abbr>χρ</abbr><ex>υσο</ex><ex>τρι</ex>
-                                    <lb n="7" break="no"/><abbr>κλ</abbr><ex>ίνου</ex></expan></rs><ex>καὶ</ex> <rs type="office" subtype="civil" ref="#krites_003"><expan><abbr>κριτ</abbr><ex>ῇ</ex> </expan>
-                                    <lb n="8"/>ἐπὶ <expan><abbr>τ</abbr><ex>οῦ</ex></expan><expan> <abbr>ἱππ</abbr><ex>ο</ex>
-                           <lb n="9" break="no"/><abbr>δρ</abbr><ex>όμου</ex></expan></rs>
+                      <ab ana="dat">
+                          <lb n="5"/><rs type="dignity" ref="#d0066"><expan><abbr><am>Α</am></abbr><ex>πρωτο</ex><abbr>σπαθ</abbr><ex>αρίῳ</ex></expan></rs>
+                          <lb n="6"/><rs type="office" subtype="civil" ref="#of0070">ἐπὶ <expan><abbr>τ</abbr><ex>οῦ</ex></expan> <expan><abbr>χρ</abbr><ex>υσο</ex><abbr><am>Γ</am></abbr><ex>τρι</ex>
+                          <lb n="7" break="no"/><abbr>κλ</abbr><ex>ίνου</ex></expan></rs> <expan><abbr><am>S</am></abbr><ex>καὶ</ex></expan> <rs type="office" subtype="civil" ref="#of0112"><expan><abbr>κριτ</abbr><ex>ῇ</ex></expan></rs>
+                          <lb n="8"/>ἐπὶ <expan><abbr>τ</abbr><ex>οῦ</ex></expan> <rs type="institution" ref="#org0017"><expan><abbr>ἱππ</abbr><ex>ο</ex>
+                          <lb n="9" break="no"/><abbr>δρ</abbr><ex>όμου</ex></expan></rs>
                           
                       </ab>
                   </div>
@@ -413,7 +413,7 @@
             </listApp>
          </div>
          <div type="translation">
-            <p>Κύριε βοήθει τῷ σῷ δούλῳ Ἀετίῳ πρωτοσπαθαρίῳ ἐπὶ τοῦ χρυσοτρικλίνου καὶ κριτῇ ἐπὶ τοῦ ἱπποδρόμου.</p>
+            <p>Κύριε βοήθει τῷ σῷ δούλῳ Ἀετίῳ / πρωτοσπαθαρίῳ ἐπὶ τοῦ χρυσοτρικλίνου καὶ κριτῇ ἐπὶ τοῦ ἱπποδρόμου.</p>
             <p xml:lang="en">Lord, help your servant Aetios protospatharios epi tou chrysotriklinou and krites epi tou hyppodromou.</p>
             <p xml:lang="de">Herr, hilf deinem Diener Aetios protospatharios epi tu chrysotriklinu und krites epi tu hippodromu.</p>
             <p xml:lang="el">Κύριε, βοήθησε τον δούλο σου Αέτιο, πρωτοσπαθάριο επί του χρυσοτρικλίνου και κριτή επί του ιπποδρόμου.</p>

@@ -317,15 +317,15 @@
       <body>
          <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"> <!--change the language code according to the language of your edition, the values (also when combined, e.g. Greek-Latin) are in the guidelines. Same goes for what comes next, textpart etc.-->
                   <div type="textpart" subtype="face" n="obv" rend="linear" xml:lang="grc"> <!--obverse, editorial-->
-                      <ab> 
+                      <ab ana="gen"> 
                       <lb n="1"/>Δω
                            <lb n="2" break="no"/><supplied reason="lost">ρ</supplied>οθ
                            <lb n="3" break="no"/>έου
                     </ab>
                   </div>
                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
-                      <ab>
-                           <lb n="4"/><rs type="dignity" ref="#apo-hypaton">ἀπὸ
+                      <ab ana="gen">
+                           <lb n="4"/><rs type="dignity" ref="#d0009">ἀπὸ
                             <lb n="5" break="no"/>ὑπά
                           <lb n="6" break="no"/><supplied reason="lost">τ</supplied>ων</rs>
                       </ab>

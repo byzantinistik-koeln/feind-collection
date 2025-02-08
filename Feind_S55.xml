@@ -326,7 +326,7 @@
       <body>
          <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"> <!--change the language code according to the language of your edition, the values (also when combined, e.g. Greek-Latin) are in the guidelines. Same goes for what comes next, textpart etc.-->
                   <div type="textpart" subtype="face" n="obv" rend="linear" xml:lang="grc"> <!--obverse, editorial-->
-                      <ab> 
+                      <ab ana="gen"> 
                       <lb n="1"/>Θεο
                            <lb n="2" break="no"/>δώρ
                            <lb n="3" break="no"/>ου
@@ -334,9 +334,9 @@
                       </ab>
                   </div>
                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
-                      <ab>
-                          <lb n="4"/><rs type="office" subtype="civil" ref="#palatinos_001">παλ
-                            <lb n="5" break="no"/> ατίν
+                      <ab ana="gen">
+                          <lb n="4"/><rs type="office" subtype="civil" ref="#of0153">παλ
+                            <lb n="5" break="no"/>ατίν
                             <lb n="6" break="no"/>ου</rs>
                           
                       </ab>
@@ -367,15 +367,15 @@
             </listApp>
          </div>
          <div type="translation">
-            <p>Θεοδώρου/ παλατίνου.</p>
-            <p xml:lang="en">(Seal) of Theodoros palatinos.</p>
-            <p xml:lang="de">(Siegel) des Theodoros palatinos.</p>
-            <p xml:lang="el">(Σφραγίδα) του Θεόδωρου παλατίνου.</p>
+            <p>Θεοδώρου / παλατίνου.</p>
+            <p xml:lang="en">(Seal of) Theodoros palatinos.</p>
+            <p xml:lang="de">(Siegel des) Theodoros palatinos.</p>
+            <p xml:lang="el">(Σφραγίδα του) Θεόδωρου παλατίνου.</p>
          </div>
          <div type="commentary" subtype="text">
             <p xml:lang="en">The seal issuer[1] is known from this seal type. </p>
-            <!--if you have the commentary only in German and would like to show it also in the English page, you should delete the xml:lang-->
-            <p xml:lang="de">[your commentary here]</p>
+            <!--if you have the commentary only in German and would like to show it also in the English page, you should delete the xml:lang
+            <p xml:lang="de">[your commentary here]</p>-->
          </div>
          <div type="commentary" subtype="footnotes">
             <p xml:id="footnote-1">[1]. <bibl>

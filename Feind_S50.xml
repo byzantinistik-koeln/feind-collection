@@ -337,18 +337,18 @@
                   <div type="textpart" subtype="face" n="obv" rend="linear" xml:lang="grc"> <!--obverse, editorial-->
                       
                       <ab>
-                          <lb n="1"/>Θε
+                          <lb n="1"/><rs type="invocation" ref="#inv001">Θε
                                 <lb n="2" break="no"/>οτόκε
-                                <lb n="3" break="no"/>βοήθη
+                                <lb n="3" break="no"/>βοήθη</rs>
                           
                       </ab>
                   </div>
                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
                       <ab ana="dat"> 
                           <lb n="4"/>Σερ
-                          <lb n="5" break="no"/>γίῳ πα
+                          <lb n="5" break="no"/>γίῳ <rs type="dignity" ref="#d0047">πα
                           <lb n="6" break="no"/>τρικί
-                          <lb n="7" break="no"/>ω
+                          <lb n="7" break="no"/>ω</rs>
                       </ab>
                   </div>
               </div>
@@ -381,15 +381,15 @@
             </listApp>
          </div>
          <div type="translation">
-            <p>Θεοτόκε βοήθη/ Σεργίῳ πατρικίω.</p>
+            <p>Θεοτόκε βοήθη / Σεργίῳ πατρικίω.</p>
             <p xml:lang="en">Mother of God, help Sergios patrikios.</p>
-            <p xml:lang="de">Muttergottes, hilf dem patrikios Sergios.</p>
+            <p xml:lang="de">Muttergottes, hilf Sergios patrikios.</p>
             <p xml:lang="el">Θεοτόκε βοήθησε τον Σέργιο πατρίκιο.</p>
          </div>
          <div type="commentary" subtype="text">
             <p xml:lang="en">Many similar seals without iconography show an inscription in which the patrikios Sergios [1],  invokes for help the Mother of God. They can be all dated to the 7th or 7th/8th c. Most of them differ from our specimen due to the different line breaks. The parallel seals (1) (2) are from a different boulloterion than our seal, but the line breaks are the same; the other seals show different line breaks than ours.</p>
             <!--if you have the commentary only in German and would like to show it also in the English page, you should delete the xml:lang-->
-            <p xml:lang="de">[your commentary here]</p>
+            
          </div>
          <div type="commentary" subtype="footnotes">
             <p xml:lang="en" xml:id="footnote-1"> [1].  <bibl>
