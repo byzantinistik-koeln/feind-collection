@@ -325,10 +325,10 @@
                       </ab>
                   </div>
                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
-                      <ab>
+                      <ab ana="dat">
                           <lb n="5"/>Γε
-                            <lb n="6" break="no"/> ωργί
-                            <lb n="7" break="no"/>ῳ <rs type="office" ref="#deacon_001">διακ
+                            <lb n="6" break="no"/>ωργί
+                            <lb n="7" break="no"/>ῳ <rs type="office" subtype="ecclesiastical" ref="#of0202">διακ
                           <lb n="8" break="no"/>όνω</rs>
                       </ab>
                   </div>
@@ -358,9 +358,9 @@
             </listApp>
          </div>
          <div type="translation">
-            <p>Θεοτόκε βοήθει /Γεωργίῳ διακόνω.</p>
+            <p>Θεοτόκε βοήθει / Γεωργίῳ διακόνω.</p>
             <p xml:lang="en">Mother of God, help Georgios diakonos.</p>
-            <p xml:lang="de">Mutter Gottes, hilf Georgios Diakonos.</p>
+            <p xml:lang="de">Muttergottes, hilf Georgios diakonos.</p>
             <p xml:lang="el">Θεοτόκε βοήθησε τον Γεώργιο  διάκονο.</p>
          </div>
          <div type="commentary" subtype="text">

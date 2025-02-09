@@ -317,7 +317,7 @@
       <body>
          <div type="edition" subtype="editorial" xml:space="preserve"> 
                   <div type="textpart" subtype="face" n="obv" rend="linear" xml:lang="grc"> <!--obverse, editorial-->
-                      <ab>
+                      <ab ana="gen"><!--METRICAL?-->
                           <lb n="1"/>Σφρα
                           <lb n="2" break="no"/>γὶς <expan><abbr>Κων
                           <lb n="3" break="no"/>σταντ</abbr><ex>ί</ex><abbr>ν</abbr><ex>ου</ex></expan>
@@ -325,7 +325,7 @@
                       </ab>
                   </div>
                       <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
-                      <ab>
+                      <ab ana="gen">
                           <lb n="4"/>τοῦ 
                           <lb n="5"/>Παναγι
                           <lb n="6" break="no"/>ώτου

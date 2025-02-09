@@ -315,20 +315,21 @@
       <body>
          <div type="edition" subtype="editorial" xml:space="preserve"> 
                   <div type="textpart" subtype="face" n="obv" rend="linear" xml:lang="grc"> <!--obverse, editorial-->
-                      <ab>
+                      <lg met="dodecasyllable"><!--METRICAL LEGEND PARTS CORRECT?-->
+                         <l n="1">
                           <lb n="1"/>Πρά
                           <lb n="2" break="no"/><supplied reason="lost">ξ</supplied>εις 
                           <lb n="3"/><supplied reason="lost">σ</supplied>φ<supplied reason="lost">ρ</supplied>αγί
-                          <lb n="4" break="no"/><supplied reason="lost">ζ</supplied>ω καὶ
-                      </ab>
+                          <lb n="4" break="no"/><supplied reason="lost">ζ</supplied>ω καὶ</l>
+                      </lg>
                   </div>
                       <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
-                      <ab>
+                      <lg met="dodecasyllable"><l n="1">
                           <lb n="5"/>γρα
                           <lb n="6" break="no"/>φὰς Γε
                           <lb n="7" break="no"/><supplied reason="lost">ω</supplied>ργί
-                          <lb n="8" break="no"/>ου
-                      </ab>
+                          <lb n="8" break="no"/>ου</l>
+                      </lg>
                   </div>
               </div>
          <div type="edition" subtype="diplomatic" xml:space="preserve"> 

@@ -317,23 +317,23 @@
    <text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <body>
          <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"> <!--change the language code according to the language of your edition, the values (also when combined, e.g. Greek-Latin) are in the guidelines. Same goes for what comes next, textpart etc.-->
-                  <div type="textpart" subtype="face" n="obv" rend="linear" xml:lang="grc"> <!--obverse, editorial-->
-                      <ab> 
+                  <div type="textpart" subtype="face" n="obv" rend="linear" xml:lang="la"> <!--obverse, editorial-->
+                      <ab ana="gen"> 
                       <lb n="1"/>The
                            <lb n="2" break="no"/>odor
                            <lb n="3" break="no"/>ou
                       </ab>
                   </div>
                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
-                      <ab>
+                      <ab ana="gen">
                           <lb n="4"/>Θεο
-                            <lb n="5"/>δώρ
-                            <lb n="6"/>ου
+                            <lb n="5" break="no"/>δώρ
+                            <lb n="6" break="no"/>ου
                       </ab>
                   </div>
               </div>
          <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang=""> 
-                  <div type="textpart" subtype="face" n="obv" rend="linear" xml:lang="grc"> <!--obverse, diplomatic-->
+                  <div type="textpart" subtype="face" n="obv" rend="linear" xml:lang="la"> <!--obverse, diplomatic-->
                       <ab>
                           <lb n="0"/>
                           <lb n="1"/>THE
@@ -359,8 +359,8 @@
          <div type="translation">
             <p>Theodorou / Θεοδώρου.</p>
             <p xml:lang="en">(Seal of) Theodoros.</p>
-            <p xml:lang="de">(Siegel von) Theodoros.</p>
-            <p xml:lang="el">Μολυβδόβουλλο του Θεοδώρου.</p>
+            <p xml:lang="de">(Siegel des) Theodoros.</p>
+            <p xml:lang="el">(Σφράγισμα του) Θεοδώρου.</p>
          </div>
          <div type="commentary" subtype="text">
             <p xml:lang="en">[your commentary here]</p>

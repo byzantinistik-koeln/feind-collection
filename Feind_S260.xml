@@ -325,9 +325,9 @@
                       </ab>
                   </div>
                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
-                      <ab>
+                      <ab ana="dat">
                           <lb n="5"/>Γεω
-                            <lb n="6" break="no"/> ργίῳ <rs type="dignity" ref="#apo-hypaton">ἀ
+                            <lb n="6" break="no"/>ργίῳ <rs type="dignity" ref="#d0009">ἀ
                             <lb n="7" break="no"/>πὸ ὑπά
                           <lb n="8" break="no"/>των</rs>
                       </ab>
@@ -358,9 +358,9 @@
             </listApp>
          </div>
          <div type="translation">
-            <p>Θεοτόκε βοήθη/ Γεωργίῳ ἀπὸ ὑπάτων.</p>
+            <p>Θεοτόκε βοήθη / Γεωργίῳ ἀπὸ ὑπάτων.</p>
             <p xml:lang="en">Mother of God, help Georgios apo hypaton.</p>
-            <p xml:lang="de">Mutter Gottes, hilf Georgios Apo Hypaton.</p>
+            <p xml:lang="de">Muttergottes, hilf Georgios apo hypaton.</p>
             <p xml:lang="el">Θεοτόκε βοήθησε τον Γεώργιο από υπάτων. </p>
          </div>
          <div type="commentary" subtype="text">

@@ -4,7 +4,7 @@
       <fileDesc>
          <titleStmt>
             <title xml:lang="en">Seal of Artemios hypatos</title>
-            <title xml:lang="de">Siegel des Artemios Hypatos</title>
+            <title xml:lang="de">Siegel des Artemios hypatos</title>
             <title xml:lang="el">Μολυβδόβουλλο του Αρτεμίου υπάτου</title>
             <editor role="seal-editor" xml:id="MC">Maria Teresa Catalano</editor>
             <editor role="seal-editor" xml:id="MF">Martina Filosa</editor>
@@ -328,10 +328,10 @@
                       </ab>
                   </div>
                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
-                      <ab>
+                      <ab ana="dat">
                           <lb n="5"/><supplied reason="lost">Ἀρ</supplied>
-                            <lb n="6" break="no"/> τεμί
-                            <lb n="7" break="no"/>ῳ <rs type="dignity" ref="#hypatos">ὑπά
+                            <lb n="6" break="no"/>τεμί
+                            <lb n="7" break="no"/>ῳ <rs type="dignity" ref="#d0089">ὑπά
                           <lb n="8" break="no"/>τῳ</rs>
                           
                       </ab>
@@ -363,7 +363,7 @@
             </listApp>
          </div>
          <div type="translation">
-            <p>Θεοτόκε βοήθη /Ἀρτεμίῳ ὑπάτῳ.</p>
+            <p>Θεοτόκε βοήθη / Ἀρτεμίῳ ὑπάτῳ.</p>
             <p xml:lang="en">Mother of God, help Artemios hypatos. </p>
             <p xml:lang="de">Mutter Gottes, hilf Artemios hypatos.</p>
             <p xml:lang="el">Θεοτόκε,  βοήθησε τον Αρτέμιο ύπατο.</p>

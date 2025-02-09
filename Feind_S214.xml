@@ -320,7 +320,7 @@
       <body>
          <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"> <!--change the language code according to the language of your edition, the values (also when combined, e.g. Greek-Latin) are in the guidelines. Same goes for what comes next, textpart etc.-->
                   <div type="textpart" subtype="face" n="obv" rend="linear" xml:lang="grc"> <!--obverse, editorial-->
-                      <ab> 
+                      <ab ana="gen"> 
                       <lb n="1"/><supplied reason="lost">Ἀ</supplied>
                            <lb n="2" break="no"/>ναστ
                            <lb n="3" break="no"/>ασίου
@@ -328,9 +328,9 @@
                       </ab>
                   </div>
                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
-                      <ab>
-                          <lb n="4"/><rs type="dignity" ref="#patrikios">π
-                            <lb n="5" break="no"/> ατρικ
+                      <ab ana="gen">
+                          <lb n="4"/><rs type="dignity" ref="#d0047">π
+                            <lb n="5" break="no"/>ατρικ
                             <lb n="6" break="no"/>ίου</rs>
                           
                       </ab>
@@ -367,7 +367,7 @@
             <p>Ἀναστασίου / πατρικίου.</p>
             <p xml:lang="en">(Seal of) Anastasios patrikios.</p>
             <p xml:lang="de">(Siegel des) Anastasios patrikios.</p>
-            <p xml:lang="el">(Σφράγισμα του)Αναστασίου πατρικίου.</p>
+            <p xml:lang="el">(Σφράγισμα του) Αναστασίου πατρικίου.</p>
          </div>
          <div type="commentary" subtype="text">
             <p xml:lang="en"> </p>

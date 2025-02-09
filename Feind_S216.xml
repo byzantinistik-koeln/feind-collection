@@ -333,28 +333,29 @@
       <body>
          <div type="edition" subtype="editorial" xml:space="preserve">
     <div type="textpart" subtype="face" n="obv" rend="linear" xml:lang="grc">
-        <lg met="dodecasyllable">
+        <lg met="dodecasyllable" type="true"><!--METRICAL LEGEND-->
             <l n="1">
-                <lb n="1"/>
-                Σφρα<lb n="2" break="no"/>γὶς πέ<lb n="3" break="no"/>φυκ<supplied reason="lost">α</supplied>
+                <lb n="1"/>Σφρα
+                <lb n="2" break="no"/>γὶς πέ
+               <lb n="3" break="no"/>φυκ<supplied reason="lost">α</supplied>
             </l>
         </lg>
     </div>
     <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc">
         <!-- reverse, editorial -->
         <lg met="dodecasyllable">
-            <l n="2">
-                <lb n="4"/>
-                <rs type="office" subtype="civil" ref="#kensor_001">τοῦ κέν<lb n="5" break="no"/><supplied reason="lost">σ</supplied>ορος</rs>
-                <lb n="6"/>
-                <supplied reason="lost">τ</supplied>ῶν λό<lb n="7" break="no"/>γων
+            <l n="1">
+                <lb n="4"/>τοῦ <rs type="office" subtype="civil" ref="#of0095">κέν
+                <lb n="5" break="no"/><supplied reason="lost">σ</supplied>ορος</rs>
+                <lb n="6"/><supplied reason="lost">τ</supplied>ῶν λό
+               <lb n="7" break="no"/>γων
             </l>
         </lg>
     </div>
 </div>
          <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang=""> 
                   <div type="textpart" subtype="face" n="obv" rend="linear" xml:lang="grc"> <!--obverse, diplomatic-->
-                      <lg met="dodecasyllabic" subtype="true">
+                      <lg met="dodecasyllabic" type="true">
                           <l n="1">
                               <lb n="0"/>+
                               <lb n="1"/>ΣΡΑ
@@ -368,7 +369,7 @@
                   </div>
                 
                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, diplomatic-->
-                     <lg met="dodecasyllabic" subtype="true">
+                     <lg met="dodecasyllabic" type="true">
                           <l n="2">
                               <lb n="0"/>
                               <lb n="4"/>ΤΚΕΝ
@@ -388,7 +389,7 @@
             </listApp>
          </div>
          <div type="translation">
-            <p>Σφραγὶς πέφυκα/τοῦ κένσορος τῶν λόγων.</p>
+            <p>Σφραγὶς πέφυκα / τοῦ κένσορος τῶν λόγων.</p>
             <p xml:lang="en">I am the seal of the words of the kensor.</p>
             <p xml:lang="de">Ich bin das Siegel der Worte des Kensors.</p>
             <p xml:lang="el">Είμαι η σφραγίδα των λόγων του κένσωρος.</p>

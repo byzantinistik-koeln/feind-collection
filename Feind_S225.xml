@@ -315,17 +315,17 @@
       <body>
          <div type="edition" subtype="editorial" xml:space="preserve"> 
                   <div type="textpart" subtype="face" n="obv" rend="linear" xml:lang="grc"> <!--obverse, editorial-->
-                      <ab>
-                          <lb n="1"/><expan><abbr>Κ</abbr><ex>ύρι</ex><abbr>ε</abbr></expan> βο
+                      <ab ana="dat">
+                          <lb n="1"/><rs type="invocation" ref="#inv004"><expan><abbr>Κ</abbr><ex>ύρι</ex><abbr>ε</abbr></expan> βο
                           <lb n="2" break="no"/>ήθει τῷ 
-                          <lb n="3"/>σῷ <expan><abbr>δούλ</abbr><ex>ῳ</ex></expan>
+                          <lb n="3"/>σῷ <expan><abbr>δούλ</abbr><ex>ῳ</ex></expan></rs>
                       </ab>
                   </div>
                       <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
-                      <ab>
+                      <ab ana="dat">
                           <lb n="4"/>Συμε
-                          <lb n="5" break="no"/>ὼν μο
-                          <lb n="6" break="no"/>ναχῷ
+                          <lb n="5" break="no"/>ὼν <rs type="office" subtype="ecclesiastical" ref="#of0216">μο
+                          <lb n="6" break="no"/>ναχῷ</rs>
                           
                       </ab>
                   </div>

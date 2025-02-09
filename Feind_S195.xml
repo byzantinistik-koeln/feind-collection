@@ -319,7 +319,7 @@
       <body>
          <div type="edition" subtype="editorial" xml:space="preserve"> 
                   <div type="textpart" subtype="face" n="obv" rend="linear" xml:lang="grc"> <!--obverse, editorial-->
-                      <ab>
+                      <ab><!--METRICAL???--><!--NEW INVOCATION-->
                           <lb n="1"/><supplied reason="lost">῾Αγί</supplied>α Τρ
                           <lb n="2" break="no"/><supplied reason="lost">ι</supplied>ὰ<supplied reason="lost">ς ὁ</supplied> Θε
                           <lb n="3" break="no"/>ὸς <supplied reason="lost">ἡ</supplied>μῶν 
@@ -329,9 +329,9 @@
                       <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
                       <ab>
                           <lb n="5"/><supplied reason="lost">Ν</supplied>ικήτ
-                          <lb n="6" break="no"/>ᾳ ὑπάτ
-                          <lb n="7" break="no"/>ῳ καὶ διοι
-                          <lb n="8" break="no"/>κητῇ
+                          <lb n="6" break="no"/>ᾳ <rs type="dignity" ref="#d0089">ὑπάτ
+                          <lb n="7" break="no"/>ῳ</rs> <expan><abbr><am>S</am></abbr><ex>καὶ</ex></expan> <rs type="office" subtype="civil" ref="#of0052">διοι
+                          <lb n="8" break="no"/>κητῇ</rs>
                       </ab>
                   </div>
               </div>
@@ -346,7 +346,7 @@
                       </ab>
                   </div>
                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, diplomatic-->
-                      <ab>
+                      <ab ana="dat">
                           <lb n="5"/>.ΙΚΗΤ
                           <lb n="6"/>Αυπατ
                           <lb n="7"/>ωϗδιοι
