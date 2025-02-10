@@ -4,7 +4,7 @@
          <titleStmt>
             <title xml:lang="en">Seal of Herakleios patrikios</title>
             <title xml:lang="de">Siegel des Herakleios patrikios</title>
-            <title xml:lang="el">Μολυβδόβουλλου Ηρακλείου πατρικίου</title>
+            <title xml:lang="el">Μολυβδόβουλλο Ηρακλείου πατρικίου</title>
             <editor role="seal-editor" xml:id="MC">Maria Teresa Catalano</editor>
             <editor role="seal-editor" xml:id="MF">Martina Filosa</editor>
             <editor role="seal-editor" xml:id="CS">Claudia Sode</editor>
@@ -89,7 +89,7 @@
                            <seg xml:lang="de">
                               <ref target="https://www.degruyter.com/database/PMBZ/entry/PMBZ13676/html">Herakleios</ref>
                            </seg>
-                           <seg xml:lang="de">
+                           <seg xml:lang="el">
                               <ref target="https://www.degruyter.com/database/PMBZ/entry/PMBZ13676/html">Ηράκλειος</ref>
                            </seg>
                            <interp type="milieu" xml:lang="en">Aristocracy</interp>

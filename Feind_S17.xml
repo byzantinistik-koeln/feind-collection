@@ -142,7 +142,7 @@
                         <layout n="whole">
                            <rs type="execution">
                               <seg xml:lang="en">Struck</seg>
-                              <seg xml:lang="de">???</seg>
+                              <seg xml:lang="de">Geprägt</seg>
                               <seg xml:lang="el">Παιστό</seg>
                            </rs>
                            <rs type="shape">
@@ -176,7 +176,7 @@
                                 <interp type="datingCriteria" xml:lang="de"/>
                             </origDate>-->
                      <!-- for a date range or centuries (NOT BEFORE - NOT AFTER)-->
-                     <origDate type="analysis" notBefore="0970" notAfter="1000" evidence=" epigraphy iconography related-seal" resp="MC">
+                     <origDate type="analysis" notBefore="0970" notAfter="1000" evidence="epigraphy iconography related-seal" resp="MC">
                         <seg xml:lang="en">After 971.</seg>
                         <seg xml:lang="de">Nach 971. </seg>
                         <seg xml:lang="el">Μετά το 971. </seg>
@@ -317,6 +317,7 @@
             <graphic url="S_17a.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -326,6 +327,7 @@
             <graphic url="S_17b.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -378,7 +380,7 @@
             <p>Κύριε βοήθη τῷ σῷ δούλῳ Μαριάνῳ / βασιλικῷ πρωτοσπαθαρίῳ καὶ στρατiγῷ Δοροστόλου.</p>
             <p xml:lang="en">Lord, help Marianos imperial protospatharios and strategos of Dorostolon.</p>
             <p xml:lang="de">Herr, hilf deinem Diener Marianos kaiserlicher protospatharios und strategos von Dorostolon.</p>
-            <p xml:lang="el">Κύριε βοήθησε τον δούλο σου Μαριάνο, βασιλικό πρωτοσπαθάριο και στρατηγό Δοροστόλου.</p>
+            <p xml:lang="el">Κύριε βοήθησε το δούλο σου Μαριάνο, βασιλικό πρωτοσπαθάριο και στρατηγό Δοροστόλου.</p>
          </div>
          <!--<div type="commentary" subtype="text">
                   <p xml:lang="en">[your commentary here]</p> <!-\-if you have the commentary only in German and would like to show it also in the English page, you should delete the xml:lang-\->
@@ -397,7 +399,7 @@
          <div type="bibliography" subtype="parallels"> <!--if you don't have parallels, put this div in a comment-->
             <p>Pliska, Archaeological Museum, no. 70.
                       − <bibl>
-                  <ptr target="Jordanov2015"/>, Addenda I,  <citedRange unit="part">no. 1165A</citedRange>.
+                         <ptr target="Jordanov2011"/>, <citedRange unit="part">no. 1165A</citedRange>.
 <!--                          <ptr target=""/>, <citedRange unit=""/>
 -->                      </bibl>
             </p>

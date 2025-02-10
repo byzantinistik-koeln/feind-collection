@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- last changed before 1.0 version release 2021-08-02 --><!-- last changed before 1.1 release: 2023-04-12 --><TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <!-- schema location for users of the SigiDoc's version of EFES available at https://github.com/SigiDoc/SigiDoc-->
-   <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <!-- schema location for users of the SigiDoc's version of EFES available at https://github.com/SigiDoc/SigiDoc-->   <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
+         
          <titleStmt>
             <title xml:lang="en">Seal of Ioannes patrikios</title>
             <title xml:lang="de">Siegel des Ioannes Patrikios</title>
@@ -40,25 +40,17 @@
          <sourceDesc>
             <listPerson type="issuer">
                <person gender="M" role="private"> <!--gender to be changed as wished; the value of role is imperial civil military aristocracy secular-church monastic civic corporate private undetermined-->
-                  <persName xml:lang="grc">
-                     <forename/>
-                     <surname/>
-                  </persName>
                   <persName xml:lang="en">
-                     <forename/>
-                     <surname/>
-                  </persName>
+                     <forename>Ioannes</forename>
+                     </persName>
                   <persName xml:lang="de">
-                     <forename/>
-                     <surname/>
-                  </persName>
-                  <idno type="PBW"/>
-                  <idno type="PmbZ"/>
-                  <idno type="PLP"/>
-                  <idno type="PLRE"/>
-               </person>
-               <idno/>
-            </listPerson>
+                     <forename>Ioannes</forename>
+                     </persName>
+                  <persName xml:lang="el">
+                     <forename>Ιωάννης</forename>
+                     </persName>
+                      </person>
+                   </listPerson>
             <msDesc>
                <msIdentifier>
                   <country>
@@ -123,7 +115,7 @@
                            <measure type="channelOrient" unit="clock">5-11</measure>
                            <measure type="countermark" unit="clock"/>
                         </support>
-                        <condition rend="  corroded chipped">
+                        <condition rend="corroded chipped">
                            <p xml:lang="en">Corroded, chipped at both ends of the channel with a larger missing section at the upper end. </p>
                            <p xml:lang="de">Korrodiert, an beiden Enden des Kanals abgesplittert, mit einem größeren fehlenden Abschnitt am oberen Ende.</p>
                            <p xml:lang="el">Διαβρωμένο, τα στόμια του ειναι και τα δυο σπασμένα και ενα μεγάλο μέρος το άνω τμήματος λείπει.</p>
@@ -133,7 +125,7 @@
                         <layout n="whole">
                            <rs type="execution">
                               <seg xml:lang="en">Struck</seg>
-                              <seg xml:lang="de">???</seg>
+                              <seg xml:lang="de">Geprägt</seg>
                               <seg xml:lang="el">Παιστό</seg>
                            </rs>
                            <rs type="shape">
@@ -167,7 +159,7 @@
                                 <interp type="datingCriteria" xml:lang="de"/>
                             </origDate>-->
                      <!-- for a date range or centuries (NOT BEFORE - NOT AFTER)-->
-                     <origDate type="analysis" notBefore="0601" notAfter="0650" evidence=" epigraphy" cert="high" resp=" #MC">
+                     <origDate type="analysis" notBefore="0601" notAfter="0650" evidence="epigraphy" cert="high" resp=" #MC">
                         <seg xml:lang="en">7th c., first half.</seg>
                         <seg xml:lang="de">7. Jh., erste Hälfte.</seg>
                         <seg xml:lang="el"> 7ος αι., πρώτο μισό.</seg>
@@ -233,7 +225,7 @@
                               <figDesc ana="" n="r" xml:lang="de"/>
                               <figDesc ana="" n="decoR" xml:lang="en">Cross at the beginning of the legend (not preserved). Border indistinct.</figDesc>
                               <figDesc ana="" n="decoR" xml:lang="de">Kreuz am Anfang der Legende (nicht erhalten). Grenze undeutlich.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="el">Σταυρός στην αρχή της επιγραφής (δεν σώζεται). Μη ορατό πλαίσιο.</figDesc>
+                              <figDesc ana="" n="decoR" xml:lang="el">Σταυρός στην αρχή της επιγραφής (δεν σώζεται). Δεν διακρίνεται πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -261,8 +253,9 @@
                               <dimensions type="written" unit="mm">
                                  <dim type="diameter"/>
                               </dimensions>
-                              <p xml:lang="en"/>
-                              <p xml:lang="de"/>
+                              <p xml:lang="en">Legend of 3 lines.</p>
+                              <p xml:lang="de">Legende auf 3 Zeilen.</p>
+                              <p xml:lang="el">Επιγραφή 3 στίχων. </p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -280,7 +273,7 @@
                               <figDesc ana="" n="v" xml:lang="de"/>
                               <figDesc ana="" n="decoV" xml:lang="en">Border indistinct.</figDesc>
                               <figDesc ana="" n="decoV" xml:lang="de">Grenze undeutlich.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="el">Μη ορατό πλαίσιο.</figDesc>
+                              <figDesc ana="" n="decoV" xml:lang="el">Μη ορατό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -300,6 +293,7 @@
             <graphic url="S_16a" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -309,6 +303,7 @@
             <graphic url="S_16b" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+                  <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -382,7 +377,7 @@
             <p>
                <bibl>
                           (1)Private collection, Germany – <bibl>
-                     <ptr target="Sode1987"/>, <citedRange unit="part">no. 428</citedRange>;</bibl>
+                     <ptr target="Sode1997"/>, <citedRange unit="part">no. 428</citedRange>;</bibl>
                           (2) Seyrig Collection, 336 – <bibl>
                      <ptr target="Seyrig"/>, <citedRange unit="part">no. 46</citedRange>.</bibl>
                </bibl>

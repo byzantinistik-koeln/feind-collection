@@ -5,7 +5,7 @@
          <titleStmt>
             <title xml:lang="en">Seal of Maurianos apo hypaton</title>
             <title xml:lang="de">Siegel des Maurianos apo hypaton</title>
-            <title xml:lang="el">Μολυβδόβουλλο του Μαυριανού από υπάτων</title>
+            <title xml:lang="el">Μολυβδόβουλλο Μαυριανού από υπάτων</title>
             <editor role="seal-editor" xml:id="MC">Maria Teresa Catalano</editor>
             <editor role="seal-editor" xml:id="MF">Martina Filosa</editor>
             <editor role="seal-editor" xml:id="CS">Claudia Sode</editor>
@@ -85,19 +85,19 @@
                   </summary>
                   <msItem>
                      <author>
-                        <roleName role="issuer" type=" aristocracy">
+                        <roleName role="issuer" type="aristocracy">
                            <seg xml:lang="en">
-                              <forename>Maurianos </forename>
+                              <ref target="https://www.degruyter.com/database/PMBZ/entry/PMBZ16054/html">Maurianos</ref>
                            </seg>
                            <seg xml:lang="de">
-                              <forename>Maurianos </forename>
+                              <ref target="https://www.degruyter.com/database/PMBZ/entry/PMBZ16054/html">Maurianos</ref>
                            </seg>
                            <seg xml:lang="el">
-                              <forename>Μαυριανός</forename>
+                              <ref target="https://www.degruyter.com/database/PMBZ/entry/PMBZ16054/html">Μαυριανός</ref>
                            </seg>
-                           <interp type="milieu" xml:lang="en">Αristocracy</interp>
+                           <interp type="milieu" xml:lang="en">Aristocracy</interp>
                            <interp type="milieu" xml:lang="de">Aristokratie</interp>
-                           <interp type="milieu" xml:lang="el">Αριστοκρατία</interp>
+                           <interp type="milieu" xml:lang="de">Αριστοκρατικό (πεδίο δραστηριοποίησης)</interp>
                         </roleName>
                      </author>
                   </msItem>
@@ -142,7 +142,7 @@
                         <layout n="whole">
                            <rs type="execution">
                               <seg xml:lang="en">Struck</seg>
-                              <seg xml:lang="de">???</seg>
+                              <seg xml:lang="de">Geprägt</seg>
                               <seg xml:lang="el">Παιστό</seg>
                            </rs>
                            <rs type="shape">
@@ -176,7 +176,7 @@
                                 <interp type="datingCriteria" xml:lang="de"/>
                             </origDate>-->
                      <!-- for a date range or centuries (NOT BEFORE - NOT AFTER)-->
-                     <origDate type="analysis" notBefore="0551" notAfter="0620" evidence=" epigraphy " resp="MC">
+                     <origDate type="analysis" notBefore="0551" notAfter="0620" evidence="epigraphy" resp="MC">
                         <seg xml:lang="en">6th c., second half – early 7th c.</seg>
                         <seg xml:lang="de">6. Jh., zweite Hälfte – frühes 7. Jh.</seg>
                         <seg xml:lang="el">6ος αι., δεύτερο μισό – αρχές 7ου αι.</seg>
@@ -317,6 +317,7 @@
             <graphic url="S_13a.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -326,6 +327,7 @@
             <graphic url="S_13b.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -377,31 +379,31 @@
             <p>Μαυριανοῦ/ ἀπὸ ὑπάτων.</p>
             <p xml:lang="en">(Seal) of Maurianos apo hypaton.</p>
             <p xml:lang="de">(Siegel) des Maurianos apo hypaton.</p>
-            <p xml:lang="el">Σφραγίδα του Μαυριανού απο υπάτων.</p>
+            <p xml:lang="el">(Σφραγίδα) του Μαυριανού απο υπάτων.</p>
          </div>
          <div type="commentary" subtype="text">
-            <p xml:lang="en">The seal issuer[1] is known only from this seal type.</p>
+            <p xml:lang="en">The seal issuer is known only from this seal type.</p>
             <!--if you have the commentary only in German and would like to show it also in the English page, you should delete the xml:lang-->
             <!--            <p xml:lang="de">[your commentary here]</p>-->
          </div>
-         <div type="commentary" subtype="footnotes">
+         <!--<div type="commentary" subtype="footnotes">
             <p xml:id="footnote-1">[1].  <bibl>
                   <ptr target="PmbZOnline"/>, <citedRange unit="entry">
                      <ref target="https://www.degruyter.com/database/PMBZ/entry/PMBZ16054/html">4881</ref>
                   </citedRange>
                </bibl>.
                </p>
-            <!--if you have the footnotes only in French and would like to show it also in the English page, you should delete the xml:lang-->
-            <!--                  <p xml:lang="de">[your footnotes here]</p>
--->
-         </div>
+            <!-\-if you have the footnotes only in French and would like to show it also in the English page, you should delete the xml:lang-\->
+            <!-\-                  <p xml:lang="de">[your footnotes here]</p>
+-\->
+         </div>-->
          <div type="bibliography" subtype="edition">
             <p/>
          </div>
          <div type="bibliography" subtype="parallels">
             <p>
                <bibl>(1) <bibl>
-                     <ptr target="Sode1987"/>, <citedRange unit="part">no. 432</citedRange>
+                     <ptr target="Sode1997"/>, <citedRange unit="part">no. 432</citedRange>
                   </bibl>;
                         (2) <bibl>
                      <ptr target="Zacos1"/>, <citedRange unit="part">no. 2902</citedRange>

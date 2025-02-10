@@ -4,6 +4,7 @@
          <titleStmt>
             <title xml:lang="en">Seal of the anthypatos of Cyprus</title>
             <title xml:lang="de">Siegel des anthypatos von Zypern</title>
+            <title xml:lang="el">Μολυβδόβουλλο ανθυπάτου Κύπρου</title>
             <editor role="seal-editor" xml:id="MC">Maria Teresa Catalano</editor>
             <editor role="seal-editor" xml:id="MF">Martina Filosa</editor>
             <editor role="seal-editor" xml:id="CS">Claudia Sode</editor>
@@ -34,7 +35,7 @@
          </publicationStmt>
          <sourceDesc>
             <listPerson type="issuer">
-               <person gender="" role="corporate" xml:id="anonymous">
+               <person gender="M" role="corporate" xml:id="anonymous">
                   <persName xml:lang="">
                      <forename/>
                      <surname/>
@@ -46,10 +47,12 @@
                   <country>
                      <seg xml:lang="en">Germany</seg>
                      <seg xml:lang="de">Deutschland</seg>
+                     <seg xml:lang="el">Γερμανία</seg>
                   </country>
                   <settlement>
                      <seg xml:lang="en">Cologne</seg>
                      <seg xml:lang="de">Köln</seg>
+                     <seg xml:lang="el">Κολωνία</seg>
                   </settlement>
                   <institution/>
                   <repository/>
@@ -68,14 +71,18 @@
                   <summary n="whole">
                      <seg xml:lang="en">Provincial administration</seg>
                      <seg xml:lang="de">Provinzialverwaltung</seg>
+                     <seg xml:lang="el">Μολυβδόβουλλα αξιωματούχων της περιφερειακής διοίκησης.
+                     </seg>
                   </summary>
                   <msItem>
                      <author>
                         <roleName role="issuer" type="corporate">
                            <seg xml:lang="en">Anonymous</seg>
                            <seg xml:lang="de">Anonymous</seg>
+                           <seg xml:lang="el">Ανώνυμος</seg>
                            <interp type="milieu" xml:lang="en">Corporate</interp>
                            <interp type="milieu" xml:lang="de">Korporativ</interp>
+                           <interp type="milieu" xml:lang="el">Θεσμικό (πεδίο δραστηριοποίησης).</interp>
                         </roleName>
                      </author>
                   </msItem>
@@ -88,15 +95,19 @@
                               <term>
                                  <seg xml:lang="en">Seal</seg>
                                  <seg xml:lang="de">Siegel</seg>
+                                 <seg xml:lang="el">Μολυβδόβουλλο</seg>
                               </term>
                               <interp type="workType" xml:lang="en">Original
                                             impression</interp>
                               <interp type="workType" xml:lang="de">Origineller
                                             Siegelabdruck</interp>
+                              <interp type="workType" xml:lang="el">Αρχική
+                                 αποτύπωση</interp>
                            </objectType>
                            <material>
                               <seg xml:lang="en">Lead</seg>
                               <seg xml:lang="de">Blei</seg>
+                              <seg xml:lang="el">Μόλυβδος</seg>
                            </material>
                            <dimensions type="support" unit="mm">
                               <dim type="diameter">22</dim>
@@ -110,17 +121,20 @@
                         <condition rend="not-centered">
                            <p xml:lang="en">Grey-orange patina, struck off-centre to the upper left on the obverse, to the upper right on the reverse.</p>
                            <p xml:lang="de">Grau-orangene Patina, Prägung auf dem Avers nach links, auf dem Revers nach rechts versetzt.</p>
+                           <p xml:lang="el">Πατίνα γρκιζοροδοκόκκινου χρώματος, ο εμπροσθότυπος αποκλίνει από το κέντρο προς το άνω αριστερό μέρος και ο οπισθότυπος προς το άνω δεξιό μέρος του δίσκου.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
                         <layout n="whole">
                            <rs type="execution">
                               <seg xml:lang="en">Struck</seg>
-                              <seg xml:lang="de">???</seg>
+                              <seg xml:lang="de">Geprägt</seg>
+                              <seg xml:lang="el">Παιστό</seg>
                            </rs>
                            <rs type="shape">
                               <seg xml:lang="en">Round</seg>
                               <seg xml:lang="de">Rund</seg>
+                              <seg xml:lang="el">Σφαιρικό</seg>
                            </rs>
                            <rs type="matrix" subtype="not-surviving">
                               <idno type="SigiDoc">"m-x6Vmqg"</idno>
@@ -138,6 +152,9 @@
                         <seg xml:lang="de">
                            <placeName ref="https://pleiades.stoa.org/places/707498">Zypern</placeName>
                         </seg>
+                        <seg xml:lang="el">
+                           <placeName ref="https://pleiades.stoa.org/places/707498">Κύπρος</placeName>
+                        </seg>
                      </origPlace>
                      <!-- for a precise year (WHEN):-->
                      <!--remember: you will most probably only need one of these. Whatever you DON'T need goes in a green comment-->
@@ -151,6 +168,7 @@
                      <origDate type="analysis" notBefore="0581" notAfter="0620" evidence="epigraphy" resp="#MC">
                         <seg xml:lang="en">Late 6th/Early 7th c.</seg>
                         <seg xml:lang="de">Spätes 6./frühes 7. Jh.</seg>
+                        <seg xml:lang="el">Τέλη 6ου αι./ αρχές 7ου αι.</seg>
                      </origDate>
                      <!-- for an internal date >
                             <origDate type="internal" when="0001" when-custom="2023" datingMethod="">
@@ -212,6 +230,7 @@
                               </dimensions>
                               <p xml:lang="en">Legend of 3 lines.</p>
                               <p xml:lang="de">Legende auf 3 Zeilen.</p>
+                              <p xml:lang="el">Επιγραφή 3 στίχων.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -229,6 +248,7 @@
                               <figDesc ana="" n="r" xml:lang="de"/>
                               <figDesc ana="" n="decoR" xml:lang="en">Wreath border.</figDesc>
                               <figDesc ana="" n="decoR" xml:lang="de">Schachtelhelmrand.</figDesc>
+                              <figDesc ana="" n="decoR" xml:lang="el">Στεφανωτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -258,6 +278,7 @@
                               </dimensions>
                               <p xml:lang="en">Legend of 2 lines.</p>
                               <p xml:lang="de">Legende auf 2 Zeilen.</p>
+                              <p xml:lang="el">Επιγραφή 2 στίχων.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -275,6 +296,7 @@
                               <figDesc ana="" n="v" xml:lang="de"/>
                               <figDesc ana="" n="decoV" xml:lang="en">Wreath border. Legend followed by a cross on a separate line.</figDesc>
                               <figDesc ana="" n="decoV" xml:lang="de">Schachtelhelmrand. Kreuz in einer separaten Zeile.</figDesc>
+                              <figDesc ana="" n="decoV" xml:lang="el">Στεφανωτό πλαίσιο. Σταυρός σε ξεχωριστή γραμμή κάτω από την επιγραφή.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -295,6 +317,7 @@
             <graphic url="S_11a.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -304,6 +327,7 @@
             <graphic url="S_11b.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -351,6 +375,7 @@
             <p>Ἀνθυπάτου Κύπρου.</p>
             <p xml:lang="en">(Seal of) the anthypatos of Cyprus.</p>
             <p xml:lang="de">(Siegel des) anthypatos von Zypern.</p>
+            <p xml:lang="el">(Σφραγίδα) ανθυπάτου Κύπρου.</p>
          </div>
          <div type="commentary" subtype="text">
             <p xml:lang="en"/>
