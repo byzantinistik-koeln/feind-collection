@@ -4,6 +4,7 @@
          <titleStmt>
             <title xml:lang="en">Seal of Kosmas anthypatos, patrikios, imperial protospatharios and logothetes of the oxys dromos</title>
             <title xml:lang="de">Siegel des Kosmas anthypatos, patrikios, kaiserlicher protospatharios und logothetes des oxys dromos</title>
+            <title xml:lang="el">Μολυβδόβουλλο Κοσμά ανθυπάτου, πατρικίου, βασιλικού πρωτοσπαθαρίου και λογοθέτη του οξέου δρόμου</title>
             <editor role="seal-editor" xml:id="MC">Maria Teresa Catalano</editor>
             <editor role="seal-editor" xml:id="MF">Martina Filosa</editor>
             <editor role="seal-editor" xml:id="CS">Claudia Sode</editor>
@@ -41,6 +42,9 @@
                   <persName xml:lang="de">
                      <forename>Kosmas</forename>
                   </persName>
+                  <persName xml:lang="el">
+                     <forename>Κοσμάς</forename>
+                  </persName>
                </person>
             </listPerson>
             <msDesc>
@@ -48,10 +52,12 @@
                   <country>
                      <seg xml:lang="en">Germany</seg>
                      <seg xml:lang="de">Deutschland</seg>
+                     <seg xml:lang="el">Γερμανία</seg>
                   </country>
                   <settlement>
                      <seg xml:lang="en">Cologne</seg>
                      <seg xml:lang="de">Köln</seg>
+                     <seg xml:lang="el">Κολωνία</seg>
                   </settlement>
                   <institution/>
                   <repository/>
@@ -72,14 +78,17 @@
                   <summary n="whole">
                      <seg xml:lang="en">Central administration.</seg>
                      <seg xml:lang="de">Zentralverwaltung</seg>
+                     <seg xml:lang="el">Μολυβδόβουλλα αξιωματούχων της κεντρικής διοίκησης.</seg>
                   </summary>
                   <msItem>
                      <author>
                         <roleName role="issuer" type="civil">
                            <seg xml:lang="en">Kosmas</seg>
                            <seg xml:lang="de">Kosmas</seg>
+                           <seg xml:lang="de">Κοσμάς</seg>
                            <interp type="milieu" xml:lang="en">Civil</interp>
                            <interp type="milieu" xml:lang="de">Zivil</interp>
+                           <interp type="milieu" xml:lang="el">Κρατικό (πεδίο δραστηριοποίησης)</interp>
                         </roleName>
                      </author>
                   </msItem>
@@ -92,15 +101,18 @@
                               <term>
                                  <seg xml:lang="en">Seal</seg>
                                  <seg xml:lang="de">Siegel</seg>
+                                 <seg xml:lang="el">Μολυβδόβουλλο</seg>
                               </term>
                               <interp type="workType" xml:lang="en">Original
                                             impression</interp>
                               <interp type="workType" xml:lang="de">Origineller
                                             Siegelabdruck</interp>
+                              <interp type="workType" xml:lang="el">Αρχική αποτύπωση</interp>
                            </objectType>
                            <material>
                               <seg xml:lang="en">Lead</seg>
                               <seg xml:lang="de">Blei</seg>
+                              <seg xml:lang="el">Μόλυβδος</seg>
                            </material>
                            <dimensions type="support" unit="mm">
                               <dim type="diameter">22</dim>
@@ -114,17 +126,20 @@
                         <condition rend="corroded torn-channel obliterated">
                            <p xml:lang="en">Beige patina, corroded; dented on the obverse, cracked along the channel and effaced on the reverse; weakly imprinted.</p>
                            <p xml:lang="de">Beige Patina, korrodiert; auf dem Avers eingedrückt, auf dem Revers entlang des Fadenkanals aufgebrochen und teilweise ausgelöscht, schwache Prägung.</p>
+                           <p xml:lang="el"> Πατίνα ελαφρώς ερυθροκίτρινου χρώματος, διαβρωμένη, φέρει ενα βαθούλωμα στην εμπρόσθια όψη, ραγισμένη κατά μήκος του διαύλου και σβησμένη στην οπίσθια όψη.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
                         <layout n="whole">
                            <rs type="execution">
                               <seg xml:lang="en">Struck</seg>
-                              <seg xml:lang="de">???</seg>
+                              <seg xml:lang="de">Geprägt</seg>
+                              <seg xml:lang="el">Παιστό</seg>
                            </rs>
                            <rs type="shape">
                               <seg xml:lang="en">Round</seg>
                               <seg xml:lang="de">Rund</seg>
+                              <seg xml:lang="el">Σφαιρικό</seg>
                            </rs>
                            <rs type="matrix" subtype="not-surviving">
                               <idno type="SigiDoc">"m-JNDcJv"</idno>
@@ -155,6 +170,7 @@
                      <origDate type="analysis" notBefore="0901" notAfter="1000" evidence="epigraphy" resp="#MC">
                         <seg xml:lang="en">10th c.</seg>
                         <seg xml:lang="de">10. Jh.</seg>
+                        <seg xml:lang="el">10ος αι.</seg>
                      </origDate>
                      <!-- for an internal date >
                             <origDate type="internal" when="0001" when-custom="2023" datingMethod="">
@@ -216,6 +232,7 @@
                               </dimensions>
                               <p xml:lang="en">Legend of 5 lines.</p>
                               <p xml:lang="de">Legende auf 5 Zeilen.</p>
+                              <p xml:lang="el">Επιγραφή 5 στίχων.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -233,6 +250,7 @@
                               <figDesc ana="" n="r" xml:lang="de"/>
                               <figDesc ana="" n="decoR" xml:lang="en">Cross at the beginning of the legend. Border of dots.</figDesc>
                               <figDesc ana="" n="decoR" xml:lang="de">Kreuz am Anfang der Legende. Perlrand</figDesc>
+                              <figDesc ana="" n="decoR" xml:lang="el">Σταυρός στην αρχή της επιγραφής. Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -262,6 +280,7 @@
                               </dimensions>
                               <p xml:lang="en">Legend of 6 lines.</p>
                               <p xml:lang="de">Legende auf 6 Zeilen.</p>
+                              <p xml:lang="el">Επιγραφή 6 στίχων.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -279,6 +298,7 @@
                               <figDesc ana="" n="v" xml:lang="de"/>
                               <figDesc ana="" n="decoV" xml:lang="en">Cross at the beginning of the legend. Border of dots.</figDesc>
                               <figDesc ana="" n="decoV" xml:lang="de">Kreuz am Anfang der Legende. Perlrand</figDesc>
+                              <figDesc ana="" n="decoV" xml:lang="el">Σταυρός στην αρχή της επιγραφής. Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -298,6 +318,7 @@
             <graphic url="S_29a.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -307,6 +328,7 @@
             <graphic url="S_29b.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -365,6 +387,7 @@
             <p>Θεοτόκε βοήθει τῷ σῷ δούλῳ Κοσμᾷ / ἀνθυπάτῳ, πατρικίῳ, βασιλικῷ πρωτοσπαθαρίῳ καὶ λογοθέτῃ τοῦ ὀξέου δρόμου.</p>
             <p xml:lang="en">Mother of God, help your servant Kosmas anthypatos, patrikios, imperial protospatharios, and logothetes of the oxys dromos.</p>
             <p xml:lang="de">Muttergottes, hilf deinem Diener Kosmas anthypatos, patrikios, kaiserlicher protospatharios und logothetes des oxys dromos.</p>
+            <p xml:lang="el">Θεοτόκε βοήθησε το δούλο σου Κοσμά, ανθύπατο, πατρίκιο, βασιλικό πρωτοσπαθάριο και λογοθέτη του οξέου δρόμου.</p>
          </div>
          <div type="commentary" subtype="text">
             <p xml:lang="en"/>

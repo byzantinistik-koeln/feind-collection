@@ -142,7 +142,7 @@
                         <layout n="whole">
                            <rs type="execution">
                               <seg xml:lang="en">Struck</seg>
-                              <seg xml:lang="de">???</seg>
+                              <seg xml:lang="de">Geprägt</seg>
                               <seg xml:lang="el">Παιστό</seg>
                            </rs>
                            <rs type="shape">
@@ -176,7 +176,7 @@
                                 <interp type="datingCriteria" xml:lang="de"/>
                             </origDate>-->
                      <!-- for a date range or centuries (NOT BEFORE - NOT AFTER)-->
-                     <origDate type="analysis" notBefore="0681" notAfter="0720" evidence=" epigraphy " resp="MC">
+                     <origDate type="analysis" notBefore="0681" notAfter="0720" evidence="epigraphy " resp="MC">
                         <seg xml:lang="en">7th/8th c.</seg>
                         <seg xml:lang="de">7./8. Jh.</seg>
                         <seg xml:lang="el">7ος/8ος αι.</seg>
@@ -318,6 +318,7 @@
             <graphic url="S_50a.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -327,6 +328,7 @@
             <graphic url="S_50b.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -384,7 +386,7 @@
             <p>Θεοτόκε βοήθη / Σεργίῳ πατρικίω.</p>
             <p xml:lang="en">Mother of God, help Sergios patrikios.</p>
             <p xml:lang="de">Muttergottes, hilf Sergios patrikios.</p>
-            <p xml:lang="el">Θεοτόκε βοήθησε τον Σέργιο πατρίκιο.</p>
+            <p xml:lang="el">Θεοτόκε βοήθησε το Σέργιο πατρίκιο.</p>
          </div>
          <div type="commentary" subtype="text">
             <p xml:lang="en">Many similar seals without iconography show an inscription in which the patrikios Sergios [1],  invokes for help the Mother of God. They can be all dated to the 7th or 7th/8th c. Most of them differ from our specimen due to the different line breaks. The parallel seals (1) (2) are from a different boulloterion than our seal, but the line breaks are the same; the other seals show different line breaks than ours.</p>
@@ -424,17 +426,17 @@
                      </citedRange>
                   </bibl>;
                     (3) Private collection, Germany − <bibl>
-                     <ptr target="Sode1987"/>, <citedRange unit="part">no. 451</citedRange>
-                  </bibl>;
+                     <ptr target="Sode1997"/>, <citedRange unit="part">no. 451</citedRange>;
+                  </bibl>
                     (4) <bibl>
                      <ptr target="DOsealsOnline"/>, <citedRange unit="entry">
                         <ref target="https://www.doaks.org/resources/seals/byzantine-seals/BZS.1958.106.4318">BZS.1958.106.4318</ref>
                      </citedRange>
-                  </bibl>,  (5) <bibl>
+                  </bibl>;  (5) <bibl>
                      <ptr target="DOsealsOnline"/>, <citedRange unit="entry">
                         <ref target="https://www.doaks.org/resources/seals/byzantine-seals/BZS.1955.1.2102/view">BZS.1955.1.2102</ref>
                      </citedRange>
-                  </bibl>, 
+                  </bibl>;
                     (6) <bibl>
                      <ptr target="DOsealsOnline"/>, <citedRange unit="entry">
                         <ref target="https://www.doaks.org/resources/seals/byzantine-seals/BZS.1958.106.3947/view">BZS.1958.106.3947</ref>

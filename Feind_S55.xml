@@ -42,15 +42,19 @@
                <person gender="M" role="private">
                         <!--gender to be changed as wished; the value of role is imperial civil military aristocracy secular-church monastic civic corporate private undetermined-->
                   <persName xml:lang="grc">
-                     <forename/>
+                     <forename></forename>
                      <surname/>
                   </persName>
                   <persName xml:lang="en">
-                     <forename/>
+                     <forename>Theodoros</forename>
                      <surname/>
                   </persName>
                   <persName xml:lang="de">
-                     <forename/>
+                     <forename>Theodoros</forename>
+                     <surname/>
+                  </persName>
+                  <persName xml:lang="el">
+                     <forename>Θεόδωρος</forename>
                      <surname/>
                   </persName>
                   <idno type="PBW"/>
@@ -126,7 +130,7 @@
                            <measure type="channelOrient" unit="clock">6-12</measure>
                            <measure type="countermark" unit="clock"/>
                         </support>
-                        <condition rend=" blank-too-small">
+                        <condition rend="blank-too-small">
                            <p xml:lang="en">Blank slightly too small for the die. </p>
                            <p xml:lang="de">Rohling etwas zu klein für die Matrize.</p>
                            <p xml:lang="el">O δίσκος ελαφρώς μικρότερος απο το αποτύπωμα
@@ -137,7 +141,7 @@
                         <layout n="whole">
                            <rs type="execution">
                               <seg xml:lang="en">Struck</seg>
-                              <seg xml:lang="de">???</seg>
+                              <seg xml:lang="de">Geprägt</seg>
                               <seg xml:lang="el">Παιστό</seg>
                            </rs>
                            <rs type="shape">
@@ -171,7 +175,7 @@
                                 <interp type="datingCriteria" xml:lang="de"/>
                             </origDate>-->
                      <!-- for a date range or centuries (NOT BEFORE - NOT AFTER)-->
-                     <origDate type="analysis" notBefore="0601" notAfter="0700" evidence=" epigraphy" cert="high" resp=" #MC">
+                     <origDate type="analysis" notBefore="0601" notAfter="0700" evidence="epigraphy" cert="high" resp=" #MC">
                         <seg xml:lang="en">7th c.</seg>
                         <seg xml:lang="de">7. Jh.</seg>
                         <seg xml:lang="el"> 7ος αι.</seg>
@@ -239,7 +243,7 @@
                                             indistinct.</figDesc>
                               <figDesc ana="" n="decoR" xml:lang="de">Grenze
                                             undeutlich.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="el">Μη ορατό πλαίσιο.</figDesc>
+                              <figDesc ana="" n="decoR" xml:lang="el">Δεν διακρίνεται πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -288,7 +292,7 @@
                                             indistinct.</figDesc>
                               <figDesc ana="" n="decoV" xml:lang="de">Grenze
                                             undeutlich.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="el">Μη ορατό πλαίσιο.</figDesc>
+                              <figDesc ana="" n="decoV" xml:lang="el">Δεν διακρίνεται πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -309,6 +313,7 @@
             <graphic url="S_55a" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -318,6 +323,7 @@
             <graphic url="S_55b" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -373,11 +379,11 @@
             <p xml:lang="el">(Σφραγίδα του) Θεόδωρου παλατίνου.</p>
          </div>
          <div type="commentary" subtype="text">
-            <p xml:lang="en">The seal issuer[1] is known from this seal type. </p>
+            <p xml:lang="en">The seal issuer is known from this seal type. </p>
             <!--if you have the commentary only in German and would like to show it also in the English page, you should delete the xml:lang
             <p xml:lang="de">[your commentary here]</p>-->
          </div>
-         <div type="commentary" subtype="footnotes">
+         <!--<div type="commentary" subtype="footnotes">
             <p xml:id="footnote-1">[1]. <bibl>
                   <ptr target="PLRE3"/>,<citedRange unit="part">Theodorus 77</citedRange>
                </bibl>; <bibl>
@@ -386,7 +392,7 @@
                   </citedRange>
                </bibl>.
                 </p>
-         </div>
+         </div>-->
          <div type="bibliography" subtype="edition">
             <p>
                       <!--<bibl>
@@ -398,21 +404,19 @@
             <p>
                <bibl>
                           Similar seals not from the same boulloterion: (1) <bibl>
-                     <ptr target="DOsealsOnline"/>, <citedRange target="https://www.doaks.org/resources/seals/byzantine-seals/BZS.1958.106.2363">DO BZS.1958.106.2363</citedRange>
+                     <ptr target="DOsealsOnline"/>, <citedRange unit="entry"> <ref target="https://www.doaks.org/resources/seals/byzantine-seals/BZS.1958.106.2363">BZS.1958.106.2363</ref></citedRange>
                   </bibl> –<bibl>
                      <ptr target="Zacos1"/>,<citedRange unit="part">no. 1047b</citedRange>
                   </bibl>; 
                           (2) <bibl>
-                     <ptr target="DOsealsOnline"/>, <citedRange target="https://www.doaks.org/resources/seals/byzantine-seals/BZS.1951.31.5.679">BZS.1951.31.5.679</citedRange>
-                  </bibl>; 
-                          (3) <bibl>
-                     <ptr target="DOsealsOnline"/>, <citedRange target="https://www.doaks.org/resources/seals/byzantine-seals/BZS.1958.106.4678/view">BZS.1958.106.4678</citedRange>
-                  </bibl> – <bibl>
+                             <ptr target="DOsealsOnline"/>, <citedRange unit="entry"> <ref target="https://www.doaks.org/resources/seals/byzantine-seals/BZS.1951.31.5.679">BZS.1951.31.5.679</ref></citedRange>
+                          </bibl>; 
+                  (3) <bibl><ptr target="DOsealsOnline"/>, <citedRange unit="entry"><ref target="https://www.doaks.org/resources/seals/byzantine-seals/BZS.1958.106.4678/view">BZS.1958.106.4678</ref></citedRange></bibl>
+                     – <bibl>
                      <ptr target="Zacos1"/>,<citedRange unit="part">no. 1047a</citedRange>
                   </bibl>; 
-                          (4) <bibl>
-                     <ptr target="DOsealsOnline"/>, <citedRange target="https://www.doaks.org/resources/seals/byzantine-seals/BZS.1958.106.2572/view">DO BZS.1958.106.2572</citedRange>
-                  </bibl>;
+                          (4) 
+                  <bibl><ptr target="DOsealsOnline"/>, <citedRange unit="entry"><ref target="https://www.doaks.org/resources/seals/byzantine-seals/BZS.1958.106.2572/view">BZS.1958.106.2572</ref></citedRange></bibl>;
                           (5) Private collection – <bibl>
                      <ptr target="Metcalf2004"/>, <citedRange unit="part"/>no. 234c</bibl>;
                           (6) Cyprus Museum, 1948/VI, no. 196 (Petrakides) – <bibl>
@@ -426,8 +430,8 @@
                      <ptr target="Metcalf2004"/>, <citedRange unit="part"/>no. 234f</bibl>;
                           (10) Private collection – <bibl>
                      <ptr target="Schlumberger1884"/>, <citedRange unit="page">p. 562</citedRange>, <citedRange unit="part">no. 1 </citedRange>(drawing).</bibl>
-               </bibl>
-            </p>
+               
+               </bibl>  </p>
          </div>
          <!--<div type="bibliography" subtype="discussion"> <!-\-if you don't have further bibliography, put this div in a comment-\->
                   <p>

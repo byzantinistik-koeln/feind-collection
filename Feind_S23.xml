@@ -6,6 +6,7 @@
                     Seleukeia</title>
             <title xml:lang="de">Siegel des Leon Blangas, strategos und anagrapheus von
                     Seleukeia</title>
+            <title xml:lang="el">Μολυβδόβουλλο Λέοντα Βλάγγα, στρατηγού και αναγραφέα Σελεύκειας</title>
             <editor role="seal-editor" xml:id="MC">Maria Teresa Catalano</editor>
             <editor role="seal-editor" xml:id="MF">Martina Filosa</editor>
             <editor role="seal-editor" xml:id="CS">Claudia Sode</editor>
@@ -45,6 +46,10 @@
                      <forename>Leon</forename>
                      <surname>Blangas</surname>
                   </persName>
+                  <persName xml:lang="el">
+                     <forename>Λέων</forename>
+                     <surname>Βλάγγας</surname>
+                  </persName>
                </person>
             </listPerson>
             <msDesc>
@@ -52,10 +57,12 @@
                   <country>
                      <seg xml:lang="en">Germany</seg>
                      <seg xml:lang="de">Deutschland</seg>
+                     <seg xml:lang="el">Γερμανία</seg>
                   </country>
                   <settlement>
                      <seg xml:lang="en">Cologne</seg>
                      <seg xml:lang="de">Köln</seg>
+                     <seg xml:lang="el">Κολωνία</seg>
                   </settlement>
                   <institution/>
                   <repository/>
@@ -76,20 +83,25 @@
                   <summary n="whole">
                      <seg xml:lang="en">Provincial administration</seg>
                      <seg xml:lang="de">Provinzialverwaltung</seg>
+                     <seg xml:lang="el">Μολυβδόβουλλα αξιωματούχων της περιφερειακής διοίκησης.</seg>
                   </summary>
                   <msItem>
                      <author>
-                        <roleName role="issuer" type="military civil">
+                        <roleName role="issuer" type="militarycivil">
                            <seg xml:lang="en">
                               <ref target="http://pbw2016.kdl.kcl.ac.uk/person/Leon/20128/">Leon Blangas</ref>
                            </seg>
                            <seg xml:lang="de">
                               <ref target="http://pbw2016.kdl.kcl.ac.uk/person/Leon/20128/">Leon Blangas</ref>
                            </seg>
+                           <seg xml:lang="el">
+                              <ref target="http://pbw2016.kdl.kcl.ac.uk/person/Leon/20128/">Λέων Βλάγγας</ref>
+                           </seg>
                            <interp type="milieu" xml:lang="en">Military, Civil.</interp>
                            <!--delete in the new schema-->
                            <interp type="milieu" xml:lang="de">Militär, Zivil.</interp>
                            <!--delete in the new schema-->
+                           <interp type="milieu" xml:lang="el">Στρατιωτικό, κρατικό (πεδίο δραστηριοποίησης).</interp>
                         </roleName>
                      </author>
                   </msItem>
@@ -107,10 +119,12 @@
                                             impression</interp>
                               <interp type="workType" xml:lang="de">Origineller
                                             Siegelabdruck</interp>
+                              <interp type="workType" xml:lang="el">Αρχική αποτύπωση</interp>
                            </objectType>
                            <material>
                               <seg xml:lang="en">Lead</seg>
                               <seg xml:lang="de">Blei</seg>
+                              <seg xml:lang="el">Μολυβδόβουλλο</seg>
                            </material>
                            <dimensions type="support" unit="mm">
                               <dim type="diameter">19-23</dim>
@@ -126,6 +140,7 @@
                                         and open on the reverse, chipped on one side. </p>
                            <p xml:lang="de">Grau-beige Patina, entlang des Fadenkanals auf
                                         dem Revers aufgebrochen, an einer Seite ausgebrochen.</p>
+                           <p xml:lang="el"> Πατίνα γκριζωπού, ελαφρώς κιτρινωπού χρώματος, ραγισμένη κατά μήκος του διαύλου, τμήμα του δίσκου κατά μήκος του διαύλου εχει αποκολληθεί στον οπισθότυπο δημιουργώντας ένα κένο,  σπασμένη στη μία όψη.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -136,11 +151,13 @@
                                     </rs>--> <!--delete in the new schema-->
                            <rs type="execution">
                               <seg xml:lang="en">Struck</seg>
-                              <seg xml:lang="de">???</seg>
+                              <seg xml:lang="de">Geprägt</seg>
+                              <seg xml:lang="el">Παιστό</seg>
                            </rs>
                            <rs type="shape">
                               <seg xml:lang="en">Round</seg>
                               <seg xml:lang="de">Rund</seg>
+                              <seg xml:lang="el">Σφαιρικό</seg>
                            </rs>
                            <rs type="matrix" subtype="not-surviving">
                               <idno type="SigiDoc">"m-qQ5CAL"</idno>
@@ -256,6 +273,7 @@
                               <figDesc ana="" n="decoR" xml:lang="de">Kreuz am Anfang der
                                             Legende. Die letzte Zeile ist zwischen dekorativen
                                             Punktkreuzen enthalten. Perlrand.</figDesc>
+                              <figDesc ana="" n="decoR" xml:lang="el">Σταυρός στην αρχή της επιγραφής.  Στο κάτω μέρος διακοσμητικό μοτίβο με (Χ με στιγμές στα τεταρτημόρια του). Στο πάνω και κάτω μέρος της επιγραφής στιγμή ανάμεσα σε δύο οριζόντιες γραμμές. Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -307,6 +325,7 @@
                               <figDesc ana="" n="decoV" xml:lang="de">Die letzte Zeile ist
                                             zwischen dekorativen Punktkreuzen enthalten.
                                             Perlrand.</figDesc>
+                              <figDesc ana="" n="decoV" xml:lang="el">Στο κάτω μέρος διακοσμητικό μοτίβο με (Χ με στιγμές στα τεταρτημόρια του). Στο πάνω και κάτω μέρος της επιγραφής στιγμή ανάμεσα σε δύο οριζόντιες γραμμές. Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -326,6 +345,7 @@
             <graphic url="S_23a.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -335,6 +355,7 @@
             <graphic url="S_23b.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -395,17 +416,18 @@
             <p>Κὐριε βοἠθει τῷ σῷ δούλῳ Λέοντι στρατηγῷ / καὶ ἀναγραφεῖ Σελευκείας τῷ Βλάγγᾳ.</p>
             <p xml:lang="en">Lord, help your servant Leon Blangas, strategos and anagrapheus of Seleukeia.</p>
             <p xml:lang="de">Herr, hilf deinem Diener Leon Blangas, strategos und anagrapheus von Seleukeia.</p>
+            <p xml:lang="el">Κύριε βοήθησε το δούλο σου Λέοντα Βλάγγα, στρατηγό και αναγραφέα Σελεύεκειας.</p>
          </div>
          <div type="commentary" subtype="text">
-            <p xml:lang="en">The seal issuer is known only from this seal type.[1]
+            <p xml:lang="en">The seal issuer is known only from this seal type.
                 </p>
             <p xml:lang="de"/>
          </div>
-         <div type="commentary" subtype="footnotes">
+         <!--<div type="commentary" subtype="footnotes">
             <p xml:id="footnote-1">[1]. <bibl>
                   <ptr target="PBW"/>, <ref target="http://pbw2016.kdl.kcl.ac.uk/person/Leon/20128/">Leon 20128</ref>
                </bibl>.</p>
-         </div>
+         </div>-->
          <div type="bibliography" subtype="edition">
             <p/>
          </div>
@@ -422,8 +444,8 @@
                   <ptr target="SBS_Articles1997-2001"/>, p. <citedRange unit="page">228</citedRange>, no. <citedRange unit="entry">1034</citedRange>
                </bibl>); from a different boulloterion: (3) Istanbul, Archeological Museum, no. Ist. 911-10 – <bibl>
                   <ptr target="Istanbul"/>, no. <citedRange unit="entry">3.105</citedRange>
-               </bibl>; (4) Antakya, Hatay Archaeology Museum, no. 11175 – <!-- Cheynet, Antioche et Tarse, p. 426, no. 57 in bibliograohy.xml ergänzen--><bibl>
-                  <ptr target="Cheynet_Antioche"/>, p. <citedRange unit="page">426</citedRange>, no. <citedRange unit="entry">57</citedRange>
+               </bibl>; (4) Antakya, Hatay Archaeology Museum, no. 11175 – <bibl>
+                  <ptr target="Cheynet1994"/>, p. <citedRange unit="page">426</citedRange>, no. <citedRange unit="entry">57</citedRange>
                </bibl>; No picture available for: (5) Munich, Staatliche Münzsammlung (Zarnitz Collection), no. 564, and (6) Münz Zentrum, Auction 100 (8–10 September 1999), lot 818, no. 125 (are nos. 5 and 6 the same?) – (5) mentioned in <bibl>
                   <ptr target="Seibt1978"/>, p. <citedRange unit="page">68</citedRange>, no. <citedRange unit="entry">50</citedRange>
                </bibl>. <!--Bibliographie-Zuordnung so richtig? Seibt, Shandrovkaja, p. 68, no. 50 = Seibt 1978?-->                   
