@@ -7,8 +7,8 @@
                     krites epi tou hippodromou</title>
             <title xml:lang="de">Siegel des Aetios protospatharios epi tou chrysotriklinou and
                     krites epi tou hippodromou</title>
-            <title xml:lang="el">Μολυβδόβουλλο του Αετίου, πρωτοσπαθάριος επί του χρυσοτρικλίνου
-                    και κριτής επί του ιπποδρόμου</title>
+            <title xml:lang="el">Μολυβδόβουλλο Αετίου, πρωτοσπαθαρίου επί του χρυσοτρικλίνου
+                    και κριτή επί του ιπποδρόμου</title>
             <editor role="seal-editor" xml:id="MC">Maria Teresa Catalano</editor>
             <editor role="seal-editor" xml:id="MF">Martina Filosa</editor>
             <editor role="seal-editor" xml:id="CS">Claudia Sode</editor>
@@ -84,7 +84,7 @@
                   <summary n="whole">
                      <seg xml:lang="en">Central administration </seg>
                      <seg xml:lang="de">Zentralverwaltung</seg>
-                     <seg xml:lang="el">Μολυβδόβουλλα αξιωματούχων της κεντρικής διοίκησης
+                     <seg xml:lang="el">Μολυβδόβουλλα αξιωματούχων της κεντρικής διοίκησης.
                             </seg>
                   </summary>
                   <msItem>
@@ -138,13 +138,13 @@
                            <measure type="channelOrient" unit="clock">6-12 </measure>
                            <measure type="countermark" unit="clock"/>
                         </support>
-                        <condition rend="  corroded not-centered ">
+                        <condition rend="corroded not-centered ">
                            <p xml:lang="en">Dark green patina, corroded, struck off-centre
                                         to the top.</p>
                            <p xml:lang="de">Dunkelgrüne Patina, korrodiert, oben
                                         außermittig angeschlagen.</p>
-                           <p xml:lang="el"> Πατίνα σκούρη πράσινη χρώματος, διαβρωμένη, η
-                                        αποτύπωση της σφραγίδας αποκλίνει απο το κέντρο προς τα άνω.
+                           <p xml:lang="el"> Πατίνα σκουροπράσινου χρώματος, διαβρωμένη, η
+                                        αποτύπωση της σφραγίδας αποκλίνει από το κέντρο προς τα άνω.
                                     </p>
                         </condition>
                      </supportDesc>
@@ -152,7 +152,7 @@
                         <layout n="whole">
                            <rs type="execution">
                               <seg xml:lang="en">Struck</seg>
-                              <seg xml:lang="de">???</seg>
+                              <seg xml:lang="de">Geprägt</seg>
                               <seg xml:lang="el">Παιστό</seg>
                            </rs>
                            <rs type="shape">
@@ -186,7 +186,7 @@
                                 <interp type="datingCriteria" xml:lang="de"/>
                             </origDate>-->
                      <!-- for a date range or centuries (NOT BEFORE - NOT AFTER)-->
-                     <origDate type="analysis" notBefore="1041" notAfter="1060" evidence=" epigraphy " resp="MC">
+                     <origDate type="analysis" notBefore="1041" notAfter="1060" evidence="epigraphy" resp="MC">
                         <seg xml:lang="en">mid-11th c.</seg>
                         <seg xml:lang="de">Mitte 11. Jh..</seg>
                         <seg xml:lang="el">μέσα 11ου αι.</seg>
@@ -264,9 +264,8 @@
                                             Legende. Darunter eine Verzierung, bestehend aus einem
                                             Punkt zwischen zwei Strichen. Perlrand.</figDesc>
                               <figDesc ana="" n="decoR" xml:lang="el">Σταυρός στην αρχή της
-                                            επιγραφής. Κάτω απο την επιγραφή, διακοσμητικό μοτίβο το
-                                            οποίο αποτελείται απο μία τελεία ανάμεσα σε δυο παύλες.
-                                            Στικτό πλαίσιο.</figDesc>
+                                            επιγραφής. Κάτω από την επιγραφή, διακοσμητικό μοτίβο το
+                                            οποίο αποτελείται απο μία στιγμή ανάμεσα σε δύο οριζόντιες γραμμές. Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -320,10 +319,10 @@
                                             einer Verzierung; unterhalb eine Verzierung, die aus
                                             einem Kreuz zwischen zwei Strichen besteht.
                                             Perlrand.</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="el">Πάνω απο την επιγραφή,
+                              <figDesc ana="" n="decoV" xml:lang="el">Πάνω από την επιγραφή,
                                             υπολείμματα διακοσμητικού μοτίβου˙ κάτω απο την
                                             επιγραφή, διακοσμητικό μοτίβο το οποίο αποτελείται απο
-                                            ένα σταυρό ανάμεσα σε δύο παύλες. Στικτό
+                                            ένα σταυρό ανάμεσα σε δύο οριζόντιες γραμμέ. Στικτό
                                             πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
@@ -344,6 +343,7 @@
             <graphic url="S_26a.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -353,6 +353,7 @@
             <graphic url="S_26b.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -416,7 +417,7 @@
             <p>Κύριε βοήθει τῷ σῷ δούλῳ Ἀετίῳ / πρωτοσπαθαρίῳ ἐπὶ τοῦ χρυσοτρικλίνου καὶ κριτῇ ἐπὶ τοῦ ἱπποδρόμου.</p>
             <p xml:lang="en">Lord, help your servant Aetios protospatharios epi tou chrysotriklinou and krites epi tou hyppodromou.</p>
             <p xml:lang="de">Herr, hilf deinem Diener Aetios protospatharios epi tu chrysotriklinu und krites epi tu hippodromu.</p>
-            <p xml:lang="el">Κύριε, βοήθησε τον δούλο σου Αέτιο, πρωτοσπαθάριο επί του χρυσοτρικλίνου και κριτή επί του ιπποδρόμου.</p>
+            <p xml:lang="el">Κύριε, βοήθησε το δούλο σου Αέτιο, πρωτοσπαθάριο επί του χρυσοτρικλίνου και κριτή επί του ιπποδρόμου.</p>
          </div>
          <!--<div type="commentary" subtype="text">
                   <p xml:lang="en">[your commentary here]</p> <!-\-if you have the commentary only in German and would like to show it also in the English page, you should delete the xml:lang-\->
@@ -432,20 +433,20 @@
 -->                      </bibl>
             </p>
          </div>
-         <div type="bibliography" subtype="parallels"> <!--if you don't have parallels, put this div in a comment-->
+         <!--<div type="bibliography" subtype="parallels"> <!-\-if you don't have parallels, put this div in a comment-\->
             <p>
                <bibl>
-<!--                          <ptr target=""/>, <citedRange unit=""/>
--->                      </bibl>
+<!-\-                          <ptr target=""/>, <citedRange unit=""/>
+-\->                      </bibl>
             </p>
-         </div>
-         <div type="bibliography" subtype="discussion"> <!--if you don't have further bibliography, put this div in a comment-->
+         </div>-->
+         <!--<div type="bibliography" subtype="discussion"> <!-\-if you don't have further bibliography, put this div in a comment-\->
             <p>
-                      <!--<bibl>
+                      <!-\-<bibl>
                           <ptr target=""/>, <citedRange unit=""/>
-                      </bibl>-->
+                      </bibl>-\->
                   </p>
-         </div>
+         </div>-->
       </body>
    </text>
 </TEI>

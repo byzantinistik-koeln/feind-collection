@@ -97,7 +97,7 @@
                            </seg>
                            <interp type="milieu" xml:lang="en">Αristocracy</interp>
                            <interp type="milieu" xml:lang="de">Aristokratie</interp>
-                           <interp type="milieu" xml:lang="el">Αριστοκρατία</interp>
+                           <interp type="milieu" xml:lang="el">Αριστοκρατικό (πεδίο δραστηριοποίησης).</interp>
                         </roleName>
                      </author>
                   </msItem>
@@ -131,7 +131,7 @@
                            <measure type="channelOrient" unit="clock">5-11</measure>
                            <measure type="countermark" unit="clock"/>
                         </support>
-                        <condition rend=" well-preserved blank-too-small worn-edge">
+                        <condition rend="well-preserved blank-too-small worn-edge">
                            <p xml:lang="en">Green patina, corroded, blank slightly too small for the
                               die. </p>
                            <p xml:lang="de">Grüne Patina, korrodiert, Rohling etwas zu klein für den

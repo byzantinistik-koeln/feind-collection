@@ -129,7 +129,7 @@
                            <measure type="channelOrient" unit="clock">6-12</measure>
                            <measure type="countermark" unit="clock"/>
                         </support>
-                        <condition rend=" corroded blank-too-small">
+                        <condition rend="corroded blank-too-small">
                            <p xml:lang="en">Corroded, blank too small for the die.</p>
                            <p xml:lang="de">Korrodiert, Rohling zu klein für die Matrize.</p>
                            <p xml:lang="el">Διαβρωμένο, ο δίσκος μικρότερος από το αποτύπωμα της σφραγίδας.</p>

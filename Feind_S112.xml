@@ -35,7 +35,7 @@
          </publicationStmt>
          <sourceDesc>
             <listPerson type="issuer">
-               <person gender="m" role="civil" xml:id="basileios-mauros">
+               <person gender="M" role="civil" xml:id="basileios-mauros">
                   <persName xml:lang="grc">
                      <forename>Βασίλειος</forename>
                      <surname>Μαυρός</surname>

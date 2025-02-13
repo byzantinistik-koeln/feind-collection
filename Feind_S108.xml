@@ -5,7 +5,7 @@
          <titleStmt>
             <title xml:lang="en">Seal of Ioannes hypatos</title>
             <title xml:lang="de">Siegel des Ioannes hypatos.</title>
-            <title xml:lang="el">Μολυβδόβουλλο του Ιωάννου υπάτου</title>
+            <title xml:lang="el">Μολυβδόβουλλο Ιωάννου υπάτου</title>
             <editor role="seal-editor" xml:id="MC">Maria Teresa Catalano</editor>
             <editor role="seal-editor" xml:id="MF">Martina Filosa</editor>
             <editor role="seal-editor" xml:id="CS">Claudia Sode</editor>
@@ -97,7 +97,7 @@
                            </seg>
                            <interp type="milieu" xml:lang="en">Αristocracy</interp>
                            <interp type="milieu" xml:lang="de">Aristokratie</interp>
-                           <interp type="milieu" xml:lang="el">Αριστοκρατία</interp>
+                           <interp type="milieu" xml:lang="el">Αριστοκρατικό (πεδίο δραστηριοποίησης).</interp>
                         </roleName>
                      </author>
                   </msItem>
@@ -132,7 +132,7 @@
                            <measure type="channelOrient" unit="clock">1-7</measure>
                            <measure type="countermark" unit="clock"/>
                         </support>
-                        <condition rend=" corroded not-centered chipped  ">
+                        <condition rend="corroded not-centered chipped  ">
                            <p xml:lang="en">Grey patina, corroded, chipped at the top and on one side, cracked along the channel on the reverse, struck off-centre to the right on the obverse, to the left on the reverse.</p>
                            <p xml:lang="de">Graue Patina, korrodiert, oben und an einer Seite bestoßen, auf der Rückseite Risse entlang der Rinne, auf der Vorderseite außermittig nach rechts, auf der Rückseite nach links geprägt.</p>
                            <p xml:lang="el">Πατίνα γριζωπού χρώματος, διαβρωμένη, ο διαύλος είναι στον οπισθότυπο σχεδόν καθ' όλο το μήκος διαρρηγμένος  και το άνω στόμιο της ίδιας όψης είναι  σπασμένο, χτυπημένη εκτός κέντρου με κατεύθυνση προς τα δεξία στον εμπροσθότυπο και προς τα αριστερά στον οπισθότυπο.</p>
@@ -142,7 +142,7 @@
                         <layout n="whole">
                            <rs type="execution">
                               <seg xml:lang="en">Struck</seg>
-                              <seg xml:lang="de">???</seg>
+                              <seg xml:lang="de">Geprägt</seg>
                               <seg xml:lang="el">Παιστό</seg>
                            </rs>
                            <rs type="shape">
@@ -176,7 +176,7 @@
                                 <interp type="datingCriteria" xml:lang="de"/>
                             </origDate>-->
                      <!-- for a date range or centuries (NOT BEFORE - NOT AFTER)-->
-                     <origDate type="analysis" notBefore="0701" notAfter="0750" evidence=" epigraphy " resp="MC">
+                     <origDate type="analysis" notBefore="0701" notAfter="0750" evidence="epigraphy" resp="MC">
                         <seg xml:lang="en">8th c., first half</seg>
                         <seg xml:lang="de">8. Jh., erste Hälfte.</seg>
                         <seg xml:lang="el">8ος αι., πρώτο μισό.</seg>
@@ -317,6 +317,7 @@
             <graphic url="S_108a.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -326,6 +327,7 @@
             <graphic url="S_108b.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -396,28 +398,28 @@
             <!--                  <p xml:lang="de">[your footnotes here]</p>
 -->
          </div>
-         <div type="bibliography" subtype="edition">
+         <!--<div type="bibliography" subtype="edition">
             <p/>
-         </div>
-         <div type="bibliography" subtype="parallels">
+         </div>-->
+         <!--<div type="bibliography" subtype="parallels">
             <p>
-               <bibl> <!-- <ptr target=""/>, <citedRange unit=""/> <!-\-before citedRange add the right abbreviation, e.g. if it's a page, p. etc.-\->
--->                      </bibl>
+               <bibl> <!-\- <ptr target=""/>, <citedRange unit=""/> <!-\\-before citedRange add the right abbreviation, e.g. if it's a page, p. etc.-\\->
+-\->                      </bibl>
             </p>
-            <!--if you don't have parallels, put this div in a comment-->
+            <!-\-if you don't have parallels, put this div in a comment-\->
             <p>
                <bibl>
-<!--                          <ptr target=""/>, <citedRange unit=""/>
--->                      </bibl>
+<!-\-                          <ptr target=""/>, <citedRange unit=""/>
+-\->                      </bibl>
             </p>
-         </div>
-         <div type="bibliography" subtype="discussion"> <!--if you don't have further bibliography, put this div in a comment-->
+         </div>-->
+         <!--<div type="bibliography" subtype="discussion"> <!-\-if you don't have further bibliography, put this div in a comment-\->
             <p>
-                      <!--<bibl>
+                      <!-\-<bibl>
                           <ptr target=""/>, <citedRange unit=""/>
-                      </bibl>-->
+                      </bibl>-\->
                   </p>
-         </div>
+         </div>-->
       </body>
    </text>
 </TEI>

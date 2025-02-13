@@ -45,11 +45,15 @@
                      <surname/>
                   </persName>
                   <persName xml:lang="en">
-                     <forename/>
+                     <forename>Theodoros</forename>
                      <surname/>
                   </persName>
                   <persName xml:lang="de">
-                     <forename/>
+                     <forename>Theodoros</forename>
+                     <surname/>
+                  </persName>
+                  <persName xml:lang="el">
+                     <forename>Θεόδωρος</forename>
                      <surname/>
                   </persName>
                   <idno type="PBW"/>
@@ -123,10 +127,10 @@
                            <measure type="channelOrient" unit="clock">6-12</measure>
                            <measure type="countermark" unit="clock"/>
                         </support>
-                        <condition rend=" chipped not-centered">
+                        <condition rend="chipped not-centered">
                            <p xml:lang="en">Chipped at both ends of the channel; struck off-centre to the right</p>
                            <p xml:lang="de">Abgebrochen an beiden Enden des Kanals; schräg nach rechts getroffen.</p>
-                           <p xml:lang="el">Tα στόμια του διαύλου ειναι και τα δυο σπασμένα.  Και οι δυο όψεις αποκλίνουν απο το κέντρο προς το δεξίο  μέρος.
+                           <p xml:lang="el">Tα στόμια του διαύλου είναι και τα δύο σπασμένα.  Και οι δύο όψεις αποκλίνουν από το κέντρο προς το δεξίο μέρος.
                                     </p>
                         </condition>
                      </supportDesc>
@@ -134,7 +138,7 @@
                         <layout n="whole">
                            <rs type="execution">
                               <seg xml:lang="en">Struck</seg>
-                              <seg xml:lang="de">???</seg>
+                              <seg xml:lang="de">Geprägt</seg>
                               <seg xml:lang="el">Παιστό</seg>
                            </rs>
                            <rs type="shape">
@@ -168,7 +172,7 @@
                                 <interp type="datingCriteria" xml:lang="de"/>
                             </origDate>-->
                      <!-- for a date range or centuries (NOT BEFORE - NOT AFTER)-->
-                     <origDate type="analysis" notBefore="0501" notAfter="0600" evidence=" epigraphy" cert="high" resp=" #MC">
+                     <origDate type="analysis" notBefore="0501" notAfter="0600" evidence="epigraphy" cert="high" resp=" #MC">
                         <seg xml:lang="en">6th c.</seg>
                         <seg xml:lang="de">6. Jh.</seg>
                         <seg xml:lang="el">6ος αι.</seg>
@@ -281,7 +285,7 @@
                               <figDesc ana="" n="v" xml:lang="de"/>
                               <figDesc ana="" n="decoV" xml:lang="en">Above the legend, a decoration consisting of a cross.</figDesc>
                               <figDesc ana="" n="decoV" xml:lang="de">Über der Legende befindet sich eine Verzierung in Form eines Kreuzes.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="el">Πάνω από την επιγραφή διακοσμητικό μοτίβο σε σχήμα σταυρού. </figDesc>
+                              <figDesc ana="" n="decoV" xml:lang="el">Πάνω από την επιγραφή διακοσμητικό μοτίβο σε σχήμα σταυρού. </figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -301,6 +305,7 @@
             <graphic url="S_289a" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -310,6 +315,7 @@
             <graphic url="S_289b" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -363,14 +369,14 @@
             <p xml:lang="el">(Σφράγισμα του) Θεοδώρου.</p>
          </div>
          <div type="commentary" subtype="text">
-            <p xml:lang="en">[your commentary here]</p>
+            <p xml:lang="en"></p>
             <!--if you have the commentary only in German and would like to show it also in the English page, you should delete the xml:lang-->
-            <p xml:lang="de">[your commentary here]</p>
+            <p xml:lang="de"></p>
          </div>
          <div type="commentary" subtype="footnotes">
-            <p xml:lang="en">[your footnotes here]</p>
+            <p xml:lang="en"></p>
             <!--if you have the footnotes only in French and would like to show it also in the English page, you should delete the xml:lang-->
-            <p xml:lang="de">[your footnotes here]</p>
+            <p xml:lang="de"></p>
          </div>
          <div type="bibliography" subtype="edition">
             <p>

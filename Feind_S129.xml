@@ -5,7 +5,7 @@
          <titleStmt>
             <title xml:lang="en">Seal of Dorotheos apo hypaton</title>
             <title xml:lang="de">Siegel des Dorotheos apo Hypaton</title>
-            <title xml:lang="el">Μολυβδόβουλλο του Δωροθέου από υπάτων</title>
+            <title xml:lang="el">Μολυβδόβουλλο Δωροθέου από υπάτων</title>
             <editor role="seal-editor" xml:id="MC">Maria Teresa Catalano</editor>
             <editor role="seal-editor" xml:id="MF">Martina Filosa</editor>
             <editor role="seal-editor" xml:id="CS">Claudia Sode</editor>
@@ -45,19 +45,23 @@
                      <surname/>
                   </persName>
                   <persName xml:lang="en">
-                     <forename/>
+                     <forename>Dorotheos</forename>
                      <surname/>
                   </persName>
                   <persName xml:lang="de">
-                     <forename/>
+                     <forename>Dorotheos</forename>
+                     <surname/>
+                  </persName>
+                  <persName xml:lang="el">
+                     <forename>Δωρόθεος</forename>
                      <surname/>
                   </persName>
                   <idno type="PBW"/>
-                  <idno type="PmbZ" ana="https://www.degruyter.com/database/PMBZ/entry/PMBZ13148/html">Georgios 2038</idno>
+                  <idno type="PmbZ"/> 
                   <idno type="PLP"/>
-                  <idno type="PLRE"> vol. III, Georgius 61</idno>
+                  <idno type="PLRE"/> 
                </person>
-               <idno/>
+         
             </listPerson>
             <msDesc>
                <msIdentifier>
@@ -123,17 +127,17 @@
                            <measure type="channelOrient" unit="clock">5-10</measure>
                            <measure type="countermark" unit="clock"/>
                         </support>
-                        <condition rend=" not-centered">
+                        <condition rend="not-centered">
                            <p xml:lang="en">Struck off-centre to the left. </p>
                            <p xml:lang="de">Abseits vom Zentrum nach links geschlagen.</p>
-                           <p xml:lang="el"> Το αποτύπωμα αποκλίνει απο το κέντρο με κατεύθυνση προς τα αριστερά.</p>
+                           <p xml:lang="el"> Το αποτύπωμα αποκλίνει από το κέντρο με κατεύθυνση προς τα αριστερά.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
                         <layout n="whole">
                            <rs type="execution">
                               <seg xml:lang="en">Struck</seg>
-                              <seg xml:lang="de">???</seg>
+                              <seg xml:lang="de">Geprägt</seg>
                               <seg xml:lang="el">Παιστό</seg>
                            </rs>
                            <rs type="shape">
@@ -167,7 +171,7 @@
                                 <interp type="datingCriteria" xml:lang="de"/>
                             </origDate>-->
                      <!-- for a date range or centuries (NOT BEFORE - NOT AFTER)-->
-                     <origDate type="analysis" notBefore="0551" notAfter="0650" evidence=" epigraphy" cert="high" resp=" #MC">
+                     <origDate type="analysis" notBefore="0551" notAfter="0650" evidence="epigraphy" cert="high" resp=" #MC">
                         <seg xml:lang="en">6th c., second half – 7th c., first half.</seg>
                         <seg xml:lang="de">6. Jh., zweite Hälfte – 7. Jh., erste Hälfte.</seg>
                         <seg xml:lang="el">6ος αι, δεύτερο μισό  – 7ος αι, πρώτο μισό. </seg>
@@ -280,7 +284,7 @@
                               <figDesc ana="" n="v" xml:lang="de"/>
                               <figDesc ana="" n="decoV" xml:lang="en">Cross above the legend. Wreaht border. </figDesc>
                               <figDesc ana="" n="decoV" xml:lang="de">Kreuz über der Legende. Schachtelhalmrand.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="el">Σταυρός πάνω από την επιγραφή. Στεφανωτό πλαίσιο.</figDesc>
+                              <figDesc ana="" n="decoV" xml:lang="el">Σταυρός πάνω από την επιγραφή. Στεφανωτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -300,6 +304,7 @@
             <graphic url="S_129a" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -309,6 +314,7 @@
             <graphic url="S_129b" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -358,7 +364,7 @@
             <p>Δωροθέου / ἀπὸ ὑπάτων..</p>
             <p xml:lang="en">(Seal of) Dorotheos apo hypaton.</p>
             <p xml:lang="de">(Siegel des) Dorotheus apo Hypaton.</p>
-            <p xml:lang="el"> (Σφράγισμα του) Δωροθέου από υπάτων. </p>
+            <p xml:lang="el"> (Σφράγιδα του) Δωροθέου από υπάτων. </p>
          </div>
          <div type="commentary" subtype="text">
             <p xml:lang="en"/>
@@ -375,14 +381,14 @@
                       </bibl>-->
                   </p>
          </div>
-         <div type="bibliography" subtype="parallels"> <!--if you don't have parallels, put this div in a comment-->
+         <!--<div type="bibliography" subtype="parallels"> <!-\-if you don't have parallels, put this div in a comment-\->
             <p>
                <bibl>
                          
                      
                       </bibl>
             </p>
-         </div>
+         </div>-->
          <!--<div type="bibliography" subtype="discussion"> <!-\-if you don't have further bibliography, put this div in a comment-\->
                   <p>
                       <bibl>

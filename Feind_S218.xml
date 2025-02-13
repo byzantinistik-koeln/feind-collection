@@ -5,7 +5,7 @@
          <titleStmt>
             <title xml:lang="en">Seal of Georgios diakonos</title>
             <title xml:lang="de">Siegel des Diakons Georg</title>
-            <title xml:lang="el">Μολυβδόβουλλο του Γεωργίου διακόνου</title>
+            <title xml:lang="el">Μολυβδόβουλλο Γεωργίου διακόνου</title>
             <editor role="seal-editor" xml:id="MC">Maria Teresa Catalano</editor>
             <editor role="seal-editor" xml:id="MF">Martina Filosa</editor>
             <editor role="seal-editor" xml:id="CS">Claudia Sode</editor>
@@ -39,17 +39,21 @@
          </publicationStmt>
          <sourceDesc>
             <listPerson type="issuer">
-               <person gender="M" role="private"> <!--gender to be changed as wished; the value of role is imperial civil military aristocracy secular-church monastic civic corporate private undetermined-->
+               <person gender="M" role=" secular-church"> <!--gender to be changed as wished; the value of role is imperial civil military aristocracy secular-church monastic civic corporate private undetermined-->
                   <persName xml:lang="grc">
                      <forename/>
                      <surname/>
                   </persName>
                   <persName xml:lang="en">
-                     <forename/>
+                     <forename>Georgios</forename>
                      <surname/>
                   </persName>
                   <persName xml:lang="de">
-                     <forename/>
+                     <forename>Georgios</forename>
+                     <surname/>
+                  </persName>
+                  <persName xml:lang="el">
+                     <forename>Γεώργιος</forename>
                      <surname/>
                   </persName>
                   <idno type="PBW"/>
@@ -123,17 +127,17 @@
                            <measure type="channelOrient" unit="clock">1-6</measure>
                            <measure type="countermark" unit="clock"/>
                         </support>
-                        <condition rend="  corroded not-centered blank-too-small">
+                        <condition rend="corroded not-centered blank-too-small">
                            <p xml:lang="en">Corroded, struck off-centre, blank too small for the die. </p>
                            <p xml:lang="de">Korrodiert, außermittig geschlagen, Rohling zu klein für die Matrize.</p>
-                           <p xml:lang="el">Διαβρωμένο,  η αποτύπωση αποκλίνει ελαφρώς από το κέντρο, ο δίσκος μικρότερος απο το αποτύπωμα της σφραγίδας.</p>
+                           <p xml:lang="el">Διαβρωμένο,  η αποτύπωση αποκλίνει ελαφρώς από το κέντρο, ο δίσκος μικρότερος από το αποτύπωμα της σφραγίδας.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
                         <layout n="whole">
                            <rs type="execution">
                               <seg xml:lang="en">Struck</seg>
-                              <seg xml:lang="de">???</seg>
+                              <seg xml:lang="de">Geprägt</seg>
                               <seg xml:lang="el">Παιστό</seg>
                            </rs>
                            <rs type="shape">
@@ -167,7 +171,7 @@
                                 <interp type="datingCriteria" xml:lang="de"/>
                             </origDate>-->
                      <!-- for a date range or centuries (NOT BEFORE - NOT AFTER)-->
-                     <origDate type="analysis" notBefore="0681" notAfter="0720" evidence=" epigraphy" cert="high" resp=" #MC">
+                     <origDate type="analysis" notBefore="0681" notAfter="0720" evidence="epigraphy" cert="high" resp=" #MC">
                         <seg xml:lang="en">Late 7th c.– early 8th c.</seg>
                         <seg xml:lang="de">Ende 7. Jh. – Anfang 8. Jh.</seg>
                         <seg xml:lang="el">Τέλη 7ου αι. – αρχές 8ου αι.</seg>
@@ -280,7 +284,7 @@
                               <figDesc ana="" n="v" xml:lang="de"/>
                               <figDesc ana="" n="decoV" xml:lang="en">Wreath border.</figDesc>
                               <figDesc ana="" n="decoV" xml:lang="de">Schachtelhalmrand</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="el">Στεφανωτό πλαίσιο.</figDesc>
+                              <figDesc ana="" n="decoV" xml:lang="el">Στεφανωτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -300,6 +304,7 @@
             <graphic url="S_218a" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -309,6 +314,7 @@
             <graphic url="S_218b" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -361,12 +367,12 @@
             <p>Θεοτόκε βοήθει / Γεωργίῳ διακόνω.</p>
             <p xml:lang="en">Mother of God, help Georgios diakonos.</p>
             <p xml:lang="de">Muttergottes, hilf Georgios diakonos.</p>
-            <p xml:lang="el">Θεοτόκε βοήθησε τον Γεώργιο  διάκονο.</p>
+            <p xml:lang="el">Θεοτόκε βοήθησε το Γεώργιο  διάκονο.</p>
          </div>
          <div type="commentary" subtype="text">
             <p xml:lang="en"/>
             <!--if you have the commentary only in German and would like to show it also in the English page, you should delete the xml:lang-->
-            <p xml:lang="de">[your commentary here]</p>
+            <p xml:lang="de"></p>
          </div>
          <div type="commentary" subtype="footnotes">
                 
@@ -378,13 +384,13 @@
                       </bibl>-->
                   </p>
          </div>
-         <div type="bibliography" subtype="parallels"> <!--if you don't have parallels, put this div in a comment-->
+         <!--<div type="bibliography" subtype="parallels"> <!-\-if you don't have parallels, put this div in a comment-\->
             <p>
                <bibl>
                                                
                       </bibl>
             </p>
-         </div>
+         </div>-->
          <!--<div type="bibliography" subtype="discussion"> <!-\-if you don't have further bibliography, put this div in a comment-\->
                   <p>
                       <bibl>

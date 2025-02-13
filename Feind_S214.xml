@@ -46,11 +46,15 @@
                      <surname/>
                   </persName>
                   <persName xml:lang="en">
-                     <forename/>
+                     <forename>Anastasios</forename>
                      <surname/>
                   </persName>
                   <persName xml:lang="de">
-                     <forename/>
+                     <forename>Anastasios</forename>
+                     <surname/>
+                  </persName>
+                  <persName xml:lang="el">
+                     <forename>Αναστάσιος</forename>
                      <surname/>
                   </persName>
                   <idno type="PBW"/>
@@ -58,8 +62,7 @@
                   <idno type="PLP"/>
                   <idno type="PLRE"/>
                </person>
-               <idno/>
-            </listPerson>
+               </listPerson>
             <msDesc>
                <msIdentifier>
                   <country>
@@ -125,17 +128,17 @@
                            <measure type="channelOrient" unit="clock">6-10</measure>
                            <measure type="countermark" unit="clock"/>
                         </support>
-                        <condition rend=" blank-too-small corroded">
+                        <condition rend="blank-too-small corroded">
                            <p xml:lang="en">Corroded, blank too small for the die. </p>
                            <p xml:lang="de">Korrodiert, Rohling zu klein für die Matrize.</p>
-                           <p xml:lang="el"> Διαβρωμένο, ο δίσκος ελαφρώς μικρότερος απο το αποτύπωμα της σφραγίδας.</p>
+                           <p xml:lang="el"> Διαβρωμένο, ο δίσκος ελαφρώς μικρότερος από το αποτύπωμα της σφραγίδας.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
                         <layout n="whole">
                            <rs type="execution">
                               <seg xml:lang="en">Struck</seg>
-                              <seg xml:lang="de">???</seg>
+                              <seg xml:lang="de">Geprägt</seg>
                               <seg xml:lang="el">Παιστό</seg>
                            </rs>
                            <rs type="shape">
@@ -169,7 +172,7 @@
                                 <interp type="datingCriteria" xml:lang="de"/>
                             </origDate>-->
                      <!-- for a date range or centuries (NOT BEFORE - NOT AFTER)-->
-                     <origDate type="analysis" notBefore="0601" notAfter="0650" evidence=" epigraphy" cert="high" resp=" #MC">
+                     <origDate type="analysis" notBefore="0601" notAfter="0650" evidence="epigraphy" cert="high" resp=" #MC">
                         <seg xml:lang="en">7th c., first half.</seg>
                         <seg xml:lang="de">7. Jh., erste Hälfte.</seg>
                         <seg xml:lang="el"> 7ος αι., πρώτο μισό.</seg>
@@ -282,7 +285,7 @@
                               <figDesc ana="" n="v" xml:lang="de"/>
                               <figDesc ana="" n="decoV" xml:lang="en">Cross at the beginning and below the legend. Wreath border. </figDesc>
                               <figDesc ana="" n="decoV" xml:lang="de">Kreuz am Anfang und unterhalb der Legende. Schachtelhalmrand.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="el">Σταυρός στην αρχή και κάτω από την επιγραφή. Στεφανωτό πλαίσιο.</figDesc>
+                              <figDesc ana="" n="decoV" xml:lang="el">Σταυρός στην αρχή και κάτω από την επιγραφή. Στεφανωτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -303,6 +306,7 @@
             <graphic url="S_214a" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -312,6 +316,7 @@
             <graphic url="S_214b" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -367,7 +372,7 @@
             <p>Ἀναστασίου / πατρικίου.</p>
             <p xml:lang="en">(Seal of) Anastasios patrikios.</p>
             <p xml:lang="de">(Siegel des) Anastasios patrikios.</p>
-            <p xml:lang="el">(Σφράγισμα του) Αναστασίου πατρικίου.</p>
+            <p xml:lang="el">(Σφραγίδα του) Αναστασίου πατρικίου.</p>
          </div>
          <div type="commentary" subtype="text">
             <p xml:lang="en"> </p>
@@ -384,13 +389,13 @@
                       </bibl>-->
                   </p>
          </div>
-         <div type="bibliography" subtype="parallels"> <!--if you don't have parallels, put this div in a comment-->
+         <!--<div type="bibliography" subtype="parallels"> <!-\-if you don't have parallels, put this div in a comment-\->
             <p>
                <bibl>
                           
                       </bibl>
             </p>
-         </div>
+         </div>-->
          <!--<div type="bibliography" subtype="discussion"> <!-\-if you don't have further bibliography, put this div in a comment-\->
                   <p>
                       <bibl>

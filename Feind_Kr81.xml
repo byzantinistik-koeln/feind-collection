@@ -134,7 +134,7 @@
                            <measure type="channelOrient" unit="clock">1-7</measure>
                            <measure type="countermark" unit="clock"/>
                         </support>
-                        <condition rend="  blank-too-small ">
+                        <condition rend="blank-too-small ">
                            <p xml:lang="en">Green patina, weakly imprinted, blank slightly too small for the die.</p>
                            <p xml:lang="de">Grüne Patina, schwach geprägt, Rohling etwas zu klein für den Stempel.</p>
                            <p xml:lang="el">Πατίνα πρασινωπού χρώματος, ασθενώς αποτυπωμένη, ο δισκός ελαφρώς μικρότερος απο την σφραγίδα αποτύπωσης. </p>
@@ -178,7 +178,7 @@
                                 <interp type="datingCriteria" xml:lang="de"/>
                             </origDate>-->
                      <!-- for a date range or centuries (NOT BEFORE - NOT AFTER)-->
-                     <origDate type="analysis" notBefore="0851" notAfter="0920" evidence=" iconography epigraphy" cert="low" resp="MC">
+                     <origDate type="analysis" notBefore="0851" notAfter="0920" evidence="iconography epigraphy" cert="low" resp="MC">
                         <seg xml:lang="en">9th c., second half – early 10th c.</seg>
                         <seg xml:lang="de">9. Jh., zweite Hälfte – frühes 10. Jh.</seg>
                         <seg xml:lang="el">9ος αι., δεύτερο μισό – αρχές 10ου αι.</seg>

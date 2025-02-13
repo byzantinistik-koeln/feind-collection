@@ -133,7 +133,7 @@
                            <measure type="channelOrient" unit="clock">6-12</measure>
                            <measure type="countermark" unit="clock"/>
                         </support>
-                        <condition rend=" chipped corroded">
+                        <condition rend="chipped corroded">
                            <p xml:lang="en">Corroded and chipped on one side, partially effaced on the reverse.</p>
                            <p xml:lang="de">Auf einer Seite korrodiert und abgeplatzt, auf der Rückseite teilweise unleserlich gemacht.</p>
                            <p xml:lang="el">Διαβρωμένο και σπασμένο στη μία πλευρά, μερικώς σβησμένο στην οπίσθια όψη. </p>
@@ -143,7 +143,7 @@
                         <layout n="whole">
                            <rs type="execution">
                               <seg xml:lang="en">Struck</seg>
-                              <seg xml:lang="de">???</seg>
+                              <seg xml:lang="de">Geprägt</seg>
                               <seg xml:lang="el">Παιστό</seg>
                            </rs>
                            <rs type="shape">
@@ -177,7 +177,7 @@
                                 <interp type="datingCriteria" xml:lang="de"/>
                             </origDate>-->
                      <!-- for a date range or centuries (NOT BEFORE - NOT AFTER)-->
-                     <origDate type="analysis" notBefore="1067" notAfter="1100" evidence=" epigraphy" resp="MC">
+                     <origDate type="analysis" notBefore="1067" notAfter="1100" evidence="epigraphy" resp="MC">
                         <seg xml:lang="en">11th c., last third.</seg>
                         <seg xml:lang="de">11. Jh., letztes Drittel.</seg>
                         <seg xml:lang="el">11ος αι, τελευταίο τρίτο. </seg>
@@ -248,7 +248,7 @@
                               <figDesc ana="" n="r" xml:lang="de"/>
                               <figDesc ana="" n="decoR" xml:lang="en">Above the legend, a cross between dashes; below, remnants of a decoration consisting of two dashes (?). Border of dots.</figDesc>
                               <figDesc ana="" n="decoR" xml:lang="de"> Über der Legende ein Kreuz zwischen Bindestrichen; unten Reste einer Verzierung bestehend aus zwei Strichen (?). Perlrand.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="el"> Πάνω από την επιγραφή, σταυρός ανάμεσα σε παύλες. Κάτω, υπολείμματα διακοσμητικού μοτίβου, το οποίο αποτελείται από δύο παύλες (;) Στικτό πλαίσιο.</figDesc>
+                              <figDesc ana="" n="decoR" xml:lang="el"> Πάνω από την επιγραφή, σταυρός ανάμεσα σε δύο οριζόντιες γραμμές. Κάτω, ίχνη διακοσμητικού μοτίβου, το οποίο αποτελείται από δύο οριζόντιες γραμμές (;) Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -296,7 +296,7 @@
                               <figDesc ana="" n="v" xml:lang="de"/>
                               <figDesc ana="" n="decoV" xml:lang="en">Above the legend, a decoration with a dot between dashes. Border of dots. </figDesc>
                               <figDesc ana="" n="decoV" xml:lang="de">Über der Legende eine Dekoration mit einem Punkt zwischen Strichen. Perlrand.</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="el">Πάνω απο την επιγραφή,  διακοσμητικό μοτίβο με μια τελεία ανάμεσα σε δύο παύλες. Στικτό πλαίσιο.</figDesc>
+                              <figDesc ana="" n="decoV" xml:lang="el">Πάνω από την επιγραφή,  διακοσμητικό μοτίβο με μια στιγμή ανάμεσα σε δύο οριζόντιες γραμμές. Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -316,6 +316,7 @@
             <graphic url="S_216a" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -325,6 +326,7 @@
             <graphic url="S_216b" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -395,14 +397,14 @@
             <p xml:lang="el">Είμαι η σφραγίδα των λόγων του κένσωρος.</p>
          </div>
          <div type="commentary" subtype="text">
-            <p xml:lang="en">[your commentary here]</p>
+            <p xml:lang="en"></p>
             <!--if you have the commentary only in German and would like to show it also in the English page, you should delete the xml:lang-->
-            <p xml:lang="de">[your commentary here]</p>
+            <p xml:lang="de"></p>
          </div>
          <div type="commentary" subtype="footnotes">
-            <p xml:lang="en">[your footnotes here]</p>
+            <p xml:lang="en"></p>
             <!--if you have the footnotes only in French and would like to show it also in the English page, you should delete the xml:lang-->
-            <p xml:lang="de">[your footnotes here]</p>
+            <p xml:lang="de"></p>
          </div>
          <!--<div type="bibliography" subtype="edition">
                   <p>
