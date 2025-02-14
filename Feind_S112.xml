@@ -3,7 +3,8 @@
       <fileDesc>
          <titleStmt>
             <title xml:lang="en">Seal of Basileios Mauros, proedros and krites epi tou hippodromou</title>
-            <title xml:lang="de">Siegel des Basileios Mauros, proedros und krites epi tou hippodromou</title>
+            <title xml:lang="de">Siegel des Basileios Mauros, proedros und krites epi tou hippodromo
+               <title xml:lang="el">Μολυβδόβουλλο Βασιλείου Μαύρου, προέδρου και κριτή επί του ιπποδρόμου</title>u</title>
             <editor role="seal-editor" xml:id="MC">Maria Teresa Catalano</editor>
             <editor role="seal-editor" xml:id="MF">Martina Filosa</editor>
             <editor role="seal-editor" xml:id="CS">Claudia Sode</editor>
@@ -48,10 +49,12 @@
                   <country>
                      <seg xml:lang="en">Germany</seg>
                      <seg xml:lang="de">Deutschland</seg>
+                     <seg xml:lang="el">Γερμανία</seg>
                   </country>
                   <settlement>
                      <seg xml:lang="en">Cologne</seg>
                      <seg xml:lang="de">Köln</seg>
+                     <seg xml:lang="el">Κολωνία</seg>
                   </settlement>
                   <institution/>
                   <repository/>
@@ -70,6 +73,7 @@
                   <summary n="whole">
                      <seg xml:lang="en">Central administration</seg>
                      <seg xml:lang="de">Zentralverwaltung</seg>
+                     <seg xml:lang="el">Μολυβδόβουλλα αξιωματούχων της κεντρικής διοίκησης.</seg>
                   </summary>
                   <msItem>
                      <author>
@@ -80,8 +84,12 @@
                            <seg xml:lang="de">
                               <ref target="http://pbw2016.kdl.kcl.ac.uk/person/Basileios/20221/">Basileios Mauros</ref>
                            </seg>
+                           <seg xml:lang="el">
+                              <ref target="http://pbw2016.kdl.kcl.ac.uk/person/Basileios/20221/">Basileios Mauros</ref>
+                           </seg>
                            <interp type="milieu" xml:lang="en">Civil</interp>
                            <interp type="milieu" xml:lang="de">Zivil</interp>
+                           <interp type="milieu" xml:lang="el">Κρατικό (πεδίο δραστηριοιποίσης).</interp>
                         </roleName>
                      </author>
                   </msItem>
@@ -94,15 +102,18 @@
                               <term>
                                  <seg xml:lang="en">Seal</seg>
                                  <seg xml:lang="de">Siegel</seg>
+                                 <seg xml:lang="el">Μολυβδόβουλλο</seg>
                               </term>
                               <interp type="workType" xml:lang="en">Original
                                             impression</interp>
                               <interp type="workType" xml:lang="de">Origineller
                                             Siegelabdruck</interp>
+                              <interp type="workType" xml:lang="el">Αρχική αποτύπωση</interp>
                            </objectType>
                            <material>
                               <seg xml:lang="en">Lead</seg>
                               <seg xml:lang="de">Blei</seg>
+                              <seg xml:lang="el">Μόλυβδος</seg>
                            </material>
                            <dimensions type="support" unit="mm">
                               <dim type="diameter">21</dim>
@@ -116,17 +127,20 @@
                         <condition rend="obliterated not-centered">
                            <p xml:lang="en">Partially effaced on the obverse, struck off-centre to the upper right on the obverse and to the upper left on the reverse.</p>
                            <p xml:lang="de">Teilweise abgenutzt auf Avers, Prägung auf dem Avers nach oben rechts und auf dem Revers nach oben links versetzt.</p>
+                           <p xml:lang="el">Ελαφρώς σβησμένη στον εμπροσθότυπο, ο εμπροσθότυπος αποκλίνει από το κέντρο προς το άνω δεξίο μέρος του δίσκου και ο οπισθότυπος προ το άνω αριστερό.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
                         <layout n="whole">
                            <rs type="execution">
                               <seg xml:lang="en">Struck</seg>
-                              <seg xml:lang="de">???</seg>
+                               <seg xml:lang="de">Geprägt</seg>
+                              <seg xml:lang="el">Παιστό</seg>
                            </rs>
                            <rs type="shape">
                               <seg xml:lang="en">Round</seg>
                               <seg xml:lang="de">Rund</seg>
+                              <seg xml:lang="el">Σφαιρικό</seg>
                            </rs>
                            <rs type="matrix" subtype="not-surviving">
                               <idno type="SigiDoc">"m-dmNVW2"</idno>
@@ -157,6 +171,7 @@
                      <origDate type="analysis" notBefore="1081" notAfter="1100" evidence="prosopography" resp="#MC">
                         <seg xml:lang="en">Late 11th c.</seg>
                         <seg xml:lang="de">Spätes 11. Jh.</seg>
+                        <seg xml:lang="el">Τέλη 11ου αι.</seg>
                      </origDate>
                      <!-- for an internal date >
                             <origDate type="internal" when="0001" when-custom="2023" datingMethod="">
@@ -218,6 +233,7 @@
                               </dimensions>
                               <p xml:lang="en">Linear legend of 5 lines.</p>
                               <p xml:lang="de">Lineare Legende auf 5 Zeilen.</p>
+                              <p xml:lang="el">Οριζόντια επιγραφή 5 στίχων.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -235,6 +251,7 @@
                               <figDesc ana="" n="r" xml:lang="de"/>
                               <figDesc ana="" n="decoR" xml:lang="en">Border of dots.</figDesc>
                               <figDesc ana="" n="decoR" xml:lang="de">Perlrand.</figDesc>
+                              <figDesc ana="" n="decoR" xml:lang="el">Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -264,6 +281,7 @@
                               </dimensions>
                               <p xml:lang="en">Linear legend of 4 lines.</p>
                               <p xml:lang="de">Lineare Legende auf 4 Zeilen.</p>
+                                 <p xml:lang="el">Οριζόντια επιγραφή 3 στίχων.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -281,6 +299,7 @@
                               <figDesc ana="" n="v" xml:lang="de"/>
                               <figDesc ana="" n="decoV" xml:lang="en">Border of dots.</figDesc>
                               <figDesc ana="" n="decoV" xml:lang="de">Perlrand.</figDesc>
+                              <figDesc ana="" n="decoV" xml:lang="el">Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -300,6 +319,7 @@
             <graphic url="S_112a.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -309,6 +329,7 @@
             <graphic url="S_112b.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -363,6 +384,7 @@
             <p>Σφραγὶς Βασιλείου προέδρου καὶ κριτοῦ / ἐπὶ τοῦ ἱπποδρόμου τοῦ Μαυροῦ.</p>
             <p xml:lang="en">Seal of Basileios Mauros, proedros and krites epi tou hippodromou.</p>
             <p xml:lang="de">Siegel des Basileios Mauros, proedros und krites epi tou hippodromou.</p>
+            <p xml:lang="el">Σφραγίδα Βασιλείου Μαύρου, προέδρου και κριτή επί του ιπποδρόμου.</p>
          </div>
          <div type="commentary" subtype="text">
             <p xml:lang="en">To Basileios Mauros[1] is attributed another seal type, on which he appears only as <hi rend="italic">praipositos</hi>.[2] Since the title of <hi rend="italic">proedros</hi> is not mentioned in the legend, it can be assumed that this second specimen was struck earlier, probably in the last third of the 11th c.</p>

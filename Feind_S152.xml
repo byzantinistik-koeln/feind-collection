@@ -5,6 +5,7 @@
             <title xml:lang="en">Seal of Ioannikios monachos and episkopos of Eumeneias</title>
             <title xml:lang="de">Siegel des Ioannikios monachos und episkopos von
                     Eumeneias</title>
+            <title xml:lang="el">Μολυβδόβουλλο Ιωαννικίου μοναχού και επισκόπου Ευμενείας</title>
             <editor role="seal-editor" xml:id="MC">Maria Teresa Catalano</editor>
             <editor role="seal-editor" xml:id="MF">Martina Filosa</editor>
             <editor role="seal-editor" xml:id="CS">Claudia Sode</editor>
@@ -36,11 +37,14 @@
          <sourceDesc>
             <listPerson type="issuer">
                <person role="monastic secular-church" gender="M">
-                  <persName xml:lang="en">
+                  <persName xml:lang="en"><ref target="https://www.degruyter.com/database/PMBZ/entry/PMBZ25609/html">Ioannikios</ref>
                      <forename>Ioannikios</forename>
                   </persName>
-                  <persName xml:lang="de">
+                  <persName xml:lang="de"><ref target="https://www.degruyter.com/database/PMBZ/entry/PMBZ25609/html">Ioannikios</ref>
                      <forename>Ioannikios</forename>
+                  </persName>
+                  <persName xml:lang="el"><ref target="https://www.degruyter.com/database/PMBZ/entry/PMBZ25609/html">Ioannikios</ref>
+                     <forename>Ιωαννίκιος</forename>
                   </persName>
                </person>
             </listPerson>
@@ -49,10 +53,12 @@
                   <country>
                      <seg xml:lang="en">Germany</seg>
                      <seg xml:lang="de">Deutschland</seg>
+                     <seg xml:lang="el">Γερμανία</seg>
                   </country>
                   <settlement>
                      <seg xml:lang="en">Cologne</seg>
                      <seg xml:lang="de">Köln</seg>
+                     <seg xml:lang="el">Κολωνία</seg>
                   </settlement>
                   <institution/>
                   <repository/>
@@ -73,10 +79,11 @@
                   <summary n="whole">
                      <seg xml:lang="en">Ecclesiastical</seg>
                      <seg xml:lang="de">Kirchlich</seg>
+                     <seg xml:lang="el">Κοσμική Εκκλησία (πεδίο δραστηριοποίησης)</seg>
                   </summary>
                   <msItem>
                      <author>
-                        <roleName role="issuer" type="monastic secular-church">
+                        <roleName role="issuer" type="monasticsecular-church">
                            <seg xml:lang="en">
                               <ref target="https://www.degruyter.com/database/PMBZ/entry/PMBZ25609/html">Ioannikios</ref>
                            </seg>
@@ -87,6 +94,7 @@
                                         church.</interp>
                            <interp type="milieu" xml:lang="de">Monastisch,
                                         Kirchlich.</interp>
+                           <interp type="milieu" xml:lang="el">Κοσμική Εκκλησία, Μοναστικό (πεδίο δραστηριοποίησης).</interp>
                         </roleName>
                      </author>
                   </msItem>
@@ -99,15 +107,18 @@
                               <term>
                                  <seg xml:lang="en">Seal</seg>
                                  <seg xml:lang="de">Siegel</seg>
+                                 <seg xml:lang="el">Μολυβδόβουλλο</seg>
                               </term>
                               <interp type="workType" xml:lang="en">Original
                                             impression</interp>
                               <interp type="workType" xml:lang="de">Origineller
                                             Siegelabdruck</interp>
+                              <interp type="workType" xml:lang="el">Αρχική αποτύπωση</interp>
                            </objectType>
                            <material>
                               <seg xml:lang="en">Lead</seg>
                               <seg xml:lang="de">Blei</seg>
+                              <seg xml:lang="el">Μόλυβδος</seg>
                            </material>
                            <dimensions type="support" unit="mm">
                               <dim type="diameter">16</dim>
@@ -123,17 +134,20 @@
                                         channel.</p>
                            <p xml:lang="de">Graue Patina, korrodiert, Oberfläche entlang
                                         des Fadenkanals erhaben.</p>
+                           <p xml:lang="el">Πατίνα γκριζωπού χρώματος, διαβρωμένο, κατα μήκος του διαύλου η επιφάνεια παρουσιάζει εξόγκωμα.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
                         <layout n="whole">
                            <rs type="execution">
                               <seg xml:lang="en">Struck</seg>
-                              <seg xml:lang="de">???</seg>
+                              <seg xml:lang="de">Geprägt</seg>
+                              <seg xml:lang="el">Παιστό</seg>
                            </rs>
                            <rs type="shape">
                               <seg xml:lang="en">Round</seg>
                               <seg xml:lang="de">Rund</seg>
+                              <seg xml:lang="el">Σφαιρικό</seg>
                            </rs>
                            <rs type="matrix" subtype="not-surviving">
                               <idno type="SigiDoc">"m-G8UfS7"</idno>
@@ -164,6 +178,7 @@
                      <origDate type="analysis" notBefore="1051" notAfter="1100" evidence="epigraphy" resp="#MC">
                         <seg xml:lang="en">11th c., second half.</seg>
                         <seg xml:lang="de">11. Jh., zweite Hälfte.</seg>
+                        <seg xml:lang="el">11ος αι., δεύτερο μισό.</seg>
                      </origDate>
                      <!-- for an internal date >
                             <origDate type="internal" when="0001" when-custom="2023" datingMethod="">
@@ -225,6 +240,7 @@
                               </dimensions>
                               <p xml:lang="en">Legend of 4 lines.</p>
                               <p xml:lang="de">Legende auf 4 Zeilen.</p>
+                              <p xml:lang="el">Επιγραφή 4 στίχων.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -244,6 +260,7 @@
                                             the legend. Border of dots.</figDesc>
                               <figDesc ana="" n="decoR" xml:lang="de">Kreuz am Anfang der
                                             Legende. Perlrand.</figDesc>
+                              <figDesc ana="" n="decoR" xml:lang="el">Σταυρός στην αρχή της επιγραφής. Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -273,6 +290,7 @@
                               </dimensions>
                               <p xml:lang="en">Legend of 4 lines.</p>
                               <p xml:lang="de">Legende auf 4 Zeilen.</p>
+                              <p xml:lang="el">Επιγραφή 4 στίχων.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -292,6 +310,7 @@
                                             are between two dashes. Border of dots.</figDesc>
                               <figDesc ana="" n="decoV" xml:lang="de">Die erste und letzte Zeile
                                             sind zwischen zwei Zierlinien. Perlrand.</figDesc>
+                              <figDesc ana="" n="decoV" xml:lang="el">Ο πρώτος και τελευταίος στίχος της επιγραφής βρίσκεται ανάμεσα σε δυο οριζόντιες γραμμές. Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -311,6 +330,7 @@
             <graphic url="S_152a.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -320,6 +340,7 @@
             <graphic url="S_252b.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -372,18 +393,19 @@
             <p>Θεοτόκε βοἠθει Ἰωαννικίῳ / μοναχῷ τῷ Εὐμενείας.</p>
             <p xml:lang="en">Mother of God, help Ioannikios monachos (and episkopos) of Eumeneia.</p>
             <p xml:lang="de">Muttergottes, hilf Ioannikios monachos (und episkopos) von Eumeneia.</p>
+            <p xml:lang="el">Θεοτόκε βοήθησε τον Ιωαννίκιο, μοναχό (και επίσκοπο) Ευμενείας.</p>
          </div>
          <div type="commentary" subtype="text">
-            <p xml:lang="en">The seal issuer is known only from this seal type.[1] Laurent dates the seal type to the 10th century, which, however, cannot be confirmed by a palaeographic analysis.</p>
+            <p xml:lang="en">The seal issuer is known only from this seal type. Laurent dates the seal type to the 10th century, which, however, cannot be confirmed by a palaeographic analysis.</p>
             <p xml:lang="de"/>
          </div>
-         <div type="commentary" subtype="footnotes">
+         <!--<div type="commentary" subtype="footnotes">
             <p xml:id="footnote-1">[1]. <bibl>
                   <ptr target="PmbZOnline"/>, <citedRange unit="entry">
                      <ref target="https://www.degruyter.com/database/PMBZ/entry/PMBZ25609/html">23455</ref>
                   </citedRange>
                </bibl>.</p>
-         </div>
+         </div>-->
          <div type="bibliography" subtype="edition">
             <p/>
          </div>
