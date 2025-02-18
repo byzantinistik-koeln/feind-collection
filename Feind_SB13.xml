@@ -321,12 +321,12 @@
                       </ab>
                   </div>
                       <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
-                      <ab>
+                      <ab ana="dat">
                           <lb n="1"/><expan><abbr>Κων
                           <lb n="2" break="no"/>σταντ</abbr><ex>ίνῳ</ex></expan> 
-                          <lb n="3"/><expan><abbr>σπαθ</abbr><ex>αρο</ex><abbr>καν
-                          <lb n="4" break="no"/>δ</abbr><ex>ι</ex><abbr>δ</abbr><ex>άτῳ</ex></expan> <expan><ex>καὶ</ex></expan> <expan><abbr>β</abbr><ex>ασιλικῷ</ex></expan> <expan><abbr>νο
-                          <lb n="5" break="no"/>ταρ</abbr><ex>ίῳ</ex></expan>
+                          <lb n="3"/><rs type="dignity" ref="#d0080"><expan><abbr>σπαθ</abbr><ex>αρο</ex><abbr>καν
+                          <lb n="4" break="no"/>δ</abbr><ex>ι</ex><abbr>δ</abbr><ex>άτῳ</ex></expan></rs> <expan><abbr><am>S</am></abbr><ex>καὶ</ex></expan> <rs type="office" subtype="civil" ref="#of0144"><expan><abbr>β</abbr><ex>ασιλικῷ</ex></expan> <expan><abbr>νο
+                          <lb n="5" break="no"/>ταρ</abbr><ex>ίῳ</ex></expan></rs>
                       </ab>
                   </div>
               </div>

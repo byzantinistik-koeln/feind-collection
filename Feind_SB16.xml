@@ -337,20 +337,18 @@
                   <div type="textpart" subtype="sigla" n="obv" rend="columns" xml:lang="grc"> <!--obverse, editorial-->
                       
                      <ab>
-      <cb n="a"/><rs type="marianTerm" subtype="sigla" ref="#meter-theou"><expan> <abbr>Μ</abbr><ex>ήτη</ex><abbr>ρ </abbr></expan>
-                  <cb n="b"/><expan><abbr>Θ</abbr><supplied reason="lost"><ex>εο</ex><abbr>ῦ</abbr></supplied></expan></rs>
+      <cb n="a"/><expan><abbr>Μ</abbr><ex>ήτη</ex><abbr>ρ</abbr></expan>
+                  <cb n="b"/><expan><abbr>Θ</abbr><supplied reason="lost"><ex>εο</ex><abbr>ῦ</abbr></supplied></expan>
                      </ab>
                       
                   </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
-                      <ab ana="dat">
-                          
-                                                       
+                  <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial--><!--TOBEDONE Bruelou tagging-->
+                      <ab ana="dat">     
                               <lb n="1"/><rs type="invocation" ref="#inv001"><expan><abbr>Θ</abbr><ex>εοτό</ex><abbr>κε</abbr></expan> <expan><abbr>β</abbr><ex>οή</ex><abbr>θ</abbr><ex>ει</ex></expan></rs>
-                               <lb n="2"/><persName type="attested" ref="#leon-4">Λέοντι </persName>
-                               <lb n="3"/><rs type="office" subtype="ecclesiastical" ref="#bishop_004"><expan><abbr>ἐπισκόπ</abbr><ex>ῳ</ex> </expan>
-                               <lb n="4"/>Βρυέλου </rs>
-                               <lb n="5"/><ex>καὶ</ex> <rs type="office" subtype="ecclesiastical" ref="#synkellos_001"><expan><abbr>συγ</abbr><ex>κ</ex><abbr>έ</abbr><ex>λλῳ</ex></expan></rs>
+                               <lb n="2"/>Λέοντι 
+                               <lb n="3"/><rs type="office" subtype="ecclesiastical" ref="#of0206"><expan><abbr>ἐπισκόπ</abbr><ex>ῳ</ex></expan></rs>
+                               <lb n="4"/>Βρυέλου 
+                               <lb n="5"/><expan><abbr><am>S</am></abbr><ex>καὶ</ex></expan> <rs type="office" subtype="ecclesiastical" ref="#of0232"><expan><abbr>συγ</abbr><ex>κ</ex><abbr>έ</abbr><ex>λλῳ</ex></expan></rs>
                       </ab>
                   </div>
               </div>
@@ -385,7 +383,7 @@
             </listApp>
          </div>
          <div type="translation">
-            <p>Μήτηρ Θεοῦ/ Θεοτόκε βοήθει Λέοντι ἐπισκόπῳ Βρυέλου καὶ συγκέλλῳ.</p>
+            <p>Μήτηρ Θεοῦ. / Θεοτόκε βοήθει Λέοντι ἐπισκόπῳ Βρυέλου καὶ συγκέλλῳ.</p>
             <p xml:lang="en">Mother of God. Mother of God, help Leon episkopos of Bryelon and synkellos.</p>
             <p xml:lang="de">Muttergottes. Muttergottes, hilf Leon episkopos von Bryelon und synkellos.</p>
             <p xml:lang="el">Θεοτόκε. Θεοτόκε βοήθησε τον Λέοντα, επίσκοπο Βρυέλου και σύγκελλο.</p>

@@ -332,17 +332,17 @@
          <div type="edition" subtype="editorial" xml:space="preserve"> 
                   <div type="textpart" subtype="label" n="obv" rend="columns" xml:lang="grc"> <!--obverse, editorial-->
                       <ab>
-                          <cb n="a"/>῾Ο <expan><abbr>ἅ</abbr><ex>γιος</ex></expan> <expan><abbr>Δημ</abbr><ex>ή</ex>
+                          <cb n="a"/><expan><abbr>῾Ο ἅ</abbr><ex>γιος</ex></expan> <expan><abbr>Δημ</abbr><ex>ή</ex>
                           <cb n="b" break="no"/><abbr>τ</abbr><ex>ριος</ex></expan>
                       </ab>
                   </div>
                       <div type="textpart" subtype="label" n="rev" rend="columns" xml:lang="grc"> <!--reverse, editorial-->
                       <ab>
-                          <cb n="c"/>῾Ο <expan><abbr>ἅ</abbr><ex>γιος</ex></expan> <expan><abbr>Γε
+                          <cb n="c"/><expan><abbr>῾Ο ἅ</abbr><ex>γιος</ex></expan> <expan><abbr>Γε
                           <cb n="d" break="no"/>ώρ</abbr><ex>γιος</ex></expan>
                        </ab>
                           <div type="textpart" subtype="face" n="rev" rend="circular" xml:lang="grc"> <!--mehrere Textteile so richtig kodiert?-->
-                      <ab>
+                      <ab ana="gen"><!--TOBEDONE METRICAL LEGEND?-->
                           <lb n="1"/><expan><abbr>Σφραγ</abbr><ex>ὶ</ex><abbr>ς</abbr></expan> <expan><abbr>Αὐξεντ</abbr><ex>ίου</ex></expan> <expan><abbr>῾Εξ</abbr><ex>α</ex><abbr>κι</abbr><ex>ονίτῃ</ex></expan>
                           </ab>
                           </div>

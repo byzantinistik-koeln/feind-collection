@@ -313,17 +313,17 @@
    </facsimile>
    <text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <body>
-         <div type="edition" subtype="editorial" xml:space="preserve"> 
-                  <div type="textpart" subtype="label" n="obv" rend="columns" xml:lang="grc"> <!--obverse, editorial-->
+        <div type="edition" subtype="editorial" xml:space="preserve"> 
+                  <!-- <div type="textpart" subtype="label" n="obv" rend="columns" xml:lang="grc"> obverse, editorial
                       <ab>
                           
                       </ab>
-                  </div>
+                  </div>-->
                       <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
-                      <ab>
-                          <lb n="1"/>τῶν <expan><abbr>β</abbr><ex>ασιλικῶν</ex></expan> <expan><abbr>κομ
-                          <lb n="2" break="no"/><supplied reason="lost">ε</supplied>ρκ</abbr><ex>ίων</ex></expan> <expan><abbr>Θεσα
-                          <lb n="3" break="no"/><supplied reason="lost">λονίκ</supplied></abbr><supplied reason="lost"><ex>ης</ex></supplied></expan>
+                      <ab ana="gen"><!--TOBEDONE of0105 right?-->
+                          <lb n="1"/>τῶν <rs type="office" subtype="civil" ref="#of0105"><expan><abbr>β</abbr><ex>ασιλικῶν</ex></expan> <expan><abbr>κομ
+                          <lb n="2" break="no"/><supplied reason="lost">ε</supplied>ρκ</abbr><ex>ίων</ex></expan></rs> <placeName ref="#geo0027"><expan><abbr>Θεσα
+                          <lb n="3" break="no"/><supplied reason="lost">λονίκ</supplied></abbr><supplied reason="lost"><ex>ης</ex></supplied></expan></placeName>
                           </ab>
                          </div>
               </div>

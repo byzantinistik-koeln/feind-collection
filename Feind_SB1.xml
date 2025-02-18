@@ -319,18 +319,18 @@
       <body>
          <div type="edition" subtype="editorial" xml:space="preserve"> 
                   <div type="textpart" subtype="label" n="obv" rend="columns" xml:lang="grc"> <!--obverse, editorial-->
-                      <ab>
+                      <ab><!--incovation TOBEDONE-->
                           <cb n="a"/>Παναγία Θε
                           <cb n="b" break="no"/>οτόκε <expan><abbr>Σουβρ</abbr><ex>ίτων</ex></expan>
                       </ab>
                   </div>
                       <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
-                      <ab>
+                      <ab ana="dat">
                           <lb n="1"/>βοή
                           <lb n="2" break="no"/>θει τῷ δ
                           <lb n="3" break="no"/>ούλῳ σου Τ
-                          <lb n="4" break="no"/>αρασίῳ ὑ
-                          <lb n="5" break="no"/>πάτῳ
+                          <lb n="4" break="no"/>αρασίῳ <rs type="dignity" ref="#d0089">ὑ
+                          <lb n="5" break="no"/>πάτῳ</rs>
                       </ab>
                   </div>
               </div>

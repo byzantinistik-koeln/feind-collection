@@ -327,13 +327,13 @@
                       </ab>
                   </div>
                       <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
-                      <ab>
-                          <lb n="1"/>+<expan><abbr>Κ</abbr><ex>ύρι</ex><abbr>ε</abbr></expan> <supplied reason="lost"><expan><abbr>β</abbr><ex>οή</ex><abbr>θ</abbr><ex>ει</ex></expan> 
-                          <lb n="2"/>Ν</supplied>ικη<supplied reason="lost">φό</supplied>ρ<supplied reason="lost">ῳ 
-                          <lb n="3"/>πρ</supplied>oτωπρο
-                          <lb n="4" break="no"/><supplied reason="lost">έδρ</supplied>ῳ <expan><ex>καὶ</ex></expan> δουκὶ 
-                          <lb n="5"/><expan><abbr><supplied reason="lost">Πελ</supplied>οπονίσ</abbr><ex>ου</ex></expan> 
-                          <lb n="6"/><supplied reason="lost"><expan><ex>καὶ</ex></expan></supplied> <expan><abbr>Ἑλάδο</abbr><ex>ς</ex></expan> τῷ 
+                      <ab ana="dat">
+                          <lb n="1"/><rs type="invocation" ref="#inv003"><expan><abbr>Κ</abbr><ex>ύρι</ex><abbr>ε</abbr></expan> <supplied reason="lost"><expan><abbr>β</abbr><ex>οή</ex><abbr>θ</abbr><ex>ει</ex></expan></supplied></rs> 
+                          <lb n="2"/><supplied reason="lost">Ν</supplied>ικη<supplied reason="lost">φό</supplied>ρ<supplied reason="lost">ῳ</supplied> 
+                          <lb n="3"/><rs type="dignity" ref="#d0063"><supplied reason="lost">πρ</supplied>oτωπρο
+                          <lb n="4" break="no"/><supplied reason="lost">έδρ</supplied>ῳ</rs> <expan><abbr><am>S</am></abbr><ex>καὶ</ex></expan> <rs type="office" subtype="military" ref="#of0245">δουκὶ</rs> 
+                          <lb n="5"/><placeName ref="#geo0005"><expan><abbr><supplied reason="lost">Πελ</supplied>οπονίσ</abbr><ex>ου</ex></expan> 
+                          <lb n="6"/><supplied reason="lost"><expan><abbr><am>S</am></abbr><ex>καὶ</ex></expan></supplied> <expan><abbr>Ἑλάδο</abbr><ex>ς</ex></expan></placeName> τῷ 
                           <lb n="7"/>Βοτανει
                           <lb n="8" break="no"/>άτι
                           </ab>

@@ -339,21 +339,21 @@
    <text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <body>
          <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"> <!--change the language code according to the language of your edition, the values (also when combined, e.g. Greek-Latin) are in the guidelines. Same goes for what comes next, textpart etc.-->
-                  <div type="textpart" subtype="sigla" n="obv" rend="columns" xml:lang="grc"> <!--obverse, editorial-->
+                  <div type="textpart" subtype="label" n="obv" rend="columns" xml:lang="grc"> <!--obverse, editorial-->
                       
                       <ab>
                          
-                     <cb n="a"/> <rs type="saintsTerm" subtype="sigla" ref="#st-george">ὁ <expan><abbr>ἅ</abbr><ex>γιος</ex></expan> <expan><abbr> Γεώ</abbr><supplied reason="lost">ρ</supplied>
-                  <cb n="b"/> <abbr>γιο</abbr><ex>ς</ex></expan></rs>
+                     <cb n="a"/> <expan><abbr>ὁ ἅ</abbr><ex>γιος</ex></expan> <expan><abbr>Γεώ<supplied reason="lost">ρ</supplied>
+                  <cb n="b" break="no"/>γιο</abbr><ex>ς</ex></expan>
                       </ab>
                   </div>
                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
                       <ab ana="dat">
-                                <lb n="1"/><rs type="invocation" ref="#inv004"><expan><supplied reason="lost">Κ</supplied><ex>ύρι</ex>ε <abbr>β</abbr><ex>οή</ex><abbr>θ</abbr><ex>ει</ex></expan>
-                                <lb n="2"/><supplied reason="lost">τ</supplied>ῷ <expan><abbr>σ</abbr><ex>ῷ</ex></expan> <expan><abbr>δού</abbr><supplied reason="lost">λ<ex>ῳ</ex></supplied></expan></rs>
+                                <lb n="1"/><rs type="invocation" ref="#inv004"><expan><abbr><supplied reason="lost">Κ</supplied></abbr><ex>ύρι</ex><abbr>ε</abbr></expan> <expan><abbr>β</abbr><ex>οή</ex><abbr>θ</abbr><ex>ει</ex></expan>
+                                <lb n="2"/><supplied reason="lost">τ</supplied>ῷ <expan><abbr>σ</abbr><ex>ῷ</ex></expan> <expan><abbr>δού</abbr><supplied reason="lost"><abbr>λ</abbr><ex>ῳ</ex></supplied></expan></rs>
                                 <lb n="3"/>Νικηφόρω
-                                <lb n="4"/><rs type="dignity" ref="#patrikios"><expan><abbr>π</abbr><ex>ατ</ex><abbr>ρί</abbr><ex>κιῳ</ex></expan></rs> <ex>καὶ</ex> <rs type="office" subtype="military" ref="#strateg_001"><expan><abbr>στρα</abbr>
-                                <lb n="5" break="no"/><abbr>τ</abbr><ex>η</ex><abbr>γ</abbr><ex>ῷ</ex></expan></rs> τῷ <expan><abbr>Θεο
+                                <lb n="4"/><rs type="dignity" ref="#d0047"><expan><abbr>π</abbr><ex>ατ</ex><abbr>ρί</abbr><ex>κιῳ</ex></expan></rs> <expan><abbr><am>S</am></abbr><ex>καὶ</ex></expan> <rs type="office" subtype="military" ref="#of0279"><expan><abbr>στρα
+                                <lb n="5" break="no"/>τ</abbr><ex>η</ex><abbr>γ</abbr><ex>ῷ</ex></expan></rs> τῷ <expan><abbr>Θεο
                                 <lb n="6" break="no"/>δωρ</abbr><ex>ο</ex><abbr>κάν</abbr><ex>ῳ</ex></expan>
 
                             </ab>
@@ -389,7 +389,7 @@
             </listApp>
          </div>
          <div type="translation">
-            <p>Ὁ ἅγιος Γεώργιος/ Κύριε βοήθει τῷ σῷ δούλῳ Νικηφόρω πατρίκιῳ καὶ στρατηγῷ τῷ Θεοδωροκάνῳ.</p>
+            <p>Ὁ ἅγιος Γεώργιος / Κύριε βοήθει τῷ σῷ δούλῳ Νικηφόρω πατρίκιῳ καὶ στρατηγῷ τῷ Θεοδωροκάνῳ.</p>
             <p xml:lang="en">St. George. Lord, help your servant Nikephoros Theodorokanos, patrikios and strategos.</p>
             <p xml:lang="de"> Hl. Georg. Herr, hilf deinem Diener Nikephoros Theodorokanos, patrikios und strategos.</p>
             <p xml:lang="el">Ο άγ. Γεώργιος. Κύριε βοήθησε τον δούλο σου Νικηφόρο Θεοδωρόκανο, πατρίκιο και στρατηγό.</p>

@@ -143,7 +143,7 @@
                         <layout n="whole">
                            <rs type="execution">
                               <seg xml:lang="en">Struck</seg>
-                              <seg xml:lang="de">???</seg>
+                              <seg xml:lang="de">Geprägt</seg>
                               <seg xml:lang="el">Παιστό</seg>
                            </rs>
                            <rs type="shape">
@@ -335,21 +335,18 @@
       <body>
          <div type="edition" subtype="editorial" xml:space="preserve"> <!--change the language code according to the language of your edition, the values (also when combined, e.g. Greek-Latin) are in the guidelines. Same goes for what comes next, textpart etc.-->
                   <div type="textpart" subtype="face" n="obv" rend="circular" xml:lang="grc"> <!--obverse, editorial-->
-                      
-                     <ab>
-                       <lb n="1"/> <rs type="invocation" ref="#inv002"> Θεοτόκε βοήθ<supplied reason="lost">ει τῷ σῷ δούλ</supplied>ῳ</rs>
-                         
+                       <ab ana="dat">
+                       <lb n="1"/><rs type="invocation" ref="#inv002">Θεοτόκε βοήθ<supplied reason="lost">ει τῷ σῷ δούλ</supplied>ῳ</rs> 
                      </ab>
                       
                   </div>
                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
                       <ab ana="dat">
                                                      
-                              <lb n="2"/> <supplied reason="lost">Αρ</supplied>σενίῳ 
-                                <lb n="3"/><rs type="office" subtype="ecclesiastical" ref="#presbyter_001"><expan><supplied reason="lost">πρ</supplied>εσβυτ<ex>έρῳ</ex></expan></rs> <ex>καὶ</ex> <rs type="office" subtype="ecclesiastical" ref="#hegoumenos_001"><expan>ἡ
-                                <lb n="4" break="no"/> <supplied reason="lost">γ</supplied><abbr>ουμ</abbr><ex>ένῳ</ex></expan></rs> τοῦ<expan> ἁγ<ex>ίου</ex></expan> Θε
-                                <lb n="5" break="no"/> ωδόρου
-                           
+                              <lb n="2"/><supplied reason="lost">Αρ</supplied>σενίῳ 
+                                <lb n="3"/><rs type="office" subtype="ecclesiastical" ref="#of0222"><expan><abbr><supplied reason="lost">πρ</supplied>εσβυτ</abbr><ex>έρῳ</ex></expan></rs> <expan><abbr><am>S</am></abbr><ex>καὶ</ex></expan> <rs type="office" subtype="ecclesiastical" ref="#of0208"><expan><abbr>ἡ
+                                <lb n="4" break="no"/><supplied reason="lost">γ</supplied>ουμ</abbr><ex>ένῳ</ex></expan></rs> τοῦ <expan><abbr>ἁγ</abbr><ex>ίου</ex></expan> Θε
+                                <lb n="5" break="no"/>ωδόρου
                       </ab>
                   </div>
               </div>
@@ -382,7 +379,7 @@
             </listApp>
          </div>
          <div type="translation">
-            <p>Θεοτόκε βοήθει τῷ σῷ δούλῳ/ Αρσενίῳ πρεσβυτέρῳ καὶ ἡγουμένῳ τοῦ ἁγίου Θεωδόρου.</p>
+            <p>Θεοτόκε βοήθει τῷ σῷ δούλῳ / Αρσενίῳ πρεσβυτέρῳ καὶ ἡγουμένῳ τοῦ ἁγίου Θεωδόρου.</p>
             <p xml:lang="en">Mother of God, help your servant Arsenios presbyter and hegoumenos of the monastery of St Theodore.</p>
             <p xml:lang="de">Muttergottes, hilf Arsenios, presbyter und hegoumenos des Klosters des hl. Theodor.</p>
             <p xml:lang="el">Θεοτόκε βοήθησε τον δούλο σου Αρσένιο πρεσβύτερο και ηγούμενο του μοναστηρίου του αγίου Θεοδώρου.</p>

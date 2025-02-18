@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- last changed before 1.0 version release 2021-08-02 --><!-- last changed before 1.1 release: 2023-04-12 --><TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <!-- schema location for users of the SigiDoc's version of EFES available at https://github.com/SigiDoc/SigiDoc-->
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- last changed before 1.0 version release 2021-08-02 --><!-- last changed before 1.1 release: 2023-04-12 -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <!-- schema location for users of the SigiDoc's version of EFES available at https://github.com/SigiDoc/SigiDoc-->
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
@@ -10,7 +11,9 @@
             <editor role="seal-editor" xml:id="MF">Martina Filosa</editor>
             <editor role="seal-editor" xml:id="CS">Claudia Sode</editor>
             <funder>
-               <orgName corresp="https://anr.fr/">Agence Nationale de la Recherche (ANR)</orgName>, France /<orgName corresp="https://www.dfg.de/">Deutsche Forschungsgemeinschaft(DFG)</orgName>, Deutschland.</funder>
+               <orgName corresp="https://anr.fr/">Agence Nationale de la Recherche (ANR)</orgName>,
+               France /<orgName corresp="https://www.dfg.de/">Deutsche
+                  Forschungsgemeinschaft(DFG)</orgName>, Deutschland.</funder>
             <principal>Claudia Sode</principal>
             <!--here go the editors of the printed record, when available-->
          </titleStmt>
@@ -22,7 +25,8 @@
             <!-- here the editor of the digital edition should be defined. If he/she already appears above as editor of the seal, you can refer to them with a ref attribute and point to the xml:id with a #; if they appear for the first time, you should write a new xml:id as you did above on line 14 and 15. As an example I referred to MF as defined on l. 15 and added a new xml:id for, e.g., Pia-->
          </editionStmt>
          <publicationStmt>
-            <authority>ANR/DFG DigiByzSeal - Unlocking the Hidden Value of Seals: New Methodologies for Historical Research in Byzantine Studies</authority>
+            <authority>ANR/DFG DigiByzSeal - Unlocking the Hidden Value of Seals: New Methodologies
+               for Historical Research in Byzantine Studies</authority>
             <idno type="filename">Feind_SB4</idno>
             <!--here goes the name of the file-->
             <idno type="SigiDocID">"s-dztD6j"</idno>
@@ -32,24 +36,22 @@
             <date when="2023-04-23"/>
             <!--change the date according to what you need-->
             <availability>
-               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International - CC BY-NC-SA
-                        4.0</licence>
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/"
+                  >Attribution-NonCommercial-ShareAlike 4.0 International - CC BY-NC-SA
+                  4.0</licence>
             </availability>
          </publicationStmt>
          <sourceDesc>
             <listPerson type="issuer">
                <person role="private" gender="" xml:id="">
                   <persName xml:lang="en">
-                     <forename>Michael</forename>&gt;
-                                                    <surname>Lazaritzes</surname>
+                     <forename>Michael</forename>&gt; <surname>Lazaritzes</surname>
                   </persName>
                   <persName xml:lang="de">
-                     <forename>Michael</forename>&gt;
-                                                    <surname>Lazaritzes</surname>
+                     <forename>Michael</forename>&gt; <surname>Lazaritzes</surname>
                   </persName>
                   <persName xml:lang="el">
-                     <forename>Μιχαήλ</forename>&gt;
-                                                    <surname>Λαζαρίτζης</surname>
+                     <forename>Μιχαήλ</forename>&gt; <surname>Λαζαρίτζης</surname>
                   </persName>
                </person>
             </listPerson>
@@ -115,10 +117,9 @@
                                  <seg xml:lang="de">Siegel</seg>
                                  <seg xml:lang="el">Μολυβδόβουλλο</seg>
                               </term>
-                              <interp type="workType" xml:lang="en">Original
-                                            impression</interp>
+                              <interp type="workType" xml:lang="en">Original impression</interp>
                               <interp type="workType" xml:lang="de">Origineller
-                                            Siegelabdruck</interp>
+                                 Siegelabdruck</interp>
                               <interp type="workType" xml:lang="el">Αρχική αποτύπωση</interp>
                            </objectType>
                            <material>
@@ -138,7 +139,8 @@
                         <condition rend=" well-preserved well-struck">
                            <p xml:lang="en">Well preserved, well-centered imprint.</p>
                            <p xml:lang="de">Gut erhalten, gut zentrierter Aufdruck.</p>
-                           <p xml:lang="el"> Καλοδιατηρημένη, καλοκεντραρισμένο αποτύπωμα της σφραγίδας στον δίσκο.</p>
+                           <p xml:lang="el"> Καλοδιατηρημένη, καλοκεντραρισμένο αποτύπωμα της
+                              σφραγίδας στον δίσκο.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -179,7 +181,8 @@
                                 <interp type="datingCriteria" xml:lang="de"/>
                             </origDate>-->
                      <!-- for a date range or centuries (NOT BEFORE - NOT AFTER)-->
-                     <origDate type="analysis" notBefore="1051" notAfter="1100" evidence=" epigraphy iconography" resp="MC">
+                     <origDate type="analysis" notBefore="1051" notAfter="1100"
+                        evidence=" epigraphy iconography" resp="MC">
                         <seg xml:lang="en">11th c., second half.</seg>
                         <seg xml:lang="de">11. Jh., zweite Hälfte. </seg>
                         <seg xml:lang="el">11ος αι., δεύτερο μισό. </seg>
@@ -231,15 +234,21 @@
                               <dimensions type="written" unit="mm">
                                  <dim type="diameter"/>
                               </dimensions>
-                              <p xml:lang="en">Iconography with circular legend; along the circumference, within concentric borders of dots, the circular inscription begins with a cross at 12 o'clock.</p>
-                              <p xml:lang="de">Ikonographie mit umlaufender Legende; Entlang des Umfangs beginnt die umlaufende Legende innerhalb konzentrischer Punktränder mit einem Kreuz bei 12 Uhr.</p>
-                              <p xml:lang="el">Εικονογραφία με κυκλοτερή επιγραφή˙ κατά μήκος της περιμέτρου, εντός του στικτού πλαισίου, η κυκλοτερή επιγραφή ξεκινά με έναν σταυρό στον άξονα 12. </p>
+                              <p xml:lang="en">Iconography with circular legend; along the
+                                 circumference, within concentric borders of dots, the circular
+                                 inscription begins with a cross at 12 o'clock.</p>
+                              <p xml:lang="de">Ikonographie mit umlaufender Legende; Entlang des
+                                 Umfangs beginnt die umlaufende Legende innerhalb konzentrischer
+                                 Punktränder mit einem Kreuz bei 12 Uhr.</p>
+                              <p xml:lang="el">Εικονογραφία με κυκλοτερή επιγραφή˙ κατά μήκος της
+                                 περιμέτρου, εντός του στικτού πλαισίου, η κυκλοτερή επιγραφή ξεκινά
+                                 με έναν σταυρό στον άξονα 12. </p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
                      <handDesc>
                         <handNote n="r">
-                                    <!--NB: in this field you can refer to epigraphic features on the seal using also AthenaRuby-->
+                           <!--NB: in this field you can refer to epigraphic features on the seal using also AthenaRuby-->
                            <seg xml:lang="en">Ζ retrograde</seg>
                            <seg xml:lang="de"> Ζ rückläufig </seg>
                            <seg xml:lang="de"> Ζ ανάποδο </seg>
@@ -248,12 +257,21 @@
                      <decoDesc>
                         <decoNote>
                            <figure>
-                              <figDesc ana="" n="r" xml:lang="en">Bust of St. George holding a spear in his right hand and a shield in his left. Legend on either side.</figDesc>
-                              <figDesc ana="" n="r" xml:lang="de">Büste des hl. Georg mit Locken und Nimbus, der Chiton trägt. Die rechte Hand hält einen Speer, die linke einen Schild. Beischrift.</figDesc>
-                              <figDesc ana="" n="r" xml:lang="el">Προτομή του αγ. Γεωργίου, ο οποίος κρατά ένα δόρυ στο δεξί του χέρι και μια ασπίδα στο αριστερό. Επιγραφή εκατέρωθεν.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="en">Cross at the beginning of the legend. Border of dots.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="de">Vorangestelltes Kreuz. Perlrand.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="el"> Σταυρός στην αρχή της επιγραφής. Στικτό πλαίσιο.</figDesc>
+                              <figDesc ana="" n="r" xml:lang="en">Bust of St. George holding a spear
+                                 in his right hand and a shield in his left. Legend on either
+                                 side.</figDesc>
+                              <figDesc ana="" n="r" xml:lang="de">Büste des hl. Georg mit Locken und
+                                 Nimbus, der Chiton trägt. Die rechte Hand hält einen Speer, die
+                                 linke einen Schild. Beischrift.</figDesc>
+                              <figDesc ana="" n="r" xml:lang="el">Προτομή του αγ. Γεωργίου, ο οποίος
+                                 κρατά ένα δόρυ στο δεξί του χέρι και μια ασπίδα στο αριστερό.
+                                 Επιγραφή εκατέρωθεν.</figDesc>
+                              <figDesc ana="" n="decoR" xml:lang="en">Cross at the beginning of the
+                                 legend. Border of dots.</figDesc>
+                              <figDesc ana="" n="decoR" xml:lang="de">Vorangestelltes Kreuz.
+                                 Perlrand.</figDesc>
+                              <figDesc ana="" n="decoR" xml:lang="el"> Σταυρός στην αρχή της
+                                 επιγραφής. Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -268,10 +286,8 @@
                         <seg xml:lang="en">Reverse</seg>
                      </summary>
                      <textLang n="v" mainLang="grc">
-                        <seg xml:lang="en">greek
-            </seg>
-                        <seg xml:lang="fr">grec
-            </seg>
+                        <seg xml:lang="en">greek </seg>
+                        <seg xml:lang="fr">grec </seg>
                      </textLang>
                   </msContents>
                   <physDesc>
@@ -281,15 +297,21 @@
                               <dimensions type="written" unit="mm">
                                  <dim type="diameter"/>
                               </dimensions>
-                              <p xml:lang="en">Iconography with circular legend; along the circumference, within concentric borders of dots, the circular inscription begins with a cross at 12 o'clock.</p>
-                              <p xml:lang="de">Ikonographie mit umlaufender Legende; Entlang des Umfangs beginnt die umlaufende Legende innerhalb konzentrischer Punktränder mit einem Kreuz bei 12 Uhr.</p>
-                              <p xml:lang="el">Εικονογραφία με κυκλοτερή επιγραφή˙ κατά μήκος της περιμέτρου, εντός του στικτού πλαισίου, η κυκλοτερή επιγραφή ξεκινά με έναν σταυρό στον άξονα 12. </p>
+                              <p xml:lang="en">Iconography with circular legend; along the
+                                 circumference, within concentric borders of dots, the circular
+                                 inscription begins with a cross at 12 o'clock.</p>
+                              <p xml:lang="de">Ikonographie mit umlaufender Legende; Entlang des
+                                 Umfangs beginnt die umlaufende Legende innerhalb konzentrischer
+                                 Punktränder mit einem Kreuz bei 12 Uhr.</p>
+                              <p xml:lang="el">Εικονογραφία με κυκλοτερή επιγραφή˙ κατά μήκος της
+                                 περιμέτρου, εντός του στικτού πλαισίου, η κυκλοτερή επιγραφή ξεκινά
+                                 με έναν σταυρό στον άξονα 12. </p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
                      <handDesc>
                         <handNote n="v">
-                                    <!--NB: in this field you can refer to epigraphic features on the seal using also AthenaRuby-->
+                           <!--NB: in this field you can refer to epigraphic features on the seal using also AthenaRuby-->
                            <seg xml:lang="en"/>
                            <seg xml:lang="de"/>
                         </handNote>
@@ -297,12 +319,22 @@
                      <decoDesc>
                         <decoNote>
                            <figure>
-                              <figDesc ana="" n="v" xml:lang="en">Bust of St. Michael with loros holding a sceptre in his right hand and a globus in his left. Legend on either side.</figDesc>
-                              <figDesc ana="" n="v" xml:lang="de">Büste des hl. Michael mit Locken und Nimbus, der einen mit Perlen bestickten Loros trägt. Die rechte Hand hält ein Szepter (mit drei Knoten), die linke einen Globus. Beischrift.</figDesc>
-                              <figDesc ana="" n="v" xml:lang="el">Προτομή του αρχ. Μιχαήλ φορώντας λώρο. Κρατάει  σκήπτρο στο δεξί του χέρι και σφαίρα στο αριστερό.  Επιγραφή εκατέρωθεν.</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="en">Cross at the begenning of the legend. Border of dots.</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="de">Vorangestelltes Kreuz. Perlrand.</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="el">Σταυρός στην αρχή της επιγραφής. Στικτό πλαίσιο.</figDesc>
+                              <figDesc ana="" n="v" xml:lang="en">Bust of St. Michael with loros
+                                 holding a sceptre in his right hand and a globus in his left.
+                                 Legend on either side.</figDesc>
+                              <figDesc ana="" n="v" xml:lang="de">Büste des hl. Michael mit Locken
+                                 und Nimbus, der einen mit Perlen bestickten Loros trägt. Die rechte
+                                 Hand hält ein Szepter (mit drei Knoten), die linke einen Globus.
+                                 Beischrift.</figDesc>
+                              <figDesc ana="" n="v" xml:lang="el">Προτομή του αρχ. Μιχαήλ φορώντας
+                                 λώρο. Κρατάει σκήπτρο στο δεξί του χέρι και σφαίρα στο αριστερό.
+                                 Επιγραφή εκατέρωθεν.</figDesc>
+                              <figDesc ana="" n="decoV" xml:lang="en">Cross at the begenning of the
+                                 legend. Border of dots.</figDesc>
+                              <figDesc ana="" n="decoV" xml:lang="de">Vorangestelltes Kreuz.
+                                 Perlrand.</figDesc>
+                              <figDesc ana="" n="decoV" xml:lang="el">Σταυρός στην αρχή της
+                                 επιγραφής. Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -312,7 +344,8 @@
          </sourceDesc>
       </fileDesc>
       <revisionDesc>
-         <change when="2023-04-24" who="#SE">First correction of the XML file according to the new schema.</change>
+         <change when="2023-04-24" who="#SE">First correction of the XML file according to the new
+            schema.</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -338,34 +371,33 @@
    <text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <body>
          <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"> <!--change the language code according to the language of your edition, the values (also when combined, e.g. Greek-Latin) are in the guidelines. Same goes for what comes next, textpart etc.-->
-                  <div type="textpart" subtype="sigla" n="obv" rend="linear" xml:lang="grc"> <!--obverse, editorial-->
-                      
-                     <ab> 
-                         <cb n="a"/><rs type="saintsTerm" subtype="sigla" ref="#st-george">Ὁ <expan><abbr>ἅ</abbr><ex>γιος</ex></expan>Γεόρ
-                         <cb n="b" break="no"/>γιο<ex>ς</ex></rs>
+                  <div type="textpart" subtype="label" n="obv" rend="columns" xml:lang="grc"> <!--obverse, editorial-->
+                                           <ab> 
+                         <cb n="a"/><expan><abbr>Ὁ ἅ</abbr><ex>γιος</ex></expan> <expan><abbr>Γεόρ
+                         <cb n="b" break="no"/>γιο</abbr><ex>ς</ex></expan>
                      </ab> 
                       </div>
                 
                 <div type="textpart" subtype="face" n="obv" rend="circular" xml:lang="grc">
-                      <ab ana="dat">
-                          <lb n="1"/>Σφραγὶ<ex>ς</ex> σῷζ<ex>ε</ex> τῷ <persName type="attested" ref="#michael-lazaritzes"><name type="forename"><expan><abbr>Μι</abbr><ex>χαὴλ</ex> </expan></name><name type="surname">Λαζαρ<ex>ί</ex>τζι</name></persName>
+                      <lg met="dodecasyllable" type="true"><!--METRICAL LEGEND TO BE DONE-->
+                          <l n="1"><lb n="1"/><expan><abbr>Σφραγὶ</abbr><ex>ς</ex></expan> <expan><abbr>σῷζ</abbr><ex>ε</ex></expan> τῷ <expan><abbr>Μι</abbr><ex>χαὴλ</ex></expan> <expan><abbr>Λαζαρ</abbr><ex>ί</ex><abbr>τζι</abbr></expan></l>
                               
-                      </ab>
+                      </lg>
                   </div>
-                  <div type="textpart" subtype="sigla" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
+                  <div type="textpart" subtype="label" n="rev" rend="columns" xml:lang="grc"> <!--reverse, editorial-->
                       <ab>
-                          <cb n="c"/><rs type="saintsTerm" subtype="appellative" ref="#michael">Ὁ <expan><abbr>ἅ</abbr><ex>γιος</ex></expan> <expan><abbr>Μ</abbr><ex>ι</ex>
-                          <cb n="d" break="no"/><abbr>χ</abbr><ex>αή</ex><abbr>λ</abbr></expan></rs>
+                          <cb n="c"/><expan><abbr>Ὁ ἅ</abbr><ex>γιος</ex></expan> <expan><abbr>Μ</abbr><ex>ι</ex>
+                          <cb n="d" break="no"/><abbr>χ</abbr><ex>αή</ex><abbr>λ</abbr></expan>
                            </ab>
                   </div>
                 <div type="textpart" subtype="face" n="rev" rend="circular" xml:lang="grc"> <!--reverse, editorial-->
-                      <ab>
-                          <lb n="2"/>Φυλάττου με <supplied reason="lost">ᾦ</supplied> συνώ<ex>νυμε</ex> ἡ<ex>κε</ex>σίες
-                           </ab>
+                      <lg met="dodecasyllable" type="false">
+                          <l n="2"><lb n="2"/>Φυλάττου με <supplied reason="lost">ᾦ</supplied> <expan><abbr>συνώ</abbr><ex>νυμε</ex></expan> <expan><abbr>ἡ</abbr><ex>κε</ex><abbr>σίες</abbr></expan></l>
+                           </lg>
                   </div>
               </div>
          <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"> 
-                  <div type="textpart" subtype="sigla" n="obv" rend="linear" xml:lang="grc"> <!--obverse, diplomatic-->
+                  <div type="textpart" subtype="label" n="obv" rend="columns" xml:lang="grc"> <!--obverse, diplomatic-->
                       <ab> 
                           <cb n="a"/>ʘ Γ|ΕΟ|Ρ
                           <cb n="b"/>Γ|Ι|Ο
@@ -378,7 +410,7 @@
                       
                       </ab>
                   </div>
-                  <div type="textpart" subtype="sigla" n="rev" rend="linear" xml:lang="grc"> <!--reverse, diplomatic-->
+                  <div type="textpart" subtype="label" n="rev" rend="columns" xml:lang="grc"> <!--reverse, diplomatic-->
                       <ab>
                         <cb n="c"/>ʘ|Μ
                           <cb n="d"/>Χ|Λ
@@ -399,10 +431,14 @@
             </listApp>
          </div>
          <div type="translation">
-            <p>Ὁ ἅγιος Γεόργιος. Σφραγὶς σῷζε τῷ Μιχαὴλ Λαζαρίτζι./ Ὁ ἅγιος Μιχαήλ. Φυλάττου με ᾦ συνώνυμε ἡκεσίες.</p>
-            <p xml:lang="en">Saint George. Seal, save Michael Lazaritzes. Saint Michael. Watch over me, namesake, through (your) intercessions. (Wassiliou-Seibt)</p>
-            <p xml:lang="de">Heiliges George. Siegel, rette Michael Lazaritzes. Heiliges Michael. Wache über mich, Namensvetter, durch (deine) Fürbitten (Wassiliou-Seibt).</p>
-            <p xml:lang="el">O άγιος Γεώργιος. Σφραγίδα σώζε τον Μιχαήλ Λαζαρίτζη. Ο άγιος Μιχαήλ. Πρόσεχε με, συνονόματε, με τη μεσολάβηση (σου).</p>
+            <p>Ὁ ἅγιος Γεόργιος. Σφραγὶς σῷζε τῷ Μιχαὴλ Λαζαρίτζι. / Ὁ ἅγιος Μιχαήλ. Φυλάττου με ᾦ
+               συνώνυμε ἡκεσίες.</p>
+            <p xml:lang="en">Saint George. Seal, save Michael Lazaritzes. Saint Michael. Watch over
+               me, namesake, through (your) intercessions. (Wassiliou-Seibt)</p>
+            <p xml:lang="de">Hl. Georgios. Siegel, rette Michael Lazaritzes. Hl. Michael. Wache über
+               mich, Namensvetter, durch (deine) Fürbitten (Wassiliou-Seibt).</p>
+            <p xml:lang="el">O άγιος Γεώργιος. Σφραγίδα σώζε τον Μιχαήλ Λαζαρίτζη. Ο άγιος Μιχαήλ.
+               Πρόσεχε με, συνονόματε, με τη μεσολάβηση (σου).</p>
          </div>
          <div type="commentary" subtype="text">
             <p xml:lang="en">We follow the reading of Alexandra Wassiliou-Seibt [1].</p>
@@ -412,35 +448,40 @@
          <div type="commentary" subtype="footnotes">
             <p xml:lang="en"/>
             <!--if you have the footnotes only in French and would like to show it also in the English page, you should delete the xml:lang-->
-            <p xml:id="footnote-1">
-                    [1]. <bibl>
-                  <ptr target="Wassiliou-Seibt2011a"/>, <citedRange unit="page">p. 255</citedRange>.</bibl>
+            <p xml:id="footnote-1"> [1]. <bibl>
+                  <ptr target="Wassiliou-Seibt2011a"/>, <citedRange unit="page">p.
+                  255</citedRange>.</bibl>
             </p>
             <p xml:lang="de">[your footnotes here]</p>
          </div>
          <div type="bibliography" subtype="edition">
             <p>
                <bibl>
-                  <ptr target="Feind2010"/>, <citedRange unit="page">p. 162</citedRange>, no. <citedRange unit="part">24</citedRange>.</bibl>
+                  <ptr target="Feind2010"/>, <citedRange unit="page">p. 162</citedRange>, no.
+                     <citedRange unit="part">24</citedRange>.</bibl>
                <bibl>
-                  <ptr target="Wassiliou-Seibt2011a"/>, <citedRange unit="page">p. 255</citedRange>.</bibl>
+                  <ptr target="Wassiliou-Seibt2011a"/>, <citedRange unit="page">p.
+                  255</citedRange>.</bibl>
                <!--                        <ptr target=""/>, <citedRange unit=""/> <!-\-before citedRange add the right abbreviation, e.g. if it's a page, p. etc.-\->
 -->
             </p>
          </div>
-         <div type="bibliography" subtype="parallels"> <!--if you don't have parallels, put this div in a comment-->
+         <div type="bibliography" subtype="parallels">
+            <!--if you don't have parallels, put this div in a comment-->
             <p>
                <bibl>
-<!--                          <ptr target=""/>, <citedRange unit=""/>
--->                      </bibl>
+                  <!--                          <ptr target=""/>, <citedRange unit=""/>
+-->
+               </bibl>
             </p>
          </div>
-         <div type="bibliography" subtype="discussion"> <!--if you don't have further bibliography, put this div in a comment-->
+         <div type="bibliography" subtype="discussion">
+            <!--if you don't have further bibliography, put this div in a comment-->
             <p>
-                      <!--<bibl>
+               <!--<bibl>
                           <ptr target=""/>, <citedRange unit=""/>
                       </bibl>-->
-                  </p>
+            </p>
          </div>
       </body>
    </text>

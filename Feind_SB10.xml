@@ -336,21 +336,21 @@
          <div type="edition" subtype="editorial" xml:space="preserve"> 
                   <div type="textpart" subtype="label" n="obv" rend="columns" xml:lang="grc"> <!--obverse, editorial-->
                       <ab>
-                          <cb n="a"/>Ὁ <expan><abbr>ἅ</abbr><ex>γιος</ex></expan> Δ<supplied reason="lost">ημήτριος</supplied>
+                          <cb n="a"/><expan><abbr>Ὁ ἅ</abbr><ex>γιος</ex></expan> Δ<supplied reason="lost">ημήτριος</supplied>
                       </ab>
                   </div>
                 <div type="textpart" subtype="face" n="obv" rend="circular" xml:lang="grc"> <!--obverse, editorial-->
-                      <ab>
-                        <lb n="1"/><supplied reason="lost">Θεοτόκε βοήθει τῷ σῷ δούλῳ</supplied>
+                      <ab ana="dat">
+                        <lb n="1"/><rs type="invocation" ref="#inv002"><supplied reason="lost">Θεοτόκε βοήθει τῷ σῷ δούλῳ</supplied></rs>
                       </ab>
                   </div>
                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
-                      <ab>
+                      <ab ana="dat">
                           <lb n="2"/>Ὑπατίῳ 
-                          <lb n="3"/><expan><abbr><supplied reason="lost">σπ</supplied>αθαρο
-                          <lb n="4" break="no"/><supplied reason="lost">κα</supplied>νδ</abbr><ex>ι</ex><abbr>δ</abbr><ex>άτῳ</ex></expan> <expan><abbr>ἀσ</abbr><supplied reason="lost"><ex>η</ex>
-                          <lb n="5" break="no"/><abbr>κρ</abbr></supplied><abbr>ῆτ</abbr><ex>ις</ex></expan> <expan><ex>καὶ</ex></expan> <expan><abbr>κρ</abbr><ex>ι</ex>
-                          <lb n="6" break="no"/><abbr>τ</abbr><ex>ῇ</ex></expan> <expan><abbr>Καππα</abbr><ex>δοκίας</ex></expan>
+                          <lb n="3"/><rs type="dignity" ref="#d0080"><expan><abbr><supplied reason="lost">σπ</supplied>αθαρο
+                          <lb n="4" break="no"/><supplied reason="lost">κα</supplied>νδ</abbr><ex>ι</ex><abbr>δ</abbr><ex>άτῳ</ex></expan></rs> <rs type="office" subtype="civil" ref="#of0026"><expan><abbr>ἀσ</abbr><supplied reason="lost"><ex>η</ex>
+                          <lb n="5" break="no"/><abbr>κρ</abbr></supplied><abbr>ῆτ</abbr><ex>ις</ex></expan></rs> <expan><abbr><am>S</am></abbr><ex>καὶ</ex></expan> <rs type="office" subtype="civil" ref="#of0112"><expan><abbr>κρ</abbr><ex>ι</ex>
+                          <lb n="6" break="no"/><abbr>τ</abbr><ex>ῇ</ex></expan></rs> <placeName ref="#geo0021"><expan><abbr>Καππα</abbr><ex>δοκίας</ex></expan></placeName>
                       </ab>
                   </div>
               </div>
