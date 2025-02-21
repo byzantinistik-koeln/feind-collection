@@ -335,24 +335,20 @@
    <text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <body>
          <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"> <!--change the language code according to the language of your edition, the values (also when combined, e.g. Greek-Latin) are in the guidelines. Same goes for what comes next, textpart etc.-->
-                  <div type="textpart" subtype="sigla" n="obv" rend="columns" xml:lang="grc"> <!--obverse, editorial-->
-                      
-                      <ab>
-                         
-                          <cb n="a"/><rs type="saintsTerm" subtype="sigla" ref="#st-john-prodromos">ὁ <expan><abbr>ἅ</abbr><ex>γιος</ex> </expan> <expan><abbr>Ιω</abbr><ex>άννης</ex></expan>
-                         <cb n="b"/><supplied reason="lost">ο</supplied> <expan><abbr>Πρ</abbr><ex>ό</ex><abbr>δ</abbr><ex>ρο</ex><abbr>μο</abbr><ex>ς</ex></expan></rs>
+                  <div type="textpart" subtype="label" n="obv" rend="columns" xml:lang="grc"> <!--obverse, editorial-->
+                        <ab>
+                         <cb n="a"/><expan><abbr>ὁ ἅ</abbr><ex>γιος</ex></expan> <expan><abbr>Ιω</abbr><ex>άννης</ex></expan>
+                         <cb n="b"/><supplied reason="lost">ὁ</supplied> <expan><abbr>Πρ</abbr><ex>ό</ex><abbr>δ</abbr><ex>ρο</ex><abbr>μο</abbr><ex>ς</ex></expan>
                           </ab>
                   </div>  
                    
                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
-                      <ab ana="dat">
-                            
-                                <lb n="1"/><rs type="invocation" ref="#inv004"><expan><abbr>Κ</abbr><ex>ύρι</ex><abbr>ε</abbr></expan> <expan><abbr>β</abbr><ex>οή</ex><supplied reason="lost"><abbr>θ</abbr><ex>ει</ex></supplied> </expan>
-                                  <lb n="2"/>τῷ σῷ <expan><abbr>δ</abbr><supplied reason="lost">ού<ex>λῳ</ex></supplied></expan> </rs>
+                      <ab ana="dat"><!--two lost lines correct encoded? TOBEDONE-->
+                                  <lb n="1"/><rs type="invocation" ref="#inv004"><expan><abbr>Κ</abbr><ex>ύρι</ex><abbr>ε</abbr></expan> <expan><abbr>β</abbr><ex>οή</ex><supplied reason="lost"><abbr>θ</abbr><ex>ει</ex></supplied></expan>
+                                  <lb n="2"/>τῷ σῷ <expan><abbr>δ</abbr><supplied reason="lost"><abbr>ού</abbr><ex>λῳ</ex></supplied></expan></rs>
                                   <lb n="3"/>Νηκήτα 
-                                  <lb n="4"/><rs type="office" subtype="ecclesiastical" ref="#bishop_001">ἐπισκό<supplied reason="lost">π<ex>ῳ</ex></supplied></rs>
-                                  <lb n="5"/>...
-                                  <lb n="6"/>...
+                                  <lb n="4"/><rs type="office" subtype="ecclesiastical" ref="#of0206"><expan><abbr>ἐπισκό</abbr><supplied reason="lost"><abbr>π</abbr><ex>ῳ</ex></supplied></expan></rs>
+                                  <lb n="5"/><gap reason="lost" quantity="2" unit="line"/>
                             </ab>
                   </div>
               </div>
@@ -385,10 +381,10 @@
             </listApp>
          </div>
          <div type="translation">
-            <p> Ὁ ἅγιος Ιωάννης ο Πρόδρομος/ Κύριε βοήθει τῷ σῷ δούλῳ Ν(ι)κήτα ἐπισκόπῳ… </p>
-            <p xml:lang="en">St John the Baptist. Lord, help your servant Niketas episkopos of …</p>
-            <p xml:lang="de">Hl. Johannes Prodromos. Herr, hilf deinem Diener Niketas episkopos von … </p>
-            <p xml:lang="el">Ο  άγ. Ιωάννης ο Βαπτιστής.  Κύριε βοήθησε τον δούλο σου Νικήτα επίσκοπο …</p>
+            <p> Ὁ ἅγιος Ιωάννης ο Πρόδρομος / Κύριε βοήθει τῷ σῷ δούλῳ Ν(ι)κήτα ἐπισκόπῳ…</p>
+            <p xml:lang="en">St John the Baptist. Lord, help your servant Niketas episkopos of…</p>
+            <p xml:lang="de">Hl. Johannes Prodromos. Herr, hilf deinem Diener Niketas episkopos von…</p>
+            <p xml:lang="el">Ο  άγ. Ιωάννης ο Βαπτιστής.  Κύριε βοήθησε τον δούλο σου Νικήτα επίσκοπο…</p>
          </div>
          <div type="commentary" subtype="text">
             <p xml:lang="en"> </p>

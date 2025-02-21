@@ -338,21 +338,18 @@
    <text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <body>
          <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"> <!--change the language code according to the language of your edition, the values (also when combined, e.g. Greek-Latin) are in the guidelines. Same goes for what comes next, textpart etc.-->
-                  <div type="textpart" subtype="sigla" n="obv" rend="columns" xml:lang="grc"> <!--obverse, editorial-->
+                  <div type="textpart" subtype="label" n="obv" rend="columns" xml:lang="grc"> <!--obverse, editorial-->
                       <ab> 
-                          <cb n="a"/><rs type="saintsTerm" subtype="sigla" ref="#st-nicholas"><expan><supplied reason="lost"><abbr>Ὁ ἅ</abbr><ex>γιος</ex> <abbr>Νικό</abbr></supplied></expan>
-                          <cb n="b"/>λαος</rs>
-                                           
+                          <cb n="a"/><expan><supplied reason="lost"><abbr>Ὁ ἅ</abbr><ex>γιος</ex></supplied></expan> <supplied reason="lost">Νικό</supplied>
+                          <cb n="b" break="no"/>λαος
                       </ab>
-                      
                       </div>
-                
                 <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc">
                       <ab ana="gen">
                           <lb n="1"/><expan><abbr>Σφραγ</abbr><ex>ὶς</ex></expan>
-                              <lb n="2"/><persName type="attested" ref="#niketas-platys">Νικήτ<supplied reason="lost">α</supplied>
+                              <lb n="2"/>Νικήτ<supplied reason="lost">α</supplied>
                           <lb n="3"/>τοῦ Πλατ
-                          <lb n="4"/>οῦ</persName>
+                          <lb n="4" break="no"/>οῦ
                       </ab>
                   </div>
                     </div>
@@ -382,7 +379,7 @@
             </listApp>
          </div>
          <div type="translation">
-            <p>Ὁ ἅγιος Νικόλαος/ Σφραγὶς Νικήτα του Πλατοῦ</p>
+            <p>Ὁ ἅγιος Νικόλαος / Σφραγὶς Νικήτα του Πλατοῦ</p>
             <p xml:lang="en"> St Nikolas. Seal of Niketas Platys..</p>
             <p xml:lang="de">Hl. Nikolaus. Siegel des Niketas Platys.</p>
             <p xml:lang="el">O άγιος Νικόλαος. Σφραγίδα του Νικήτα Πλατού.</p>
