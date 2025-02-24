@@ -4,6 +4,7 @@
          <titleStmt>
             <title xml:lang="en">Seal of Georgios</title>
             <title xml:lang="de">Siegel des Georgios</title>
+            <title xml:lang="el">Μολυβδόβουλλο Γεωργίου</title>
             <editor role="seal-editor" xml:id="MC">Maria Teresa Catalano</editor>
             <editor role="seal-editor" xml:id="MF">Martina Filosa</editor>
             <editor role="seal-editor" xml:id="CS">Claudia Sode</editor>
@@ -48,10 +49,12 @@
                   <country>
                      <seg xml:lang="en">Germany</seg>
                      <seg xml:lang="de">Deutschland</seg>
+                     <seg xml:lang="el">Γερμανία</seg>
                   </country>
                   <settlement>
                      <seg xml:lang="en">Cologne</seg>
                      <seg xml:lang="de">Köln</seg>
+                     <seg xml:lang="el">Κολωνία</seg>
                   </settlement>
                   <institution/>
                   <repository/>
@@ -72,14 +75,17 @@
                   <summary n="whole">
                      <seg xml:lang="en">Private</seg>
                      <seg xml:lang="de">Privat</seg>
+                     <seg xml:lang="el">Μολυβδόβουλλα ιδιωτών.</seg>
                   </summary>
                   <msItem>
                      <author>
                         <roleName role="issuer" type="private">
                            <seg xml:lang="en">Georgios</seg>
                            <seg xml:lang="de">Georgios</seg>
+                           <seg xml:lang="el">Γεώργιος</seg>
                            <interp type="milieu" xml:lang="en">Private</interp>
                            <interp type="milieu" xml:lang="de">Privat</interp>
+                           <interp type="milieu" xml:lang="el">Ιδιωτικό (πεδίο δραστηριοιποίσης).</interp>
                         </roleName>
                      </author>
                   </msItem>
@@ -92,15 +98,18 @@
                               <term>
                                  <seg xml:lang="en">Seal</seg>
                                  <seg xml:lang="de">Siegel</seg>
+                                 <seg xml:lang="el">Μολυβδόβουλλο</seg>
                               </term>
                               <interp type="workType" xml:lang="en">Original
                                             impression</interp>
                               <interp type="workType" xml:lang="de">Origineller
                                             Siegelabdruck</interp>
+                              <interp type="workType" xml:lang="el">Αρχική αποτύπωση</interp>
                            </objectType>
                            <material>
                               <seg xml:lang="en">Lead</seg>
                               <seg xml:lang="de">Blei</seg>
+                              <seg xml:lang="el">Μόλυβδος</seg>
                            </material>
                            <dimensions type="support" unit="mm">
                               <dim type="diameter">24</dim>
@@ -114,17 +123,20 @@
                         <condition rend="corroded torn-channel">
                            <p xml:lang="en">Beige patina, corroded, broken along the channel on the obverse, cracked on the reverse.</p>
                            <p xml:lang="de">Beige Patina, korrodiert, auf dem Avers entlang des Fadenkanals aufgebrochen, Bruch auf dem Revers.</p>
+                           <p xml:lang="el">Πατίνα ελαφρώς ερυθροκίτρινου χρώματος, σβησμένο, σπασμένο κατά μήκος του διαύλου στον οπισθότυπο ,  διαρρηγμένο στον οπισθότυπο.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
                         <layout n="whole">
                            <rs type="execution">
                               <seg xml:lang="en">Struck</seg>
-                              <seg xml:lang="de">???</seg>
+                              <seg xml:lang="de">Geprägt</seg>
+                              <seg xml:lang="el">Παιστό</seg>
                            </rs>
                            <rs type="shape">
                               <seg xml:lang="en">Round</seg>
                               <seg xml:lang="de">Rund</seg>
+                              <seg xml:lang="el">Σφαιρικό</seg>
                            </rs>
                            <rs type="matrix" subtype="not-surviving">
                               <idno type="SigiDoc">"m-8VQiPP"</idno>
@@ -155,6 +167,7 @@
                      <origDate type="analysis" notBefore="1051" notAfter="1100" evidence="epigraphy" resp="#MC">
                         <seg xml:lang="en">11th c., second half.</seg>
                         <seg xml:lang="de">11. Jh., zweite Hälfte.</seg>
+                        <seg xml:lang="el">11ος αι., δεύτερο μισό.</seg>
                      </origDate>
                      <!-- for an internal date >
                             <origDate type="internal" when="0001" when-custom="2023" datingMethod="">
@@ -216,6 +229,7 @@
                               </dimensions>
                               <p xml:lang="en">Legend of 4 lines.</p>
                               <p xml:lang="de">Legende auf 4 Zeilen.</p>
+                              <p xml:lang="el">Επιγραφή 4 στίχων.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -233,6 +247,7 @@
                               <figDesc ana="" n="r" xml:lang="de"/>
                               <figDesc ana="" n="decoR" xml:lang="en">Below the legend, a decoration consisting of a X with pellets in its quarter set between two dashes. Border of dots.</figDesc>
                               <figDesc ana="" n="decoR" xml:lang="de">Unterhalb der Legende, eine Dekoration aus einem X mit Punkten in den Vierteln zwischen Zierlinien. Perlrand.</figDesc>
+                              <figDesc ana="" n="decoR" xml:lang="el">Κάτω από την επιγραφή, διακοσμητικό μοτίβο Χ (με στιγμές στα τεταρτημόρια του) ανάμεσα σε δυο στιγμές, Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -262,6 +277,7 @@
                               </dimensions>
                               <p xml:lang="en">Legend of 4 lines.</p>
                               <p xml:lang="de">Legende auf 4 Zeilen.</p>
+                              <p xml:lang="el">Επιγραφή 4 στίχων.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -279,6 +295,7 @@
                               <figDesc ana="" n="v" xml:lang="de"/>
                               <figDesc ana="" n="decoV" xml:lang="en">Above the legend, remnants of a decoration. Border of dots.</figDesc>
                               <figDesc ana="" n="decoV" xml:lang="de">Oberhalb der Legende, Reste einer Dekoration. Perlrand.</figDesc>
+                              <figDesc ana="" n="decoV" xml:lang="el">Πάνω από την επιγραφή, ίχνη διακοσμητικού μοτίβου. Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -298,6 +315,7 @@
             <graphic url="S_172a.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -307,6 +325,7 @@
             <graphic url="S_172b.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -316,7 +335,7 @@
          <div type="edition" subtype="editorial" xml:space="preserve"> 
                   <div type="textpart" subtype="face" n="obv" rend="linear" xml:lang="grc"> <!--obverse, editorial-->
                       <lg met="dodecasyllable"><!--METRICAL LEGEND PARTS CORRECT?-->
-                         <l n="1">
+                          <l n="1">
                           <lb n="1"/>Πρά
                           <lb n="2" break="no"/><supplied reason="lost">ξ</supplied>εις 
                           <lb n="3"/><supplied reason="lost">σ</supplied>φ<supplied reason="lost">ρ</supplied>αγί
@@ -362,6 +381,7 @@
             <p>Πράξεις σφραγίζω καὶ / γραφὰς Γεωργίου.</p>
             <p xml:lang="en">I secure the acts and the writings of Georgios.</p>
             <p xml:lang="de">Ich siegle die Taten und Schriften des Georgios.</p>
+            <p xml:lang="el">Σφραγίζω τις πράξεις και τα γραπτά του Γεωργίου.</p>
          </div>
          <div type="commentary" subtype="text">
             <p xml:lang="en"/>
