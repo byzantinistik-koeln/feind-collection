@@ -133,10 +133,10 @@
                            <measure type="channelOrient" unit="clock">6-12</measure>
                            <measure type="countermark" unit="clock"/>
                         </support>
-                        <condition rend=" chipped crushed  ">
-                           <p xml:lang="en">Green patina, cracked along the channel on the obverse, slightly chipped at both ends of the channel. .</p>
+                        <condition rend="chipped crushed  ">
+                           <p xml:lang="en">Green patina, cracked along the channel on the obverse, slightly chipped at both ends of the channel.</p>
                            <p xml:lang="de">Grüne Patina, entlang des Fadenkanals auf Avers aufgerissen.</p>
-                           <p xml:lang="el">Πατίνα παρασινωπού χρώματος, ραγισμένη κατα μήκος του καναλιου στον εμπροσθότυπο, ελαφρώς σπασμένη και στις δυο όψεις στην άκρη της διευθυνσης καναλιού.</p>
+                           <p xml:lang="el">Πατίνα πράσινου χρώματος, ραγισμένο κατά μήκος του καναλιού στον εμπροσθότυπο, ελαφρώς σπασμένα και στις δύο όψεις τα στόμια του διαύλου.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -177,7 +177,7 @@
                                 <interp type="datingCriteria" xml:lang="de"/>
                             </origDate>-->
                      <!-- for a date range or centuries (NOT BEFORE - NOT AFTER)-->
-                     <origDate type="analysis" notBefore="0841" notAfter="0900" evidence=" epigraphy iconography" resp="MC">
+                     <origDate type="analysis" notBefore="0841" notAfter="0900" evidence="epigraphy iconography" resp="MC">
                         <seg xml:lang="en">9th c., middle or second half.</seg>
                         <seg xml:lang="de">9. Jh., mittlere oder zweite Hälfte.</seg>
                         <seg xml:lang="el">9ος, μέσα ή δεύτερο μισό. </seg>
@@ -228,8 +228,8 @@
                               <dimensions type="written" unit="mm">
                                  <dim type="diameter"/>
                               </dimensions>
-                              <p xml:lang="en">Iconography with circular legend..</p>
-                              <p xml:lang="de">Ikonographie mit umlaufender Legende. </p>
+                              <p xml:lang="en">Iconography with circular legend.</p>
+                              <p xml:lang="de">Ikonographie mit umlaufender Legende.</p>
                               <p xml:lang="el">Εικονογραφία με κυκλοτερή επιγραφή.</p>
                            </layout>
                         </layoutDesc>
@@ -246,10 +246,10 @@
                            <figure>
                               <figDesc ana="" n="r" xml:lang="en">The Mother of God standing, holding the Christ on her left arm (Hodegetria). No sigla visible. Along the circumference, a partially preserved circular inscription beginning with a cross at 7h.</figDesc>
                               <figDesc ana="" n="r" xml:lang="de">Stehende Muttergottes mit dem Christuskind im linken Arm (Hodegetria). Umlaufende Inschrift nur teilweise lesbar..</figDesc>
-                              <figDesc ana="" n="r" xml:lang="el">Ιστάμενη Θεοτόκος, κρατάει τον Χριστό στο αριστερό της χέρι (Οδηγήτρια) Δεν διακρίνονται σίγλλα. Στην περιφέρεια του κύκλου, μερικώς διατηρημένη κυκλοτερή επιγραφή, η οποία ξεκινάει με σταυρό απο τον άξονα 7.</figDesc>
+                              <figDesc ana="" n="r" xml:lang="el">Ιστάμενη Θεοτόκος, κρατάει το Χριστό στο αριστερό της χέρι (Οδηγήτρια) Δεν διακρίνονται σίγλλα. Στην περιφέρεια του κύκλου, μερικώς διατηρημένη κυκλοτερή επιγραφή, η οποία ξεκινάει με σταυρό από το σημείο του άξονα 7.</figDesc>
                               <figDesc ana="" n="decoR" xml:lang="en">Border indistinct.</figDesc>
                               <figDesc ana="" n="decoR" xml:lang="de">Grenze undeutlich..</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="el">Πλαίσιο δυσδιάκριτο.</figDesc>
+                              <figDesc ana="" n="decoR" xml:lang="el">Δεν διακρίνεται πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -318,6 +318,7 @@
             <graphic url="SB_17a" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -327,6 +328,7 @@
             <graphic url="SB_17b" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -382,12 +384,12 @@
             <p>Θεοτόκε βοήθει τῷ σῷ δούλῳ / Αρσενίῳ πρεσβυτέρῳ καὶ ἡγουμένῳ τοῦ ἁγίου Θεωδόρου.</p>
             <p xml:lang="en">Mother of God, help your servant Arsenios presbyter and hegoumenos of the monastery of St Theodore.</p>
             <p xml:lang="de">Muttergottes, hilf Arsenios, presbyter und hegoumenos des Klosters des hl. Theodor.</p>
-            <p xml:lang="el">Θεοτόκε βοήθησε τον δούλο σου Αρσένιο πρεσβύτερο και ηγούμενο του μοναστηρίου του αγίου Θεοδώρου.</p>
+            <p xml:lang="el">Θεοτόκε βοήθησε το δούλο σου Αρσένιο πρεσβύτερο και ηγούμενο του μοναστηρίου του αγίου Θεοδώρου.</p>
          </div>
          <div type="commentary" subtype="text">
             <p xml:lang="en"/>
             <!--if you have the commentary only in German and would like to show it also in the English page, you should delete the xml:lang-->
-            <p xml:lang="de">[your commentary here]</p>
+            <p xml:lang="de"></p>
          </div>
          <div type="commentary" subtype="footnotes">
             <p xml:lang="en"/>
@@ -405,11 +407,11 @@
                       </bibl>
                   </p>
               </div>-->
-         <div type="bibliography" subtype="parallels"> <!--if you don't have parallels, put this div in a comment-->
+         <!--<div type="bibliography" subtype="parallels"> <!-\-if you don't have parallels, put this div in a comment-\->
             <p> 
                     
                   </p>
-         </div>
+         </div>-->
          <!--<div type="bibliography" subtype="discussion"> <!-\-if you don't have further bibliography, put this div in a comment-\->
                   <p>
                       <bibl>

@@ -5,7 +5,7 @@
          <titleStmt>
             <title xml:lang="en">Seal of Niketas episkopos of …</title>
             <title xml:lang="de">Siegel des Niketas episkopos von …</title>
-            <title xml:lang="el">Μολυβδόβουλλο του Νικήτα επισκόπου …</title>
+            <title xml:lang="el">Μολυβδόβουλλο του Νικήτα επισκόπου…</title>
             <editor role="seal-editor" xml:id="MC">Maria Teresa Catalano</editor>
             <editor role="seal-editor" xml:id="MF">Martina Filosa</editor>
             <editor role="seal-editor" xml:id="CS">Claudia Sode</editor>
@@ -135,14 +135,14 @@
                         <condition rend="  not-centered   ">
                            <p xml:lang="en">Green patina, dented, slightly struck off-centre to the right on the obverse and to the left on the reverse.</p>
                            <p xml:lang="de">Grüne Patina, verbeult, leicht außermittig auf der Vorderseite nach rechts und auf der Rückseite nach links geprägt.</p>
-                           <p xml:lang="el">Πατίνα πρασινωπού χρώματος, βαθουλωμένη, ελαφρώς χτυπημένη εκτός κέντρου με κατεύθυνση  προς τα δεξιά στην εμπρόσθια όψη και προς τα αριστερά στην οπίσθια όψη.</p>
+                           <p xml:lang="el">Πατίνα πράσινου χρώματος, βαθουλωμένο, ελαφρώς χτυπημένο εκτός κέντρου με κατεύθυνση προς τα δεξιά στην εμπρόσθια όψη και προς τα αριστερά στην οπίσθια όψη.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
                         <layout n="whole">
                            <rs type="execution">
                               <seg xml:lang="en">Struck</seg>
-                              <seg xml:lang="de">???</seg>
+                              <seg xml:lang="de">Geprägt</seg>
                               <seg xml:lang="el">Παιστό</seg>
                            </rs>
                            <rs type="shape">
@@ -176,7 +176,7 @@
                                 <interp type="datingCriteria" xml:lang="de"/>
                             </origDate>-->
                      <!-- for a date range or centuries (NOT BEFORE - NOT AFTER)-->
-                     <origDate type="analysis" notBefore="1076" notAfter="1120" evidence=" epigraphy" resp="MC">
+                     <origDate type="analysis" notBefore="1076" notAfter="1120" evidence="epigraphy" resp="MC">
                         <seg xml:lang="en">11th c., last quarter – early 12th c.</seg>
                         <seg xml:lang="de">11. Jh., letztes Viertel – Anfang 12. Jh.</seg>
                         <seg xml:lang="el">11ος αι., τελευταίο τέταρτο – αρχές 12ου αι.</seg>
@@ -250,7 +250,7 @@
                               <figDesc ana="" n="r" xml:lang="el">Προτομή του αγ. Ιωάννη του Βαπτιστή, ευλογεί με το δεξί του χέρι και κρατά ειλητάριο στο αριστερό. Επιγραφή εκατέρωθεν του πεδίου.</figDesc>
                               <figDesc ana="" n="decoR" xml:lang="en">No border visible.</figDesc>
                               <figDesc ana="" n="decoR" xml:lang="de">Kein Rand sichtbar</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="el">Μη ορατό πλαίσιο.</figDesc>
+                              <figDesc ana="" n="decoR" xml:lang="el">Δεν διακρίνεται πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -299,7 +299,7 @@
                               <figDesc ana="" n="v" xml:lang="de"/>
                               <figDesc ana="" n="decoV" xml:lang="en">Cross at the beginning of the legend. No border visible.</figDesc>
                               <figDesc ana="" n="decoV" xml:lang="de">Kreuz am Anfang der Legende. Kein Rand sichtbar</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="el">Σταυρός στην αρχή της επιγραφής. Μη ορατό πλαίσιο.</figDesc>
+                              <figDesc ana="" n="decoV" xml:lang="el">Σταυρός στην αρχή της επιγραφής. Δεν διακρίνεται πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -319,6 +319,7 @@
             <graphic url="SB_18a.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -328,6 +329,7 @@
             <graphic url="SB_18b.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -384,17 +386,17 @@
             <p> Ὁ ἅγιος Ιωάννης ο Πρόδρομος / Κύριε βοήθει τῷ σῷ δούλῳ Ν(ι)κήτα ἐπισκόπῳ…</p>
             <p xml:lang="en">St John the Baptist. Lord, help your servant Niketas episkopos of…</p>
             <p xml:lang="de">Hl. Johannes Prodromos. Herr, hilf deinem Diener Niketas episkopos von…</p>
-            <p xml:lang="el">Ο  άγ. Ιωάννης ο Βαπτιστής.  Κύριε βοήθησε τον δούλο σου Νικήτα επίσκοπο…</p>
+            <p xml:lang="el">Ο  άγ. Ιωάννης ο Βαπτιστής.  Κύριε βοήθησε το δούλο σου Νικήτα επίσκοπο…</p>
          </div>
          <div type="commentary" subtype="text">
             <p xml:lang="en"> </p>
             <!--if you have the commentary only in German and would like to show it also in the English page, you should delete the xml:lang-->
-            <p xml:lang="de">[your commentary here]</p>
+            <p xml:lang="de"></p>
          </div>
          <div type="commentary" subtype="footnotes">
             <p xml:lang="en"/>
             <!--if you have the footnotes only in French and would like to show it also in the English page, you should delete the xml:lang-->
-            <p xml:lang="de">[your footnotes here]</p>
+            <p xml:lang="de"></p>
          </div>
          <div type="bibliography" subtype="edition">
             <p>
@@ -402,20 +404,20 @@
 -->                      </bibl>
             </p>
          </div>
-         <div type="bibliography" subtype="parallels"> <!--if you don't have parallels, put this div in a comment-->
+         <!--<div type="bibliography" subtype="parallels"> <!-\-if you don't have parallels, put this div in a comment-\->
             <p>
                <bibl>
-<!--                          <ptr target=""/>, <citedRange unit=""/>
--->                      </bibl>
+<!-\-                          <ptr target=""/>, <citedRange unit=""/>
+-\->                      </bibl>
             </p>
-         </div>
-         <div type="bibliography" subtype="discussion"> <!--if you don't have further bibliography, put this div in a comment-->
+         </div>-->
+         <!--<div type="bibliography" subtype="discussion"> <!-\-if you don't have further bibliography, put this div in a comment-\->
             <p>
-                      <!--<bibl>
+                      <!-\-<bibl>
                           <ptr target=""/>, <citedRange unit=""/>
-                      </bibl>-->
+                      </bibl>-\->
                   </p>
-         </div>
+         </div>-->
       </body>
    </text>
 </TEI>

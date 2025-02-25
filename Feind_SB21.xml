@@ -87,7 +87,7 @@
                   <summary n="whole">
                      <seg xml:lang="en">Ecclesiastical</seg>
                      <seg xml:lang="de">Kirchlich </seg>
-                     <seg xml:lang="el">Μολυβδόβουλλα εκκλησιαστικών αξιωματούχων</seg>
+                     <seg xml:lang="el">Μολυβδόβουλλα εκκλησιαστικών αξιωματούχων.</seg>
                   </summary>
                   <msItem>
                      <author>
@@ -138,18 +138,18 @@
                            <measure type="channelOrient" unit="clock">1-7</measure>
                            <measure type="countermark" unit="clock"/>
                         </support>
-                        <condition rend="  obliterated ">
+                        <condition rend="obliterated ">
                            <p xml:lang="en">Grey patina, weakly imprinted. </p>
                            <p xml:lang="de">Grau patiniert, schwacher Prägedruck.</p>
-                           <p xml:lang="el"> Πατίνα γκριζωπού χρώματος, αποτύπωση της σφραγίδας
-                              αχνή.</p>
+                           <p xml:lang="el"> Πατίνα γκριζωπού χρώματος, ελαφρώς σβησμένη η αποτύπωση της σφραγίδας.
+                            </p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
                         <layout n="whole">
                            <rs type="execution">
                               <seg xml:lang="en">Struck</seg>
-                              <seg xml:lang="de">???</seg>
+                              <seg xml:lang="de">Geprägt</seg>
                               <seg xml:lang="el">Παιστό</seg>
                            </rs>
                            <rs type="shape">
@@ -184,7 +184,7 @@
                             </origDate>-->
                      <!-- for a date range or centuries (NOT BEFORE - NOT AFTER)-->
                      <origDate type="analysis" notBefore="1001" notAfter="1050"
-                        evidence=" epigraphy iconography" resp="MC">
+                        evidence="epigraphy iconography" resp="MC">
                         <seg xml:lang="en">11th c., first half.</seg>
                         <seg xml:lang="de">11. Jh., erste Hälfte.</seg>
                         <seg xml:lang="el">11ος αι., πρώτο μισό. </seg>
@@ -340,6 +340,7 @@
             <graphic url="SB_21a" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -349,6 +350,7 @@
             <graphic url="SB_21b" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -410,16 +412,16 @@
                <!--if you don't need the apparatus, just delete the xml:lang-->
             </listApp>
          </div>
-         <div type="translation"><!--GREEK Translation of St. Basil TOBEDONE-->
+         <div type="translation">
             <p>Ὁ ἅγιος Βασίλειος. Κύριε βοήθει τῷ σῷ δούλῳ / Ὁ ἅγιος Στέφανος.᾿Ιωάννῃ ἐπισκόπῳ.</p>
             <p xml:lang="en">St. Basil. Lord, help your servant Ioannes episkopos.</p>
             <p xml:lang="de">Hl. Basileios. Herr, hilf deinem Diener Ioannes episkopos.</p>
-            <p xml:lang="el">Κύριε βοήθησε τον δούλο σου Ιωάννη Επίσκοπο.</p>
+            <p xml:lang="el">Ο άγιος Βασίλειος. Κύριε βοήθησε το δούλο σου Ιωάννη Επίσκοπο.</p>
          </div>
          <div type="commentary" subtype="text">
             <p xml:lang="en"/>
             <!--if you have the commentary only in German and would like to show it also in the English page, you should delete the xml:lang-->
-            <p xml:lang="de">[your commentary here]</p>
+            <p xml:lang="de"></p>
          </div>
          <div type="commentary" subtype="footnotes">
             <p xml:lang="en"/>

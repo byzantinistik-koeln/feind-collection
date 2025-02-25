@@ -41,6 +41,10 @@
                      <forename>Βασίλειος</forename>
                      <surname>Μαυρός</surname>
                   </persName>
+                  <persName xml:lang="en">
+                     <forename>Basileios</forename>
+                     <surname>Mauros</surname>
+                  </persName>
                   <idno type="PBW" ana="http://pbw2016.kdl.kcl.ac.uk/person/Basileios/20221/">PBW Basileios 20221</idno>
                </person>
             </listPerson>
@@ -85,7 +89,7 @@
                               <ref target="http://pbw2016.kdl.kcl.ac.uk/person/Basileios/20221/">Basileios Mauros</ref>
                            </seg>
                            <seg xml:lang="el">
-                              <ref target="http://pbw2016.kdl.kcl.ac.uk/person/Basileios/20221/">Basileios Mauros</ref>
+                              <ref target="http://pbw2016.kdl.kcl.ac.uk/person/Basileios/20221/">Βασίλειος Μαύρος</ref>
                            </seg>
                            <interp type="milieu" xml:lang="en">Civil</interp>
                            <interp type="milieu" xml:lang="de">Zivil</interp>

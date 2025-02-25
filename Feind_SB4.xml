@@ -43,7 +43,7 @@
          </publicationStmt>
          <sourceDesc>
             <listPerson type="issuer">
-               <person role="private" gender="" xml:id="">
+               <person role="private" gender="M">
                   <persName xml:lang="en">
                      <forename>Michael</forename>&gt; <surname>Lazaritzes</surname>
                   </persName>
@@ -86,7 +86,7 @@
                   <summary n="whole">
                      <seg xml:lang="en">Private </seg>
                      <seg xml:lang="de">Privat </seg>
-                     <seg xml:lang="el">Μολυβδόβουλλα ιδιωτών</seg>
+                     <seg xml:lang="el">Μολυβδόβουλλα ιδιωτών.</seg>
                   </summary>
                   <msItem>
                      <author>
@@ -102,7 +102,7 @@
                            </seg>
                            <interp type="milieu" xml:lang="en">Private</interp>
                            <interp type="milieu" xml:lang="de">Privat</interp>
-                           <interp type="milieu" xml:lang="el">Ιδιωτικό</interp>
+                           <interp type="milieu" xml:lang="el">Ιδιωτικό (πεδίο δραστηριοιποίσης).</interp>
                         </roleName>
                      </author>
                   </msItem>
@@ -136,10 +136,10 @@
                            <measure type="channelOrient" unit="clock">1-7</measure>
                            <measure type="countermark" unit="clock"/>
                         </support>
-                        <condition rend=" well-preserved well-struck">
+                        <condition rend="well-preserved well-struck">
                            <p xml:lang="en">Well preserved, well-centered imprint.</p>
                            <p xml:lang="de">Gut erhalten, gut zentrierter Aufdruck.</p>
-                           <p xml:lang="el"> Καλοδιατηρημένη, καλοκεντραρισμένο αποτύπωμα της
+                           <p xml:lang="el"> Καλοδιατηρημένο, καλοκεντραρισμένο αποτύπωμα της
                               σφραγίδας στον δίσκο.</p>
                         </condition>
                      </supportDesc>
@@ -147,7 +147,7 @@
                         <layout n="whole">
                            <rs type="execution">
                               <seg xml:lang="en">Struck</seg>
-                              <seg xml:lang="de">???</seg>
+                              <seg xml:lang="de">Geprägt</seg>
                               <seg xml:lang="el">Παιστό</seg>
                            </rs>
                            <rs type="shape">
@@ -182,7 +182,7 @@
                             </origDate>-->
                      <!-- for a date range or centuries (NOT BEFORE - NOT AFTER)-->
                      <origDate type="analysis" notBefore="1051" notAfter="1100"
-                        evidence=" epigraphy iconography" resp="MC">
+                        evidence="epigraphy iconography" resp="MC">
                         <seg xml:lang="en">11th c., second half.</seg>
                         <seg xml:lang="de">11. Jh., zweite Hälfte. </seg>
                         <seg xml:lang="el">11ος αι., δεύτερο μισό. </seg>
@@ -242,7 +242,7 @@
                                  Punktränder mit einem Kreuz bei 12 Uhr.</p>
                               <p xml:lang="el">Εικονογραφία με κυκλοτερή επιγραφή˙ κατά μήκος της
                                  περιμέτρου, εντός του στικτού πλαισίου, η κυκλοτερή επιγραφή ξεκινά
-                                 με έναν σταυρό στον άξονα 12. </p>
+                                 με έναν σταυρό στο σημείο του άξονα 12. </p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -251,7 +251,7 @@
                            <!--NB: in this field you can refer to epigraphic features on the seal using also AthenaRuby-->
                            <seg xml:lang="en">Ζ retrograde</seg>
                            <seg xml:lang="de"> Ζ rückläufig </seg>
-                           <seg xml:lang="de"> Ζ ανάποδο </seg>
+                           <seg xml:lang="el"> Ζ ανάποδο </seg>
                         </handNote>
                      </handDesc>
                      <decoDesc>
@@ -305,7 +305,7 @@
                                  Punktränder mit einem Kreuz bei 12 Uhr.</p>
                               <p xml:lang="el">Εικονογραφία με κυκλοτερή επιγραφή˙ κατά μήκος της
                                  περιμέτρου, εντός του στικτού πλαισίου, η κυκλοτερή επιγραφή ξεκινά
-                                 με έναν σταυρό στον άξονα 12. </p>
+                                 με έναν σταυρό στο σημείο του άξονα 12. </p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -355,6 +355,7 @@
             <graphic url="SB_4a.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -364,6 +365,7 @@
             <graphic url="SB_4b.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -437,7 +439,7 @@
                me, namesake, through (your) intercessions. (Wassiliou-Seibt)</p>
             <p xml:lang="de">Hl. Georgios. Siegel, rette Michael Lazaritzes. Hl. Michael. Wache über
                mich, Namensvetter, durch (deine) Fürbitten (Wassiliou-Seibt).</p>
-            <p xml:lang="el">O άγιος Γεώργιος. Σφραγίδα σώζε τον Μιχαήλ Λαζαρίτζη. Ο άγιος Μιχαήλ.
+            <p xml:lang="el">O άγιος Γεώργιος. Σφραγίδα σώζε το Μιχαήλ Λαζαρίτζη. Ο άγιος Μιχαήλ.
                Πρόσεχε με, συνονόματε, με τη μεσολάβηση (σου).</p>
          </div>
          <div type="commentary" subtype="text">
@@ -466,23 +468,23 @@
 -->
             </p>
          </div>
-         <div type="bibliography" subtype="parallels">
-            <!--if you don't have parallels, put this div in a comment-->
+         <!--<div type="bibliography" subtype="parallels">
+            <!-\-if you don't have parallels, put this div in a comment-\->
             <p>
                <bibl>
-                  <!--                          <ptr target=""/>, <citedRange unit=""/>
--->
+                  <!-\-                          <ptr target=""/>, <citedRange unit=""/>
+-\->
                </bibl>
             </p>
-         </div>
-         <div type="bibliography" subtype="discussion">
-            <!--if you don't have further bibliography, put this div in a comment-->
+         </div>-->
+         <!--<div type="bibliography" subtype="discussion">
+            <!-\-if you don't have further bibliography, put this div in a comment-\->
             <p>
-               <!--<bibl>
+               <!-\-<bibl>
                           <ptr target=""/>, <citedRange unit=""/>
-                      </bibl>-->
+                      </bibl>-\->
             </p>
-         </div>
+         </div>-->
       </body>
    </text>
 </TEI>

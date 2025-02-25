@@ -38,7 +38,7 @@
          </publicationStmt>
          <sourceDesc>
             <listPerson type="issuer">
-               <person role="private" gender="" xml:id="">
+               <person role="private" gender="M" xml:id="">
                   <persName xml:lang="en">
                      <forename>Niketas</forename>&gt;
                                                     <surname>Platys</surname>
@@ -89,14 +89,11 @@
                   <msItem>
                      <author>
                         <roleName role="issuer" type=" private">
-                           <seg xml:lang="en">
-                              <forename>Niketas Platys</forename>
+                           <seg xml:lang="en"><ref target="http://pbw2016.kdl.kcl.ac.uk/person/Niketas/20225/">Niketas Platys</ref>
+                               </seg>
+                           <seg xml:lang="de"><ref target="http://pbw2016.kdl.kcl.ac.uk/person/Niketas/20225/">Niketas Platys</ref>
                            </seg>
-                           <seg xml:lang="de">
-                              <forename>Niketas Platys</forename>
-                           </seg>
-                           <seg xml:lang="el">
-                              <forename>Νικήτας Πλατύς</forename>
+                           <seg xml:lang="el"><ref target="http://pbw2016.kdl.kcl.ac.uk/person/Niketas/20225/">Νικήτας Πλατύς Platys</ref>
                            </seg>
                            <interp type="milieu" xml:lang="en">Private</interp>
                            <interp type="milieu" xml:lang="de">Privat</interp>
@@ -135,17 +132,17 @@
                            <measure type="channelOrient" unit="clock">6-12</measure>
                            <measure type="countermark" unit="clock"/>
                         </support>
-                        <condition rend=" chipped blank-too-small not-centered">
+                        <condition rend="chipped blank-too-small not-centered">
                            <p xml:lang="en">Chipped at both ends of the channel and broken on one side, slightly struck off-centre, blank too small for the die. </p>
                            <p xml:lang="de">An beiden Enden des Kanals angeschlagen und auf einer Seite gebrochen, leicht außermittig geschlagen, Rohling zu klein für die Matrize.</p>
-                           <p xml:lang="el">Πελεκημένη και στα δύο άκρα του διαύλου, σπασμένη στην μία όψη, ελαφρώς χτυπημένη εκτός κέντρου, δίσκος μικρότερος απο την σφραγίδα.</p>
+                           <p xml:lang="el">Σπασμένο και στα δύο στόμια του διαύλου, σπασμένο στην μία όψη, ελαφρώς χτυπημένο εκτός κέντρου, δίσκος μικρότερος απο τη σφραγίδα αποτύπωσης.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
                         <layout n="whole">
                            <rs type="execution">
                               <seg xml:lang="en">Struck</seg>
-                              <seg xml:lang="de">???</seg>
+                              <seg xml:lang="de">Geprägt</seg>
                               <seg xml:lang="el">Παιστό</seg>
                            </rs>
                            <rs type="shape">
@@ -179,7 +176,7 @@
                                 <interp type="datingCriteria" xml:lang="de"/>
                             </origDate>-->
                      <!-- for a date range or centuries (NOT BEFORE - NOT AFTER)-->
-                     <origDate type="analysis" notBefore="1151" notAfter="1200" evidence=" epigraphy" resp="MC">
+                     <origDate type="analysis" notBefore="1151" notAfter="1200" evidence="epigraphy" resp="MC">
                         <seg xml:lang="en">12th c., second half.</seg>
                         <seg xml:lang="de">12. Jh., zweite Hälfte.</seg>
                         <seg xml:lang="el">12ος αι. δεύτερο μισό. </seg>
@@ -250,7 +247,7 @@
                            <figure>
                               <figDesc ana="" n="r" xml:lang="en">Bust of St Nicholas offering a blessing with his right hand and holding the Book in his left. Legend preserved at right.</figDesc>
                               <figDesc ana="" n="r" xml:lang="de">Büste des hl. Nikolaus mit Bart und Nimbus. Die rechte Hand in segnender Geste, die linke hält ein Buch. Inschrift auf beiden Seiten, links nicht lesbar.</figDesc>
-                              <figDesc ana="" n="r" xml:lang="el">Προτομή του αγ. Νικολάο,  ευλογεί με το δεξί του χέρι και κρατά Ευαγγέλιο στο αριστερό. Σίγγλα διατηρούνται στα δεξιά του πεδίου.</figDesc>
+                              <figDesc ana="" n="r" xml:lang="el">Προτομή του αγ. Νικολάο,  ευλογεί με το δεξί του χέρι και κρατά Ευαγγέλιο στο αριστερό. Σίγλλα διατηρούνται στα δεξιά του πεδίου.</figDesc>
                               <figDesc ana="" n="decoR" xml:lang="en">Border of dots.</figDesc>
                               <figDesc ana="" n="decoR" xml:lang="de">Perlrand.</figDesc>
                               <figDesc ana="" n="decoR" xml:lang="el">Στικτό πλαίσιο.</figDesc>
@@ -302,7 +299,7 @@
                               <figDesc ana="" n="v" xml:lang="el"/>
                               <figDesc ana="" n="decoV" xml:lang="en">Above the legend, remnants of a decoration. Border of dots. </figDesc>
                               <figDesc ana="" n="decoV" xml:lang="de">Oberhalb der Legende Reste einer Verzierung. Rand aus Punkten.</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="el">Πάνω απο την επιγραφή, υπολείμματα διακόσμησης. Στικτό πλαίσιο.</figDesc>
+                              <figDesc ana="" n="decoV" xml:lang="el">Πάνω από την επιγραφή, ίχνη διακόσμησης. Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -322,6 +319,7 @@
             <graphic url="SB_20a.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -331,6 +329,7 @@
             <graphic url="SB_20b.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -385,19 +384,19 @@
             <p xml:lang="el">O άγιος Νικόλαος. Σφραγίδα του Νικήτα Πλατού.</p>
          </div>
          <div type="commentary" subtype="text">
-            <p xml:lang="en">The seal issuer [1], is known only from this seal type. </p>
+            <p xml:lang="en">The seal issuer, is known only from this seal type. </p>
             <!--if you have the commentary only in German and would like to show it also in the English page, you should delete the xml:lang-->
             <!--<p xml:lang="de">[your commentary here]</p>-->
          </div>
-         <div type="commentary" subtype="footnotes">
-            <p xml:lang="en" xml:id="footnote-1"> [1]. <bibl>
+         <!--<div type="commentary" subtype="footnotes">
+            <p xml:lang="en" xml:id="footnote-1"><bibl>
                   <ptr target="PBW"/>, <citedRange unit="entry">
                      <ref target="http://pbw2016.kdl.kcl.ac.uk/person/Niketas/20225/">Niketas 20225</ref>
                   </citedRange>
                </bibl>. </p>
-            <!--if you have the footnotes only in French and would like to show it also in the English page, you should delete the xml:lang-->
-            <p xml:lang="de">[your footnotes here]</p>
-         </div>
+            <!-\-if you have the footnotes only in French and would like to show it also in the English page, you should delete the xml:lang-\->
+            <p xml:lang="de"></p>
+         </div>-->
          <div type="bibliography" subtype="edition">
             <p> 
                     
@@ -417,13 +416,13 @@
                </bibl>
             </p>
          </div>
-         <div type="bibliography" subtype="discussion"> <!--if you don't have further bibliography, put this div in a comment-->
+         <!--<div type="bibliography" subtype="discussion"> <!-\-if you don't have further bibliography, put this div in a comment-\->
             <p>
-                      <!--<bibl>
+                      <!-\-<bibl>
                           <ptr target=""/>, <citedRange unit=""/>
-                      </bibl>-->
+                      </bibl>-\->
                   </p>
-         </div>
+         </div>-->
       </body>
    </text>
 </TEI>

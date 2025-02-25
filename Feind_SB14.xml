@@ -135,10 +135,10 @@
                            <measure type="channelOrient" unit="clock">6-12</measure>
                            <measure type="countermark" unit="clock"/>
                         </support>
-                        <condition rend=" chipped obliterated ">
+                        <condition rend="chipped obliterated ">
                            <p xml:lang="en">Beige patina, chipped at the upper end of the channel, partially effaced, weakly imprinted.</p>
                            <p xml:lang="de">Beigefarbene Patina, am oberen Ende der Rinne abgesplittert, teilweise verwischt, schwach eingeprägt.</p>
-                           <p xml:lang="el">Πατίνα καστανοκίτρινου χρώματος, το άνω στόμιο του διαύλου είναι  σπασμένο, ελαφρώς σβησμένη,  αδύναμη απότύπωση της σφραγίδας.
+                           <p xml:lang="el">Πατίνα καστανοκίτρινου χρώματος, το άνω στόμιο του διαύλου είναι  σπασμένο, ελαφρώς σβησμένο,  αδύναμη αποτύπωση της σφραγίδας.
                                     </p>
                         </condition>
                      </supportDesc>
@@ -146,7 +146,7 @@
                         <layout n="whole">
                            <rs type="execution">
                               <seg xml:lang="en">Struck</seg>
-                              <seg xml:lang="de">???</seg>
+                              <seg xml:lang="de">Geprägt</seg>
                               <seg xml:lang="el">Παιστό</seg>
                            </rs>
                            <rs type="shape">
@@ -180,7 +180,7 @@
                                 <interp type="datingCriteria" xml:lang="de"/>
                             </origDate>-->
                      <!-- for a date range or centuries (NOT BEFORE - NOT AFTER)-->
-                     <origDate type="analysis" notBefore="1041" notAfter="1060" evidence=" epigraphy iconography" resp="MC">
+                     <origDate type="analysis" notBefore="1041" notAfter="1060" evidence="epigraphy iconography" resp="MC">
                         <seg xml:lang="en">mid-11th c.</seg>
                         <seg xml:lang="de">Mitte 11. Jh.</seg>
                         <seg xml:lang="el">Μέσα 11ου αι. </seg>
@@ -323,6 +323,7 @@
             <graphic url="SB_14a.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -332,6 +333,7 @@
             <graphic url="SB_14b.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -392,7 +394,7 @@
             <p>Ὁ ἅγιος Γεώργιος / Κύριε βοήθει τῷ σῷ δούλῳ Νικηφόρω πατρίκιῳ καὶ στρατηγῷ τῷ Θεοδωροκάνῳ.</p>
             <p xml:lang="en">St. George. Lord, help your servant Nikephoros Theodorokanos, patrikios and strategos.</p>
             <p xml:lang="de"> Hl. Georg. Herr, hilf deinem Diener Nikephoros Theodorokanos, patrikios und strategos.</p>
-            <p xml:lang="el">Ο άγ. Γεώργιος. Κύριε βοήθησε τον δούλο σου Νικηφόρο Θεοδωρόκανο, πατρίκιο και στρατηγό.</p>
+            <p xml:lang="el">Ο άγ. Γεώργιος. Κύριε βοήθησε το δούλο σου Νικηφόρο Θεοδωρόκανο, πατρίκιο και στρατηγό.</p>
          </div>
          <!--<div type="commentary" subtype="text">
                   <p xml:lang="en">[your commentary here]</p> <!-\-if you have the commentary only in German and would like to show it also in the English page, you should delete the xml:lang-\->
@@ -415,13 +417,13 @@
 -->                      </bibl>
             </p>
          </div>
-         <div type="bibliography" subtype="discussion"> <!--if you don't have further bibliography, put this div in a comment-->
+         <!--<div type="bibliography" subtype="discussion"> <!-\-if you don't have further bibliography, put this div in a comment-\->
             <p>
-                      <!--<bibl>
+                      <!-\-<bibl>
                           <ptr target=""/>, <citedRange unit=""/>
-                      </bibl>-->
+                      </bibl>-\->
                   </p>
-         </div>
+         </div>-->
       </body>
    </text>
 </TEI>

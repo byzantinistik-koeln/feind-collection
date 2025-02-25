@@ -392,15 +392,15 @@
             <p xml:lang="el">Αγία Τριάδα, Θεέ μας, βοήθησε τον Νικήτα ύπατο και διοικητή.</p>
          </div>
          <div type="commentary" subtype="text">
-            <p xml:lang="en">The issuer is known only from this seal type.[1]</p>
+            <p xml:lang="en">The issuer is known only from this seal type.</p>
             <p xml:lang="de"/>
          </div>
          <div type="commentary" subtype="footnotes">
-            <p xml:id="footnote-1">[1]. <bibl>
+            <!--<p xml:id="footnote-1"><bibl>
                   <ptr target="PmbZOnline"/>, <citedRange unit="entry">
                      <ref target="https://www.degruyter.com/database/PMBZ/entry/PMBZ16578/html">5395</ref>
                   </citedRange>
-               </bibl>.</p>
+               </bibl>.</p>-->
          </div>
          <div type="bibliography" subtype="edition">
             <p/>
