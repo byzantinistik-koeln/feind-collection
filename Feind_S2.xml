@@ -81,7 +81,7 @@
                   <summary n="whole">
                      <seg xml:lang="en">Provincial administration</seg>
                      <seg xml:lang="de">Provinzialverwaltug</seg>
-                     <seg xml:lang="el">Μολυβδόβουλλα αξιωματούχων της περιφερειακής διοίκησης</seg>
+                     <seg xml:lang="el">Μολυβδόβουλλα αξιωματούχων της περιφερειακής διοίκησης.</seg>
                   </summary>
                   <msItem>
                      <author>
@@ -97,7 +97,7 @@
                            </seg>
                            <interp type="milieu" xml:lang="en">Civil</interp>
                            <interp type="milieu" xml:lang="de">Zivil</interp>
-                           <interp type="milieu" xml:lang="el">Κρατικό (πεδίο δραστηριοποίησης)</interp>
+                           <interp type="milieu" xml:lang="el">Κρατικό (πεδίο δραστηριοποίησης).</interp>
                         </roleName>
                      </author>
                   </msItem>
@@ -135,7 +135,7 @@
                         <condition rend="obliterated">
                            <p xml:lang="en">Partially dented and effaced on both sides. </p>
                            <p xml:lang="de">Auf beiden Seiten teilweise verbeult und befleckt.</p>
-                           <p xml:lang="el"> Η σφραγίδα έχει υποστεί ελαφρώς συμπίεση  και έχουν σβηστεί τα γράμματα και στις δυο πλευρές.</p>
+                           <p xml:lang="el"> Το μολυβδόβουλλο έχει υποστεί ελαφρώς συμπίεση  και έχουν σβηστεί τα γράμματα και στις δύο όψεις.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -298,7 +298,7 @@
                               <figDesc ana="" n="v" xml:lang="de"/>
                               <figDesc ana="" n="decoV" xml:lang="en">Above the legend, a decoration consisting of a dot between two dashes. Border of dots.</figDesc>
                               <figDesc ana="" n="decoV" xml:lang="de">Über der Legende befindet sich eine Verzierung, die aus einem Punkt zwischen zwei Strichen besteht. Perlrand.</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="el">Πάνω από την επιγραφή, διακοσμητικό μοτίβο, το οποίο αποτελείται από μια τελεία ανάμεσα σε δύο παύλες. Στικτό πλαίσιο.</figDesc>
+                              <figDesc ana="" n="decoV" xml:lang="el">Πάνω από την επιγραφή, διακοσμητικό μοτίβο, το οποίο αποτελείται από μια στιγμή ανάμεσα σε δύο γραμμές. Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
