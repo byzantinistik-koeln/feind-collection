@@ -4,6 +4,7 @@
          <titleStmt>
             <title xml:lang="en">Seal of Nikephoros Botaneiates protoproedros and doux of Peloponnese and Hellas</title>
             <title xml:lang="de">Siegel des Nikephoros Botaneiates protoproedros und dux von Peloponnes und Hellas</title>
+            <title xml:lang="el">Μολυβδόβουλλο Νικηφόρου Βοτανειάτη πρωτοπροέδρου και δούκα της Πελοποννήσου και της Ελλάδας.</title>
             <editor role="seal-editor" xml:id="MC">Maria Teresa Catalano</editor>
             <editor role="seal-editor" xml:id="MF">Martina Filosa</editor>
             <editor role="seal-editor" xml:id="CS">Claudia Sode</editor>
@@ -43,6 +44,10 @@
                      <forename>Nikephoros</forename>
                      <surname>III</surname>
                   </persName>
+                  <persName xml:lang="el">
+                     <forename>Νικηφόρος</forename>
+                     <surname>Γ</surname>
+                  </persName>
                </person>
             </listPerson>
             <msDesc>
@@ -50,10 +55,12 @@
                   <country>
                      <seg xml:lang="en">Germany</seg>
                      <seg xml:lang="de">Deutschland</seg>
+                     <seg xml:lang="el">Γερμανία</seg>
                   </country>
                   <settlement>
                      <seg xml:lang="en">Cologne</seg>
                      <seg xml:lang="de">Köln</seg>
+                     <seg xml:lang="el">Κολωνία</seg>
                   </settlement>
                   <institution/>
                   <repository/>
@@ -74,6 +81,7 @@
                   <summary n="whole">
                      <seg xml:lang="en">Provincial administration.</seg>
                      <seg xml:lang="de">Provinzialverwaltung</seg>
+                     <seg xml:lang="el">Μολυβδόβουλλα αξιωματούχων της περιφερειακής διοίκησης.</seg>
                   </summary>
                   <msItem>
                      <author>
@@ -84,8 +92,12 @@
                            <seg xml:lang="de">
                               <ref target="http://pbw2016.kdl.kcl.ac.uk/person/Nikephoros/3/">Nikephoros III Botaneiates</ref>
                            </seg>
+                           <seg xml:lang="de">
+                              <ref target="http://pbw2016.kdl.kcl.ac.uk/person/Nikephoros/3/">Νικηφόρος Γ' Βοτανειάτης</ref>
+                           </seg>
                            <interp type="milieu" xml:lang="en">Military</interp>
                            <interp type="milieu" xml:lang="de">Militär</interp>
+                           <interp type="milieu" xml:lang="el">Στρατιωτικό (πεδίο δραστηριοποίησης).</interp>
                         </roleName>
                      </author>
                   </msItem>
@@ -98,15 +110,18 @@
                               <term>
                                  <seg xml:lang="en">Seal</seg>
                                  <seg xml:lang="de">Siegel</seg>
+                                 <seg xml:lang="el">Μολυβδόβουλλο</seg>
                               </term>
                               <interp type="workType" xml:lang="en">Original
                                             impression</interp>
                               <interp type="workType" xml:lang="de">Origineller
                                             Siegelabdruck</interp>
+                              <interp type="workType" xml:lang="el">Αρχική αποτύπωση</interp>
                            </objectType>
                            <material>
                               <seg xml:lang="en">Lead</seg>
                               <seg xml:lang="de">Blei</seg>
+                              <seg xml:lang="el">Μόλυβδος</seg>
                            </material>
                            <dimensions type="support" unit="mm">
                               <dim type="diameter">30</dim>
@@ -120,17 +135,20 @@
                         <condition rend="corroded obliterated">
                            <p xml:lang="en">Green patina, corroded, dented, partially effaced.</p>
                            <p xml:lang="de">Grüne Patina, korrodiert, eingedellt, teilweise ausgelöscht.</p>
+                           <p xml:lang="el">Πατίνα πράσινου χρώματος, διαβρωμένο, φέρει βαθούλωμα, ελαφρώς σβησμένο.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
                         <layout n="whole">
                            <rs type="execution">
                               <seg xml:lang="en">Struck</seg>
-                              <seg xml:lang="de">???</seg>
+                              <seg xml:lang="de">Geprägt</seg>
+                              <seg xml:lang="el">Παιστό</seg>
                            </rs>
                            <rs type="shape">
                               <seg xml:lang="en">Round</seg>
                               <seg xml:lang="de">Rund</seg>
+                              <seg xml:lang="el">Σφαιρικό</seg>
                            </rs>
                            <rs type="matrix" subtype="not-surviving">
                               <idno type="SigiDoc">"m-0v0l2o"</idno>
@@ -161,6 +179,7 @@
                      <origDate type="analysis" notBefore="1068" notAfter="1074" evidence="iconography epigraphy prosopography" resp="#MC">
                         <seg xml:lang="en">1068–1074.</seg>
                         <seg xml:lang="de">1068–1074.</seg>
+                        <seg xml:lang="el">1068–1074.</seg>
                      </origDate>
                      <!-- for an internal date >
                             <origDate type="internal" when="0001" when-custom="2023" datingMethod="">
@@ -222,6 +241,7 @@
                               </dimensions>
                               <p xml:lang="en">Iconography</p>
                               <p xml:lang="de">Ikonographie</p>
+                              <p xml:lang="el">Εικονογραφία</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -237,8 +257,10 @@
                            <figure>
                               <figDesc ana="" n="r" xml:lang="en">St Demetrios standing, holding a spear in his right hand and resting his left hand on a shield. Legend preserved at left.</figDesc>
                               <figDesc ana="" n="r" xml:lang="de">Stehender Hl. Demetrios mit Lanze in der rechten und Schild in der linken Hand. Beischrift auf rechter Seite erhalten.</figDesc>
+                              <figDesc ana="" n="r" xml:lang="el">Ιστάμενη μορφή του αγ. Δημητρίου, κρατάει δόρι στο δεξί χέρι και ακουμπάει το αριστερό του χέρι σε ασπίδα. Διακρίνεται επιγραφή στα αριστερά.</figDesc>
                               <figDesc ana="" n="decoR" xml:lang="en">Border of dots.</figDesc>
                               <figDesc ana="" n="decoR" xml:lang="de">Perlrand</figDesc>
+                              <figDesc ana="" n="decoR" xml:lang="el">Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -268,6 +290,7 @@
                               </dimensions>
                               <p xml:lang="en">Legend of 8 lines.</p>
                               <p xml:lang="de">Legende auf 8 Zeilen.</p>
+                              <p xml:lang="el">Επιγραφή 8 στίχων.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -285,6 +308,7 @@
                               <figDesc ana="" n="v" xml:lang="de"/>
                               <figDesc ana="" n="decoV" xml:lang="en">Cross at the beginning of the legend. The last line is between two dashes. Border of dots.</figDesc>
                               <figDesc ana="" n="decoV" xml:lang="de">Kreuz am Anfang der Legende. Die letzte Zeile ist zwischen zwei Zierlinien. Perlrand.</figDesc>
+                              <figDesc ana="" n="decoV" xml:lang="el">Σταυρός στην αρχή της επιγραφής. Ο τελευταίος στίχος βρίσκεται ανάμεσα σε δύο στιγμές. Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -304,6 +328,7 @@
             <graphic url="SB_2a.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -313,6 +338,7 @@
             <graphic url="SB_2b.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -371,16 +397,17 @@
             <p>ὁ ἅγιος Δημήτριος. / Κύριε βοήθει Νικηφόρῳ πρoτωπροέδρῳ καὶ δουκὶ Πελοπονίσου καὶ Ἑλάδος τῷ Βοτανειάτι.</p>
             <p xml:lang="en">St Demetrios. Lord, help Nikephoros Botaneiates protoproedros and doux of Peloponnese and Hellas.</p>
             <p xml:lang="de">Hl. Demetrios. Herr, hilf Nikephoros Botaneiates protoproedros und dux von Peloponnes und Hellas.</p>
+            <p xml:lang="el">Ο άγιος Δημήτριος. Κύριε βοήθησε το Νικήφόρο Βοτανειάτη πρωτοπρόεδρο και δούκα Πελοποννήσου και Ελλάδος.</p>
          </div>
          <div type="commentary" subtype="text">
-            <p xml:lang="en">The seal’s issuer is Nikephoros III Botaneiates, emperor of the Byzantine Empire from 1078 to 1081, at an earlier stage of his career.[1]</p>
+            <p xml:lang="en">The seal’s issuer is Nikephoros III Botaneiates, emperor of the Byzantine Empire from 1078 to 1081, at an earlier stage of his career.</p>
          </div>
          <div type="commentary" subtype="footnotes">
-            <p xml:id="footnote-1">[1]. <bibl>
+            <!--<p xml:id="footnote-1">[1]. <bibl>
                   <ptr target="PBW"/>, <citedRange unit="entry">
                      <ref target="http://pbw2016.kdl.kcl.ac.uk/person/Nikephoros/3/">Nikephoros 3</ref>
                   </citedRange>
-               </bibl>.</p>
+               </bibl>.</p>-->
          </div>
          <div type="bibliography" subtype="edition">
             <p>
@@ -388,8 +415,8 @@
                   <ptr target="Feind2010"/>, p. <citedRange unit="page">157-159</citedRange>, no. <citedRange unit="entry">22</citedRange>
                </bibl>.</p>
          </div>
-         <div type="bibliography" subtype="parallels"><!--Begleres1916 in in bibliography ergänzen, G. Begleres, Ο αυτοκράτωρ του Βυζαντίου Νικηφόρος ο Βοτανειάτης: πρωτοπρόεδρος και Δούξ Ελλάδος και Πελοποννήσου, Athens 1916.-->
-                <!--Laurent1929 in bibliography ergänzen, V. Laurent, Bulletin de Sigillographie Byzantine: quinze années de découvertes et d’étude (1915–1929), Byzantion 5/1, 1929, p. 571–654-->
+         <div type="bibliography" subtype="parallels"><!--Begleres1916 in in bibliography ergänzen, G. Begleres, Ο αυτοκράτωρ του Βυζαντίου Νικηφόρος ο Βοτανειάτης: πρωτοπρόεδρος και Δούξ Ελλάδος και Πελοποννήσου, Athens 1916.--> <!--done-->
+                <!--Laurent1929 in bibliography ergänzen, V. Laurent, Bulletin de Sigillographie Byzantine: quinze années de découvertes et d’étude (1915–1929), Byzantion 5/1, 1929, p. 571–654--><!--DONE-->
             <p>(1) specimen published by Begleres (acquired in Smyrna; current location unknown) – <bibl>
                   <ptr target="Begleres1916"/>, p. <citedRange unit="page">5</citedRange> (with picture)</bibl>; <bibl>
                   <ptr target="Laurent1929"/>, p. <citedRange unit="page">610</citedRange>, no. <citedRange unit="entry">3</citedRange>

@@ -6,6 +6,7 @@
                     Cappadocia</title>
             <title xml:lang="de">Siegel des Hypatios spatharokandidatos, asekretis und krites
                     von Kappadokien</title>
+            <title xml:lang="el">Μολυβδόβουλλο Υπατίου σπαθαροκανδιδάτου, ασηκρίτη και κριτή της Καππαδοκίας</title>
             <editor role="seal-editor" xml:id="MC">Maria Teresa Catalano</editor>
             <editor role="seal-editor" xml:id="MF">Martina Filosa</editor>
             <editor role="seal-editor" xml:id="CS">Claudia Sode</editor>
@@ -43,6 +44,9 @@
                   <persName xml:lang="de">
                      <forename>Hypatios</forename>
                   </persName>
+                  <persName xml:lang="el">
+                     <forename>Υπάτιος</forename>
+                  </persName>
                </person>
             </listPerson>
             <msDesc>
@@ -50,10 +54,12 @@
                   <country>
                      <seg xml:lang="en">Germany</seg>
                      <seg xml:lang="de">Deutschland</seg>
+                     <seg xml:lang="el">Γερμανία</seg>
                   </country>
                   <settlement>
                      <seg xml:lang="en">Cologne</seg>
                      <seg xml:lang="de">Köln</seg>
+                     <seg xml:lang="el">Κολωνία</seg>
                   </settlement>
                   <institution/>
                   <repository/>
@@ -74,6 +80,7 @@
                   <summary n="whole">
                      <seg xml:lang="en">Provincial administration.</seg>
                      <seg xml:lang="de">Provinzialverwaltung</seg>
+                     <seg xml:lang="el">Μολυβδόβουλλα αξιωματούχων περιφερειακής διοίκησης.</seg>
                   </summary>
                   <msItem>
                      <author>
@@ -84,8 +91,12 @@
                            <seg xml:lang="de">
                               <ref target="https://www.degruyter.com/database/PMBZ/entry/PMBZ22359/html">Hypatios</ref>
                            </seg>
+                           <seg xml:lang="el">
+                              <ref target="https://www.degruyter.com/database/PMBZ/entry/PMBZ22359/html">Υπάτιος</ref>
+                           </seg>
                            <interp type="milieu" xml:lang="en">Civil</interp>
                            <interp type="milieu" xml:lang="de">Zivil</interp>
+                           <interp type="milieu" xml:lang="el">Κρατικό (πεδίο δραστηριοποίησης).</interp>
                         </roleName>
                      </author>
                   </msItem>
@@ -98,15 +109,18 @@
                               <term>
                                  <seg xml:lang="en">Seal</seg>
                                  <seg xml:lang="de">Siegel</seg>
+                                 <seg xml:lang="el">Μολυβδόβουλλο</seg>
                               </term>
                               <interp type="workType" xml:lang="en">Original
                                             impression</interp>
                               <interp type="workType" xml:lang="de">Origineller
                                             Siegelabdruck</interp>
+                              <interp type="workType" xml:lang="el">Αρχική αποτύπωση</interp>
                            </objectType>
                            <material>
                               <seg xml:lang="en">Lead</seg>
                               <seg xml:lang="de">Blei</seg>
+                              <seg xml:lang="el">Μόλυβδος</seg>
                            </material>
                            <dimensions type="support" unit="mm">
                               <dim type="diameter">21</dim>
@@ -122,17 +136,20 @@
                                         blank too small for the die.</p>
                            <p xml:lang="de">Teilweise abgenutzt auf beiden Seiten, Rohling
                                         zu klein für die Matrix.</p>
+                           <p xml:lang="el">Ελαφρώς σβησμένο και φέρει βαθουλώματα και στις δύο όψεις, ο δίσκος πολύ μικρότερος από τη σφραγίδα αποτύπωσης.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
                         <layout n="whole">
                            <rs type="execution">
                               <seg xml:lang="en">Struck</seg>
-                              <seg xml:lang="de">???</seg>
+                              <seg xml:lang="de">Geprägt</seg>
+                              <seg xml:lang="el">Παιστό</seg>
                            </rs>
                            <rs type="shape">
                               <seg xml:lang="en">Round</seg>
                               <seg xml:lang="de">Rund</seg>
+                              <seg xml:lang="el">Σφαιρικό</seg>
                            </rs>
                            <rs type="matrix" subtype="not-surviving">
                               <idno type="SigiDoc">"m-p2kTIl"</idno>
@@ -163,6 +180,7 @@
                      <origDate type="analysis" notBefore="1001" notAfter="1033" evidence="epigraphy" resp="#MC">
                         <seg xml:lang="en">11th c., first third.</seg>
                         <seg xml:lang="de">11. Jh., erstes Drittel.</seg>
+                        <seg xml:lang="el">11ος αι., πρώτο τρίτο.</seg>
                      </origDate>
                      <!-- for an internal date >
                             <origDate type="internal" when="0001" when-custom="2023" datingMethod="">
@@ -226,6 +244,7 @@
                                             along the circumference is not preserved.</p>
                               <p xml:lang="de">Ikonographie mit umlaufender Legende. Die umlaufende Legende ist nicht
                                             erhalten.</p>
+                              <p xml:lang="el">Εικονογραφία με κυκλοτερή επιγραφή. Περιβάλλεται απο κυκλοτερή επιγραφή η οποία δεν σώζεται.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -245,10 +264,12 @@
                                             einen Speer in der rechten Hand und ein Schild in der
                                             linken Hand trägt. Reste einer Legende auf der linken
                                             Seite.</figDesc>
+                              <figDesc ana="" n="r" xml:lang="el">Προτομή του αγ. Δημητρίου, κρατάει δόρι στο δεξί και ασπίδα στο αριστερό χέρι. Ίχνη επιγραφής στα αριστερά του πεδίου.</figDesc>
                               <figDesc ana="" n="decoR" xml:lang="en">No border
                                             visible.</figDesc>
                               <figDesc ana="" n="decoR" xml:lang="de">Kein Rand
                                             sichtbar.</figDesc>
+                              <figDesc ana="" n="decoR" xml:lang="el">Δεν διακρίνεται πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -278,6 +299,7 @@
                               </dimensions>
                               <p xml:lang="en">Legend of 5 lines.</p>
                               <p xml:lang="de">Legende auf 5 Zeilen.</p>
+                              <p xml:lang="el">Επιγραφή 5 στίχων.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -297,6 +319,7 @@
                                             visible.</figDesc>
                               <figDesc ana="" n="decoV" xml:lang="de">Kein Rand
                                             sichtbar.</figDesc>
+                              <figDesc ana="" n="decoV" xml:lang="el">Δεν διακρίνεται πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -318,6 +341,7 @@
             <graphic url="SB_10a.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -327,6 +351,7 @@
             <graphic url="SB_10b.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -380,6 +405,7 @@
             <p>Ὁ ἅγιος Δημήτριος. Θεοτόκε βοήθει τῷ σῷ δούλῳ / Ὑπατίῳ σπαθαροκανδιδάτῳ ἀσηκρῆτις καὶ κριτῇ Καππαδοκίας.</p>
             <p xml:lang="en">St. Demetrios. Mother of God, help your servant Hypatios spatharokandidatos, asekretis, and krites of Cappadocia.</p>
             <p xml:lang="de">Hl. Demetrios. Muttergottes, hilf deinem Diener Hypatios spatharokandidatos, asekretis und krites von Kappadokien.</p>
+            <p xml:lang="el">Ο άγιος Δημήτριος. Θεοτόκε βοήθησε το δούλο σου Υπάτιο σπαθαροκανδιδάτο ασηκρίτη και κριτή της Καππαδοκίας.</p>
          </div>
          <div type="commentary" subtype="text">
             <p xml:lang="en">The name of the issuer is quite unusual, and in fact Schlumberger read the name on his seal as Akatios.[1]</p>
@@ -412,7 +438,7 @@
                <bibl>
                   <ptr target="VlyssidouEtAl"/>, p. <citedRange unit="page">444</citedRange>, no. <citedRange unit="entry">3</citedRange>
                </bibl>; <bibl>
-                  <ptr target="Wassiliou2003"/>, p. <citedRange unit="page">43-44</citedRange>, no. <citedRange unit="entry">3</citedRange>
+                  <ptr target="Wassiliou2002b"/>, p. <citedRange unit="page">43-44</citedRange>, no. <citedRange unit="entry">3</citedRange>
                </bibl>.
                   </p>
          </div>

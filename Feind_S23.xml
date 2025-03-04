@@ -188,6 +188,7 @@
                      <origDate type="analysis" notBefore="1051" notAfter="1075" evidence="epigraphy" resp="#MC">
                         <seg xml:lang="en">11th c., third quarter.</seg>
                         <seg xml:lang="de">11. Jh., drittes Viertel.</seg>
+                        <seg xml:lang="el">11ος αι.,  τρίτο τέταρτο.</seg>
                      </origDate>
                      <!-- for an internal date >
                             <origDate type="internal" when="0001" when-custom="2023" datingMethod="">
@@ -416,7 +417,7 @@
             <p>Κὐριε βοἠθει τῷ σῷ δούλῳ Λέοντι στρατηγῷ / καὶ ἀναγραφεῖ Σελευκείας τῷ Βλάγγᾳ.</p>
             <p xml:lang="en">Lord, help your servant Leon Blangas, strategos and anagrapheus of Seleukeia.</p>
             <p xml:lang="de">Herr, hilf deinem Diener Leon Blangas, strategos und anagrapheus von Seleukeia.</p>
-            <p xml:lang="el">Κύριε βοήθησε το δούλο σου Λέοντα Βλάγγα, στρατηγό και αναγραφέα Σελεύεκειας.</p>
+            <p xml:lang="el">Κύριε βοήθησε το δούλο σου Λέοντα Βλάγγα, στρατηγό και αναγραφέα Σελεύκειας.</p>
          </div>
          <div type="commentary" subtype="text">
             <p xml:lang="en">The seal issuer is known only from this seal type.

@@ -4,6 +4,7 @@
          <titleStmt>
             <title xml:lang="en">Seal of the imperial kommerkia of Thessalonika</title>
             <title xml:lang="de">Siegel des kaiserlichen kommerkia von Thessalonika</title>
+            <title xml:lang="el">Μολυβδόβουλλο των βασιλικών κομμερκίων Θεσσαλονίκης</title>
             <editor role="seal-editor" xml:id="MC">Maria Teresa Catalano</editor>
             <editor role="seal-editor" xml:id="MF">Martina Filosa</editor>
             <editor role="seal-editor" xml:id="CS">Claudia Sode</editor>
@@ -41,6 +42,9 @@
                   <persName xml:lang="de">
                      <forename>?</forename>
                   </persName>
+                  <persName xml:lang="el">
+                     <forename>;</forename>
+                  </persName>
                </person>
             </listPerson>
             <msDesc>
@@ -48,10 +52,12 @@
                   <country>
                      <seg xml:lang="en">Germany</seg>
                      <seg xml:lang="de">Deutschland</seg>
+                     <seg xml:lang="el">Γερμανία</seg>
                   </country>
                   <settlement>
                      <seg xml:lang="en">Cologne</seg>
                      <seg xml:lang="de">Köln</seg>
+                     <seg xml:lang="el">Κολωνία</seg>
                   </settlement>
                   <institution/>
                   <repository/>
@@ -72,14 +78,17 @@
                   <summary n="whole">
                      <seg xml:lang="en">Provincial administration.</seg>
                      <seg xml:lang="de">Provinzialverwaltung</seg>
+                     <seg xml:lang="el">Μολυβδόβουλλα αξιωματούχων.</seg>
                   </summary>
                   <msItem>
                      <author>
                         <roleName role="issuer" type="civil"><!--Fragezeichen okay?-->
                            <seg xml:lang="en">?</seg>
                            <seg xml:lang="de">?</seg>
+                           <seg xml:lang="el">;</seg>
                            <interp type="milieu" xml:lang="en">Civil</interp>
                            <interp type="milieu" xml:lang="de">Zivil</interp>
+                           <interp type="milieu" xml:lang="el">Κρατικό (πεδίο δραστηριοποίησης).</interp>
                         </roleName>
                      </author>
                   </msItem>
@@ -92,15 +101,18 @@
                               <term>
                                  <seg xml:lang="en">Seal</seg>
                                  <seg xml:lang="de">Siegel</seg>
+                                 <seg xml:lang="el">Μολυβδόβουλλο</seg>
                               </term>
                               <interp type="workType" xml:lang="en">Original
                                             impression</interp>
                               <interp type="workType" xml:lang="de">Origineller
                                             Siegelabdruck</interp>
+                              <interp type="workType" xml:lang="el">Αρχική αποτύπωση</interp>
                            </objectType>
                            <material>
                               <seg xml:lang="en">Lead</seg>
                               <seg xml:lang="de">Blei</seg>
+                              <seg xml:lang="el">Μόλυβδος</seg>
                            </material>
                            <dimensions type="support" unit="mm">
                               <dim type="diameter">22</dim>
@@ -114,17 +126,20 @@
                         <condition rend="obliterated pierced blank-too-small">
                            <p xml:lang="en">Dark beige patina, partially effaced, weakly imprinted, two holes in the upper part, blank too small for the die.</p>
                            <p xml:lang="de">Dunkel-beige Patina, teilweise abgenutzt, schwache Prägung, zwei Löcher in der oberen Hälfte, Rohling zu klein für die Matrix.</p>
+                           <p xml:lang="el">Πατίνα σκούρου ερυθροκίτρινου χρώματος, ελαφρώς σβησμένο, αχνά αποτυπωμένο, φέρει δύο οπές στο άνω μέρος, ο δίσκος πολύ μικρότερος από τη σφραγίδα αποτύπωσης.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
                         <layout n="whole">
                            <rs type="execution">
                               <seg xml:lang="en">Struck</seg>
-                              <seg xml:lang="de">???</seg>
+                              <seg xml:lang="de">Geprägt</seg>
+                              <seg xml:lang="el">Παιστό</seg>
                            </rs>
                            <rs type="shape">
                               <seg xml:lang="en">Round</seg>
                               <seg xml:lang="de">Rund</seg>
+                              <seg xml:lang="el">Σφαιρικό</seg>
                            </rs>
                            <rs type="matrix" subtype="not-surviving">
                               <idno type="SigiDoc">"m-AK1ikk"</idno>
@@ -155,6 +170,7 @@
                      <origDate type="analysis" notBefore="0776" notAfter="0800" evidence="iconography" resp="#MC">
                         <seg xml:lang="en">8th c., last quarter.</seg>
                         <seg xml:lang="de">8. Jh., letztes Viertel.</seg>
+                        <seg xml:lang="el">8ος αι., τελευταίο τέταρτο.</seg>
                      </origDate>
                      <!-- for an internal date >
                             <origDate type="internal" when="0001" when-custom="2023" datingMethod="">
@@ -216,6 +232,7 @@
                               </dimensions>
                               <p xml:lang="en">Iconography</p>
                               <p xml:lang="de">Ikonographie</p>
+                              <p xml:lang="el">Εικονογραφία</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -231,8 +248,10 @@
                            <figure>
                               <figDesc ana="" n="r" xml:lang="en">Leo III, Constantine V, and Leo IV seated, each wearing a chlamys and a crown with cross.</figDesc>
                               <figDesc ana="" n="r" xml:lang="de">Leon III, Konstantin V und Leon IV thronend, jeweils mit Chlamys und einer Krone mit Kreuz.</figDesc>
+                              <figDesc ana="" n="r" xml:lang="el">Λέων Γ΄, Κωνσταντίνος Ε΄και Λέων Δ' ένθρονοι. Φορούν χλαμύδα και στέμμα με σταυρό.</figDesc>
                               <figDesc ana="" n="decoR" xml:lang="en">No border visible.</figDesc>
                               <figDesc ana="" n="decoR" xml:lang="de">Kein Rand sichtbar.</figDesc>
+                              <figDesc ana="" n="decoR" xml:lang="el">Δεν διακρίνεται πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -262,6 +281,7 @@
                               </dimensions>
                               <p xml:lang="en">In the upper field, Iconography; in the lower field, legend of 3 lines, the last line is missing.</p>
                               <p xml:lang="de">In der oberen Hälfte, Ikonographie; in der unteren Häfte, Legende auf 3 Zeilen, die letzte Zeile fehlt.</p>
+                              <p xml:lang="el">Στο άνω μέρος, εικονογραφία· στο κάτω μέρος, επιγραφή σε τρεις στίχους, με τον τελευταίο να λείπει.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -277,8 +297,10 @@
                            <figure>
                               <figDesc ana="" n="v" xml:lang="en">Two imperial busts, probably Constantine VI and Irene. Details indistinct.</figDesc>
                               <figDesc ana="" n="v" xml:lang="de">Zwei kaiserliche Büsten, wahrscheinlich Konstantin VI und Irene. Details undeutlich.</figDesc>
+                              <figDesc ana="" n="v" xml:lang="el">Δύο αυτοκρατορικές προτομές, πιθανώς του Κωνσταντίνου ΣΤ΄ και της Ειρήνης. Οι λεπτομέρειες είναι ασαφείς.</figDesc>
                               <figDesc ana="" n="decoV" xml:lang="en">No border visible.</figDesc>
                               <figDesc ana="" n="decoV" xml:lang="de">Kein Rand sichtbar.</figDesc>
+                              <figDesc ana="" n="decoV" xml:lang="el">Δεν διακρίνεται πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -298,6 +320,7 @@
             <graphic url="SB_11a.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -307,6 +330,7 @@
             <graphic url="SB_11b.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -353,6 +377,7 @@
             <p>Τῶν βασιλικῶν κομερκίων Θεσαλονίκης.</p>
             <p xml:lang="en">(Seal of) the imperial kommerkia of Thessalonika.</p>
             <p xml:lang="de">(Siegel der) kaiserlichen kommerkia von Thessalonika.</p>
+            <p xml:lang="el">(Σφραγίδα των) βασιλικών κομμερκίων Θεσσαλονίκης.</p>
          </div>
          <div type="commentary" subtype="text">
             <p xml:lang="en"/>

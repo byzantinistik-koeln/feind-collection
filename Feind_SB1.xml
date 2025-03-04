@@ -4,6 +4,7 @@
          <titleStmt>
             <title xml:lang="en">Seal of Tarasios hypatos</title>
             <title xml:lang="de">Siegel des Tarasios hypatos</title>
+            <title xml:lang="el">Μολυβδόβουλλο Ταρασίου υπάτου</title>
             <editor role="seal-editor" xml:id="MC">Maria Teresa Catalano</editor>
             <editor role="seal-editor" xml:id="MF">Martina Filosa</editor>
             <editor role="seal-editor" xml:id="CS">Claudia Sode</editor>
@@ -41,6 +42,9 @@
                   <persName xml:lang="de">
                      <forename>Tarasios</forename>
                   </persName>
+                  <persName xml:lang="el">
+                     <forename>Ταράσιος</forename>
+                  </persName>
                </person>
             </listPerson>
             <msDesc>
@@ -48,10 +52,12 @@
                   <country>
                      <seg xml:lang="en">Germany</seg>
                      <seg xml:lang="de">Deutschland</seg>
+                     <seg xml:lang="el">Γερμανία</seg>
                   </country>
                   <settlement>
                      <seg xml:lang="en">Cologne</seg>
                      <seg xml:lang="de">Köln</seg>
+                     <seg xml:lang="el">Κολωνία</seg>
                   </settlement>
                   <institution/>
                   <repository/>
@@ -72,6 +78,7 @@
                   <summary n="whole">
                      <seg xml:lang="en">Dignitaries</seg>
                      <seg xml:lang="de">Würdenträger</seg>
+                     <seg xml:lang="el">Μολυβδόβουλλα αξιωματούχων.</seg>
                   </summary>
                   <msItem>
                      <author>
@@ -82,8 +89,12 @@
                            <seg xml:lang="de">
                               <ref target="https://www.degruyter.com/database/PMBZ/entry/PMBZ18457/html">Tarasios</ref>
                            </seg>
+                           <seg xml:lang="el">
+                              <ref target="https://www.degruyter.com/database/PMBZ/entry/PMBZ18457/html">Ταράσιος</ref>
+                           </seg>
                            <interp type="milieu" xml:lang="en">Aristocracy</interp>
                            <interp type="milieu" xml:lang="de">Aristokratie</interp>
+                           <interp type="milieu" xml:lang="el">Αριστοκρατικό (πεδίο δραστηριοποίησης).</interp>
                         </roleName>
                      </author>
                   </msItem>
@@ -96,15 +107,18 @@
                               <term>
                                  <seg xml:lang="en">Seal</seg>
                                  <seg xml:lang="de">Siegel</seg>
+                                 <seg xml:lang="el">Μολυβδόβουλλο</seg>
                               </term>
                               <interp type="workType" xml:lang="en">Original
                                             impression</interp>
                               <interp type="workType" xml:lang="de">Origineller
                                             Siegelabdruck</interp>
+                              <interp type="workType" xml:lang="el">Αρχική αποτύπωση</interp>
                            </objectType>
                            <material>
                               <seg xml:lang="en">Lead</seg>
                               <seg xml:lang="de">Blei</seg>
+                              <seg xml:lang="el">Μόλυβδος</seg>
                            </material>
                            <dimensions type="support" unit="mm">
                               <dim type="diameter">25</dim>
@@ -118,17 +132,20 @@
                         <condition rend="corroded well-preserved">
                            <p xml:lang="en">Grey patina, slightly corroded.</p>
                            <p xml:lang="de">Graue Patina, leicht korrodiert.</p>
+                           <p xml:lang="el">Πατίνα πράσινου χρώματος, ελαφρώς διαβρωμένο.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
                         <layout n="whole">
                            <rs type="execution">
                               <seg xml:lang="en">Struck</seg>
-                              <seg xml:lang="de">???</seg>
+                              <seg xml:lang="de">Geprägt</seg>
+                              <seg xml:lang="el">Παιστό</seg>
                            </rs>
                            <rs type="shape">
                               <seg xml:lang="en">Round</seg>
                               <seg xml:lang="de">Rund</seg>
+                              <seg xml:lang="el">Σφαιρικό</seg>
                            </rs>
                            <rs type="matrix" subtype="not-surviving">
                               <idno type="SigiDoc">"m-pegDeu"</idno>
@@ -159,6 +176,7 @@
                      <origDate type="analysis" notBefore="0701" notAfter="0730" evidence="iconography epigraphy" resp="#MC">
                         <seg xml:lang="en">8th c., before 730.</seg>
                         <seg xml:lang="de">8. Jh., vor 730.</seg>
+                        <seg xml:lang="el">8ος αι., πριν το 730.</seg>
                      </origDate>
                      <!-- for an internal date >
                             <origDate type="internal" when="0001" when-custom="2023" datingMethod="">
@@ -220,6 +238,7 @@
                               </dimensions>
                               <p xml:lang="en">Iconography; In the upper field, a cross at left and right. Legend on either side.</p>
                               <p xml:lang="de">Ikonographie; Rechts und links im oberen Feld ein Kreuz. Legende auf beiden Seiten.</p>
+                              <p xml:lang="el">Εικονογραφία. Στο άνω μέρος,  σταυρός στα δεξιά και αριστερά του πεδίου. Επιγραφή εκατέρωθεν της μορφής.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -235,8 +254,11 @@
                            <figure>
                               <figDesc ana="" n="r" xml:lang="en">The Mother of God standing, holding the Christ on her left arm (Hodegetria).</figDesc>
                               <figDesc ana="" n="r" xml:lang="de">Stehende Muttergottes mit dem Christuskind auf dem linken Arm (Hodegetria-Typ).</figDesc>
+                              <figDesc ana="" n="r" xml:lang="el">Ιστάμενη Θεοτόκος κρατάει τον Χριστό στο αριστερό της χέρι (Οδηγήτρια).</figDesc>
                               <figDesc ana="" n="decoR" xml:lang="en">No border visible.</figDesc>
                               <figDesc ana="" n="decoR" xml:lang="de">Kein Rand sichtbar.</figDesc>
+                              <figDesc ana="" n="decoR" xml:lang="de">Kein Rand sichtbar.</figDesc>
+                              <figDesc ana="" n="decoR" xml:lang="el">Δεν διακρίνεται πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -266,6 +288,7 @@
                               </dimensions>
                               <p xml:lang="en">Legend of 5 lines.</p>
                               <p xml:lang="de">Legende auf 5 Zeilen.</p>
+                              <p xml:lang="el">Επιγραφή 5 στίχων.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -283,6 +306,7 @@
                               <figDesc ana="" n="v" xml:lang="de"/>
                               <figDesc ana="" n="decoV" xml:lang="en">Cross at the beginning of the legend. No border visible.</figDesc>
                               <figDesc ana="" n="decoV" xml:lang="de">Kreuz am Anfang der Legende. Kein Rand sichtbar.</figDesc>
+                              <figDesc ana="" n="decoV" xml:lang="el">Σταυρός στην αρχή της επιγραφής. Δεν διακρίνεται πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -302,6 +326,7 @@
             <graphic url="SB_1a.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -311,6 +336,7 @@
             <graphic url="SB_1b.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -320,8 +346,8 @@
          <div type="edition" subtype="editorial" xml:space="preserve"> 
                   <div type="textpart" subtype="label" n="obv" rend="columns" xml:lang="grc"> <!--obverse, editorial-->
                       <ab><!--incovation TOBEDONE-->
-                          <cb n="a"/>Παναγία Θε
-                          <cb n="b" break="no"/>οτόκε <expan><abbr>Σουβρ</abbr><ex>ίτων</ex></expan>
+                          <cb n="a"/><rs type="invocation" ref="inv007">Παναγία Θε
+                          <cb n="b" break="no"/>οτόκε <expan><abbr>Σουβρ</abbr><ex>ίτων</ex></expan></rs>
                       </ab>
                   </div>
                       <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
@@ -362,15 +388,16 @@
             <p>Παναγία Θεοτόκε Σουβρίτων / βοήθει τῳ δούλῳ σου Ταρασίῳ ὑπάτῳ.</p>
             <p xml:lang="en">All-holy Mother of God of the Soubritai, help your servant Tarasios hypatos.</p>
             <p xml:lang="de">Allheilige Muttergottes von Subritai, hilf deinem Diener Tarasios hypatos.</p>
+            <p xml:lang="el">Παναγία Θεοτόκε των Σουβρίτων, βοήθησε το δούλο σου Ταράσιο, τον ύπατο.</p>
          </div>
          <div type="commentary" subtype="text">
-            <p xml:lang="en">The issuer of the seal, Tarasius,[1] bears the title <hi rend="italic">hypatos</hi>, signaling the holder's upper-middle social position in the early 8th c.</p>
+            <p xml:lang="en"><!--The issuer of the seal, Tarasius,[1] bears the title <hi rend="italic">hypatos</hi>, signaling the holder's upper-middle social position in the early 8th c.--></p>
          </div>
-         <div type="commentary" subtype="footnotes"><!-- Laurent1933: V. Laurent, Sceaux byzantins inédits. [EO 32 (1933), 35–53] zu bibliography.xml hinzufügen-->
+         <!--<div type="commentary" subtype="footnotes"><!-\- Laurent1933: V. Laurent, Sceaux byzantins inédits. [EO 32 (1933), 35–53] zu bibliography.xml hinzufügen-\->
             <p xml:id="footnote-1">[1]. <bibl>
                   <ptr target="PmbZOnline"/>, <ref target="https://www.degruyter.com/database/PMBZ/entry/PMBZ18457/html">7229</ref>
                </bibl>.</p>
-         </div>
+         </div>-->
          <div type="bibliography" subtype="edition">
             <p>
                <bibl>
@@ -383,9 +410,9 @@
                </bibl>; (2) Triton, Auction XI (8–9 January 2008), <ref target="https://www.cngcoins.com/Coin.aspx?CoinID=115548">lot 1125</ref>, from the Robert E. Hecht Collection (= <bibl>
                   <ptr target="SBS_Auctions2007-2011"/>, p. <citedRange unit="page">188</citedRange>, no. <citedRange unit="entry">1125</citedRange>
                </bibl>); (3) Tatis Collection, no. 3035 – <bibl>
-                  <ptr target="CheynetXXXX"/>, no. <citedRange unit="entry">5.56</citedRange>
+                  <ptr target="CheynetTatış"/>, no. <citedRange unit="entry">5.56</citedRange>
                </bibl>; (4) BnF, no. 753 (Zacos Collection) – mentioned in <bibl>
-                  <ptr target="CheynetXXXX"/>, p. <citedRange unit="page">224</citedRange>
+                  <ptr target="CheynetTatış"/>, p. <citedRange unit="page">224</citedRange>
                </bibl>.
                 </p>
          </div>

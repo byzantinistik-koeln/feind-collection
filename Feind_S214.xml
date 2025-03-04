@@ -377,7 +377,7 @@
          <div type="commentary" subtype="text">
             <p xml:lang="en"> </p>
             <!--if you have the commentary only in German and would like to show it also in the English page, you should delete the xml:lang-->
-            <p xml:lang="de">[your commentary here]</p>
+            <p xml:lang="de"></p>
          </div>
          <div type="commentary" subtype="footnotes">
                 
