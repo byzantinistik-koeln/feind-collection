@@ -89,15 +89,12 @@
                   </summary>
                   <msItem>
                      <author>
-                        <roleName role="issuer" type=" civil">
-                           <seg xml:lang="en">
-                              <forename>Basileios </forename>
+                        <roleName role="issuer" type="civil">
+                           <seg xml:lang="en"><ref target="https://www.degruyter.com/database/PMBZ/entry/PMBZ23116/html">Basileios</ref>
+                              </seg>
+                           <seg xml:lang="de"><ref target="https://www.degruyter.com/database/PMBZ/entry/PMBZ23116/html">Basileios</ref>
                            </seg>
-                           <seg xml:lang="de">
-                              <forename>Basileios </forename>
-                           </seg>
-                           <seg xml:lang="el">
-                              <forename>Βασίλειος</forename>
+                           <seg xml:lang="el"><ref target="https://www.degruyter.com/database/PMBZ/entry/PMBZ23116/html">Βασίλειος</ref>
                            </seg>
                            <interp type="milieu" xml:lang="en">Civil</interp>
                            <interp type="milieu" xml:lang="de">Zivil</interp>
@@ -138,20 +135,19 @@
                            <measure type="channelOrient" unit="clock">5-12</measure>
                            <measure type="countermark" unit="clock"/>
                         </support>
-                        <condition rend=" well-preserved worn-edge">
+                        <condition rend="well-preserved worn-edge">
                            <p xml:lang="en">Broken in two halves along the thread channel
                                         with one half missing. </p>
                            <p xml:lang="de">Entlang des Fadenkanals halbiert, eine Hälfte
                                         fehlt.</p>
-                           <p xml:lang="el"> Σπασμένο στη μέση κατα μήκος του ανοίγματος
-                                        καναλιού με το άλλο μισό να λείπει. </p>
+                           <p xml:lang="el">Σπασμένο στη μέση κατά μήκος του διαύλου, με το άλλο μισό να λείπει.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
                         <layout n="whole">
                            <rs type="execution">
                               <seg xml:lang="en">Struck</seg>
-                              <seg xml:lang="de">???</seg>
+                              <seg xml:lang="de">Geprägt</seg>
                               <seg xml:lang="el">Παιστό</seg>
                            </rs>
                            <rs type="shape">
@@ -185,7 +181,7 @@
                                 <interp type="datingCriteria" xml:lang="de"/>
                             </origDate>-->
                      <!-- for a date range or centuries (NOT BEFORE - NOT AFTER)-->
-                     <origDate type="analysis" notBefore="0851" notAfter="0920" evidence=" epigraphy" cert="low" resp="MC">
+                     <origDate type="analysis" notBefore="0851" notAfter="0920" evidence="epigraphy" cert="low" resp="MC">
                         <seg xml:lang="en">9th c., second half – early 10th c.</seg>
                         <seg xml:lang="de">9. Jh., zweite Hälfte – frühes 10. Jh</seg>
                         <seg xml:lang="el">9ος αι., δεύτερο μισό – αρχές 10ου αι. </seg>
@@ -322,9 +318,9 @@
                               <figDesc ana="" n="decoV" xml:lang="de">Eine Ranken Dekoration auf
                                             einer separaten Zeile über und unter der Legende.
                                             Perlrand.</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="el">Διακοσμητικό μοτίβο σε
+                              <figDesc ana="" n="decoV" xml:lang="el">Διακοσμητικό μοτίβο με έλικες σε
                                             ξεχωριστή γραμμή πάνω και κάτω απο την επιγραφή. Στικτό
-                                            πλαίσιο. </figDesc>
+                                            πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -345,6 +341,7 @@
             <graphic url="Kr_3a.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -354,6 +351,7 @@
             <graphic url="Kr_3b.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -372,23 +370,9 @@
                           <lb n="2"/><supplied reason="lost">Βασι</supplied>λείῳ
                           <lb n="3"/>
                           <rs type="dignity" ref="#d0067">
-                              <supplied reason="lost">
-                                  <expan><abbr>β</abbr><ex>ασιλικῷ</ex></expan>
-                              </supplied>
-                              <supplied reason="lost">
-                                  <expan>
-                                      <abbr><am>Α</am></abbr>
-                                      <ex>πρωτο</ex>
-                                      <abbr>σπ</abbr></expan>
-                              </supplied>
-                              <supplied reason="lost">
-                                  <expan>
-                              <abbr>αθ</abbr>
-                              <ex>αρίῳ</ex>
-                              </expan>
-                              </supplied>
-                          </rs>
-                          <expan><abbr><am>S</am></abbr><ex>καὶ</ex></expan> <rs type="office" subtype="civil" ref="#of0118"><expan><abbr>γε</abbr>
+                              <supplied reason="lost"><expan><abbr>β</abbr><ex>ασιλικῷ</ex></expan>
+                              </supplied><supplied reason="lost"><expan><abbr><am>Α</am></abbr><ex>πρωτο</ex>
+                                      <abbr>σπ</abbr></expan></supplied><supplied reason="lost"><expan><abbr>αθ</abbr><ex>αρίῳ</ex></expan></supplied></rs> <expan><abbr><am>S</am></abbr><ex>καὶ</ex></expan> <rs type="office" subtype="civil" ref="#of0118"><expan><abbr>γε</abbr>
                           <lb n="4" break="no"/><supplied reason="lost"><abbr>νικ</abbr><ex>ῷ</ex></supplied></expan> <expan><abbr>λογοθ</abbr><ex>έτῃ</ex></expan></rs>
                       </ab>
                   </div>
@@ -419,24 +403,24 @@
             <p>Κύριε βοήθει τῷ σῷ δούλῳ / Βασιλείῳ βασιλικῷ πρωτοσπαθαρίῳ καὶ γενικῷ̣ λογοθέτῃ.</p>
             <p xml:lang="en">Lord, help your servant Basileios imperial protospatharios and genikos logothetes.</p>
             <p xml:lang="de">Herr, hilf deinem Diener Basileios kaiserlicher protospatharios und genikos logothetes.</p>
-            <p xml:lang="el">Κύριε βοήθησε τον δούλο σου Βασίλειο βασιλικό πρωτοσπαθάριο και γενικό λογοθέτη. </p>
+            <p xml:lang="el">Κύριε βοήθησε το δούλο σου Βασίλειο, βασιλικό πρωτοσπαθάριο και γενικό λογοθέτη. </p>
          </div>
          <div type="commentary" subtype="text">
-            <p xml:lang="en">The issuer is known only from this seal type[1].</p>
+            <p xml:lang="en">The issuer is known only from this seal type.</p>
             <!--if you have the commentary only in German and would like to show it also in the English page, you should delete the xml:lang-->
-            <p xml:lang="de">[your commentary here]</p>
+            <p xml:lang="de"></p>
          </div>
          <div type="commentary" subtype="footnotes">
             <p xml:lang="en"> </p>
             <!--if you have the footnotes only in French and would like to show it also in the English page, you should delete the xml:lang-->
-            <p xml:id="footnote-1">
-                    [1].    <bibl>
+            <!--<p xml:id="footnote-1">
+                      <bibl>
                   <ptr target="PmbZOnline"/>
                   <citedRange unit="entry">
                      <ref target="https://www.degruyter.com/database/PMBZ/entry/PMBZ23116/html">no. 20963</ref>
                   </citedRange>.</bibl>
-            </p>
-            <p xml:lang="de">[your footnotes here]</p>
+            </p>-->
+            <p xml:lang="de"></p>
          </div>
          <div type="bibliography" subtype="edition">
                 
@@ -476,13 +460,13 @@
 -->                      </bibl>
             </p>
          </div>
-         <div type="bibliography" subtype="discussion"> <!--if you don't have further bibliography, put this div in a comment-->
+         <!--<div type="bibliography" subtype="discussion"> <!-\-if you don't have further bibliography, put this div in a comment-\->
             <p>
-                      <!--<bibl>
+                      <!-\-<bibl>
                           <ptr target=""/>, <citedRange unit=""/>
-                      </bibl>-->
+                      </bibl>-\->
                   </p>
-         </div>
+         </div>-->
       </body>
    </text>
 </TEI>

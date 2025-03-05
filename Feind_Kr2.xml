@@ -4,6 +4,7 @@
          <titleStmt>
             <title xml:lang="en">Seal of Theodosios imperial spatharios and epi ton oikeiakon</title>
             <title xml:lang="de">Siegel des Theodosios kaiserlicher spatharios und epi ton oikeiakon</title>
+            <title xml:lang="el">Μολυβδόβουλλο Θεοδοσίου βασιλικού σπαθαρίου και επί των οικειακών</title>
             <editor role="seal-editor" xml:id="MC">Maria Teresa Catalano</editor>
             <editor role="seal-editor" xml:id="MF">Martina Filosa</editor>
             <editor role="seal-editor" xml:id="CS">Claudia Sode</editor>
@@ -41,6 +42,9 @@
                   <persName xml:lang="de">
                      <forename>Theodosios</forename>
                   </persName>
+                  <persName xml:lang="el">
+                     <forename>Θεοδόσιος</forename>
+                  </persName>
                </person>
             </listPerson>
             <msDesc>
@@ -48,10 +52,12 @@
                   <country>
                      <seg xml:lang="en">Germany</seg>
                      <seg xml:lang="de">Deutschland</seg>
+                     <seg xml:lang="el">Γερμανία</seg>
                   </country>
                   <settlement>
                      <seg xml:lang="en">Cologne</seg>
                      <seg xml:lang="de">Köln</seg>
+                     <seg xml:lang="el">Κολωνία</seg>
                   </settlement>
                   <institution/>
                   <repository/>
@@ -72,14 +78,17 @@
                   <summary n="whole">
                      <seg xml:lang="en">Central administration</seg>
                      <seg xml:lang="de">Zentralverwaltung</seg>
+                     <seg xml:lang="el">Μολυβδόβουλλα αξιωματούχων της κεντρικής διοίκησης.</seg>
                   </summary>
                   <msItem>
                      <author>
                         <roleName role="issuer" type="civil">
                            <seg xml:lang="en">Theodosios</seg>
                            <seg xml:lang="de">Theodosios</seg>
+                           <seg xml:lang="el">Θεοδόσιος</seg>
                            <interp type="milieu" xml:lang="en">Civil</interp>
                            <interp type="milieu" xml:lang="de">Zivil</interp>
+                           <interp type="milieu" xml:lang="el">Κρατικό (πεδίο δραστηριοποίησης).</interp>
                         </roleName>
                      </author>
                   </msItem>
@@ -92,15 +101,18 @@
                               <term>
                                  <seg xml:lang="en">Seal</seg>
                                  <seg xml:lang="de">Siegel</seg>
+                                 <seg xml:lang="el">Μολυβδόβουλλο</seg>
                               </term>
                               <interp type="workType" xml:lang="en">Original
                                             impression</interp>
                               <interp type="workType" xml:lang="de">Origineller
                                             Siegelabdruck</interp>
+                              <interp type="workType" xml:lang="el">Αρχική αποτύπωση</interp>
                            </objectType>
                            <material>
                               <seg xml:lang="en">Lead</seg>
                               <seg xml:lang="de">Blei</seg>
+                              <seg xml:lang="el">Μόλυβδος</seg>
                            </material>
                            <dimensions type="support" unit="mm">
                               <dim type="diameter">30</dim>
@@ -114,17 +126,20 @@
                         <condition rend="well-preserved clipped">
                            <p xml:lang="en">Grey patina, hole in the lower part.</p>
                            <p xml:lang="de">Graue Patina, Loch im unteren Teil.</p>
+                           <p xml:lang="el">Πατίνα γρκιζωπού χρώματος, οπή στο κάτω μέρος του μολυβδοβούλλου.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
                         <layout n="whole">
                            <rs type="execution">
                               <seg xml:lang="en">Struck</seg>
-                              <seg xml:lang="de">???</seg>
+                              <seg xml:lang="de">Geprägt</seg>
+                              <seg xml:lang="el">Παιστό</seg>
                            </rs>
                            <rs type="shape">
                               <seg xml:lang="en">Round</seg>
                               <seg xml:lang="de">Rund</seg>
+                              <seg xml:lang="el">Σφαιρικό</seg>
                            </rs>
                            <rs type="matrix" subtype="not-surviving">
                               <idno type="SigiDoc">"m-ReWlWV"</idno>
@@ -155,6 +170,7 @@
                      <origDate type="analysis" notBefore="0851" notAfter="0920" evidence="iconography epigraphy" resp="#MC">
                         <seg xml:lang="en">9th c., second half - early 10th c.</seg>
                         <seg xml:lang="de">Zweite Hälfte 9. Jh. - frühes 10. Jh.</seg>
+                        <seg xml:lang="el">9ος αι., δεύτερο μισό - αρχές 10ου αι.</seg>
                      </origDate>
                      <!-- for an internal date >
                             <origDate type="internal" when="0001" when-custom="2023" datingMethod="">
@@ -216,6 +232,7 @@
                               </dimensions>
                               <p xml:lang="en">Iconography with circular legend; along the circumference, the circular inscription begins with a cross at 7 o'clock.</p>
                               <p xml:lang="de">Ikonographie mit umlaufender Legende; die umlaufende Legende am äußeren Rand beginnt mit einem Kreuz bei 7 Uhr.</p>
+                              <p xml:lang="el">Εικονογραφία με κυκλοτερή επιγραφή. Κάτα μήκος της περιφέρειας, η επιγραφή  ξεκινάει με σταυρό στα αριστερά, στο σημείο του άξονα 7.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -231,8 +248,11 @@
                            <figure>
                               <figDesc ana="" n="r" xml:lang="en">Patriarchal cross mounted on three steps.</figDesc>
                               <figDesc ana="" n="r" xml:lang="de">Patriarchenkreuz auf drei Stufen.</figDesc>
+                              <figDesc ana="" n="r" xml:lang="el">Πατριαρχικός σταυρός υψώνεται  επάνω σε τριβαθμιδωτή
+                                 βάση.</figDesc>
                               <figDesc ana="" n="decoR" xml:lang="en">Cross at he beginning of the legend. Border of dots.</figDesc>
                               <figDesc ana="" n="decoR" xml:lang="de">Kreuz am Anfang der Legende. Perlrand.</figDesc>
+                              <figDesc ana="" n="decoR" xml:lang="el">Σταυρός στην αρχή της επιγραφής. Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -262,6 +282,7 @@
                               </dimensions>
                               <p xml:lang="en">Legend of 4 lines.</p>
                               <p xml:lang="de">Legende auf 4 Zeilen.</p>
+                              <p xml:lang="el">Επιγραφή 4 στίχων.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -279,6 +300,7 @@
                               <figDesc ana="" n="v" xml:lang="de"/>
                               <figDesc ana="" n="decoV" xml:lang="en">Above the legend, a decoration consisting of three dots. Border of dots.</figDesc>
                               <figDesc ana="" n="decoV" xml:lang="de">Drei Punkte oberhalb der Legende. Perlrand.</figDesc>
+                              <figDesc ana="" n="decoV" xml:lang="el">Πάνω από την επιγραφή, διακοσμητικό μοτίβο, το οποίο αποτελείται από τρεις στιγμές. Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -298,6 +320,7 @@
             <graphic url="Kr_2a.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -307,6 +330,7 @@
             <graphic url="Kr_2b.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -355,6 +379,7 @@
             <p>Κύριε βοήθει τῷ σῷ δούλῳ / Θεοδοσίῳ βασιλικῷ σπαθαρίῳ καὶ ἐπὶ τῶν ὐκειακῶν.</p>
             <p xml:lang="en">Lord, help your servant Theodosios imperial spatharios and epi ton oikeiakon.</p>
             <p xml:lang="de">Herr, hilf deinem Diener Theodosios kaiserlicher spatharios und epi ton oikeiakon.</p>
+            <p xml:lang="el">Κύριε βοήθησε το δούλο σου Θεοδόσιο, βασιλικό σπαθάριο και επί των οικειακών.</p>
          </div>
          <div type="commentary" subtype="text">
             <p xml:lang="en"/>

@@ -87,18 +87,15 @@
                   <msItem>
                      <author>
                         <roleName role="issuer" type=" civil ">
-                           <seg xml:lang="en">
-                              <forename>Petros</forename>
+                           <seg xml:lang="en"><ref target="http://pbw2016.kdl.kcl.ac.uk/person/Petros/20122/">Petros</ref>
+                                                         </seg>
+                           <seg xml:lang="de"><ref target="http://pbw2016.kdl.kcl.ac.uk/person/Petros/20122/">Petros</ref>
                            </seg>
-                           <seg xml:lang="de">
-                              <forename>Petros</forename>
-                           </seg>
-                           <seg xml:lang="el">
-                              <forename>Πέτρος</forename>
+                           <seg xml:lang="el"><ref target="http://pbw2016.kdl.kcl.ac.uk/person/Petros/20122/">Πέτρος</ref>
                            </seg>
                            <interp type="milieu" xml:lang="en">Civil</interp>
                            <interp type="milieu" xml:lang="de">Zivil</interp>
-                           <interp type="milieu" xml:lang="el">Κρατικό (πεδίο δραστηριοποίησης)</interp>
+                           <interp type="milieu" xml:lang="el">Κρατικό (πεδίο δραστηριοποίησης).</interp>
                         </roleName>
                      </author>
                   </msItem>
@@ -136,14 +133,14 @@
                         <condition rend="corroded ">
                            <p xml:lang="en">Grey patina, surface raised along the channel, faint imprint on the obverse.</p>
                            <p xml:lang="de">Grau patiniert, Oberfläche entlang des Kanals erhaben, schwacher Prägedruck auf der Vorderseite.</p>
-                           <p xml:lang="el"> Πατίνα γκριζωπού χρώματος, η επιφάνεια της σφραγίδας έχει ένα εξόγκωμα κατα μήκος του καναλιού, στην εμπρόσθια όψη η αποτύπωση είναι αχνή.</p>
+                           <p xml:lang="el"> Πατίνα γκριζωπού χρώματος, η επιφάνεια της σφραγίδας έχει ένα εξόγκωμα κατά μήκος του διαύλου, στην εμπρόσθια όψη η αποτύπωση είναι αχνή.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
                         <layout n="whole">
                            <rs type="execution">
                               <seg xml:lang="en">Struck</seg>
-                              <seg xml:lang="de">???</seg>
+                              <seg xml:lang="de">Geprägt</seg>
                               <seg xml:lang="el">Παιστό</seg>
                            </rs>
                            <rs type="shape">
@@ -177,7 +174,7 @@
                                 <interp type="datingCriteria" xml:lang="de"/>
                             </origDate>-->
                      <!-- for a date range or centuries (NOT BEFORE - NOT AFTER)-->
-                     <origDate type="analysis" notBefore="1001" notAfter="1050" evidence=" epigraphy" resp="MC">
+                     <origDate type="analysis" notBefore="1001" notAfter="1050" evidence="epigraphy" resp="MC">
                         <seg xml:lang="en">11th c., first half.</seg>
                         <seg xml:lang="de">11. Jh., erste Hälfte.</seg>
                         <seg xml:lang="el">11ος αι., πρώτο μισό. </seg>
@@ -319,6 +316,7 @@
             <graphic url="SB_27a" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -328,6 +326,7 @@
             <graphic url="SB_27b" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -384,7 +383,7 @@
             <p>Μήτηρ Θεοῦ. / Θεοτόκε βοήθει τῷ σῷ δούλῳ Πέτρῳ ἀσηκρῆτις καὶ κριτῇ τῶν Θρᾳκησίων.</p>
             <p xml:lang="en">Mother of God. Mother of God, help Petros asekretis and krites of Thrakesioi.</p>
             <p xml:lang="de">Muttergottes. Muttergottes, hilf Petros asekretis und krites von Thrakesioi.</p>
-            <p xml:lang="el">Θεοτόκε. Θεοτόκε βοήθησε τον δούλο σου Πέτρο  ασηκρήτη και κριτή Θρακησίων.</p>
+            <p xml:lang="el">Θεοτόκε. Θεοτόκε βοήθησε το δούλο σου Πέτρο  ασηκρήτη και κριτή Θρακησίων.</p>
          </div>
          <div type="commentary" subtype="text">
             <p xml:lang="en">The issuer is known only from this seal type [1]. </p>
