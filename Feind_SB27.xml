@@ -133,7 +133,7 @@
                         <condition rend="corroded ">
                            <p xml:lang="en">Grey patina, surface raised along the channel, faint imprint on the obverse.</p>
                            <p xml:lang="de">Grau patiniert, Oberfläche entlang des Kanals erhaben, schwacher Prägedruck auf der Vorderseite.</p>
-                           <p xml:lang="el"> Πατίνα γκριζωπού χρώματος, η επιφάνεια της σφραγίδας έχει ένα εξόγκωμα κατά μήκος του διαύλου, στην εμπρόσθια όψη η αποτύπωση είναι αχνή.</p>
+                           <p xml:lang="el"> Πατίνα γκριζωπού χρώματος, η επιφάνεια της σφραγίδας φέρει ένα εξόγκωμα κατά μήκος του διαύλου, στην εμπρόσθια όψη η αποτύπωση είναι αχνή.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -345,9 +345,9 @@
                                           
                               <lb n="1"/><rs type="invocation" ref="#inv002"><expan><abbr>Θ</abbr><ex>εοτό</ex><abbr>κε</abbr></expan> <expan><abbr>β</abbr><ex>οή</ex><abbr>θ</abbr><ex>ει</ex></expan>
                           <lb n="2"/>τῷ σῷ <expan><abbr>δού</abbr><ex>λῳ</ex></expan></rs>
-                          <lb n="3"/><persName type="forename" ref="#Petros-1">Πέτρ<ex>ῳ</ex></persName> <rs type="office" subtype="civil" ref="#asekretis_001">ἀση
-                          <lb n="4" break="no"/>κρῆτ<ex>ις</ex> </rs><ex>καὶ</ex> <rs type="office" subtype="civil" ref="#krites_005">κρ<ex>ι</ex>
-                          <lb n="5" break="no"/>τ<ex>ῇ</ex> τῶν <placeName type="geography" ref="#geo0006"><expan><abbr>Θρ</abbr><ex>ᾳ</ex>
+                          <lb n="3"/><persName type="forename" ref="#Petros-1"><expan><abbr>Πέτρ</abbr><ex>ῳ</ex></expan></persName> <rs type="office" subtype="civil" ref="#asekretis_001">ἀση
+                          <lb n="4" break="no"/><expan><abbr>κρῆτ</abbr><ex>ις</ex></expan></rs><expan><abbr><am>S</am></abbr><ex>καὶ</ex></expan> <rs type="office" subtype="civil" ref="#krites_005"><expan><abbr>κρ</abbr><ex>ι</ex>
+                          <lb n="5" break="no"/><abbr>τ</abbr><ex>ῇ</ex></expan> τῶν <placeName type="geography" ref="#geo0006"><expan><abbr>Θρ</abbr><ex>ᾳ</ex>
                           <lb n="6" break="no"/><abbr>κησ</abbr><ex>ίων</ex></expan></placeName></rs>
                       </ab>
                   </div>
@@ -383,22 +383,22 @@
             <p>Μήτηρ Θεοῦ. / Θεοτόκε βοήθει τῷ σῷ δούλῳ Πέτρῳ ἀσηκρῆτις καὶ κριτῇ τῶν Θρᾳκησίων.</p>
             <p xml:lang="en">Mother of God. Mother of God, help Petros asekretis and krites of Thrakesioi.</p>
             <p xml:lang="de">Muttergottes. Muttergottes, hilf Petros asekretis und krites von Thrakesioi.</p>
-            <p xml:lang="el">Θεοτόκε. Θεοτόκε βοήθησε το δούλο σου Πέτρο  ασηκρήτη και κριτή Θρακησίων.</p>
+            <p xml:lang="el">Θεοτόκε. Θεοτόκε βοήθησε το δούλο σου Πέτρο ασηκρήτη και κριτή Θρακησίων.</p>
          </div>
          <div type="commentary" subtype="text">
-            <p xml:lang="en">The issuer is known only from this seal type [1]. </p>
+            <p xml:lang="en">The issuer is known only from this seal type. </p>
             <!--if you have the commentary only in German and would like to show it also in the English page, you should delete the xml:lang-->
             <p xml:lang="de">[your commentary here]</p>
          </div>
          <div type="commentary" subtype="footnotes">
             <p xml:lang="en"/>
-            <p xml:id="footnote-1">
-                    [1]. <bibl>
+            <!--<p xml:id="footnote-1">
+                     <bibl>
                   <ptr target="PBW"/>
                   <citedRange unit="entry">
                      <ref target="http://pbw2016.kdl.kcl.ac.uk/person/Petros/20122/">Petros 20122</ref>.</citedRange>
                </bibl>
-            </p>
+            </p>-->
             <!--if you have the footnotes only in French and would like to show it also in the English page, you should delete the xml:lang-->
             <p xml:lang="de"/>
          </div>
@@ -428,7 +428,7 @@
                </bibl>;
                     (3) S. Kophopoulos Collection, no. 37 − <bibl>
                   <ptr target="Stavrakos2010"/>, <citedRange unit="part">no. 2.I.II. 6</citedRange>; </bibl>
-                       (4) Robert Feind Collection, SB-198.
+               (4) Robert Feind Collection,<ref target="http://127.0.0.1:9999/en/seals/Feind_SB198.html"> SB-198</ref>.
                       <bibl>
 
                       </bibl>

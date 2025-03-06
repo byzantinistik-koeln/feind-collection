@@ -4,6 +4,7 @@
          <titleStmt>
             <title xml:lang="en">Seal of Bonosos</title>
             <title xml:lang="de">Siegel des Bonosos</title>
+            <title xml:lang="el">Μολυβδόβουλλο Βονόσου</title>
             <editor role="seal-editor" xml:id="MC">Maria Teresa Catalano</editor>
             <editor role="seal-editor" xml:id="MF">Martina Filosa</editor>
             <editor role="seal-editor" xml:id="CS">Claudia Sode</editor>
@@ -41,6 +42,9 @@
                   <persName xml:lang="de">
                      <forename>Bonosos</forename>
                   </persName>
+                  <persName xml:lang="de">
+                     <forename>Bονόσος</forename>
+                  </persName>
                </person>
             </listPerson>
             <msDesc>
@@ -48,10 +52,12 @@
                   <country>
                      <seg xml:lang="en">Germany</seg>
                      <seg xml:lang="de">Deutschland</seg>
+                     <seg xml:lang="el">Γερμανία</seg>
                   </country>
                   <settlement>
                      <seg xml:lang="en">Cologne</seg>
                      <seg xml:lang="de">Köln</seg>
+                     <seg xml:lang="el">Κολωνία</seg>
                   </settlement>
                   <institution/>
                   <repository/>
@@ -72,14 +78,17 @@
                   <summary n="whole">
                      <seg xml:lang="en">Private</seg>
                      <seg xml:lang="de">Privat</seg>
+                     <seg xml:lang="el">Μολυβδόβουλλα ιδιωτών.</seg>
                   </summary>
                   <msItem>
                      <author>
                         <roleName role="issuer" type="private">
                            <seg xml:lang="en">Bonosos</seg>
                            <seg xml:lang="de">Bonosos</seg>
+                           <seg xml:lang="el">Βονόσος</seg>
                            <interp type="milieu" xml:lang="en">Private</interp>
                            <interp type="milieu" xml:lang="de">Privat</interp>
+                           <interp type="milieu" xml:lang="el">Ιδιωτικό</interp>
                         </roleName>
                      </author>
                   </msItem>
@@ -92,15 +101,19 @@
                               <term>
                                  <seg xml:lang="en">Seal</seg>
                                  <seg xml:lang="de">Siegel</seg>
+                                 <seg xml:lang="el">Μολυβδόβουλλο</seg>
                               </term>
                               <interp type="workType" xml:lang="en">Original
                                             impression</interp>
                               <interp type="workType" xml:lang="de">Origineller
                                             Siegelabdruck</interp>
+                              <interp type="workType" xml:lang="el">Αρχική
+                                 αποτύπωση.</interp>
                            </objectType>
                            <material>
                               <seg xml:lang="en">Lead</seg>
                               <seg xml:lang="de">Blei</seg>
+                              <seg xml:lang="el">Μόλυβδος</seg>
                            </material>
                            <dimensions type="support" unit="mm">
                               <dim type="diameter">21</dim>
@@ -114,17 +127,20 @@
                         <condition rend="chipped blank-too-small">
                            <p xml:lang="en">Grey beige patina, slightly chipped at both ends of the channel, blank too small for the die.</p>
                            <p xml:lang="de">Grau-beige Patina, leicht ausgebrochen an den Enden des Fadenkanals, Rohling zu klein für die Matrix.</p>
+                           <p xml:lang="el">Πατίνα γκρίζου χρώματος, ελαφρώς σπασμένο και στα δύο στόμια του διαύλου, ο δίσκος μικρότερος από τη σφραγίδα αποτύπωσης.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
                         <layout n="whole">
                            <rs type="execution">
                               <seg xml:lang="en">Struck</seg>
-                              <seg xml:lang="de">???</seg>
+                              <seg xml:lang="de">Geprägt </seg>
+                              <seg xml:lang="el">Παιστό</seg>
                            </rs>
                            <rs type="shape">
                               <seg xml:lang="en">Round</seg>
                               <seg xml:lang="de">Rund</seg>
+                              <seg xml:lang="el">Σφαιρικό</seg>
                            </rs>
                            <rs type="matrix" subtype="not-surviving">
                               <idno type="SigiDoc">"m-I4RThn"</idno>
@@ -155,6 +171,7 @@
                      <origDate type="analysis" notBefore="0581" notAfter="0620" evidence="epigraphy" resp="#MC">
                         <seg xml:lang="en">Late 6th c. – early 7th c.</seg>
                         <seg xml:lang="de">Spätes 6. Jh. – frühes 7. Jh.</seg>
+                        <seg xml:lang="el">Τέλη 6ου αι.  – αρχές 7ου αι.</seg>
                      </origDate>
                      <!-- for an internal date >
                             <origDate type="internal" when="0001" when-custom="2023" datingMethod="">
@@ -216,6 +233,7 @@
                               </dimensions>
                               <p xml:lang="en">Legend of 2 lines.</p>
                               <p xml:lang="de">Legende auf 2 Zeilen.</p>
+                              <p xml:lang="el">Επιγραφή 2 στίχων.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -233,6 +251,7 @@
                               <figDesc ana="" n="r" xml:lang="de"/>
                               <figDesc ana="" n="decoR" xml:lang="en">Wreath border.</figDesc>
                               <figDesc ana="" n="decoR" xml:lang="de">Schachtelhelmrand</figDesc>
+                              <figDesc ana="" n="decoR" xml:lang="el">Στεφανωτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -262,6 +281,7 @@
                               </dimensions>
                               <p xml:lang="en">Legend of 2 lines.</p>
                               <p xml:lang="de">Legende auf 2 Zeilen.</p>
+                              <p xml:lang="el">Επιγραφή 2 στίχων.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -279,6 +299,7 @@
                               <figDesc ana="" n="v" xml:lang="de"/>
                               <figDesc ana="" n="decoV" xml:lang="en">Wreath border.</figDesc>
                               <figDesc ana="" n="decoV" xml:lang="de">Schachtelhelmrand</figDesc>
+                              <figDesc ana="" n="decoV" xml:lang="el">Στεφανωτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -298,6 +319,7 @@
             <graphic url="S_12a.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -307,6 +329,7 @@
             <graphic url="S_12b.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -354,6 +377,7 @@
             <p>Βονόσου / Bonosu.</p>
             <p xml:lang="en">(Seal of) Bonosos. (Seal of) Bonosos.</p>
             <p xml:lang="de">(Siegel des) Bonosos. (Siegel des) Bonosos.</p>
+            <p xml:lang="el">(Σφραγίδα) Βονόσου. (Σφραγίδα) Βονόσου.</p>
          </div>
          <div type="commentary" subtype="text">
             <p xml:lang="en">According to <bibl>
@@ -371,7 +395,7 @@
          <div type="bibliography" subtype="edition">
             <p/>
          </div>
-         <div type="bibliography" subtype="parallels"><!-- Nesbitt1999 in bibliography ergänzen: J. W. Nesbitt, Byzantine lead seals from the vicinity of the governor’s palace and warehouses, in K. G. Holum, A. Raban, J. Patrich, Caesarea papers 2. Herod's temple, the provincial governor's praetorium and granaries, the later harbor, a gold coin hoard, and other studies (Journal of Roman Archaeology, Supplementary Series 35), Portsmouth, Ri, 1999, p. 129-135.-->
+         <div type="bibliography" subtype="parallels"><!-- Nesbitt1999 in bibliography ergänzen: J. W. Nesbitt, Byzantine lead seals from the vicinity of the governor’s palace and warehouses, in K. G. Holum, A. Raban, J. Patrich, Caesarea papers 2. Herod's temple, the provincial governor's praetorium and granaries, the later harbor, a gold coin hoard, and other studies (Journal of Roman Archaeology, Supplementary Series 35), Portsmouth, Ri, 1999, p. 129-135.--> <!--DONE-->
             <p>Similar seals are (1) Zacos Collection – <bibl>
                   <ptr target="Zacos1"/>, nos. <citedRange unit="entry">763a</citedRange>
                </bibl>; (2) DO BZS.1958.106.1118 – <bibl>

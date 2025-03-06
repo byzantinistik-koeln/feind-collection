@@ -90,7 +90,7 @@
                   <summary n="whole">
                      <seg xml:lang="en">Dignitaries</seg>
                      <seg xml:lang="de">Würdenträger</seg>
-                     <seg xml:lang="de">Μολυβδόβουλλα αξιωματούχων</seg>  
+                     <seg xml:lang="de">Μολυβδόβουλλα αξιωματούχων.</seg>  
                   </summary>
                </msContents>
                <physDesc>
@@ -108,7 +108,7 @@
                               <interp type="workType" xml:lang="en">Original
                                             impression.</interp>
                               <interp type="workType" xml:lang="el">Αρχική
-                                 αποτύπωση</interp>
+                                 αποτύπωση.</interp>
                            </objectType>
                            <material>
                               <seg xml:lang="de">Blei</seg>
@@ -127,7 +127,7 @@
                         <condition rend="not-centered well-struck">
                            <p xml:lang="de">Prägung nach rechts versetzt auf dem Avers, gut zentriert auf dem Revers.</p>
                            <p xml:lang="en">Struck off-centre to the upper right on the obverse, well centered on the reverse.</p>
-                           <p xml:lang="el">O εμπροσθότυπος αποκλίνει απο το κέντρο προς το άνω δεξίο  μέρος, στον οπισθότυπο κεντραρισμένη.</p>
+                           <p xml:lang="el">O εμπροσθότυπος αποκλίνει από το κέντρο προς το άνω δεξίο  μέρος, στον οπισθότυπο κεντραρισμένη.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -277,7 +277,7 @@
       <surfaceGrp>
          <surface n="r">
             <desc>Obverse</desc>
-            <graphic url="" type="photo">
+            <graphic url="M_160a.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
                <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
@@ -287,7 +287,7 @@
       <surfaceGrp>
          <surface n="v">
             <desc>Reverse</desc>
-            <graphic url="" type="photo">
+            <graphic url="M_160b.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
                <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>

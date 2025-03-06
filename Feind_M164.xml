@@ -4,6 +4,7 @@
          <titleStmt>
             <title xml:lang="de">Siegel des Theodoros</title>
             <title xml:lang="en">Seal of Theodoros</title>
+            <title xml:lang="el">Μολυβδόβουλλο Θεοδώρου</title>
             <editor role="seal-editor" xml:id="MC">Maria Teresa Catalano</editor>
             <editor role="seal-editor" xml:id="MF">Martina Filosa</editor>
             <editor role="seal-editor" xml:id="CS">Claudia Sode</editor>
@@ -47,6 +48,9 @@
                   <persName xml:lang="en">
                      <forename>Theodoros</forename>
                   </persName>
+                  <persName xml:lang="el">
+                     <forename>Θεόδωρος</forename>
+                  </persName>
                   <!--<idno type="PBW" ana=""></idno>
                         <idno type="PmbZ" ana=""></idno>-->
                </person>
@@ -57,6 +61,7 @@
                   <country>
                      <seg xml:lang="en">Germany</seg>
                      <seg xml:lang="de">Deutschland</seg>
+                     <seg xml:lang="el">Γερμανία</seg>
                   </country>
                   <settlement>
                      <seg xml:lang="en">
@@ -64,6 +69,9 @@
                      </seg>
                      <seg xml:lang="de">
                         <placeName ref="https://www.geonames.org/6553049/koeln.html"/>Köln</seg>
+                     <seg xml:lang="el">
+                        <placeName ref="https://www.geonames.org/6553049/koeln.html">Κολωνία</placeName>
+                     </seg>
                   </settlement>
                   <institution/>
                   <repository/>
@@ -82,6 +90,7 @@
                   <summary n="whole">
                      <seg xml:lang="en">Private</seg>
                      <seg xml:lang="de">Privat</seg>
+                     <seg xml:lang="el">Μολυβδόβουλλα ιδιωτών.</seg>
                   </summary>
                </msContents>
                <physDesc>
@@ -92,15 +101,19 @@
                               <term>
                                  <seg xml:lang="de">Siegel</seg>
                                  <seg xml:lang="en">Seal</seg>
+                                 <seg xml:lang="el">Μολυβδόβουλλο</seg>
                               </term>
                               <interp type="workType" xml:lang="de">Origineller
                                             Siegelabdruck.</interp>
                               <interp type="workType" xml:lang="en">Original
                                             impression.</interp>
+                              <interp type="workType" xml:lang="el">Αρχική
+                                 αποτύπωση.</interp>
                            </objectType>
                            <material>
                               <seg xml:lang="de">Blei</seg>
                               <seg xml:lang="en">Lead</seg>
+                              <seg xml:lang="el">Μόλυβδος</seg>
                            </material>
                            <dimensions type="support" unit="mm">
                               <dim type="diameter">23-27</dim>
@@ -116,6 +129,7 @@
                                         leicht korrodiert.</p>
                            <p xml:lang="en">Chipped at the upper end of the channel. Traces
                                         of corrosion.</p>
+                           <p xml:lang="el">Σπασμένο στο άνω στόμιο του διάλου, ελαφρώς διαβρωμένο.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -123,10 +137,12 @@
                            <rs type="execution">
                               <seg xml:lang="de">Geprägt</seg>
                               <seg xml:lang="en">Struck</seg>
+                              <seg xml:lang="el">Παιστό</seg>
                            </rs>
                            <rs type="shape">
                               <seg xml:lang="de">Rund</seg>
                               <seg xml:lang="en">Round</seg>
+                              <seg xml:lang="el">Σφαιρικό</seg>
                            </rs>
                            <rs type="matrix" subtype="not-surviving">
                               <idno type="SigiDoc">"m-Dli3aP"</idno>
@@ -143,6 +159,7 @@
                      <origDate type="analysis" notBefore="0681" notAfter="0720" evidence="epigraphy" cert="high" resp="#MC">
                         <seg xml:lang="en">Late 7th c. – early 8th c.</seg>
                         <seg xml:lang="de">Spätes 7. Jh. – frühes 8. Jh.</seg>
+                        <seg xml:lang="el"> ύστερος 7ος αι., – αρχές 8ου αι.</seg>
                      </origDate>
                   </origin>
                   <provenance type="found" subtype="discovered">
@@ -186,6 +203,7 @@
                                             I).</p>
                               <p xml:lang="de">Kreuzförmiges Invokationsmonogramm (Laurent
                                             I).</p>
+                              <p xml:lang="el">Σταυρόσχημο μονόγραμμα (Laurent, Τύπος I).</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -203,6 +221,7 @@
                                             the cruciform monogram. Wreath border.</figDesc>
                               <figDesc ana="" n="decoR" xml:lang="de">Kreuze in den Ecken des
                                             Kreuzmonogramms. Schachtelhalmrand.</figDesc>
+                              <figDesc ana="" n="decoR" xml:lang="el">Σταυρός στα τεταρτημόρια του σταυρόσχημου μονογράμματος. Στεφανωτό πλαίσιο..</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -231,6 +250,7 @@
                               </dimensions>
                               <p xml:lang="en">Cruciform monogram.</p>
                               <p xml:lang="de">Kreuzmonogramm</p>
+                              <p xml:lang="el">Σταυρόσχημο μονόγραμμα.</p>
                               <!--Only controlled vocabulary here? Fomerly there used to be also the possibility for free-text entries...-->
                            </layout>
                         </layoutDesc>
@@ -249,7 +269,8 @@
                                             border.</figDesc>
                               <figDesc ana="" n="decoV" xml:lang="de">Sternenförmige Dekoration
                                             in den Ecken des Kreuzmonogramms.
-                                            Schachtelhalmrand</figDesc>
+                                            Schachtelhalmrand.</figDesc>
+                              <figDesc ana="" n="decoV" xml:lang="el">Διακοσμητικό μοτίβο που μοιάζει με αστερίσκο, στα τεταρτημόρια του σταυρόσχημου μονογράμματος. Στεφανωτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -266,18 +287,20 @@
       <surfaceGrp>
          <surface n="r">
             <desc>Obverse</desc>
-            <graphic url="" type="photo">
+            <graphic url="M_164a.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
       <surfaceGrp>
          <surface n="v">
             <desc>Reverse</desc>
-            <graphic url="" type="photo">
+            <graphic url="M_164b.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>

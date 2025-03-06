@@ -5,6 +5,7 @@
          <titleStmt>
             <title xml:lang="en">Seal of Damianos</title>
             <title xml:lang="de">Siegel des Damianos</title>
+            <title xml:lang="el">Μολυβδόβουλλο Δαμιανού</title>
             <editor role="seal-editor" xml:id="MC">Maria Teresa Catalano</editor>
             <editor role="seal-editor" xml:id="MF">Martina Filosa</editor>
             <editor role="seal-editor" xml:id="CS">Claudia Sode</editor>
@@ -51,6 +52,10 @@
                      <forename>Damianos</forename>
                      <surname/>
                   </persName>
+                  <persName xml:lang="el">
+                     <forename>Δαμιανός</forename>
+                     <surname/>
+                  </persName>
                   <idno type="PBW"/>
                   <idno type="PmbZ"/>
                   <idno type="PLP"/>
@@ -63,10 +68,12 @@
                   <country>
                      <seg xml:lang="en">Germany</seg>
                      <seg xml:lang="de">Deutschland</seg>
+                     <seg xml:lang="el">Γερμανία</seg>
                   </country>
                   <settlement>
                      <seg xml:lang="en">Cologne</seg>
                      <seg xml:lang="de">Köln</seg>
+                     <seg xml:lang="el">Κολωνία</seg>
                   </settlement>
                   <institution/>
                   <repository/>
@@ -87,6 +94,7 @@
                   <summary n="whole">
                      <seg xml:lang="en">Ecclesiastical</seg>
                      <seg xml:lang="de">Kirchlich</seg>
+                     <seg xml:lang="el">Μολυβδόβουλλα εκκλησιαστικών αξιωματούχων.</seg>
                   </summary>
                </msContents>
                <physDesc>
@@ -97,15 +105,19 @@
                               <term>
                                  <seg xml:lang="en">Seal</seg>
                                  <seg xml:lang="de">Siegel</seg>
+                                 <seg xml:lang="el">Μολυβδόβουλλο</seg>
                               </term>
                               <interp type="workType" xml:lang="en">Original
                                             impression</interp>
                               <interp type="workType" xml:lang="de">Origineller
                                             Siegelabdruck</interp>
+                              <interp type="workType" xml:lang="el">Αρχική
+                                 αποτύπωση</interp>
                            </objectType>
                            <material>
                               <seg xml:lang="en">Lead</seg>
                               <seg xml:lang="de">Blei</seg>
+                              <seg xml:lang="el">Μόλυβδος</seg>
                            </material>
                            <dimensions type="support" unit="mm">
                               <dim type="diameter">18</dim>
@@ -119,17 +131,19 @@
                         <condition rend="corroded blank-too-small obliterated">
                            <p xml:lang="en">Corroded, partially flattened on the reverse, blank slightly too small for the die.</p>
                            <p xml:lang="de">Korrodiert, teilweise abgenutzt auf dem Revers, Rohling etwas zu klein für die Matrix.</p>
+                           <p xml:lang="el">Διαβρωμένο, μερικώς φθαρμένο στην οπίσθια όψη, ο δίσκος ελαφρώς μικρότερος από τη σφραγίδα αποτύπωσης.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
                         <layout n="whole">
                            <rs type="execution">
-                              <seg xml:lang="en">Struck</seg>
-                              <seg xml:lang="de">???</seg>
+                              <seg xml:lang="de">Geprägt </seg>
+                              <seg xml:lang="el">Παιστό</seg>
                            </rs>
                            <rs type="shape">
                               <seg xml:lang="en">Round</seg>
                               <seg xml:lang="de">Rund</seg>
+                              <seg xml:lang="el">Σφαιρικό</seg>
                            </rs>
                            <rs type="matrix" subtype="not-surviving">
                               <idno type="SigiDoc">"m-JwVzku"</idno>
@@ -160,6 +174,7 @@
                      <origDate type="analysis" notBefore="0901" notAfter="1000" evidence="epigraphy iconography" resp="#MC">
                         <seg xml:lang="en">10th c.</seg>
                         <seg xml:lang="de">10. Jh.</seg>
+                        <seg xml:lang="el">10ος αι.</seg>
                      </origDate>
                      <!-- for an internal date -->
                      <!--<origDate type="internal" when="0001" when-custom="2023" datingMethod="">
@@ -221,6 +236,7 @@
                               </dimensions>
                               <p xml:lang="en">Iconography with circular legend; along the circumference, the circular inscription begins with a cross at 7 o'clock.</p>
                               <p xml:lang="de">Ikonographie mit umlaufender Legende; die umlaufende Legende am äußeren Rand beginnt mit einem Kreuz bei 7 Uhr.</p>
+                              <p xml:lang="el">Εικονογραφία με κυκλοτερή επιγραφή. Κατά μήκος της  περιφέρειας, επιγραφή η οποία ξεκινάει με σταυρό στα αριστερά, στο σημείο του άξονα 7.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -236,8 +252,10 @@
                            <figure>
                               <figDesc ana="" n="r" xml:lang="en">Patriarchal cross mounted on steps. Fleurons on either side.</figDesc>
                               <figDesc ana="" n="r" xml:lang="de">Patriarchenkreuz auf Stufen. Fleurons auf beiden Seiten.</figDesc>
+                              <figDesc ana="" n="r" xml:lang="el">Πατριαρχικός σταυρός σε κλίμακα. Φυτικό μοτίβο και στις δυο πλευρές.</figDesc>
                               <figDesc ana="" n="decoR" xml:lang="en">Cross at the beginning of the legend. Border of dots.</figDesc>
                               <figDesc ana="" n="decoR" xml:lang="de">Kreuz am Anfang der Legende. Perlrand.</figDesc>
+                              <figDesc ana="" n="decoR" xml:lang="el">Σταυρός στην αρχή της επιγραφής. Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -267,6 +285,7 @@
                               </dimensions>
                               <p xml:lang="en">Legend of 4 lines.</p>
                               <p xml:lang="de">Legende auf 4 Zeilen.</p>
+                              <p xml:lang="el">Επιγραφή 4 στίχων.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -284,6 +303,7 @@
                               <figDesc ana="" n="v" xml:lang="de"/>
                               <figDesc ana="" n="decoV" xml:lang="en">Cross at the beginning of the legend. No border visible.</figDesc>
                               <figDesc ana="" n="decoV" xml:lang="de">Kreuz am Anfang der Legende. Kein Rand sichtbar.</figDesc>
+                              <figDesc ana="" n="decoV" xml:lang="el">Σταυρός στην αρχή της επιγραφής. Δεν διακρίνεται πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -304,6 +324,7 @@
             <graphic url="Kr_17a.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -313,6 +334,7 @@
             <graphic url="Kr_17b.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -359,6 +381,7 @@
             <p>Κύριε βοήθει τῷ σῷ δούλῳ / Δαμιανò ταπηνò καὶ ἁμαρτολó.</p>
             <p xml:lang="en">Lord, help your servant Damianos, humble and sinner.</p>
             <p xml:lang="de">Herr, hilf deinem Diener Damianos, Demütiger und Sünder.</p>
+            <p xml:lang="el">Κύριε βοήθησε το δούλο σου Δαμιανό, ταπηνό και αμαρτωλό.</p>
          </div>
          <div type="commentary" subtype="text"/>
          <div type="commentary" subtype="footnotes"/>
