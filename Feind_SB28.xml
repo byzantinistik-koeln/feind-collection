@@ -5,7 +5,7 @@
          <titleStmt>
             <title xml:lang="en">Seal of Basileios Pediadites, primikerios, koitonites, and praipositos</title>
             <title xml:lang="de">Siegel des Basilios Pediadites, primikerios, koitonites, und praipositos</title>
-            <title xml:lang="el">Μολυβδόβουλλο του  Βασιλείου Πεδιαδίτη, πριμικηρίου, κοιτωνίτη και πραιποσίτου</title>
+            <title xml:lang="el">Μολυβδόβουλλο Βασιλείου Πεδιαδίτη, πριμικηρίου, κοιτωνίτη και πραιποσίτου</title>
             <editor role="seal-editor" xml:id="MC">Maria Teresa Catalano</editor>
             <editor role="seal-editor" xml:id="MF">Martina Filosa</editor>
             <editor role="seal-editor" xml:id="CS">Claudia Sode</editor>
@@ -38,7 +38,7 @@
          </publicationStmt>
          <sourceDesc>
             <listPerson type="issuer">
-               <person role="civil" gender="" xml:id="">
+               <person role="civil" gender="M" xml:id="civil">
                   <persName xml:lang="en">
                      <forename>Basileios</forename>&gt;
                                                     <surname>Pediadites</surname>
@@ -119,7 +119,7 @@
                                             impression</interp>
                               <interp type="workType" xml:lang="de">Origineller
                                             Siegelabdruck</interp>
-                              <interp type="workType" xml:lang="el">Αρχική αποτύπωση</interp>
+                              <interp type="workType" xml:lang="el">Αρχική αποτύπωση.</interp>
                            </objectType>
                            <material>
                               <seg xml:lang="en">Lead</seg>
@@ -138,14 +138,14 @@
                         <condition rend="blank-too-small obliterated ">
                            <p xml:lang="en">Green-red patina, partially effaced, blank too small for the die.</p>
                            <p xml:lang="de">Grün-rote Patina, teilweise verwischt, Rohling zu klein für den Stempel.</p>
-                           <p xml:lang="el">Πατίνα πρασινοκόκκινου χρώματος, μερικώς σβησμένη,  ο δίσκος πολύ μικρός για την αποτύπωση της σφραγίδας.</p>
+                           <p xml:lang="el">Πατίνα πρασινοκόκκινου χρώματος, μερικώς σβησμένο,  ο δίσκος πολύ μικρός για την αποτύπωση της σφραγίδας.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
                         <layout n="whole">
                            <rs type="execution">
                               <seg xml:lang="en">Struck</seg>
-                              <seg xml:lang="de">???</seg>
+                              <seg xml:lang="de">Geprägt</seg>
                               <seg xml:lang="el">Παιστό</seg>
                            </rs>
                            <rs type="shape">
@@ -179,7 +179,7 @@
                                 <interp type="datingCriteria" xml:lang="de"/>
                             </origDate>-->
                      <!-- for a date range or centuries (NOT BEFORE - NOT AFTER)-->
-                     <origDate type="analysis" notBefore="1026" notAfter="1050" evidence=" epigraphy iconography" resp="MC">
+                     <origDate type="analysis" notBefore="1026" notAfter="1050" evidence="epigraphy iconography" resp="MC">
                         <seg xml:lang="en">11th c., second quarter.</seg>
                         <seg xml:lang="de">11. Jh., zweites Viertel.</seg>
                         <seg xml:lang="el">11ος αι., δεύτερο τέταρτο.</seg>
@@ -322,6 +322,7 @@
             <graphic url="SB_28a.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -331,6 +332,7 @@
             <graphic url="SB_28b.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -385,7 +387,7 @@
             <p>Βασιλείῳ πριμικερίῳ κοιτωνίτῃ πρεποσίτω το Πεδιαδίτῃ.</p>
             <p xml:lang="en">Lord, help Basileios Pediadites, primikerios, koitonites, and praipositos.</p>
             <p xml:lang="de">Gott, hilf Basileios Pediadites, primikerios, koitonites und praipositos.</p>
-            <p xml:lang="el">Κύριε βοήθησε τον Βασίλειο Πεδιαδίτη, πριμικήριο, κοιτωνίτη και πραιπόσιτο.</p>
+            <p xml:lang="el">Κύριε βοήθησε το Βασίλειο Πεδιαδίτη, πριμικήριο, κοιτωνίτη και πραιπόσιτο.</p>
          </div>
          <div type="commentary" subtype="text">
             <p xml:lang="en">Basilieos Pediadites is well know from other sources: this seal shows the earliest known stages of his career[1].</p>

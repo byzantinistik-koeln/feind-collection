@@ -4,6 +4,7 @@
          <titleStmt>
             <title xml:lang="en">Seal of Ioannes protospatharios, hypatos, krites tou hippodromou and of the Armenika themata</title>
             <title xml:lang="de">Siegel des Ioannes protospatharios, hypatos, krites tou hippodromou und der Armenika themata</title>
+            <title xml:lang="el">Μολυβδόβουλλο Ιωάννη, πρωτοσπαθαρίου, υπάτου, κριτή του ιπποδρόμου και των Αρμενιακών θεμάτων</title>
             <editor role="seal-editor" xml:id="MC">Maria Teresa Catalano</editor>
             <editor role="seal-editor" xml:id="MF">Martina Filosa</editor>
             <editor role="seal-editor" xml:id="CS">Claudia Sode</editor>
@@ -41,6 +42,9 @@
                   <persName xml:lang="de">
                      <forename>Ioannes</forename>
                   </persName>
+                  <persName xml:lang="el">
+                     <forename>Ιωάννης</forename>
+                  </persName>
                </person>
             </listPerson>
             <msDesc>
@@ -48,10 +52,12 @@
                   <country>
                      <seg xml:lang="en">Germany</seg>
                      <seg xml:lang="de">Deutschland</seg>
+                     <seg xml:lang="el">Γερμανία</seg>
                   </country>
                   <settlement>
                      <seg xml:lang="en">Cologne</seg>
                      <seg xml:lang="de">Köln</seg>
+                     <seg xml:lang="el">Κολωνία</seg>
                   </settlement>
                   <institution/>
                   <repository/>
@@ -72,14 +78,17 @@
                   <summary n="whole">
                      <seg xml:lang="en">Provincial administration.</seg>
                      <seg xml:lang="de">Provinzialverwaltung</seg>
+                     <seg xml:lang="el">Μολυβδόβουλλα αξιωματούχων της περιφερειακής διοίκησης.</seg>
                   </summary>
                   <msItem>
                      <author>
                         <roleName role="issuer" type="civil">
                            <seg xml:lang="en">Ioannes</seg>
                            <seg xml:lang="de">Ioannes</seg>
+                           <seg xml:lang="el">Ιωάννης</seg>
                            <interp type="milieu" xml:lang="en">Civil</interp>
                            <interp type="milieu" xml:lang="de">Zivil</interp>
+                           <interp type="milieu" xml:lang="el">Κρατικό (πεδίο δραστηριοποίησης).</interp>
                         </roleName>
                      </author>
                   </msItem>
@@ -92,15 +101,18 @@
                               <term>
                                  <seg xml:lang="en">Seal</seg>
                                  <seg xml:lang="de">Siegel</seg>
+                                 <seg xml:lang="el">Μολυβδόβουλλο</seg>
                               </term>
                               <interp type="workType" xml:lang="en">Original
                                             impression</interp>
                               <interp type="workType" xml:lang="de">Origineller
                                             Siegelabdruck</interp>
+                              <interp type="workType" xml:lang="el">Αρχική αποτύπωση</interp>
                            </objectType>
                            <material>
                               <seg xml:lang="en">Lead</seg>
                               <seg xml:lang="de">Blei</seg>
+                              <seg xml:lang="el">Μόλυβδος</seg>
                            </material>
                            <dimensions type="support" unit="mm">
                               <dim type="diameter">30</dim>
@@ -114,17 +126,20 @@
                         <condition rend="not-centered obliterated torn-channel">
                            <p xml:lang="en">Slightly struck off-centre to the left on the obverse; on the reverse, struck off-centre to the right, effaced at left and open at the lower end of the channel.</p>
                            <p xml:lang="de">Prägung leicht nach links versetzt auf dem Avers, auf dem Revers Prägung nach rechts versetzt, links abgenutzt und am unteren Ende des Fadenkanals aufgebrochen.</p>
-                        </condition>
+                           <p xml:lang="el">O εμπροσθότυπος αποκλίνει από το κέντρο προς το  δεξίο μέρος και ο οπισθότυπος  προς το  δεξίο μέρος, διαβρωμένο στα αριστερά ενώ φέρει ένα άνοιγμα στο κάτω μέρος του διαύλου.</p>
+                        </condition> 
                      </supportDesc>
                      <layoutDesc>
                         <layout n="whole">
                            <rs type="execution">
                               <seg xml:lang="en">Struck</seg>
-                              <seg xml:lang="de">???</seg>
+                              <seg xml:lang="de">Geprägt </seg>
+                              <seg xml:lang="el">Παιστό</seg>
                            </rs>
                            <rs type="shape">
                               <seg xml:lang="en">Round</seg>
                               <seg xml:lang="de">Rund</seg>
+                              <seg xml:lang="el">Σφαιρικό</seg>
                            </rs>
                            <rs type="matrix" subtype="not-surviving">
                               <idno type="SigiDoc">"m-BqtM16"</idno>
@@ -155,6 +170,7 @@
                      <origDate type="analysis" notBefore="1041" notAfter="1060" evidence="epigraphy iconography" resp="#MC">
                         <seg xml:lang="en">mid-11th c.</seg>
                         <seg xml:lang="de">Mitte 11. Jh.</seg>
+                        <seg xml:lang="el">Μέσα 11ου αι.</seg>
                      </origDate>
                      <!-- for an internal date >
                             <origDate type="internal" when="0001" when-custom="2023" datingMethod="">
@@ -216,6 +232,7 @@
                               </dimensions>
                               <p xml:lang="en">Iconography</p>
                               <p xml:lang="de">Ikonographie</p>
+                              <p xml:lang="el">Εικονογραφία</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -231,8 +248,10 @@
                            <figure>
                               <figDesc ana="" n="r" xml:lang="en">The Mother of God standing three quarters to the left, her hands raised toward a mandorla apparently containing the bust of Christ (Hagiosoritissa). Sigla on either side.</figDesc>
                               <figDesc ana="" n="r" xml:lang="de">Stehende Muttergottes mit erhobenen Händen zu einer Mandorla zu ihrer Linken, die die Büste von Christus enthält (Hagiosoritissa). Siglen auf beiden Seiten.</figDesc>
+                              <figDesc ana="" n="r" xml:lang="el">Ιστάμενη μορφή της Θεοτόκου με τα χέρια της υψωμένα και στραμμένη στα αριστερά προς μια αμυγδαλόσχημη με την προτομή του Χριστού (Αγιοσωρίτισσα). Σίγλλα και στις δύο πλευρές.</figDesc>
                               <figDesc ana="" n="decoR" xml:lang="en">Border of tight dots.</figDesc>
                               <figDesc ana="" n="decoR" xml:lang="de">Perlrand.</figDesc>
+                              <figDesc ana="" n="decoR" xml:lang="el">Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -262,6 +281,7 @@
                               </dimensions>
                               <p xml:lang="en">Legend of 6 lines.</p>
                               <p xml:lang="de">Legende auf 6 Zeilen.</p>
+                              <p xml:lang="el">Επιγραφή 6 στίχων.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -279,6 +299,7 @@
                               <figDesc ana="" n="v" xml:lang="de"/>
                               <figDesc ana="" n="decoV" xml:lang="en">Cross at the beginning of the legend. Below the legend, a decoration consisting of a dot between two dashes. Border of tight dots.</figDesc>
                               <figDesc ana="" n="decoV" xml:lang="de">Kreuz am Anfang der Legende. Unterhalb der Legende, ein Punkt zwischen zwei Zierlinien. Perlrand.</figDesc>
+                              <figDesc ana="" n="decoV" xml:lang="el">Σταυρός στην αρχή της επιγραφής. Κάτω από την επιγραφή, διακοσμητικό μοτίβο, το οποίο αποτελείται από μία στιγμή ανάμεσα σε δύο γραμμές. Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -300,6 +321,7 @@
             <graphic url="SB_36a.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -309,6 +331,7 @@
             <graphic url="SB_36b.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -362,6 +385,7 @@
             <p>Μήτηρ Θεοῦ / Ἰωάννης πρωτοσπαθάριος, ὕπατος κριτὴς τοῦ ἱπποδρόμου καὶ τῶν Ἀρμενικῶν θεμάτων.</p>
             <p xml:lang="en">Mother of God. (Seal of Ioannes) protospatharios, hypatos, krites tou hippodromou and of the Armenika themata.</p>
             <p xml:lang="de">Muttergottes. (Siegel des) Ioannes protospatharios, hypatos, krites tou hippodromou und der Armenika themata.</p>
+            <p xml:lang="el">Θεοτόκος. (Σφραγίδα του) Ιωάννη, πρωτοσπαθαρίου, υπάτου, κριτή του ιπποδρόμου και των Αρμενιακών θεμάτων.</p>
          </div>
          <div type="commentary" subtype="text">
             <p/>

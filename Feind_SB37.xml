@@ -4,6 +4,7 @@
          <titleStmt>
             <title xml:lang="en">Seal of Ioannes</title>
             <title xml:lang="de">Siegel des Ioannes</title>
+            <title xml:lang="el">Μολυβδόβουλλο Ιωάννη</title>
             <editor role="seal-editor" xml:id="MC">Maria Teresa Catalano</editor>
             <editor role="seal-editor" xml:id="MF">Martina Filosa</editor>
             <editor role="seal-editor" xml:id="CS">Claudia Sode</editor>
@@ -41,6 +42,9 @@
                   <persName xml:lang="de">
                      <forename>Ioannes</forename>
                   </persName>
+                  <persName xml:lang="el">
+                     <forename>Ιωάννης</forename>
+                  </persName>
                </person>
             </listPerson>
             <msDesc>
@@ -48,10 +52,12 @@
                   <country>
                      <seg xml:lang="en">Germany</seg>
                      <seg xml:lang="de">Deutschland</seg>
+                     <seg xml:lang="el">Γερμανία</seg>
                   </country>
                   <settlement>
                      <seg xml:lang="en">Cologne</seg>
                      <seg xml:lang="de">Köln</seg>
+                     <seg xml:lang="el">Κολωνία</seg>
                   </settlement>
                   <institution/>
                   <repository/>
@@ -72,14 +78,17 @@
                   <summary n="whole">
                      <seg xml:lang="en">Private</seg>
                      <seg xml:lang="de">Privat</seg>
+                     <seg xml:lang="el">Μολυβδόβουλλα ιδιωτών.</seg>
                   </summary>
                   <msItem>
                      <author>
                         <roleName role="issuer" type="private">
                            <seg xml:lang="en">Ioannes</seg>
                            <seg xml:lang="de">Ioannes</seg>
+                           <seg xml:lang="el">Ιωάννης</seg>
                            <interp type="milieu" xml:lang="en">Private</interp>
                            <interp type="milieu" xml:lang="de">Privat</interp>
+                           <interp type="milieu" xml:lang="el">Ιδιωτικό</interp>
                         </roleName>
                      </author>
                   </msItem>
@@ -92,15 +101,18 @@
                               <term>
                                  <seg xml:lang="en">Seal</seg>
                                  <seg xml:lang="de">Siegel</seg>
+                                 <seg xml:lang="el">Μολυβδόβουλλο</seg>
                               </term>
                               <interp type="workType" xml:lang="en">Original
                                             impression</interp>
                               <interp type="workType" xml:lang="de">Origineller
                                             Siegelabdruck</interp>
+                              <interp type="workType" xml:lang="el">Αρχική αποτύπωση</interp>
                            </objectType>
                            <material>
                               <seg xml:lang="en">Lead</seg>
                               <seg xml:lang="de">Blei</seg>
+                              <seg xml:lang="el">Μόλυβδος</seg>
                            </material>
                            <dimensions type="support" unit="mm">
                               <dim type="diameter">16</dim>
@@ -114,17 +126,20 @@
                         <condition rend="obliterated">
                            <p xml:lang="en">Beige patina, weakly imprinted, effaced.</p>
                            <p xml:lang="de">Beige Patina, schwache Prägung, abgenutzt.</p>
+                           <p xml:lang="el">Πατίνα καστονοκίτρινου χρώματος, αδύναμη αποτύπωση, σβησμένο.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
                         <layout n="whole">
                            <rs type="execution">
                               <seg xml:lang="en">Struck</seg>
-                              <seg xml:lang="de">???</seg>
+                              <seg xml:lang="de">Geprägt </seg>
+                              <seg xml:lang="el">Παιστό</seg>
                            </rs>
                            <rs type="shape">
                               <seg xml:lang="en">Round</seg>
                               <seg xml:lang="de">Rund</seg>
+                              <seg xml:lang="el">Σφαιρικό</seg>
                            </rs>
                            <rs type="matrix" subtype="not-surviving">
                               <idno type="SigiDoc">"m-dI8uyx"</idno>
@@ -155,6 +170,7 @@
                      <origDate type="analysis" notBefore="0981" notAfter="1000" evidence="iconography epigraphy" resp="#MC">
                         <seg xml:lang="en">Late 10th c.</seg>
                         <seg xml:lang="de">Spätes 10. Jh.</seg>
+                        <seg xml:lang="el">Τέλη 10ου αι.</seg>
                      </origDate>
                      <!-- for an internal date >
                             <origDate type="internal" when="0001" when-custom="2023" datingMethod="">
@@ -219,6 +235,7 @@
                                             circular inscription begin at 12 o'clock.</p>
                               <p xml:lang="de">Ikonographie; Kaum lesbare umlaufende
                                             Inschrift in zwei konzentrischen Kreisen mit Beginn bei 12 Uhr.</p>
+                              <p xml:lang="el"> Εικονογραφία με κυκλοτερή επιγραφή. Κατά μήκος της περιφέρειας, μέσα σε στικτό πλαίσιο, ίχνη κυκλοτερής επιγραφής, η οποία ξεκινάει με σταυρό στο σημείο του άξονα 12.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -238,10 +255,12 @@
                               <figDesc ana="" n="r" xml:lang="de">Nach rechts gewandter Vogel,
                                             möglicherweise ein Pfau, mit Zweig oder Ranke im
                                             Schnabel.</figDesc>
+                              <figDesc ana="" n="r" xml:lang="el">Ένα πουλί, πιθανότατα ένα παγώνι, στραμμένο προς τα δεξιά, κρατώντας ένα κλαδί ή ένα κλωνάρι στο ράμφος του.</figDesc>
                               <figDesc ana="" n="decoR" xml:lang="en">Cross at the beginning of
                                             the legend. Border of dots.</figDesc>
                               <figDesc ana="" n="decoR" xml:lang="de">Kreuz am Anfang der
                                             Legende. Perlrand.</figDesc>
+                              <figDesc ana="" n="decoR" xml:lang="el">Σταυρός στην αρχή της επιγραφής. Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -271,6 +290,7 @@
                               </dimensions>
                               <p xml:lang="en">Legend of 4 lines.</p>
                               <p xml:lang="de">Legende auf 4 Zeilen.</p>
+                              <p xml:lang="el">Επιγραφή 4 στίχων.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -292,6 +312,7 @@
                               <figDesc ana="" n="decoV" xml:lang="de">Kreuz am Anfang der Legende. Unterhalb der Legende, eine
                                             Dekoration aus vier Punkten zwischen zwei Zierlinien.
                                             Perlrand.</figDesc>
+                              <figDesc ana="" n="decoV" xml:lang="el">Σταυρός στην αρχή της επιγραφής. Κάτω από την επιγραφή διακοσμητικό μοτίβο το οποίο αποτελείται από έναν σταυρό από στιγμές ανάμεσα σε δύο γραμμές. Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -311,6 +332,7 @@
             <graphic url="SB_37a.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -320,6 +342,7 @@
             <graphic url="SB_37b.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -368,6 +391,7 @@
             <p>Θεοτόκε βοήθει τῷ σῷ δούλῳ Ἰωάννῃ / Θεοτόκε βοήθει τῷ σῷ δούλῳ Ἰωάννῃ.</p>
             <p xml:lang="en">Mother of God, help your servant Ioannes. Mother of God, help your servant Ioannes.</p>
             <p xml:lang="de">Muttergottes, hilf deinem Diener Ioannes. Muttergottes, hilf deinem Diener Ioannes.</p>
+            <p xml:lang="el">Θεοτόκε βοήθησε το δούλο σου Ιωάννη. Θεοτόκε βοήθησε το δούλο σου Ιωάννη.</p>
          </div>
          <div type="commentary" subtype="text">
             <p xml:lang="en"/>

@@ -259,8 +259,7 @@
                                             side.</figDesc>
                               <figDesc ana="female person Virgin Christ bust child medallion" n="r" xml:lang="de">Büste der Gottesmutter mit dem Medaillon Christi vor
                                             ihr. Details unklar. Sigla auf beiden Seiten.</figDesc>
-                              <figDesc ana="female person Virgin Christ bust child medallion" n="r" xml:lang="el">Προτομή της Θεοτόκου με το μετάλλιο του Χριστού μπροστά
-                                            της. Οι λεπτομέρειες δεν είναι διακριτές. Σίγλλα και
+                              <figDesc ana="female person Virgin Christ bust child medallion" n="r" xml:lang="el">Προτομή της Θεοτόκου με το μετάλλιο του Χριστού μπροστά στο στήθος της. Οι λεπτομέρειες δεν είναι διακριτές. Σίγλλα και
                                             στις δύο πλευρές.</figDesc>
                               <figDesc ana="" n="decoR" xml:lang="en">Border of dots.</figDesc>
                               <figDesc ana="" n="decoR" xml:lang="de">Perlrand</figDesc>
@@ -312,7 +311,7 @@
                               <figDesc ana="" n="decoV" xml:lang="de">Oben eine Verzierung
                                             bestehend aus drei Strichen. Perlrand. </figDesc>
                               <figDesc ana="" n="decoV" xml:lang="el">Στην κορύφη, διακοσμητικό
-                                            μοτίβο, το οποίο αποτελείται απο τρεις παύλες. Στικτό
+                                            μοτίβο, το οποίο αποτελείται απο τρεις γραμμές. Στικτό
                                             πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
@@ -330,18 +329,20 @@
       <surfaceGrp>
          <surface n="r">
             <desc>Obverse</desc>
-            <graphic url="" type="photo">
+            <graphic url="SB_97a.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
       <surfaceGrp>
          <surface n="v">
             <desc>Reverse</desc>
-            <graphic url="" type="photo">
+            <graphic url="SB_97b.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -351,7 +352,7 @@
          <div type="edition" subtype="editorial" xml:space="preserve">
                   <div type="textpart" n="obv" subtype="sigla" rend="columns" xml:lang="grc">
                       <ab>
-                          <lb n="a"/><supplied reason="lost"> <expan><abbr>Μ</abbr><ex>ήτ</ex><abbr>ηρ</abbr></expan></supplied>
+                          <lb n="a"/><supplied reason="lost"><expan><abbr>Μ</abbr><ex>ήτ</ex><abbr>ηρ</abbr></expan></supplied>
                           <lb n="b"/><expan><abbr>Θ</abbr><supplied reason="lost"><ex>εο</ex><abbr>ῦ</abbr></supplied></expan>
                       
                       </ab>
@@ -362,7 +363,7 @@
                            <lb n="2"/><expan><abbr><supplied reason="lost">Θ</supplied>εοδώ<supplied reason="lost">ρ<ex>ῳ</ex></supplied></abbr></expan>
                            <lb n="3"/><expan><abbr><supplied reason="lost">σ</supplied>παθ<supplied reason="lost">αρ(<ex>ο</ex>κου</supplied></abbr>
                            <lb n="4" break="no"/><supplied reason="lost">κου</supplied><abbr>β</abbr><ex>ι</ex><abbr>κ</abbr><supplied reason="lost">ουλ<ex>αρίῳ</ex></supplied></expan>
-                              <lb n="5"/><supplied reason="lost"><abbr>καὶ</abbr></supplied><expan><abbr>χαρ</abbr><supplied reason="lost">τ(<ex>ουλαρίῳ</ex></supplied></expan>
+                              <lb n="5"/><supplied reason="lost"><expan><abbr><am>S</am></abbr><ex>καὶ</ex></expan></supplied> <expan><abbr>χαρ</abbr><supplied reason="lost">τ(<ex>ουλαρίῳ</ex></supplied></expan>
                       </ab>
                   </div>
               </div>
@@ -390,7 +391,7 @@
                     chartoularios.</p>
             <p xml:lang="de">Mutter Gottes, hilf Theodoros, spatharokoubikoularios und
                     chartoularios.</p>
-            <p xml:lang="el">Θεοτόκε βοήθησε τον Θεόδωρο, σπαθαροκουβικουλάριο και
+            <p xml:lang="el">Θεοτόκε βοήθησε το Θεόδωρο, σπαθαροκουβικουλάριο και
                     χαρτουλάριο.</p>
          </div>
          <div type="commentary" subtype="text">
@@ -407,8 +408,8 @@
                             742</citedRange>
                </bibl>; <bibl>
                   <ptr target="ZacosGenève"/>, <citedRange unit=" part">no.
-                            27</citedRange>
-               </bibl>.</p>
+                            27</citedRange>.
+               </bibl></p>
          </div>
       </body>
    </text>

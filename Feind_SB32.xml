@@ -97,7 +97,7 @@
                            </seg>
                            <interp type="milieu" xml:lang="en">Aristocracy</interp>
                            <interp type="milieu" xml:lang="de">Aristokratie</interp>
-                           <interp type="milieu" xml:lang="el">Αριστοκρατικό (πεδίο δραστηριοποίησης)</interp>
+                           <interp type="milieu" xml:lang="el">Αριστοκρατικό (πεδίο δραστηριοποίησης).</interp>
                         </roleName>
                      </author>
                   </msItem>
@@ -116,7 +116,7 @@
                                             impression</interp>
                               <interp type="workType" xml:lang="de">Origineller
                                             Siegelabdruck</interp>
-                              <interp type="workType" xml:lang="el">Αρχική αποτύπωση</interp>
+                              <interp type="workType" xml:lang="el">Αρχική αποτύπωση.</interp>
                            </objectType>
                            <material>
                               <seg xml:lang="en">Lead</seg>
@@ -132,17 +132,17 @@
                            <measure type="channelOrient" unit="clock">6-12</measure>
                            <measure type="countermark" unit="clock"/>
                         </support>
-                        <condition rend=" corroded not-centered">
+                        <condition rend="corroded not-centered">
                            <p xml:lang="en">Red-green patina, corroded, slightly struck off-centre to the top, effaced</p>
                            <p xml:lang="de">Rot-grüne Patina, korrodiert, oben leicht außermittig angeschlagen, getilgt.</p>
-                           <p xml:lang="el">Πατίνα ερυθροπράσινου χρώματος, διαβρωμένη, ελαφρώς χτυπημένη εκτός κέντρου,  σβημένη.</p>
+                           <p xml:lang="el">Πατίνα ερυθροπράσινου χρώματος, διαβρωμένο, ελαφρώς χτυπημένο εκτός κέντρου, σβημένο.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
                         <layout n="whole">
                            <rs type="execution">
                               <seg xml:lang="en">Struck</seg>
-                              <seg xml:lang="de">???</seg>
+                              <seg xml:lang="de">Geprägt</seg>
                               <seg xml:lang="el">Παιστό</seg>
                            </rs>
                            <rs type="shape">
@@ -299,7 +299,7 @@
                               <figDesc ana="" n="v" xml:lang="el"/>
                               <figDesc ana="" n="decoV" xml:lang="en">Above the legend, remnants of a decoration consisting of a cross of dots set between two dashes. Τhe last line between two dashes. Border of dots. </figDesc>
                               <figDesc ana="" n="decoV" xml:lang="de">Oberhalb der Legende, Reste einer Verzierung, die aus einem Kreuz aus Punkten zwischen zwei Strichen besteht. Τdie letzte Zeile zwischen zwei Strichen. Perlrand.</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="el">Πάνω από την επιγραφή, υπολείμματα διακόσμησης που αποτελείται από σταυρό από τελείες ανάμεσα σε δύο παύλες. Ο τελευταίος στίχος ανάμεσα σε δύο παύλες.  Στικτό πλαίσιο.</figDesc>
+                              <figDesc ana="" n="decoV" xml:lang="el">Πάνω από την επιγραφή, ίχνη διακόσμησης. Αποτελείται από σταυρό από στιγμές ανάμεσα σε δύο γραμμές. Ο τελευταίος στίχος ανάμεσα σε δύο γραμμές. Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -319,6 +319,7 @@
             <graphic url="SB_32a.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -328,6 +329,7 @@
             <graphic url="SB_32b.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>

@@ -97,7 +97,7 @@
                            </seg>
                            <interp type="milieu" xml:lang="en">Private</interp>
                            <interp type="milieu" xml:lang="de">Privat</interp>
-                           <interp type="milieu" xml:lang="el">Ιδιωτικό (πεδίο δραστηριοποίησης)</interp>
+                           <interp type="milieu" xml:lang="el">Ιδιωτικό (πεδίο δραστηριοποίησης).</interp>
                         </roleName>
                      </author>
                   </msItem>
@@ -132,17 +132,17 @@
                            <measure type="channelOrient" unit="clock">7-11</measure>
                            <measure type="countermark" unit="clock"/>
                         </support>
-                        <condition rend=" chipped blank-too-small not-centered">
+                        <condition rend="chipped blank-too-small not-centered">
                            <p xml:lang="en">Green-beige patina, struck off-centre to the left on the reverse, blank too small for the die, chipped. </p>
                            <p xml:lang="de">Grün-beige Patina, rückseitig nach links versetzt geprägt, Rohling zu klein für den Stempel, bestoßen.</p>
-                           <p xml:lang="el">Πατίνα πρασινωπού-καστανοκίτρινου χρώματος, χτυπημένη εκτός κέντρου με κατεύθυνση προς τα αριστέρα στον εμπροσθότυπο, ο δίσκος μικρός για την σφραγίδα, πελεκημένη. .</p>
+                           <p xml:lang="el">Πατίνα πρασινωπού-καστανοκίτρινου χρώματος, ο οπισθότυπος αποκλίνει από το κέντρο προς τα αριστερά, ο δίσκος μικρότερος από τη σφραγίδα αποτύπωσης, σπασμένο.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
                         <layout n="whole">
                            <rs type="execution">
                               <seg xml:lang="en">Struck</seg>
-                              <seg xml:lang="de">???</seg>
+                              <seg xml:lang="de">Geprägt </seg>
                               <seg xml:lang="el">Παιστό</seg>
                            </rs>
                            <rs type="shape">
@@ -176,7 +176,7 @@
                                 <interp type="datingCriteria" xml:lang="de"/>
                             </origDate>-->
                      <!-- for a date range or centuries (NOT BEFORE - NOT AFTER)-->
-                     <origDate type="analysis" notBefore="0441" notAfter="0560" evidence=" epigraphy" resp="MC">
+                     <origDate type="analysis" notBefore="0441" notAfter="0560" evidence="epigraphy" resp="MC">
                         <seg xml:lang="en">mid-5th c. – mid-6th c.</seg>
                         <seg xml:lang="de">Mitte des 5. Jh. – Mitte 6. Jh. </seg>
                         <seg xml:lang="el">Μέσα 5ου αι. - μέσα 6ου αι. </seg>
@@ -230,7 +230,7 @@
                               </dimensions>
                               <p xml:lang="en">Iconography</p>
                               <p xml:lang="de">Ikonographie</p>
-                              <p xml:lang="el">Εικονογραφία </p>
+                              <p xml:lang="el">Εικονογραφία.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -248,7 +248,7 @@
                               <figDesc ana="" n="r" xml:lang="en">Daniel standing in the Daniel lions' den between two lions and praying.</figDesc>
                               <figDesc ana="" n="r" xml:lang="de">Stehender Daniel in Orantenhaltung, mit Nimbus. Er trägt Himation und Chiton. Auf beiden Seiten je ein Löwe    
                                        </figDesc>
-                              <figDesc ana="" n="r" xml:lang="el">Μορφή του προφήτη Δανιήλ στο λάκκο των λεόντων, στέκεται ανάμεσα σε δύο λιοντάρια και προσεύχεται.</figDesc>
+                              <figDesc ana="" n="r" xml:lang="el">Ιστάμενη μορφή του προφήτη Δανιήλ στο λάκκο με τους λέοντες, στέκεται ανάμεσα σε δύο λέοντες και προσεύχεται.</figDesc>
                               <figDesc ana="" n="decoR" xml:lang="en">Wreath border. </figDesc>
                               <figDesc ana="" n="decoR" xml:lang="de">Kranzrand.</figDesc>
                               <figDesc ana="" n="decoR" xml:lang="el">Στεφανωτό πλαίσιο.</figDesc>
@@ -320,6 +320,7 @@
             <graphic url="SB_89a.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -329,6 +330,7 @@
             <graphic url="SB_89b.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -384,7 +386,7 @@
             <p>Εὐθύμιου</p>
             <p xml:lang="en">(Seal of) Euthymios.</p>
             <p xml:lang="de">(Siegel des) Euthymios.</p>
-            <p xml:lang="el">Σφραγίδα του Ευθυμίου.</p>
+            <p xml:lang="el">(Σφραγίδα του)Ευθυμίου.</p>
          </div>
          <div type="commentary" subtype="text">
             <p xml:lang="en">Schlumberger mistakenly identified the standing figure on the obverse with the Virgin or Christ.</p>

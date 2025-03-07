@@ -5,7 +5,7 @@
          <titleStmt>
             <title xml:lang="en">Seal of Theodoros magistros, vestarches, and droungarios of the Vigla</title>
             <title xml:lang="de">Siegel des Theodoros magistros, Vestarches und Droungarios der Vigla</title>
-            <title xml:lang="el">Μολυβδόβουλλο του Θεοδώρου μαγίστρου, βεστάρχη και δρουγγαρίου της Βίγλας</title>
+            <title xml:lang="el">Μολυβδόβουλλο του Θεοδώρου, μαγίστρου, βεστάρχη και δρουγγαρίου της Βίγλας</title>
             <editor role="seal-editor" xml:id="MC">Maria Teresa Catalano</editor>
             <editor role="seal-editor" xml:id="MF">Martina Filosa</editor>
             <editor role="seal-editor" xml:id="CS">Claudia Sode</editor>
@@ -142,7 +142,7 @@
                         <layout n="whole">
                            <rs type="execution">
                               <seg xml:lang="en">Struck</seg>
-                              <seg xml:lang="de">???</seg>
+                              <seg xml:lang="de">Geprägt </seg>
                               <seg xml:lang="el">Παιστό</seg>
                            </rs>
                            <rs type="shape">
@@ -176,7 +176,7 @@
                                 <interp type="datingCriteria" xml:lang="de"/>
                             </origDate>-->
                      <!-- for a date range or centuries (NOT BEFORE - NOT AFTER)-->
-                     <origDate type="analysis" notBefore="1051" notAfter="1100" evidence=" epigraphy iconography" resp="MC">
+                     <origDate type="analysis" notBefore="1051" notAfter="1100" evidence="epigraphy iconography" resp="MC">
                         <seg xml:lang="en">11th c., second half.</seg>
                         <seg xml:lang="de">11. Jh., zweite Hälfte</seg>
                         <seg xml:lang="el">11ος αι., δεύτερο μισό.</seg>
@@ -247,7 +247,7 @@
                            <figure>
                               <figDesc ana="" n="r" xml:lang="en">The Mother of God seated on a on a high-backed throne decorated with a rhombus and dot pattern, holding the medallion of Christ before her. No sigla visible.</figDesc>
                               <figDesc ana="" n="r" xml:lang="de">Thronende Muttergottes auf einem Thron mit Kind. Sigla nicht mehr lesbar.</figDesc>
-                              <figDesc ana="" n="r" xml:lang="el">Ένθρονη Θεοτόκος, σε θρόνο με ψηλή πλάτη διακοσμημένη με μοτίβο το οποίο αποτελείται απο ρόμβους και τελείες, κρατάει μπροστά στο στήθος της τον Χριστό. Δεν φαίνονται σίγλλα.</figDesc>
+                              <figDesc ana="" n="r" xml:lang="el">Ένθρονη Θεοτόκος, σε θρόνο με ψηλή πλάτη διακοσμημένη με μοτίβο το οποίο αποτελείται απο ρόμβους και στιγμές, κρατάει μπροστά στο στήθος της τον Χριστό. Δεν διακρίνονται σίγλλα.</figDesc>
                               <figDesc ana="" n="decoR" xml:lang="en">Border of dots.</figDesc>
                               <figDesc ana="" n="decoR" xml:lang="de">Perlrand</figDesc>
                               <figDesc ana="" n="decoR" xml:lang="el">Στικτό πλαίσιο.</figDesc>
@@ -319,6 +319,7 @@
             <graphic url="SB_45a.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -328,6 +329,7 @@
             <graphic url="SB_45b.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -390,7 +392,7 @@
             <p>Θεοτόκε βοήθει Θεοδώρῳ μαγίστρῳ βεστάρχῃ δρουγγαρίῳ τῆς βίγλας.</p>
             <p xml:lang="en">Mother of God, help Theodoros magistros, vestarches, and droungarios of the Vigla.</p>
             <p xml:lang="de">Muttergottes, hilf dem Theodoros magistros bestarches und drungarios der Bigla. </p>
-            <p xml:lang="el">Θεοτόκε βοήθησε τον Θεόδωρο μάγιστρο βεστάρχη και δρουγγάριο της Βίγλας.</p>
+            <p xml:lang="el">Θεοτόκε βοήθησε το Θεόδωρο, μάγιστρο, βεστάρχη και δρουγγάριο της Βίγλας.</p>
          </div>
          <!--<div type="commentary" subtype="text">
                   <p xml:lang="en">[your commentary here]</p> <!-\-if you have the commentary only in German and would like to show it also in the English page, you should delete the xml:lang-\->
