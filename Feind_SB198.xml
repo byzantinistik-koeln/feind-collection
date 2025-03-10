@@ -39,7 +39,7 @@
          </publicationStmt>
          <sourceDesc>
             <listPerson type="issuer">
-               <person role="civil" gender="" xml:id="">
+               <person role="civil" gender="M">
                   <persName xml:lang="en">
                      <forename>Petros</forename>
                   </persName>
@@ -82,19 +82,19 @@
                   <summary n="whole">
                      <seg xml:lang="en">Provincial administration  </seg>
                      <seg xml:lang="de">Provinzialverwaltug </seg>
-                     <seg xml:lang="el">Μολυβδόβουλλα αξιωματούχων της περιφερειακής διοίκησης. </seg>
+                     <seg xml:lang="el">Μολυβδόβουλλα αξιωματούχων της περιφερειακής διοίκησης.</seg>
                   </summary>
                   <msItem>
                      <author>
-                        <roleName role="issuer" type=" civil ">
-                           <seg xml:lang="en">
+                        <roleName role="issuer" type="civil ">
+                           <seg xml:lang="en"><ref target="http://pbw2016.kdl.kcl.ac.uk/person/Petros/20122/">Petros</ref>
                               <forename>Petros</forename>
                            </seg>
-                           <seg xml:lang="de">
+                           <seg xml:lang="de"><ref target="http://pbw2016.kdl.kcl.ac.uk/person/Petros/20122/">Petros</ref>
                               <forename>Petros</forename>
                            </seg>
-                           <seg xml:lang="el">
-                              <forename>Πέτρος</forename>
+                           <seg xml:lang="el"><ref target="http://pbw2016.kdl.kcl.ac.uk/person/Petros/20122/">Πέτρος</ref>
+                              <forename>Petros</forename>
                            </seg>
                            <interp type="milieu" xml:lang="en">Civil</interp>
                            <interp type="milieu" xml:lang="de">Zivil</interp>
@@ -136,14 +136,14 @@
                         <condition rend="corroded ">
                            <p xml:lang="en">Rubbed and effaced on the left side of the obverse; slightly corroded on the reverse, weakly imprinted.</p>
                            <p xml:lang="de">Berieben und ausgelöscht auf der linken Seite der Vorderseite; rückseite leicht korrodiert, schwach bedruckt.</p>
-                           <p xml:lang="el">  Φθαρμένο και σβησμένο στην αριστερή πλευρά του εμπροσθοτύπου, ελαφρώς διαβρωμένο στην οπίσθια όψη, ασθενώς αποτυπωμένη σφραγίδα. </p>
+                           <p xml:lang="el">Φθαρμένο και σβησμένο στην αριστερή πλευρά του εμπροσθοτύπου, ελαφρώς διαβρωμένο στην οπίσθια όψη, ασθενώς αποτυπωμένη σφραγίδα.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
                         <layout n="whole">
                            <rs type="execution">
                               <seg xml:lang="en">Struck</seg>
-                              <seg xml:lang="de">???</seg>
+                              <seg xml:lang="de">Struck</seg>
                               <seg xml:lang="el">Παιστό</seg>
                            </rs>
                            <rs type="shape">
@@ -177,7 +177,7 @@
                                 <interp type="datingCriteria" xml:lang="de"/>
                             </origDate>-->
                      <!-- for a date range or centuries (NOT BEFORE - NOT AFTER)-->
-                     <origDate type="analysis" notBefore="1001" notAfter="1050" evidence=" epigraphy" resp="MC">
+                     <origDate type="analysis" notBefore="1001" notAfter="1050" evidence="epigraphy" resp="MC">
                         <seg xml:lang="en">11th c., first half.</seg>
                         <seg xml:lang="de">11. Jh., erste Hälfte.</seg>
                         <seg xml:lang="el">11ος αι., πρώτο μισό. </seg>
@@ -318,6 +318,7 @@
             <graphic url="SB_198a" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -327,6 +328,7 @@
             <graphic url="SB_198b" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -346,9 +348,9 @@
                                                     
                               <lb n="1"/><rs type="invocation" ref="#inv002"><expan><abbr>Θ</abbr><ex>εοτό</ex><abbr>κε</abbr></expan> <expan><abbr>β</abbr><ex>οή</ex><abbr>θ</abbr><ex>ει</ex></expan>
                           <lb n="2"/>τῷ σῷ <expan><abbr>δού</abbr><ex>λῳ</ex></expan></rs>
-                          <lb n="3"/><persName type="forename" ref="#Petros-1">Πέ<supplied reason="lost">τ</supplied>ρ<ex>ῳ</ex></persName> <rs type="office" subtype="civil" ref="#asekretis_001">ἀσ<supplied reason="lost">η</supplied>
-                          <lb n="4" break="no"/>κρῆτ<ex>ις</ex> </rs><supplied reason="lost"><ex>καὶ</ex></supplied> <rs type="office" subtype="civil" ref="#krites_005"><supplied reason="lost">κρι</supplied>
-                          <lb n="5" break="no"/>τ<ex>ῇ</ex> τῶν <placeName type="geography" ref="#geo0006"><expan><abbr>Θρ</abbr><ex>ᾳ</ex>
+                          <lb n="3"/><persName type="forename" ref="#Petros-1">Πέ<supplied reason="lost">τ</supplied><expan><abbr>ρ</abbr><ex>ῳ</ex></expan></persName> <rs type="office" subtype="civil" ref="#asekretis_001">ἀσ<supplied reason="lost">η</supplied>
+                          <lb n="4" break="no"/><expan><abbr>κρῆτ</abbr><ex>ις</ex></expan> </rs><supplied reason="lost"><expan><abbr><am>S</am></abbr><ex>καὶ</ex></expan></supplied> <rs type="office" subtype="civil" ref="#krites_005"><supplied reason="lost">κρι</supplied>
+                          <lb n="5" break="no"/><expan><abbr>τ</abbr><ex>ῇ</ex></expan> τῶν <placeName type="geography" ref="#geo0006"><expan><abbr>Θρ</abbr><ex>ᾳ</ex>
                           <lb n="6" break="no"/><abbr>κησ</abbr><ex>ίων</ex></expan></placeName></rs>
                       </ab>
                   </div>
@@ -384,23 +386,23 @@
             <p>Μήτηρ Θεοῦ. /Θεοτόκε βοήθει τῷ σῷ δούλῳ Πέτρῳ ἀσηκρῆτις καὶ κριτῇ τῶν Θρᾳκησίων.</p>
             <p xml:lang="en">Mother of God. Mother of God, help Petros asekretis and krites of Thrakesioi.</p>
             <p xml:lang="de">Muttergottes. Muttergottes, hilf Petros asekretis und krites von Thrakesioi.</p>
-            <p xml:lang="el">Θεοτόκε. Θεοτόκε βοήθησε τον δούλο σου Πέτρο  ασηκρήτη και κριτή Θρακησίων.</p>
+            <p xml:lang="el">Θεοτόκε. Θεοτόκε βοήθησε το δούλο σου Πέτρο ασηκρήτη και κριτή Θρακησίων.</p>
          </div>
          <div type="commentary" subtype="text">
-            <p xml:lang="en">The issuer is known only from this seal type [1]. </p>
+            <p xml:lang="en">The issuer is known only from this seal type. </p>
             <!--if you have the commentary only in German and would like to show it also in the English page, you should delete the xml:lang-->
-            <p xml:lang="de">[your commentary here]</p>
+            <p xml:lang="de"></p>
          </div>
          <div type="commentary" subtype="footnotes">
             <p xml:lang="en"/>
-            <p xml:id="footnote-1">
-                    [1]. <bibl>
+            <!--<p xml:id="footnote-1">
+                    <bibl>
                   <ptr target="PBW"/>
                   <citedRange unit="entry">
                      <ref target="http://pbw2016.kdl.kcl.ac.uk/person/Petros/20122/">Petros 20122.</ref>
                   </citedRange>
                </bibl>
-            </p>
+            </p>-->
             <!--if you have the footnotes only in French and would like to show it also in the English page, you should delete the xml:lang-->
             <p xml:lang="de"/>
          </div>
@@ -429,10 +431,10 @@
                   <ptr target="DOseals3"/>, <citedRange unit="part">no. 2.25a</citedRange>
                </bibl>;
                     (3) S. Kophopoulos Collection, no. 37 − <bibl>
-                  <ptr target="Stavrakos2010"/>
-                  <citedRange unit="part">no.2.I.II. 6. </citedRange>
+                  <ptr target="Stavrakos2010"/>,
+                  <citedRange unit="part">no. 2.I.II. 6. </citedRange>;
                </bibl>
-                       (4) Robert Feind Collection, SB-27.
+               (4) Robert Feind Collection, <ref target="http://127.0.0.1:9999/el/seals/Feind_SB27.html">SB-27</ref>.
                       <bibl>
 
                       </bibl>

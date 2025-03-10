@@ -5,6 +5,7 @@
             <title xml:lang="de">Siegel des Ioseiph kaiserlicher kandidatos und
                     chartoularios</title>
             <title xml:lang="en">Seal of Ioseiph imperial kandidatos and chartoularios</title>
+            <title xml:lang="el">Μολυβδόβουλλο του Ιωσήφ, βασιλικού κανδιδάτου και χαρτουλαρίου.</title>
             <editor role="seal-editor" xml:id="MC">Maria Teresa Catalano</editor>
             <editor role="seal-editor" xml:id="MF">Martina Filosa</editor>
             <editor role="seal-editor" xml:id="CS">Claudia Sode</editor>
@@ -48,6 +49,9 @@
                   <persName xml:lang="en">
                      <forename>Ioseiph</forename>
                   </persName>
+                  <persName xml:lang="el">
+                     <forename>Ιωσήφ</forename>
+                  </persName>
                   <!--<idno type="PBW" ana=""></idno>
                         <idno type="PmbZ" ana=""></idno>-->
                </person>
@@ -58,6 +62,7 @@
                   <country>
                      <seg xml:lang="en">Germany</seg>
                      <seg xml:lang="de">Deutschland</seg>
+                     <seg xml:lang="el">Γερμανία</seg>
                   </country>
                   <settlement>
                      <seg xml:lang="en">
@@ -65,6 +70,8 @@
                      </seg>
                      <seg xml:lang="de">
                         <placeName ref="https://www.geonames.org/6553049/koeln.html"/>Köln</seg>
+                     <seg xml:lang="el">
+                        <placeName ref="https://www.geonames.org/6553049/koeln.html"/>Κολωνία</seg>
                   </settlement>
                   <institution/>
                   <repository/>
@@ -83,6 +90,7 @@
                   <summary n="whole">
                      <seg xml:lang="en">Central administration.</seg>
                      <seg xml:lang="de">Zentralverwaltung</seg>
+                     <seg xml:lang="el">Μολυβδόβουλλα αξιωματούχων της κεντρικής διοίκησης.</seg>
                   </summary>
                </msContents>
                <physDesc>
@@ -93,15 +101,19 @@
                               <term>
                                  <seg xml:lang="de">Siegel</seg>
                                  <seg xml:lang="en">Seal</seg>
+                                 <seg xml:lang="el">Μολυβδόβουλλο</seg>
                               </term>
                               <interp type="workType" xml:lang="de">Origineller
                                             Siegelabdruck.</interp>
                               <interp type="workType" xml:lang="en">Original
                                             impression.</interp>
+                              <interp type="workType" xml:lang="el">Αρχική
+                                 αποτύπωση.</interp>
                            </objectType>
                            <material>
                               <seg xml:lang="de">Blei</seg>
                               <seg xml:lang="en">Lead</seg>
+                              <seg xml:lang="el">Μόλυβδος</seg>
                            </material>
                            <dimensions type="support" unit="mm">
                               <dim type="diameter">22</dim>
@@ -115,6 +127,7 @@
                         <condition rend="corroded">
                            <p xml:lang="de">Korrodiert</p>
                            <p xml:lang="en">Corroded</p>
+                           <p xml:lang="el">Διαβρωμένο</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -122,10 +135,12 @@
                            <rs type="execution">
                               <seg xml:lang="de">Geprägt</seg>
                               <seg xml:lang="en">Struck</seg>
+                              <seg xml:lang="el">Παιστό</seg>
                            </rs>
                            <rs type="shape">
                               <seg xml:lang="de">Rund</seg>
                               <seg xml:lang="en">Round</seg>
+                              <seg xml:lang="el">Σφαιρικό</seg>
                            </rs>
                            <rs type="matrix" subtype="not-surviving">
                               <idno type="SigiDoc">"m-7m0m5e"</idno>
@@ -142,6 +157,7 @@
                      <origDate type="analysis" notBefore="1001" notAfter="1100" evidence="epigraphy" cert="high" resp="#MC">
                         <seg xml:lang="en">11th c.</seg>
                         <seg xml:lang="de">11. Jh.</seg>
+                        <seg xml:lang="el">11ος αι.</seg>
                      </origDate>
                   </origin>
                   <provenance type="found" subtype="discovered">
@@ -183,6 +199,7 @@
                               </dimensions>
                               <p xml:lang="en">Iconography</p>
                               <p xml:lang="de">Ikonographie</p>
+                              <p xml:lang="el">Εικονογραφία</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -202,8 +219,10 @@
                                             eines Militärheiligen, der einen Speer in der rechten
                                             und einen Schild in der linken Hand hält. Die Legende
                                             ist nicht erhalten.</figDesc>
+                              <figDesc ana="person male saint military bust shield spear" n="r" xml:lang="el">Προτομή στρατιωτικού αγίου, που κρατάει δόρι στο δεξί χέρι και ασπίδα στο αριστερό. Δεν σώζεται επιγραφή.</figDesc>
                               <figDesc ana="" n="decoR" xml:lang="en">Border of dots.</figDesc>
                               <figDesc ana="" n="decoR" xml:lang="de">Perlrand</figDesc>
+                              <figDesc ana="" n="decoR" xml:lang="el">Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -232,6 +251,7 @@
                               </dimensions>
                               <p xml:lang="en">Linear legend of 5 lines.</p>
                               <p xml:lang="de">Lineare Legende auf 5 Zeilen.</p>
+                              <p xml:lang="el">Γραμμική επιγραφή 5 στίχων.</p>
                               <!--Only controlled vocabulary here? Fomerly there used to be also the possibility for free-text entries...-->
                            </layout>
                         </layoutDesc>
@@ -248,6 +268,7 @@
                               <figDesc ana="" n="decoV" xml:lang="en">Cross at the beginning of the legend. At the end of the first, third and last line is a dash. Border of
                                             dots.</figDesc>
                               <figDesc ana="" n="decoV" xml:lang="de">Kreuz am Anfang der Legende. Eine Zierlinie befindet sich jeweils am Ende der ersten, dritten und letzten Zeile. Perlrand.</figDesc>
+                              <figDesc ana="" n="decoV" xml:lang="el">Σταυρός στην αρχή της επιγραφής. Στο τέλος του πρώτου, τρίτου και του τελευταίου στίχου υπάρχει μία γραμμή. Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -267,6 +288,7 @@
             <graphic url="" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -276,6 +298,7 @@
             <graphic url="" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -314,6 +337,7 @@
             <p>Κύριε βοήθει ᾿Ηωσείφ βασιλικῷ κανδιδάτῳ καὶ χαρτουλαρίῳ.</p>
             <p xml:lang="en">Lord, help Ioseiph imperial kandidatos and chartoularios.</p>
             <p xml:lang="de">Herr, hilf Ioseiph kaiserlicher kandidatos und chartoularios.</p>
+            <p xml:lang="el">Κύριε βοήθησε τον Ιωσήφ, βασιλικό κανδιδάτο και χαρτουλάτιο.</p>
          </div>
          <div type="commentary" subtype="text">
             <p xml:lang="en"/>

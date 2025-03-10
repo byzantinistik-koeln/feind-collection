@@ -39,7 +39,7 @@
          </publicationStmt>
          <sourceDesc>
             <listPerson type="issuer">
-               <person role="civil" gender="" xml:id="">
+               <person role="civil" gender="M">
                   <persName xml:lang="en">
                      <forename>Michael</forename>
                   </persName>
@@ -82,19 +82,16 @@
                   <summary n="whole">
                      <seg xml:lang="en">Provincial administration </seg>
                      <seg xml:lang="de">Provinzialverwaltug </seg>
-                     <seg xml:lang="el">Μολυβδόβουλλα αξιωματούχων της περιφερειακής διοίκησης </seg>
+                     <seg xml:lang="el">Μολυβδόβουλλα αξιωματούχων της περιφερειακής διοίκησης.</seg>
                   </summary>
                   <msItem>
                      <author>
                         <roleName role="issuer" type=" civil ">
-                           <seg xml:lang="en">
-                              <forename>Michael </forename>
+                           <seg xml:lang="en"><ref target="http://pbw2016.kdl.kcl.ac.uk/person/Michael/20216/">Michael</ref>
+                                </seg>
+                           <seg xml:lang="de"><ref target="http://pbw2016.kdl.kcl.ac.uk/person/Michael/20216/">Michael</ref>
                            </seg>
-                           <seg xml:lang="de">
-                              <forename>Michael </forename>
-                           </seg>
-                           <seg xml:lang="el">
-                              <forename>Μιχαήλ</forename>
+                           <seg xml:lang="el"><ref target="http://pbw2016.kdl.kcl.ac.uk/person/Michael/20216/">Μιχαήλ</ref>
                            </seg>
                            <interp type="milieu" xml:lang="en">Civil</interp>
                            <interp type="milieu" xml:lang="de">Zivil</interp>
@@ -133,17 +130,17 @@
                            <measure type="channelOrient" unit="clock">1-6</measure>
                            <measure type="countermark" unit="clock"/>
                         </support>
-                        <condition rend=" not-centered obliterated  ">
+                        <condition rend="not-centered obliterated  ">
                            <p xml:lang="en">Slightly struck off-centre to the right on the obverse, struck off-centre to the left on the reverse; weakly imprinted.</p>
                            <p xml:lang="de">Auf der Vorderseite leicht nach rechts versetzt, auf der Rückseite leicht nach links versetzt; schwach geprägt.</p>
-                           <p xml:lang="el"> Ο εμπροσθότυπος αποκλίνει απο το κέντρο στο άνω δεξίο και ο οπισθότυπος προς το άνω αριστερό μέρος του δίσκου. Οι ανάγλυφες επιφάνειες του μολυβδοβούλλου έχουν υποστεί μεγάλες φθορές. </p>
+                           <p xml:lang="el"> Ο εμπροσθότυπος αποκλίνει από το κέντρο στο άνω δεξίο και ο οπισθότυπος προς το άνω αριστερό μέρος του δίσκου. Οι ανάγλυφες επιφάνειες του μολυβδοβούλλου έχουν υποστεί μεγάλες φθορές. </p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
                         <layout n="whole">
                            <rs type="execution">
                               <seg xml:lang="en">Struck</seg>
-                              <seg xml:lang="de">???</seg>
+                              <seg xml:lang="de">Struck</seg>
                               <seg xml:lang="el">Παιστό</seg>
                            </rs>
                            <rs type="shape">
@@ -177,7 +174,7 @@
                                 <interp type="datingCriteria" xml:lang="de"/>
                             </origDate>-->
                      <!-- for a date range or centuries (NOT BEFORE - NOT AFTER)-->
-                     <origDate type="analysis" notBefore="1001" notAfter="1033" evidence=" epigraphy" resp="MC">
+                     <origDate type="analysis" notBefore="1001" notAfter="1033" evidence="epigraphy" resp="MC">
                         <seg xml:lang="en">11th c., first third.</seg>
                         <seg xml:lang="de">11. Jh., erstes Drittel.</seg>
                         <seg xml:lang="el">11ος αι., πρώτο τρίτο. </seg>
@@ -246,7 +243,7 @@
                            <figure>
                               <figDesc ana="" n="r" xml:lang="en">Bust of archangel Michael holding a sceptre in his right hand and a shield in his left. Details indistinct. No legend visible.</figDesc>
                               <figDesc ana="" n="r" xml:lang="de">Büste des Erzengels Michael, der in seiner rechten Hand ein Zepter und in seiner linken einen Schild hält. Details undeutlich. Keine Legende sichtbar.</figDesc>
-                              <figDesc ana="" n="r" xml:lang="el">Προτομή του αρχαγγέλου Μιχαήλ, κρατά σκήπτρο στο δεξί του χέρι και ασπίδα στο αριστερό. Λεπτομέρειες δυσδιάκριτες. Δεν διακρίνονται σίγλλα.</figDesc>
+                              <figDesc ana="" n="r" xml:lang="el">Προτομή του αρχαγγέλου Μιχαήλ, κρατά σκήπτρο στο δεξί του χέρι και ασπίδα στο αριστερό. Δεν διακρίνονται λεπτομέρειες και σίγλλα.</figDesc>
                               <figDesc ana="" n="decoR" xml:lang="en">Border of dots.</figDesc>
                               <figDesc ana="" n="decoR" xml:lang="de">Perlrand</figDesc>
                               <figDesc ana="" n="decoR" xml:lang="el">Στικτό πλαίσιο.</figDesc>
@@ -318,6 +315,7 @@
             <graphic url="SB_193a" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -327,6 +325,7 @@
             <graphic url="SB_193b" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -334,9 +333,9 @@
    <text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <body>
          <div type="edition" subtype="editorial" xml:space="preserve"> <!--change the language code according to the language of your edition, the values (also when combined, e.g. Greek-Latin) are in the guidelines. Same goes for what comes next, textpart etc.-->
-                  <div type="textpart" subtype="sigla" n="obv" rend="columns" xml:lang="grc"> <!--obverse, editorial-->
+                  <!--<div type="textpart" subtype="sigla" n="obv" rend="columns" xml:lang="grc"> <!-\-obverse, editorial-\->
                       
-                  </div>
+                  </div>-->
                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
                       <ab ana="nom">
                           
@@ -344,8 +343,8 @@
                               <lb n="1"/> <persName type="forename" ref="#Michael-4">Μιχαὴ<supplied reason="lost">λ</supplied></persName>
                                <lb n="2"/> <rs type="dignity" ref="#prosospatharios"><expan><ex>πρωτο</ex><abbr>σπαθ</abbr><ex>άριος</ex></expan></rs> <rs type="office" subtype="civil" ref="#krites_003"><expan><abbr>κρ</abbr><supplied reason="lost">ι</supplied>
                                <lb n="3" break="no"/> τ<ex>ὴς</ex></expan>ἐπὶ τοῦ <expan><abbr>ἱπ
-                               <lb n="4" break="no"/> ποδ</abbr><ex>ρόμου</ex> </expan></rs><ex>καὶ</ex><rs type="office" subtype="civil" ref="#anagrapheus_002"> ἀν<supplied reason="lost">α</supplied>
-                               <lb n="5" break="no"/> γραφ<ex>εὺς</ex> τοῦ  <placeName type="geography" ref="#geo0018"><supplied reason="lost">Αἰγ<ex>αίου</ex></supplied>
+                               <lb n="4" break="no"/> ποδ</abbr><ex>ρόμου</ex> </expan></rs><expan><abbr><am>S</am></abbr><ex>καὶ</ex></expan><rs type="office" subtype="civil" ref="#anagrapheus_002"> ἀν<supplied reason="lost">α</supplied>
+                               <lb n="5" break="no"/><expan><abbr>γραφ</abbr><ex>εὺς</ex> </expan>τοῦ  <placeName type="geography" ref="#geo0018"><supplied reason="lost"><expan><abbr>Αἰγ</abbr><ex>αίου</ex></expan></supplied>
                                <lb n="6"/><expan><supplied reason="lost">Π</supplied><abbr>ελ</abbr><supplied reason="lost">άγ<ex>ους</ex></supplied></expan></placeName></rs>
                            
                           
@@ -353,9 +352,9 @@
                   </div>
               </div>
          <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang=""> 
-                  <div type="textpart" subtype="sigla" n="obv" rend="columns" xml:lang="grc"> <!--obverse, diplomatic-->
+                  <!--<div type="textpart" subtype="sigla" n="obv" rend="columns" xml:lang="grc"> <!-\-obverse, diplomatic-\->
                     
-                  </div>
+                  </div>-->
                 
                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, diplomatic-->
                      <ab>
@@ -387,19 +386,19 @@
             <p xml:lang="el">Μιχαὴλ πρωτοσπαθάριος κριτὴς του ιπποδρόμου και αναγραφέας του Αιγαίου Πελάγους.</p>
          </div>
          <div type="commentary" subtype="text">
-            <p xml:lang="en">The issuer  is known only from this seal type[1]. </p>
+            <p xml:lang="en">The issuer  is known only from this seal type. </p>
             <!--if you have the commentary only in German and would like to show it also in the English page, you should delete the xml:lang-->
             <p xml:lang="de">[your commentary here]</p>
          </div>
          <div type="commentary" subtype="footnotes">
             <p xml:lang="en"/>
-            <p xml:id="footnote-1">
-                    [1]. <bibl>
+            <!--<p xml:id="footnote-1">
+                    <bibl>
                   <ptr target="PBW"/>
                   <citedRange unit="entry">
                      <ref target="http://pbw2016.kdl.kcl.ac.uk/person/Michael/20216/">Michael 20216</ref>
                   </citedRange>.</bibl>
-            </p>
+            </p>-->
             <!--if you have the footnotes only in French and would like to show it also in the English page, you should delete the xml:lang-->
             <p xml:lang="de"/>
          </div>

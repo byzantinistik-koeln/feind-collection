@@ -38,7 +38,7 @@
          </publicationStmt>
          <sourceDesc>
             <listPerson type="issuer">
-               <person role="  civil military" gender="M">
+               <person role="civil military" gender="M">
                   <persName xml:lang="en">
                      <forename>Genesios</forename>
                   </persName>
@@ -81,11 +81,11 @@
                   <summary n="whole">
                      <seg xml:lang="en">Central administration.</seg>
                      <seg xml:lang="de">Zentralverwaltung</seg>
-                     <seg xml:lang="el">Μολυβδόβουλλα αξιωματούχων της κεντρικής διοίκησης .</seg>
+                     <seg xml:lang="el">Μολυβδόβουλλα αξιωματούχων της κεντρικής διοίκησης.</seg>
                   </summary>
                   <msItem>
                      <author>
-                        <roleName role="issuer" type="  civil military">
+                        <roleName role="issuer" type="civilmilitary">
                            <seg xml:lang="en">
                               <forename>Genesios</forename>
                            </seg>
@@ -132,17 +132,17 @@
                            <measure type="channelOrient" unit="clock">6-12</measure>
                            <measure type="countermark" unit="clock"/>
                         </support>
-                        <condition rend="  not-centered obliterated ">
+                        <condition rend="not-centered obliterated ">
                            <p xml:lang="en">Beige patina, partially flattened and effaced, weakly imprinted, struck off-centre to the right on the obverse, to the left on the reverse. </p>
                            <p xml:lang="de">Beige Patina, teilweise abgeflacht und ausgelöscht, schwach geprägt, auf der Vorderseite außermittig nach rechts, auf der Rückseite nach links geschlagen.</p>
-                           <p xml:lang="el"> Πατίνα καστανοκίτρινου χρώματος, το μολυβδόβουλλο εν μέρει πεπλατυσμένο και σβησμένο, αδύναμη αποτύπωση της σφραγίδας, ο εμπορσθότυπος αποκλίνει απο το κέντρο προς το δεξιό και ο οπισθότυπος προς το αριστερό μέρος του δίσκου. </p>
+                           <p xml:lang="el">Πατίνα καστανοκίτρινου χρώματος, το μολυβδόβουλλο εν μέρει πεπλατυσμένο και σβησμένο, αδύναμη αποτύπωση της σφραγίδας, ο εμπορσθότυπος αποκλίνει από το κέντρο προς το δεξιό και ο οπισθότυπος προς το αριστερό μέρος του δίσκου. </p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
                         <layout n="whole">
                            <rs type="execution">
                               <seg xml:lang="en">Struck</seg>
-                              <seg xml:lang="de">???</seg>
+                              <seg xml:lang="de">Struck</seg>
                               <seg xml:lang="el">Παιστό</seg>
                            </rs>
                            <rs type="shape">
@@ -176,7 +176,7 @@
                                 <interp type="datingCriteria" xml:lang="de"/>
                             </origDate>-->
                      <!-- for a date range or centuries (NOT BEFORE - NOT AFTER)-->
-                     <origDate type="analysis" notBefore="0901" notAfter="1000" evidence=" iconography" resp="MC">
+                     <origDate type="analysis" notBefore="0901" notAfter="1000" evidence="iconography" resp="MC">
                         <seg xml:lang="en">10th c.</seg>
                         <seg xml:lang="de">10. Jh.</seg>
                         <seg xml:lang="el">10ος αι.</seg>
@@ -247,7 +247,7 @@
                            <figure>
                               <figDesc ana="" n="r" xml:lang="en">A rosace or floral pattern consisting of a cross adorned with a pellet in the middle and at the end of each arm, and with fleurons in the quarters. Along the circumference, a partially preserved circular inscription beginning at 12 o’clock.</figDesc>
                               <figDesc ana="" n="r" xml:lang="de">Kreuz mit Pflanzenornamente in den vier Ecken und in einem Perlenrand enthalten. Umlaufende Inschrift.</figDesc>
-                              <figDesc ana="" n="r" xml:lang="el">Ρόδακας ή φυτικό μοτίβο το οποίο αποτελείται από έναν σταυρό που κοσμείται από ένα σφαιρίδιο στη μέση και στην άκρη κάθε βραχίονα του σταυρού˙ μικρότερα φυτικά μοτίβα σχηματίζονται στα τεταρτημόρια του σταυρού. Κατά μήκος της περιφέρειας, μια μερικώς διατηρημένη κυκλοτερή επιγραφή που αρχίζει από το σημείο του άξονα 12. </figDesc>
+                              <figDesc ana="" n="r" xml:lang="el">Ρόδακας ή φυτικό μοτίβο, το οποίο αποτελείται από έναν σταυρό, ο οποίος κοσμείται από ένα σφαιρίδιο στη μέση και στην άκρη κάθε βραχίονα του σταυρού. Μικρότερα φυτικά μοτίβα σχηματίζονται στα τεταρτημόρια του σταυρού. Κατά μήκος της περιφέρειας, διακρίνεται μια μερικώς διατηρημένη κυκλοτερή επιγραφή που αρχίζει από το σημείο του άξονα 12.</figDesc>
                               <figDesc ana="" n="decoR" xml:lang="en">Border of dots.</figDesc>
                               <figDesc ana="" n="decoR" xml:lang="de">Perlrand</figDesc>
                               <figDesc ana="" n="decoR" xml:lang="el">Στικτό πλαίσιο.</figDesc>
@@ -319,6 +319,7 @@
             <graphic url="SB_118a.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -328,6 +329,7 @@
             <graphic url="SB_118b.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -386,7 +388,7 @@
             <p>Κύριε βοήθει τῷ σῷ δούλῳ/ Γενεσήῳ βασιλικῷ πρωτοσπαθαρίῳ καὶ ἐπὶ τῶν οἰκειακῶν καὶ ἐπὶ τοῦ μαγλαβίου.</p>
             <p xml:lang="en">Lord, help your servant Genesios imperial protospatharios, epi ton oikeiakon, and epi tou manglaviou.</p>
             <p xml:lang="de">Herr, hilf deinem Diener Genesios kaiserlichem protospatharios, epi ton oikeiakon und epi tu manglabiu.</p>
-            <p xml:lang="el">Κύριε βοήθησε τον δούλο σου Γενέσιο, βασιλικό πρωτοσπαθάριο επί των οικειακών και επί του μαγλαβίου.</p>
+            <p xml:lang="el">Κύριε βοήθησε το δούλο σου Γενέσιο, βασιλικό πρωτοσπαθάριο επί των οικειακών και επί του μαγλαβίου.</p>
          </div>
          <!--<div type="commentary" subtype="text">
                   <p xml:lang="en">[your commentary here]</p> <!-\-if you have the commentary only in German and would like to show it also in the English page, you should delete the xml:lang-\->

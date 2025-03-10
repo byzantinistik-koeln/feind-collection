@@ -4,6 +4,7 @@
          <titleStmt>
             <title xml:lang="de">Siegel des Basileios Apokapes, proedros und doux</title>
             <title xml:lang="en">Seal of Basileios Apokapes, proedros and doux</title>
+            <title xml:lang="el">Μολυβδόβουλλο Βασιλείου Αποκάπη, προέδρου και δούκα</title>
             <editor role="seal-editor" xml:id="MC">Maria Teresa Catalano</editor>
             <editor role="seal-editor" xml:id="MF">Martina Filosa</editor>
             <editor role="seal-editor" xml:id="CS">Claudia Sode</editor>
@@ -50,6 +51,10 @@
                      <forename>Basileios</forename>
                      <surname>Apokapes</surname>
                   </persName>
+                  <persName xml:lang="en">
+                     <forename>Βασίλειος</forename>
+                     <surname>Αποκάπης</surname>
+                  </persName>
                   <idno type="PBW" cert="low" ana="http://pbw2016.kdl.kcl.ac.uk/person/Basileios/101/">Basileios
                             101</idno>
                   <!--okay that I added this refernce?-->
@@ -62,6 +67,7 @@
                   <country>
                      <seg xml:lang="en">Germany</seg>
                      <seg xml:lang="de">Deutschland</seg>
+                     <seg xml:lang="el">Γερμανία</seg>
                   </country>
                   <settlement>
                      <seg xml:lang="en">
@@ -69,6 +75,8 @@
                      </seg>
                      <seg xml:lang="de">
                         <placeName ref="https://www.geonames.org/6553049/koeln.html"/>Köln</seg>
+                     <seg xml:lang="el">
+                        <placeName ref="https://www.geonames.org/6553049/koeln.html"/>Κολωνία</seg>
                   </settlement>
                   <institution/>
                   <repository/>
@@ -87,6 +95,7 @@
                   <summary n="whole">
                      <seg xml:lang="en">Provincial administration.</seg>
                      <seg xml:lang="de">Provinzialverwaltung</seg>
+                     <seg xml:lang="el">Μολυβδόβουλλα αξιωματούχων της περιφερειακής διοίκησης.</seg>
                   </summary>
                </msContents>
                <physDesc>
@@ -97,15 +106,19 @@
                               <term>
                                  <seg xml:lang="de">Siegel</seg>
                                  <seg xml:lang="en">Seal</seg>
+                                 <seg xml:lang="el">Μολυβδόβουλλο</seg>
                               </term>
                               <interp type="workType" xml:lang="de">Origineller
                                             Siegelabdruck.</interp>
                               <interp type="workType" xml:lang="en">Original
                                             impression.</interp>
+                              <interp type="workType" xml:lang="el">Αρχική
+                                 αποτύπωση.</interp>
                            </objectType>
                            <material>
                               <seg xml:lang="de">Blei</seg>
                               <seg xml:lang="en">Lead</seg>
+                              <seg xml:lang="el">Μόλυβδος</seg>
                            </material>
                            <dimensions type="support" unit="mm">
                               <dim type="diameter">22</dim>
@@ -120,6 +133,7 @@
                            <p xml:lang="de">Rohling zu klein für die Matrix, schwache
                                         Prägung.</p>
                            <p xml:lang="en">Blank too small for the die, weak imprint. </p>
+                           <p xml:lang="el">Ο δίσκος μικρότερος από τη σφραγίδα αποτύπωσης, αδύναμη αποτύπωση.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -127,10 +141,12 @@
                            <rs type="execution">
                               <seg xml:lang="de">Geprägt</seg>
                               <seg xml:lang="en">Struck</seg>
+                              <seg xml:lang="el">Παιστό</seg>
                            </rs>
                            <rs type="shape">
                               <seg xml:lang="de">Rund</seg>
                               <seg xml:lang="en">Round</seg>
+                              <seg xml:lang="el">Σφαιρικό</seg>
                            </rs>
                            <rs type="matrix" subtype="not-surviving">
                               <idno type="SigiDoc">"m-HDlFKC"</idno>
@@ -147,6 +163,7 @@
                      <origDate type="analysis" notBefore="1051" notAfter="1100" evidence="epigraphy" cert="high" resp="#MC">
                         <seg xml:lang="en">11th c., second half.</seg>
                         <seg xml:lang="de">11. Jh., zweite Hälfte.</seg>
+                        <seg xml:lang="el">11ος αι., δεύτερο μισό.</seg>
                      </origDate>
                   </origin>
                   <provenance type="found" subtype="discovered">
@@ -188,6 +205,7 @@
                               </dimensions>
                               <p xml:lang="en">Iconography</p>
                               <p xml:lang="de">Ikonographie</p>
+                              <p xml:lang="el">Εικονογραφία</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -206,10 +224,12 @@
                                             Hl. Basileios. Details undeutlich. Legende auf beiden
                                             Seiten aus Buchstaben in kreuzförmiger
                                             Anordnung.</figDesc>
+                              <figDesc ana="person male saint St-Basil bust bishop" n="r" xml:lang="el">Προτομή αγ. Βασιλείου. Δεν διακρίνονται λεπτομέρειες. Επιγραφή και στις δύο πλευρές, διαμορφωμένη σε σχήμα σταυρού.</figDesc>
                               <figDesc ana="" n="decoR" xml:lang="en">No border
                                             visible.</figDesc>
                               <figDesc ana="" n="decoR" xml:lang="de">Kein Rand
                                             sichtbar.</figDesc>
+                              <figDesc ana="" n="decoR" xml:lang="el">Δεν διακρίνεται πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -238,6 +258,7 @@
                               </dimensions>
                               <p xml:lang="en">Linear legend of 5 lines.</p>
                               <p xml:lang="de">Lineare Legende auf 5 Zeilen.</p>
+                              <p xml:lang="el">Γραμμική επιγραφή 5 στίχων.</p>
                               <!--Only controlled vocabulary here? Fomerly there used to be also the possibility for free-text entries...-->
                            </layout>
                         </layoutDesc>
@@ -257,6 +278,7 @@
                               <figDesc ana="" n="decoV" xml:lang="de">Oberhalb der Legende ist
                                             eine Dekoration aus einem Kreuz zwischen zwei
                                             Zierlinien. Rand.</figDesc>
+                              <figDesc ana="" n="decoV" xml:lang="el">Πάνω από την επιγραφή, διακοσμητικό μοτίβο, το οποίο αποτελείται από έναν σταυρό ανάμεσα σε δύο γραμμές. Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -273,18 +295,20 @@
       <surfaceGrp>
          <surface n="r">
             <desc>Obverse</desc>
-            <graphic url="" type="photo">
+            <graphic url="SB_115a.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
       <surfaceGrp>
          <surface n="v">
             <desc>Reverse</desc>
-            <graphic url="" type="photo">
+            <graphic url="SB_115b.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -331,6 +355,7 @@
             <p>Κύριε βοήθει Βασιλείω προέδρῳ καὶ δοὺξ τῷ Ἀποκάπῃ.</p>
             <p xml:lang="en">Lord, help Basileios Apokapes, proedros and doux.</p>
             <p xml:lang="de">Herr, hilf Basileios Apokapes, proedros und doux.</p>
+            <p xml:lang="el">Κύριε βοήθησε το Βασίλειο Αποκάπη, πρόεδρο και δούκα.</p>
          </div>
          <div type="commentary" subtype="text">
             <p xml:lang="en">The seal inscription shows an alternating use of the dative and the
@@ -338,16 +363,16 @@
                     in the dative.[1]</p>
          </div>
          <div type="commentary" subtype="footnotes">
-                <!--add to bibliography: "Erdoğan2018": E. G. Erdoğan, A Selection of Unpublished Lead Seals from the Gaziantep Archeological Museum: Seals Issued by State Officials, in Sanat Tarihi Yıllığı Sayı 27, 2018, p. 81-99.-->
-                <!--add to bibliography: "PrigentCheynetErdoğan2020": Vivien Prigent, Jean-Claude Cheynet, Esra Erdoğan, Les sceaux byzantins du musée de Gaziantep, Revue des études byzantines 78, 2020, p. 5-69.-->
-                <!--add to bibliography: "Grünbart1998": Michael Grünbart, Die Familie Apokapes im Lichte neuer Quellen, SBS 5, 1998, p. 29-41.-->
-                <!--add to bibliography: "Cheynet1994": Cheynet, Jean-Claude, Sceaux byzantins des Musées d'Antioche et de Tarse, In: Travaux et Mémoires du Centre de Recherche d'Histoire et Civilisation de Byzance Bd. 12 (1994) S. 391-478.-->
+            <!--add to bibliography: "Erdoğan2018": E. G. Erdoğan, A Selection of Unpublished Lead Seals from the Gaziantep Archeological Museum: Seals Issued by State Officials, in Sanat Tarihi Yıllığı Sayı 27, 2018, p. 81-99.--><!--DONE-->
+                <!--add to bibliography: "PrigentCheynetErdoğan2020": Vivien Prigent, Jean-Claude Cheynet, Esra Erdoğan, Les sceaux byzantins du musée de Gaziantep, Revue des études byzantines 78, 2020, p. 5-69.--><!--DONE-->
+                <!--add to bibliography: "Grünbart1998": Michael Grünbart, Die Familie Apokapes im Lichte neuer Quellen, SBS 5, 1998, p. 29-41.--> <!--DONE-->
+                <!--add to bibliography: "Cheynet1994": Cheynet, Jean-Claude, Sceaux byzantins des Musées d'Antioche et de Tarse, In: Travaux et Mémoires du Centre de Recherche d'Histoire et Civilisation de Byzance Bd. 12 (1994) S. 391-478.--><!-- done-->
             <p xml:id="footnote-1">[1] (1) Gaziantep, Museum of Archeology, no. 2010.2.18,
                     published in <bibl>
                   <ptr target="Erdoğan2018"/>, p. <citedRange unit="page">86-87</citedRange>, no. <citedRange unit="entry">3</citedRange>
                </bibl>;
                             <bibl>
-                  <ptr target="PrigentCheynetErdoğan2020"/>, p. <citedRange unit="page">24-25</citedRange>
+                               <ptr target="PrigentCheynetErdoğan2020"/>, p. <citedRange unit="page">24-25</citedRange>
                </bibl>; the seal is also mentioned in
                             <bibl>
                   <ptr target="Grünbart1998"/>, p. <citedRange unit="page">38-39</citedRange> and note <citedRange unit="entry">34</citedRange>
