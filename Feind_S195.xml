@@ -344,10 +344,10 @@
          <div type="edition" subtype="editorial" xml:space="preserve"> 
                   <div type="textpart" subtype="face" n="obv" rend="linear" xml:lang="grc"> <!--obverse, editorial-->
                       <ab><!--METRICAL???--><!--NEW INVOCATION-->
-                          <lb n="1"/><supplied reason="lost">῾Αγί</supplied>α Τρ
+                          <lb n="1"/><rs type="invocation" ref="#inv010"><supplied reason="lost">῾Αγί</supplied>α Τρ
                           <lb n="2" break="no"/><supplied reason="lost">ι</supplied>ὰ<supplied reason="lost">ς ὁ</supplied> Θε
                           <lb n="3" break="no"/>ὸς <supplied reason="lost">ἡ</supplied>μῶν 
-                          <lb n="4"/><supplied reason="lost">β</supplied>ο<supplied reason="lost">ή</supplied>θη
+                          <lb n="4"/><supplied reason="lost">β</supplied>ο<supplied reason="lost">ή</supplied>θη</rs>
                       </ab>
                   </div>
                       <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->

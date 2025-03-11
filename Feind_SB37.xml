@@ -352,7 +352,7 @@
          <div type="edition" subtype="editorial" xml:space="preserve"> 
                   <div type="textpart" subtype="face" n="obv" rend="circular" xml:lang="grc"> <!--obverse, editorial-->
                       <ab>
-                          <lb n="1"/><supplied reason="lost">Θεοτόκε βοήθει τῷ σῷ δούλῳ Ἰω</supplied>άννῃ
+                          <lb n="1"/><rs type="invocation" ref="#inv002"><supplied reason="lost">Θεοτόκε βοήθει τῷ σῷ δούλῳ Ἰω</supplied>άννῃ</rs>
                       </ab>
                   </div>
                       <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->

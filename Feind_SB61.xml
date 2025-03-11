@@ -367,8 +367,8 @@
                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
             
                             <lg met="dodecasyllable">
-                                <l n="1"><lb n="1"/><expan><abbr>σῴζοι</abbr><ex>ς</ex> </expan>
-                                <lb n="2"/><expan><abbr>πάναγν</abbr><ex>ε</ex></expan></l>
+                                <l n="1"><lb n="1"/><rs type="invocation" ref="#inv009"><expan><abbr>σῴζοι</abbr><ex>ς</ex> </expan>
+                                <lb n="2"/><expan><abbr>πάναγν</abbr><ex>ε</ex></expan></rs></l>
                                  <l n="2"><lb n="3"/><expan><abbr>Θεό</abbr><supplied reason="lost">δ</supplied><abbr>ωρ</abbr><ex>ον</ex> </expan>
                                 <lb n="4"/><expan><abbr>ο</abbr><supplied reason="lost">ἰ</supplied><abbr>κέτ</abbr><ex>ην</ex></expan></l>
                           </lg>
