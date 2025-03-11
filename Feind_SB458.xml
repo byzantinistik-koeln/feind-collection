@@ -4,8 +4,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title xml:lang="en">Seal of Georgios Hexamelites, prothospatharios, krites epi tou hippodromou and of the Armenika themata</title>
-            <title xml:lang="de">Siegel des Georgios Hexamelites, prothospatharios, krites epi tou hippodromou und der Armenika themata</title>
+            <title xml:lang="en">Seal of Georgios Hexamilites, prothospatharios, krites epi tou hippodromou and of the Armenika themata</title>
+            <title xml:lang="de">Siegel des Georgios Hexamilites, prothospatharios, krites epi tou hippodromou und der Armenika themata</title>
             <editor role="seal-editor" xml:id="MC">Maria Teresa Catalano</editor>
             <editor role="seal-editor" xml:id="MF">Martina Filosa</editor>
             <editor role="seal-editor" xml:id="CS">Claudia Sode</editor>
@@ -39,11 +39,11 @@
                <person role="civil" gender="M">
                   <persName xml:lang="en">
                      <forename>Georgios</forename>
-                     <surname>Hexamelites</surname>
+                     <surname>Hexamilites</surname>
                   </persName>
                   <persName xml:lang="de">
                      <forename>Georgios</forename>
-                     <surname>Hexamelites</surname>
+                     <surname>Hexamilites</surname>
                   </persName>
                </person>
             </listPerson>
@@ -81,10 +81,10 @@
                      <author>
                         <roleName role="issuer" type="civil">
                            <seg xml:lang="en">
-                              <ref target="http://pbw2016.kdl.kcl.ac.uk/person/Georgios/20167/">Georgios Hexamelites</ref>
+                              <ref target="http://pbw2016.kdl.kcl.ac.uk/person/Georgios/20167/">Georgios Hexamilites</ref>
                            </seg>
                            <seg xml:lang="de">
-                              <ref target="http://pbw2016.kdl.kcl.ac.uk/person/Georgios/20167/">Georgios Hexamelites</ref>
+                              <ref target="http://pbw2016.kdl.kcl.ac.uk/person/Georgios/20167/">Georgios Hexamilites</ref>
                            </seg>
                            <interp type="milieu" xml:lang="en">Civil</interp>
                            <interp type="milieu" xml:lang="de">Zivil</interp>
@@ -151,52 +151,11 @@
                            <placeName ref="URI"/>
                         </seg>
                      </origPlace>
-                     <!-- for a precise year (WHEN):-->
-                     <!--remember: you will most probably only need one of these. Whatever you DON'T need goes in a green comment-->
-                     <!--<origDate type="analysis" when="0001" evidence="" cert="" resp="">
-                                <seg xml:lang="en"/>
-                                <seg xml:lang="de"/>
-                                <interp type="datingCriteria" xml:lang="en"/>
-                                <interp type="datingCriteria" xml:lang="de"/>
-                            </origDate>-->
-                     <!-- for a date range or centuries (NOT BEFORE - NOT AFTER)-->
                      <origDate type="analysis" notBefore="1041" notAfter="1060" evidence="epigraphy" resp="#MC">
                         <seg xml:lang="en">Mid-11th c.</seg>
                         <seg xml:lang="de">Mitte 11. Jh.</seg>
                      </origDate>
-                     <!-- for an internal date >
-                            <origDate type="internal" when="0001" when-custom="2023" datingMethod="">
-                                <seg xml:lang="en"/>
-                                <seg xml:lang="de"/>
-                                <interp type="datingCriteria" xml:lang="en"/>
-                                <interp type="datingCriteria" xml:lang="de"/>
-                            </origDate>-->
-                     <!-- for erroneous dating and corrections: -->
-                     <!--<date>
-                                <choice>
-                                    <sic resp=""/>
-                                    <corr resp="" evidence="" cert=""/>
-                                </choice>
-                                <interp type="datingCriteria" xml:lang=""/>
-                            </date>-->
                   </origin>
-                  <!--<provenance type="found" subtype="" when="2023" xml:lang="" source="" cert="">
-                            <placeName type="ancientFindspot" ref="URI"/>
-                            <placeName type="modernFindspot" ref="URI"/>
-                            <rs type="circumstances"/>
-                        </provenance>
-                        <provenance type="observed" subtype="">
-                            <p xml:lang="en"/>
-                            <p xml:lang="de"/>
-                        </provenance>
-                        <provenance type="not-observed" subtype="">
-                            <p xml:lang="en"/>
-                            <p xml:lang="de"/>
-                        </provenance>
-                        <provenance type="transferred" subtype="">
-                            <p xml:lang="en"/>
-                            <p xml:lang="de"/>
-                        </provenance>-->
                   <acquisition>
                      <p xml:lang="en"/>
                      <p xml:lang="de"/>
@@ -374,11 +333,11 @@
          </div>
          <div type="translation">
             <p>Μήτηρ Θεοῦ / Θεοτόκε βοήθει Γεωργίῳ πρωτοσπαθαρίῳ κριτῇ ἐπὶ τοῦ ἱπποδρόμου καὶ τῶν ᾿Αρμενικῶν θεμάτων ὁ Ἑξαμηλίτης.</p>
-            <p xml:lang="en">Mother of God. Mother of God, help Georgios Hexamelites, prothospatharios, krites epi tou hippodromou and of the Armenika themata.</p>
-            <p xml:lang="de">Muttergottes. Muttergottes, hilf Georgios Hexamelites, prothospatharios, krites epi tou hippodromou und der Armenika themata.</p>
+            <p xml:lang="en">Mother of God. Mother of God, help Georgios Hexamilites, prothospatharios, krites epi tou hippodromou and of the Armenika themata.</p>
+            <p xml:lang="de">Muttergottes. Muttergottes, hilf Georgios Hexamilites, prothospatharios, krites epi tou hippodromou und der Armenika themata.</p>
          </div>
          <div type="commentary" subtype="text">
-            <p xml:lang="en">The restitution of the first and last line of the legend is based on the parallels. Georgios Hexamelites[1] is also known from another seal type, on which he appears at an earlier stage of his career, as <hi rend="italic">spatharokandidatos</hi>, <hi rend="italic">protonotarios</hi> and <hi rend="italic">krites</hi> of Seleukeia.[2] 
+            <p xml:lang="en">The restitution of the first and last line of the legend is based on the parallels. Georgios Hexamilites[1] is also known from another seal type, on which he appears at an earlier stage of his career, as <hi rend="italic">spatharokandidatos</hi>, <hi rend="italic">protonotarios</hi> and <hi rend="italic">krites</hi> of Seleukeia.[2] 
                 </p>
             <p xml:lang="de"/>
          </div>
