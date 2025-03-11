@@ -5,7 +5,7 @@
          <titleStmt>
             <title xml:lang="en">Seal of Konstantinos protospatharios and epi tou manglaviou</title>
             <title xml:lang="de">Siegel des Konstantinos protospatharios und epi tu manglabiu</title>
-            <title xml:lang="el">Μολυβδόβουλλο του Κωνσταντίνου πρωτοσπαθαρίου και επί του μαγλαβίου</title>
+            <title xml:lang="el">Μολυβδόβουλλο του Κωνσταντίνου πρωτοσπαθαρίου και επί του μαγγλαβίου</title>
             <editor role="seal-editor" xml:id="MC">Maria Teresa Catalano</editor>
             <editor role="seal-editor" xml:id="MF">Martina Filosa</editor>
             <editor role="seal-editor" xml:id="CS">Claudia Sode</editor>
@@ -132,17 +132,17 @@
                            <measure type="channelOrient" unit="clock">6-12</measure>
                            <measure type="countermark" unit="clock"/>
                         </support>
-                        <condition rend="  not-centered obliterated ">
+                        <condition rend="not-centered obliterated ">
                            <p xml:lang="en">Green patina, slightly effaced at left on the reverse.</p>
                            <p xml:lang="de">Grüne Patina, auf der Rückseite links leicht befleckt.</p>
-                           <p xml:lang="el">Πατίνα πρασινωπού χρώματος, ελαφρώς σβησμένη στα αριστερά του πεδίου στον οπισθότυπο.</p>
+                           <p xml:lang="el">Πατίνα πρασινωπού χρώματος, στον οπισθότυπο ελαφρώς σβησμένο στα αριστερά του πεδίου.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
                         <layout n="whole">
                            <rs type="execution">
                               <seg xml:lang="en">Struck</seg>
-                              <seg xml:lang="de">???</seg>
+                              <seg xml:lang="de">Geprägt</seg>
                               <seg xml:lang="el">Παιστό</seg>
                            </rs>
                            <rs type="shape">
@@ -176,7 +176,7 @@
                                 <interp type="datingCriteria" xml:lang="de"/>
                             </origDate>-->
                      <!-- for a date range or centuries (NOT BEFORE - NOT AFTER)-->
-                     <origDate type="analysis" notBefore="1041" notAfter="1060" evidence=" epigraphy iconography" resp="MC">
+                     <origDate type="analysis" notBefore="1041" notAfter="1060" evidence="epigraphy iconography" resp="MC">
                         <seg xml:lang="en">mid-11th c.</seg>
                         <seg xml:lang="de">Mitte 11. Jh.</seg>
                         <seg xml:lang="el">μέσα 11ου αι.</seg>
@@ -247,7 +247,7 @@
                            <figure>
                               <figDesc ana="" n="r" xml:lang="en">Bust of the Mother of God (Hodegetria) holding the Child in her left arm. Sigla on either side.</figDesc>
                               <figDesc ana="" n="r" xml:lang="de">Büste der Muttergottes Hodegetria. Beischrift auf beiden Seiten.</figDesc>
-                              <figDesc ana="" n="r" xml:lang="el">Προτομή της Θεοτόκου (Οδηγήτρια), κρατώντας τον Χριστό στο αριστερό της χέρι. Διατηρούνται σίγλλα και στις δυο πλευρές του πεδίου.</figDesc>
+                              <figDesc ana="" n="r" xml:lang="el">Προτομή της Θεοτόκου (Οδηγήτρια), που κρατάει το Χριστό στο αριστερό της χέρι. Διατηρούνται σίγλλα και στις δυο πλευρές του πεδίου.</figDesc>
                               <figDesc ana="" n="decoR" xml:lang="en">Border of dots.</figDesc>
                               <figDesc ana="" n="decoR" xml:lang="de">Perlrand</figDesc>
                               <figDesc ana="" n="decoR" xml:lang="el">Στικτό πλαίσιο.</figDesc>
@@ -299,7 +299,7 @@
                               <figDesc ana="" n="v" xml:lang="de"/>
                               <figDesc ana="" n="decoV" xml:lang="en">Cross at the beginning of the legend. Above, a decoration consisting of a dot between two dashes. Border of dots.</figDesc>
                               <figDesc ana="" n="decoV" xml:lang="de">Kreuz am Anfang der Legende. Oben eine Dekoration bestehend aus einem Punkt zwischen zwei Strichen. Perlrand</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="el">Σταυρός στην αρχή της επιγραφής.  Απο πάνω,  διακοσμητικό μοτίβο το οποίο  αποτελείται από μια στιγμή ανάμεσα σε δύο παύλες. Στικτό πλαίσιο.</figDesc>
+                              <figDesc ana="" n="decoV" xml:lang="el">Σταυρός στην αρχή της επιγραφής.  Απο πάνω,  διακοσμητικό μοτίβο, το οποίο  αποτελείται από μια στιγμή ανάμεσα σε δύο γραμμές. Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -319,6 +319,7 @@
             <graphic url="SB_304a.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -328,6 +329,7 @@
             <graphic url="SB_304b.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -348,8 +350,8 @@
                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
                       <ab ana="dat">
                                 <lb n="1"/><rs type="invocation" ref="#inv003"><expan><abbr>Κ</abbr><ex>ύρι</ex><abbr>ε</abbr> <abbr>β</abbr><ex>οή</ex><abbr>θ</abbr><ex>ει</ex> </expan></rs>
-                                <lb n="2"/><expan><abbr>Κων</abbr><ex>σταντίνῳ</ex> </expan> <rs type="dignity" ref="#prosospatharios"><expan><ex>πρωτο</ex><abbr>σπα
-                                <lb n="3" break="no"/>θαρ</abbr><ex>ίῳ</ex> </expan></rs> <ex>καὶ</ex> <rs type="office" subtype="military" ref="#epi-tou-manglaviou_001">ἐπὶ 
+                                <lb n="2"/><expan><abbr>Κων</abbr><ex>σταντίνῳ</ex> </expan> <rs type="dignity" ref="#d0066"><expan><ex>πρωτο</ex><abbr>σπα
+                                <lb n="3" break="no"/>θαρ</abbr><ex>ίῳ</ex> </expan></rs> <expan><abbr><am>S</am></abbr><ex>καὶ</ex></expan> <rs type="office" subtype="military" ref="#of0259">ἐπὶ 
                                 <lb n="4"/><supplied reason="lost">τ</supplied>οῦ<expan> <abbr>μαγλ</abbr><ex>α</ex>
                                 <lb n="5" break="no"/><abbr>βίου</abbr></expan></rs>                                                        
                             </ab>
@@ -388,7 +390,7 @@
             <p>Μήτηρ Θεοῦ/ Κύριε βοήθει Κωνσταντίνῳ πρωτοσπαθαρίῳ καὶ ἐπὶ τοῦ μαγλαβίου. </p>
             <p xml:lang="en">Mother of God. Lord, help  Konstantinos protospatharios and epi tou manglaviou.</p>
             <p xml:lang="de">Muttergottes. Herr, hilf dem Konstantinos protospatharios und epi tu manglabiu.</p>
-            <p xml:lang="el">Θεοτόκε. Κύριε βοήθησε τον Κωσταντίνο πρωτοσπαθάριο και επί του μαγλαβίου.</p>
+            <p xml:lang="el">Θεοτόκε. Κύριε βοήθησε τον Κωσταντίνο πρωτοσπαθάριο και επί του μαγγλαβίου.</p>
          </div>
          <!--<div type="commentary" subtype="text">
                   <p xml:lang="en">[your commentary here]</p> <!-\-if you have the commentary only in German and would like to show it also in the English page, you should delete the xml:lang-\->

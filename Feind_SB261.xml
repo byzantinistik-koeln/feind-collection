@@ -39,7 +39,7 @@
          </publicationStmt>
          <sourceDesc>
             <listPerson type="issuer">
-               <person role="secular-church" gender="" xml:id="">
+               <person role="secular-church" gender="M">
                   <persName xml:lang="en">
                      <forename>Niketas</forename>
                   </persName>
@@ -87,14 +87,14 @@
                   <msItem>
                      <author>
                         <roleName role="issuer" type=" secular-church ">
-                           <seg xml:lang="en">
                               <forename>Niketas </forename>
-                           </seg>
+                           <seg xml:lang="en"> <ref target="http://pbw2016.kdl.kcl.ac.uk/person/Niketas/20147/">Niketas</ref>
+                                            </seg>
                            <seg xml:lang="de">
-                              <forename>Niketas </forename>
+                              <ref target="http://pbw2016.kdl.kcl.ac.uk/person/Niketas/20147/">Niketas</ref>
                            </seg>
                            <seg xml:lang="el">
-                              <forename>Νικήτας</forename>
+                              <ref target="http://pbw2016.kdl.kcl.ac.uk/person/Niketas/20147/">Νικήτας</ref>
                            </seg>
                            <interp type="milieu" xml:lang="en">Secular Church</interp>
                            <interp type="milieu" xml:lang="de">Kirche</interp>
@@ -135,20 +135,20 @@
                            <measure type="channelOrient" unit="clock">6-12</measure>
                            <measure type="countermark" unit="clock"/>
                         </support>
-                        <condition rend=" crushed obliterated corroded ">
+                        <condition rend="crushed obliterated corroded ">
                            <p xml:lang="en">Light green patina, chipped at both ends of the
                                         channel and at on one side, hole in the centre. </p>
                            <p xml:lang="de">Hellgrüne Patina, an beiden Enden der Rinne und
                                         an einer Seite abgeplatzt, Loch in der Mitte.</p>
-                           <p xml:lang="el">Πατίνα πρασινωπού χρώματος, σπασμένη στα δύο
-                                        άκρα του διαύλου, οπή στη μέση.</p>
+                           <p xml:lang="el">Πατίνα πρασινωπού χρώματος, σπασμένο στα δύο
+                                        στόμια του διαύλου, οπή στη μέση.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
                         <layout n="whole">
                            <rs type="execution">
                               <seg xml:lang="en">Struck</seg>
-                              <seg xml:lang="de">???</seg>
+                              <seg xml:lang="de">Geprägt</seg>
                               <seg xml:lang="el">Παιστό</seg>
                            </rs>
                            <rs type="shape">
@@ -182,7 +182,7 @@
                                 <interp type="datingCriteria" xml:lang="de"/>
                             </origDate>-->
                      <!-- for a date range or centuries (NOT BEFORE - NOT AFTER)-->
-                     <origDate type="analysis" notBefore="1051" notAfter="1100" evidence=" iconography epigraphy" resp="MC">
+                     <origDate type="analysis" notBefore="1051" notAfter="1100" evidence="iconography epigraphy" resp="MC">
                         <seg xml:lang="en">11th c., second half.</seg>
                         <seg xml:lang="de">11. Jh., zweite Hälfte.</seg>
                         <seg xml:lang="el">11ος αι. δεύτερο μισό. </seg>
@@ -315,8 +315,8 @@
                                             Punkt zwischen zwei Strichen.</figDesc>
                               <figDesc ana="" n="decoV" xml:lang="el">Σταυρός στην αρχή της
                                             επιγραφής. Από πάνω, διακοσμητικό μοτίβο το οποίο
-                                            αποτελείται από μία τελεία ανάμεσα σε δύο
-                                            παύλες.</figDesc>
+                                            αποτελείται από μία στιγμή ανάμεσα σε δύο
+                                            γραμμές.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -333,18 +333,20 @@
       <surfaceGrp>
          <surface n="r">
             <desc>Obverse</desc>
-            <graphic url="SB_261a" type="photo">
+            <graphic url="SB_261a.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
       <surfaceGrp>
          <surface n="v">
             <desc>Reverse</desc>
-            <graphic url="SB_261b" type="photo">
+            <graphic url="SB_261b.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -363,8 +365,8 @@
                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
                       <ab ana="acc">
                                     <lb n="1"/><persName type="forename" ref="#niketas-4">Νική
-                                   <lb n="2" break="no"/>ταν</persName>Ἁγνή 
-                                   <lb n="3"/><rs type="office" subtype="ecclesiastical" ref="#chartophylax_001">χαρ<supplied reason="lost">τ</supplied>οφ<supplied reason="lost">ύ</supplied>
+                                   <lb n="2" break="no"/>ταν </persName>Ἁγνή 
+                                   <lb n="3"/><rs type="office" subtype="ecclesiastical" ref="#of0236">χαρ<supplied reason="lost">τ</supplied>οφ<supplied reason="lost">ύ</supplied>
                               <lb n="4" break="no"/>λακα</rs> σκ<supplied reason="lost">έ</supplied>
                                    <lb n="5" break="no"/>ποις
                       </ab>
@@ -403,22 +405,23 @@
             <p>Μήτηρ Θεοῦ/Νικήταν ῾Αγνή χαρτοφύλακα σκέποις.</p>
             <p xml:lang="en">Mother of God. Pure one, may you protect Niketas chartophylax.</p>
             <p xml:lang="de">Muttergottes. Mögest du, unbefleckte, den chartophylax Niketas beschützen.</p>
-            <p xml:lang="el">Θεοτόκε. Αγνή, μακάρι να προστατεύεις τον Νικήτα χαρτοφύλακα.</p>
+            <p xml:lang="el">Θεοτόκε. Αγνή, μακάρι να προστατεύεις το Νικήτα χαρτοφύλακα.</p>
          </div>
          <div type="commentary" subtype="text">
-            <p xml:lang="en">The chartophylax Niketas [1],  is attested on another, less frequent seal type , which shows on the obverse a standing Hagiosoritissa and on the reverse the same legend as on the seal here presented [2].</p>
+            <p xml:lang="en">The chartophylax Niketas,  is attested on another, less frequent seal type , which shows on the obverse a standing Hagiosoritissa and on the reverse the same legend as on the seal here presented [1].</p>
             <!--if you have the commentary only in German and would like to show it also in the English page, you should delete the xml:lang-->
             <p xml:lang="de">[your commentary here]</p>
          </div>
          <div type="commentary" subtype="footnotes">
             <p xml:lang="en"/>
-            <p xml:id="footnote-1">[1]. <bibl>
+            <!--<p xml:id="footnote-1"><bibl>
                   <ptr target="PBW"/>, <citedRange unit="entry">
                      <ref target="http://pbw2016.kdl.kcl.ac.uk/person/Niketas/20147/">Niketas 20147 </ref>
                   </citedRange>
                </bibl>
-            </p>
-            <p xml:id="footnote-2">[2]. <bibl>See Robert Feind Collection,  SB-292. </bibl>
+            </p>-->
+            <p xml:id="footnote-1">[1]. <bibl>See Robert Feind Collection,  <citedRange unit="entry">
+               <ref target="http://127.0.0.1:9999/en/seals/Feind_SB292.html">SB-292</ref></citedRange></bibl>.
             </p>
             <!--if you have the footnotes only in French and would like to show it also in the English page, you should delete the xml:lang-->
             <p xml:lang="de"/>
@@ -466,14 +469,13 @@
                </bibl> −  <bibl>
                   <ptr target="Ludwig1987"/> , <citedRange unit="page">p. 235</citedRange>
                </bibl> − <bibl>
-                  <ptr target="Wassiliou2017"/>,<citedRange unit="page"> p. 202-211</citedRange>
+                  <ptr target="Wassiliou-Seibt2017"/>,<citedRange unit="page"> p. 202-211</citedRange>
                </bibl>− <bibl>
                   <ptr target="Cheynet2008b"/>, <citedRange unit="page"> p. 57</citedRange>;</bibl>
                     (10) Münz Zentrum, Auction 78 (7–9 September 1994), lot 805 (= SBS 6, 1999, p. 152, no. 805); Hirsch, Auction 181 (22–25 February 1994), lot 1034o (= SBS 6, 1999, p. 125, no. 1034o); 
                     (11) Münz Zentrum, Auction 91 (4–5 September 1997), lot 797 (= SBS 8, 2003, p. 235, no. 797), no picture
                     (12) <bibl>Numismatik Naumann, Auction 56 (6 August 2017) <citedRange unit="entry">
-                     <ref target="https://www.biddr.com/auctions/numismatiknaumann/browse?a=158&amp;l=142448">lot 805</ref>
-                  </citedRange>;</bibl>. 
+                     <ref target="https://www.biddr.com/auctions/numismatiknaumann/browse?a=158&amp;l=142448">lot 805</ref></citedRange></bibl>. 
                     Seals nos. (5) and (10) are parallels to ours
                 </p>
          </div>

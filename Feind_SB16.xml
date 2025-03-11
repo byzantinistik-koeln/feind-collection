@@ -39,7 +39,7 @@
          </publicationStmt>
          <sourceDesc>
             <listPerson type="issuer">
-               <person role="secular-church" gender="M" xml:id="">
+               <person role="secular-church" gender="M">
                   <persName xml:lang="en">
                      <forename>Leon</forename>
                   </persName>
@@ -87,15 +87,16 @@
                   <msItem>
                      <author>
                         <roleName role="issuer" type=" secular-church ">
-                           <seg xml:lang="en"><ref target="http://pbw2016.kdl.kcl.ac.uk/person/Leon/20232/">Leon</ref>
-                                                         </seg>
-                           <seg xml:lang="de"><ref target="http://pbw2016.kdl.kcl.ac.uk/person/Leon/20232/">Leon</ref>
+                           <seg xml:lang="en">
+                              <forename>Leon</forename>
+                                 </seg>
+                           <seg xml:lang="de"> <forename>Leon</forename>
                            </seg>
-                           <seg xml:lang="el"><ref target="http://pbw2016.kdl.kcl.ac.uk/person/Leon/20232/">Λέων</ref>
+                           <seg xml:lang="el"> <forename>Λέων</forename>
                            </seg>
                            <interp type="milieu" xml:lang="en">Secular Church</interp>
                            <interp type="milieu" xml:lang="de">Kirche</interp>
-                           <interp type="milieu" xml:lang="el">Κοσμική Εκκλησία (πεδίο δραστηριοποίησης)</interp>
+                           <interp type="milieu" xml:lang="el">Κοσμική Εκκλησία (πεδίο δραστηριοποίησης).</interp>
                         </roleName>
                      </author>
                   </msItem>
@@ -130,7 +131,7 @@
                            <measure type="channelOrient" unit="clock">7-12</measure>
                            <measure type="countermark" unit="clock"/>
                         </support>
-                        <condition rend="  well-preserved ">
+                        <condition rend="well-preserved ">
                            <p xml:lang="en">Grey patina.</p>
                            <p xml:lang="de">Graue Patina.</p>
                            <p xml:lang="el">Πατίνα γκριζωπού χρώματος. </p>
@@ -312,7 +313,7 @@
       <surfaceGrp>
          <surface n="r">
             <desc>Obverse</desc>
-            <graphic url="SB_16a" type="photo">
+            <graphic url="SB_16a.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
                <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
@@ -322,7 +323,7 @@
       <surfaceGrp>
          <surface n="v">
             <desc>Reverse</desc>
-            <graphic url="SB_16b" type="photo">
+            <graphic url="SB_16b.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
                <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
@@ -394,16 +395,13 @@
          </div>
          <div type="commentary" subtype="footnotes">
             <p xml:lang="en"/>
-            <!--<p xml:id="footnote-1">[1]. <bibl>
+            <p xml:id="footnote-1">[1]. <bibl>
                   <ptr target="PBW"/>, <citedRange unit="entry">
                      <ref target="http://pbw2016.kdl.kcl.ac.uk/person/Leon/20232/">Leon 20232</ref>
                   </citedRange>
                </bibl>
-            </p>-->
-            <p xml:id="footnote-1">[1]. <bibl> IFEB, <citedRange unit="part"/>no. 359</bibl> publishes in <bibl>
-                  <ptr target="LaurentCorpus5.1"/>, <citedRange unit="part">no. 281</citedRange>.</bibl>
             </p>
-            <!--if you have the footnotes only in French and would like to show it also in the English page, you should delete the xml:lang-->
+             <!--if you have the footnotes only in French and would like to show it also in the English page, you should delete the xml:lang-->
             <p xml:lang="de"/>
          </div>
          <div type="bibliography" subtype="edition">
@@ -425,13 +423,12 @@
                   <ptr target="LaurentCorpus5.1"/>, <citedRange unit="part">no. 282</citedRange>.</bibl>
             </p>
          </div>
-         <!--<div type="bibliography" subtype="discussion"> <!-\-if you don't have further bibliography, put this div in a comment-\->
+         <div type="bibliography" subtype="discussion"> <!--if you don't have further bibliography, put this div in a comment-->
                   <p>
-                      <bibl>
-                          <ptr target=""/>, <citedRange unit=""/>
-                      </bibl>
+                     <bibl> IFEB, <citedRange unit="part"/>no. 359</bibl> publishes in <bibl>
+                        <ptr target="LaurentCorpus5.1"/>, <citedRange unit="part">no. 281</citedRange>.</bibl>
                   </p>
-              </div>-->
+              </div>
       </body>
    </text>
 </TEI>

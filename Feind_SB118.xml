@@ -142,7 +142,7 @@
                         <layout n="whole">
                            <rs type="execution">
                               <seg xml:lang="en">Struck</seg>
-                              <seg xml:lang="de">Struck</seg>
+                              <seg xml:lang="de">Geprägt</seg>
                               <seg xml:lang="el">Παιστό</seg>
                            </rs>
                            <rs type="shape">
@@ -349,9 +349,9 @@
                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
                       <ab ana="dat">
                                                       <lb n="1"/>Γενε
-                                   <lb n="2"/><supplied reason="lost">σ</supplied>ήῳ <rs type="dignity" ref="#imp-prosospatharios"><expan><abbr>β</abbr><ex>ασιλικῷ</ex></expan><expan> <ex>πρωτο</ex><abbr>σ</abbr>
-                                   <lb n="3" break="no"/><supplied reason="lost"><ex>πα</ex></supplied><abbr>θ</abbr><ex>αρίῳ</ex> </expan></rs><expan><abbr><am>S</am></abbr><ex>καὶ</ex></expan><rs type="office" subtype="civil" ref="#epi-ton-oikeiakon_001">ἐπὶ <expan><abbr>τ</abbr><ex>ῶν</ex> </expan>
-                                   <lb n="4"/><expan><supplied reason="lost">οἰ</supplied><abbr>κ</abbr><supplied reason="lost"><ex>ειακῶν</ex></supplied></expan></rs><expan><abbr><am>S</am></abbr><ex>καὶ</ex></expan> <rs type="office" subtype="military" ref="#epi-tou-manglaviou_001">ἐπὶ <expan><abbr>τ</abbr><ex>οῦ</ex> </expan>
+                                   <lb n="2"/><supplied reason="lost">σ</supplied>ήῳ <rs type="dignity" ref="#d0067"><expan><abbr>β</abbr><ex>ασιλικῷ</ex></expan><expan> <ex>πρωτο</ex><abbr>σ</abbr>
+                                   <lb n="3" break="no"/><supplied reason="lost"><ex>πα</ex></supplied><abbr>θ</abbr><ex>αρίῳ</ex> </expan></rs><expan><abbr><am>S</am></abbr><ex>καὶ</ex></expan><rs type="office" subtype="civil" ref="#of0072">ἐπὶ <expan><abbr>τ</abbr><ex>ῶν</ex> </expan>
+                                   <lb n="4"/><expan><supplied reason="lost">οἰ</supplied><abbr>κ</abbr><supplied reason="lost"><ex>ειακῶν</ex></supplied></expan></rs><expan><abbr><am>S</am></abbr><ex>καὶ</ex></expan> <rs type="office" subtype="military" ref="#of0259">ἐπὶ <expan><abbr>τ</abbr><ex>οῦ</ex> </expan>
                                    <lb n="5"/><expan><supplied reason="lost">μα</supplied><abbr>γλαβ</abbr><ex>ίου</ex></expan></rs>
                                  
                             </ab>

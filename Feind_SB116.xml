@@ -281,7 +281,7 @@
       <surfaceGrp>
          <surface n="r">
             <desc>Obverse</desc>
-            <graphic url="" type="photo">
+            <graphic url="SB_116a.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
                <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
@@ -291,7 +291,7 @@
       <surfaceGrp>
          <surface n="v">
             <desc>Reverse</desc>
-            <graphic url="" type="photo">
+            <graphic url="SB_116b.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
                <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>

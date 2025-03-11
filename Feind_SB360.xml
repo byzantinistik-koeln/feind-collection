@@ -38,7 +38,7 @@
          </publicationStmt>
          <sourceDesc>
             <listPerson type="issuer">
-               <person role="private" gender="" xml:id="">
+               <person role="private" gender="F" xml:id="">
                   <persName xml:lang="en">
                      <forename>Maria</forename>&gt;
                                                     <surname>Dalassene</surname>
@@ -138,14 +138,14 @@
                         <condition rend="blank-too-small ">
                            <p xml:lang="en">Dark brown patina, slightly struck off-centre to the top, blank too small for the die.</p>
                            <p xml:lang="de">Dunkelbraune Patina, oben leicht außermittig geprägt, Rohling zu klein für den Stempel.</p>
-                           <p xml:lang="el">Πατίνα καστανού χρώματος, ελαφρώς χτυπημένη εκτός κέντρου με κατεύθυνση προς τα άνω, δίσκος μικρότερος απο την σφραγίδα αποτύπωσης.</p>
+                           <p xml:lang="el">Πατίνα καστανού χρώματος, η σφραγίδα χτυπημένη ελαφρώς εκτός κέντρου με κατεύθυνση προς τα άνω, ο δίσκος μικρότερος από την σφραγίδα αποτύπωσης.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
                         <layout n="whole">
                            <rs type="execution">
                               <seg xml:lang="en">Struck</seg>
-                              <seg xml:lang="de">???</seg>
+                              <seg xml:lang="de">Geprägt</seg>
                               <seg xml:lang="el">Παιστό</seg>
                            </rs>
                            <rs type="shape">
@@ -179,10 +179,10 @@
                                 <interp type="datingCriteria" xml:lang="de"/>
                             </origDate>-->
                      <!-- for a date range or centuries (NOT BEFORE - NOT AFTER)-->
-                     <origDate type="analysis" notBefore="1081" notAfter="1120" evidence=" epigraphy iconography" resp="MC">
-                        <seg xml:lang="en">late 11th c. – early 12th c.</seg>
-                        <seg xml:lang="de">spätes 11. Jh. – frühes 12. Jh.</seg>
-                        <seg xml:lang="el">τέλη 11ου αι. – αρχές 12ου αι.</seg>
+                     <origDate type="analysis" notBefore="1081" notAfter="1120" evidence="epigraphy iconography" resp="MC">
+                        <seg xml:lang="en">Late 11th c. – early 12th c.</seg>
+                        <seg xml:lang="de">Spätes 11. Jh. – frühes 12. Jh.</seg>
+                        <seg xml:lang="el">Τέλη 11ου αι. – αρχές 12ου αι.</seg>
                      </origDate>
                      <!-- for an internal date -->
                      <!--<origDate type="internal" when="0001" when-custom="2023" datingMethod="">
@@ -322,6 +322,7 @@
             <graphic url="SB_360a.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -331,6 +332,7 @@
             <graphic url="SB_360b.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -389,13 +391,13 @@
             <p xml:lang="el">Θεοτόκε. Θεοτόκε βοήθησε τη Μαρία Δαλασσηνή.</p>
          </div>
          <div type="commentary" subtype="text">
-            <p xml:lang="en">On another seal type Maria Dalassene (PBW Maria 20126) refers to herself as a nun, with the addition of a in ligature in the legend [1].  </p>
+            <p xml:lang="en">On another seal type Maria Dalassene [1], refers to herself as a nun, with the addition of Α in ligature in the legend [2].  </p>
             <!--if you have the commentary only in German and would like to show it also in the English page, you should delete the xml:lang-->
-            <p xml:lang="de">[your commentary here]</p>
+            <p xml:lang="de"></p>
          </div>
          <div type="commentary" subtype="footnotes">
-                <!--<p xml:id="footnote-1">[1].  <bibl><ptr target="PBW"/>, <citedRange unit="entry"><ref target="http://pbw2016.kdl.kcl.ac.uk/person/Maria/20126/"> Maria 20126</ref></citedRange></bibl>.</p>-->
-            <p xml:id="footnote-1">[1]. <bibl>
+                <p xml:id="footnote-1">[1].  <bibl><ptr target="PBW"/>, <citedRange unit="entry"><ref target="http://pbw2016.kdl.kcl.ac.uk/person/Maria/20126/"> Maria 20126</ref></citedRange></bibl>.</p>
+            <p xml:id="footnote-2">[2]. <bibl>
                   <ptr target="DOsealsOnline"/>, <citedRange unit="entry">
                      <ref target="https://www.doaks.org/resources/seals/byzantine-seals/BZS.1947.2.1123">BZS.1947.2.1123</ref>
                   </citedRange>
@@ -419,7 +421,7 @@
                </bibl>  –  <bibl>
                   <ptr target="Cheynet2008d"/>, <citedRange unit="page">p. 448</citedRange>,<citedRange unit="part"> no. 18</citedRange>; </bibl>
                <bibl>
-                  <ptr target="Cheynet1986b"/>, <citedRange unit="page">p. 100</citedRange>,<citedRange unit="part"> no. 18</citedRange>
+                  <ptr target="CheynetVannier1986"/>, <citedRange unit="page">p. 100</citedRange>,<citedRange unit="part"> no. 18</citedRange>
                </bibl>;
                       (2) Istanbul, Archeological Museum, no. Ist. 657-84. – <bibl>
                   <ptr target="Istanbul"/>, <citedRange unit="part">no. 7.32</citedRange>

@@ -135,10 +135,10 @@
                            <measure type="channelOrient" unit="clock">6-12</measure>
                            <measure type="countermark" unit="clock"/>
                         </support>
-                        <condition rend="  chipped  blank-too-large">
+                        <condition rend="chipped blank-too-large">
                            <p xml:lang="en">Βeige patina, thin crack at the lower end of the channel on the obverse, flattened and effaced.</p>
                            <p xml:lang="de">Helle Patina, dünner Riss am unteren Ende des Kanals auf der Vorderseite, abgeflacht und verwischt.</p>
-                           <p xml:lang="el"> Πατίνα καστανοκίτρινου χρώματος,  λεπτή ρωγμή στο κάτω στόμιο του διαύλου στην εμπρόσθια όψη, πεπλατυσμένη  και σβησμένη.
+                           <p xml:lang="el"> Πατίνα καστανοκίτρινου χρώματος,  λεπτή ρωγμή στο κάτω στόμιο του διαύλου στην εμπρόσθια όψη, πεπλατυσμένo  και σβησμένo.
                                     </p>
                         </condition>
                      </supportDesc>
@@ -146,7 +146,7 @@
                         <layout n="whole">
                            <rs type="execution">
                               <seg xml:lang="en">Struck</seg>
-                              <seg xml:lang="de">???</seg>
+                              <seg xml:lang="de">Geprägt</seg>
                               <seg xml:lang="el">Παιστό</seg>
                            </rs>
                            <rs type="shape">
@@ -180,7 +180,7 @@
                                 <interp type="datingCriteria" xml:lang="de"/>
                             </origDate>-->
                      <!-- for a date range or centuries (NOT BEFORE - NOT AFTER)-->
-                     <origDate type="analysis" notBefore="1001" notAfter="1100" evidence=" epigraphy iconography" resp="MC">
+                     <origDate type="analysis" notBefore="1001" notAfter="1100" evidence="epigraphy iconography" resp="MC">
                         <seg xml:lang="en">11th c.</seg>
                         <seg xml:lang="de">11. Jh.</seg>
                         <seg xml:lang="el">11ος αι. </seg>
@@ -251,7 +251,7 @@
                            <figure>
                               <figDesc ana="" n="r" xml:lang="en">Bust of St John the Baptist holding a long staff cross over his left shoulder. Details indistinct. No legend visible.</figDesc>
                               <figDesc ana="" n="r" xml:lang="de">Büste des hl. Johannes Prodromos mit Nimbus, langen Haaren und Bart; er hält in seiner rechten Hand ein Stabkreuz.</figDesc>
-                              <figDesc ana="" n="r" xml:lang="el">Προτομή του αγ.  Ιωάννη του Βαπτιστή, κρατώντας έναν μακρύ σταυρό με ραβδί στον αριστερό του ώμο. Λεπτομέρειες δυσδιάκριτες. Μη ορατή επιγραφή.</figDesc>
+                              <figDesc ana="" n="r" xml:lang="el">Προτομή του αγ. Ιωάννη του Βαπτιστή, που κρατάει έναν μακρύ σταυρό στον αριστερό του ώμο. Δεν διακρίνοται λεπτομέρειες. Μη ορατή επιγραφή.</figDesc>
                               <figDesc ana="" n="decoR" xml:lang="en">Border of dots.</figDesc>
                               <figDesc ana="" n="decoR" xml:lang="de">Perlrand</figDesc>
                               <figDesc ana="" n="decoR" xml:lang="el">Στικτό πλαίσιο.</figDesc>
@@ -303,7 +303,7 @@
                               <figDesc ana="" n="v" xml:lang="de"/>
                               <figDesc ana="" n="decoV" xml:lang="en">Cross at the  beginning of the legend. Above and below, a decoration consisting of a cross of dots set between two dashes. Border of dots.</figDesc>
                               <figDesc ana="" n="decoV" xml:lang="de">Kreuz am Anfang der Legende. Oben und unten ein Dekor bestehend aus einem Kreuz aus Punkten zwischen zwei Strichen. Perlrand</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="el"> Σταυρός στην αρχή της επιγραφής. Πάνω και κάτω απο την επιγραφή, διακοσμητικό μοτίβο το οποίο αποτελείται απο έναν σταυρό από στιγμές ανάμεσα σε δυο παύλες.  Στικτό πλαίσιο.</figDesc>
+                              <figDesc ana="" n="decoV" xml:lang="el"> Σταυρός στην αρχή της επιγραφής. Πάνω και κάτω από την επιγραφή, διακοσμητικό μοτίβο, το οποίο αποτελείται από ένα σταυρό από στιγμές ανάμεσα σε δυο γραμμές. Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -323,6 +323,7 @@
             <graphic url="SB_278a.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -332,6 +333,7 @@
             <graphic url="SB_278b.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -339,11 +341,11 @@
    <text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <body>
          <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"> <!--change the language code according to the language of your edition, the values (also when combined, e.g. Greek-Latin) are in the guidelines. Same goes for what comes next, textpart etc.-->
-                  <div type="textpart" subtype="sigla" n="obv" rend="columns" xml:lang="grc"> <!--obverse, editorial-->
+                  <!--<div type="textpart" subtype="sigla" n="obv" rend="columns" xml:lang="grc"> <!-\-obverse, editorial-\->
                       
                       <ab>
                                                </ab>
-                  </div>
+                  </div>-->
                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
                       <ab ana="dat">
                                <lb n="1"/><rs type="invocation" ref="#inv003"><expan><abbr>Κ</abbr><ex>ύρι</ex><abbr>ε</abbr></expan> <expan><abbr>β</abbr><ex>οή</ex><supplied reason="lost"><abbr>θ</abbr><ex>ει</ex></supplied></expan></rs>
@@ -354,7 +356,7 @@
                   </div>
               </div>
          <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"> 
-                  <div type="textpart" subtype="sigla" n="obv" rend="columns" xml:lang="grc"> <!--obverse, diplomatic-->
+                  <!--<div type="textpart" subtype="sigla" n="obv" rend="columns" xml:lang="grc"> <!-\-obverse, diplomatic-\->
                       <ab> 
                           
                   
@@ -362,7 +364,7 @@
 
 
                       </ab>
-                  </div>
+                  </div>-->
                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, diplomatic-->
                       <ab>
                        <lb n="0"/>
@@ -384,13 +386,13 @@
          <div type="translation">
             <p>Κύριε βοήθει Νικηφόρῳ τῷ Nησιώτῃ.</p>
             <p xml:lang="en">Lord, help Nikephoros Nesiotes.</p>
-            <p xml:lang="de"> Herr, hilf Nikephoros Νesiotes..</p>
-            <p xml:lang="el">Κύριε βοήθησε τον Νικηφόρο Νησιώτη.</p>
+            <p xml:lang="de">Herr, hilf Nikephoros Νesiotes.</p>
+            <p xml:lang="el">Κύριε βοήθησε το Νικηφόρο Νησιώτη.</p>
          </div>
          <div type="commentary" subtype="text">
             <p xml:lang="en">The surname Nesiotes is a conjecture [1]. </p>
             <!--if you have the commentary only in German and would like to show it also in the English page, you should delete the xml:lang-->
-            <p xml:lang="de">[your commentary here]</p>
+            <p xml:lang="de"></p>
          </div>
          <div type="commentary" subtype="footnotes">
             <p xml:lang="en" xml:id="footnote-1">[1]. On the surname, see also <bibl>
@@ -398,7 +400,7 @@
                </bibl>
             </p>
             <!--if you have the footnotes only in French and would like to show it also in the English page, you should delete the xml:lang-->
-            <p xml:lang="de">[your footnotes here]</p>
+            <p xml:lang="de"></p>
          </div>
          <div type="bibliography" subtype="edition">
             <p>
