@@ -22,7 +22,7 @@
             <authority>ANR/DFG DigiByzSeal - Unlocking the Hidden Value of Seals: New Methodologies for Historical Research in Byzantine Studies</authority>
             <idno type="filename">Feind_Kr12</idno>
             <!--here goes the name of the file-->
-            <idno type="SigiDocID">"s-LL0jCk"</idno>
+            <idno type="SigiDocID">s-LL0jCk</idno>
             <!--SigiDocID should be ignored for now-->
             <idno type="sequence"/>
             <!--you can add the sequence number of this specific seal in your digital corpus. It is not compulsory however-->
@@ -143,7 +143,7 @@
                               <seg xml:lang="el">Σφαιρικό</seg>
                            </rs>
                            <rs type="matrix" subtype="not-surviving">
-                              <idno type="SigiDoc">"m-eWMgWR"</idno>
+                              <idno type="SigiDoc">m-eWMgWR</idno>
                            </rs>
                         </layout>
                      </layoutDesc>

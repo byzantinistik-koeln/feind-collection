@@ -30,7 +30,7 @@
                for Historical Research in Byzantine Studies</authority>
             <idno type="filename">Feind_SB21</idno>
             <!--here goes the name of the file-->
-            <idno type="SigiDocID">"s-VUXz1G"</idno>
+            <idno type="SigiDocID">s-VUXz1G</idno>
             <!--SigiDocID should be ignored for now-->
             <idno type="sequence"/>
             <!--you can add the sequence number of this specific seal in your digital corpus. It is not compulsory however-->
@@ -158,7 +158,7 @@
                               <seg xml:lang="el">Σφαιρικό</seg>
                            </rs>
                            <rs type="matrix" subtype="not-surviving">
-                              <idno type="SigiDoc">"m-vWokQe"</idno>
+                              <idno type="SigiDoc">m-vWokQe</idno>
                            </rs>
                         </layout>
                      </layoutDesc>

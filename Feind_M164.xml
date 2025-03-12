@@ -27,7 +27,7 @@
          <publicationStmt>
             <authority>ANR/DFG DigiByzSeal - Unlocking the Hidden Value of Seals: New Methodologies for Historical Research in Byzantine Studies</authority>
             <idno type="filename">Feind_M164</idno>
-            <idno type="SigiDocID">"s-Orpbt4"</idno>
+            <idno type="SigiDocID">s-Orpbt4</idno>
             <idno type="sequence"/>
             <!--what to do with sequence for now?-->
             <date when="2025-01-02"/>
@@ -145,7 +145,7 @@
                               <seg xml:lang="el">Σφαιρικό</seg>
                            </rs>
                            <rs type="matrix" subtype="not-surviving">
-                              <idno type="SigiDoc">"m-Dli3aP"</idno>
+                              <idno type="SigiDoc">m-Dli3aP</idno>
                            </rs>
                         </layout>
                      </layoutDesc>

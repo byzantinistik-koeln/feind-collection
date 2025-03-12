@@ -21,7 +21,7 @@
             <authority>ANR/DFG DigiByzSeal - Unlocking the Hidden Value of Seals: New Methodologies for Historical Research in Byzantine Studies</authority>
             <idno type="filename">Feind_SB321</idno>
             <!--here goes the name of the file-->
-            <idno type="SigiDocID">"s-hfsgeY"</idno>
+            <idno type="SigiDocID">s-hfsgeY</idno>
             <!--SigiDocID should be ignored for now-->
             <idno type="sequence"/>
             <!--you can add the sequence number of this specific seal in your digital corpus. It is not compulsory however-->
@@ -127,7 +127,7 @@
                               <seg xml:lang="de">Rund</seg>
                            </rs>
                            <rs type="matrix" subtype="not-surviving">
-                              <idno type="SigiDoc">"m-88qXP4"</idno>
+                              <idno type="SigiDoc">m-88qXP4</idno>
                            </rs>
                         </layout>
                      </layoutDesc>

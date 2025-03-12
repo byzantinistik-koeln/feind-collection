@@ -26,7 +26,7 @@
             <authority>ANR/DFG DigiByzSeal - Unlocking the Hidden Value of Seals: New Methodologies for Historical Research in Byzantine Studies</authority>
             <idno type="filename">Feind_Kr40</idno>
             <!--here goes the name of the file-->
-            <idno type="SigiDocID">"s-vZhpV3"</idno>
+            <idno type="SigiDocID">s-vZhpV3</idno>
             <!--SigiDocID should be ignored for now-->
             <idno type="sequence"/>
             <!--you can add the sequence number of this specific seal in your digital corpus. It is not compulsory however-->
@@ -148,7 +148,7 @@
                               <seg xml:lang="el">Σφαιρικό</seg>
                            </rs>
                            <rs type="matrix" subtype="not-surviving">
-                              <idno type="SigiDoc">"m-cC2HC1"</idno>
+                              <idno type="SigiDoc">m-cC2HC1</idno>
                            </rs>
                         </layout>
                      </layoutDesc>

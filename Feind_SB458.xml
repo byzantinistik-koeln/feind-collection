@@ -23,7 +23,7 @@
             <authority>ANR/DFG DigiByzSeal - Unlocking the Hidden Value of Seals: New Methodologies for Historical Research in Byzantine Studies</authority>
             <idno type="filename">Feind_SB458</idno>
             <!--here goes the name of the file-->
-            <idno type="SigiDocID">"s-tZLw1a"</idno>
+            <idno type="SigiDocID">s-tZLw1a</idno>
             <!--SigiDocID should be ignored for now-->
             <idno type="sequence"/>
             <!--you can add the sequence number of this specific seal in your digital corpus. It is not compulsory however-->
@@ -135,7 +135,7 @@
                               <seg xml:lang="de">Rund</seg>
                            </rs>
                            <rs type="matrix" subtype="not-surviving">
-                              <idno type="SigiDoc">"m-Lv7q3f"</idno>
+                              <idno type="SigiDoc">m-Lv7q3f</idno>
                            </rs>
                         </layout>
                      </layoutDesc>
