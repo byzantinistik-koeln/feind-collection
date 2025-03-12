@@ -6,6 +6,7 @@
                     chrysotriklinou, krites epi tou hippodromou and of the Anatolikoi</title>
             <title xml:lang="de">Siegel des Basileios Xeros, kaiserlicher protospatharios epi
                     tou chrysotriklinou, krites epi tou hippodromou und der Anatolikoi</title>
+            <title xml:lang="el">Μολυβδόβουλλο Βασιλείου Ξηρού, βασιλικού πρωτοσπαθαρίου επί του χρυσοτρικλίνου, κριτή επί του ιπποδρόμου και των Ανατολικών</title>
             <editor role="seal-editor" xml:id="MC">Maria Teresa Catalano</editor>
             <editor role="seal-editor" xml:id="MF">Martina Filosa</editor>
             <editor role="seal-editor" xml:id="CS">Claudia Sode</editor>
@@ -45,6 +46,10 @@
                      <forename>Basileios</forename>
                      <surname>Xeros</surname>
                   </persName>
+                  <persName xml:lang="el">
+                     <forename>Βασίλειος</forename>
+                     <surname>Ξηρός</surname>
+                  </persName>
                </person>
             </listPerson>
             <msDesc>
@@ -52,10 +57,12 @@
                   <country>
                      <seg xml:lang="en">Germany</seg>
                      <seg xml:lang="de">Deutschland</seg>
+                     <seg xml:lang="el">Γερμανία</seg>
                   </country>
                   <settlement>
                      <seg xml:lang="en">Cologne</seg>
                      <seg xml:lang="de">Köln</seg>
+                     <seg xml:lang="el">Κολωνία</seg>
                   </settlement>
                   <institution/>
                   <repository/>
@@ -76,6 +83,8 @@
                   <summary n="whole">
                      <seg xml:lang="en">Provincial administration.</seg>
                      <seg xml:lang="de">Provinzialverwaltung</seg>
+                     <seg xml:lang="el">Μολυβδόβουλλα αξιωματούχων της περιφερειακής διοίκησης.</seg>
+                     
                   </summary>
                   <msItem>
                      <author>
@@ -86,8 +95,12 @@
                            <seg xml:lang="de">
                               <ref target="http://pbw2016.kdl.kcl.ac.uk/person/Basileios/20228/">Basileios Xeros</ref>
                            </seg>
+                           <seg xml:lang="el">
+                              <ref target="http://pbw2016.kdl.kcl.ac.uk/person/Basileios/20228/">Βασίλειος Ξηρός</ref>
+                           </seg>
                            <interp type="milieu" xml:lang="en">Civil</interp>
                            <interp type="milieu" xml:lang="de">Zivil</interp>
+                           <interp type="milieu" xml:lang="el">Κρατικό (πεδίο δραστηριοποίησης).</interp>
                         </roleName>
                      </author>
                   </msItem>
@@ -100,15 +113,19 @@
                               <term>
                                  <seg xml:lang="en">Seal</seg>
                                  <seg xml:lang="de">Siegel</seg>
+                                 <seg xml:lang="el">Μολυβδόβουλλο</seg>
                               </term>
                               <interp type="workType" xml:lang="en">Original
                                             impression</interp>
                               <interp type="workType" xml:lang="de">Origineller
                                             Siegelabdruck</interp>
+                              <interp type="workType" xml:lang="el">Αρχική
+                                 αποτύπωση</interp>
                            </objectType>
                            <material>
                               <seg xml:lang="en">Lead</seg>
                               <seg xml:lang="de">Blei</seg>
+                              <seg xml:lang="el">Μόλυβδος</seg>
                            </material>
                            <dimensions type="support" unit="mm">
                               <dim type="diameter">22</dim>
@@ -125,17 +142,20 @@
                                         reverse.</p>
                            <p xml:lang="de">Abgenutzt; Prägung auf dem Avers nach links und
                                         auf dem Revers nach rechts versetzt.</p>
+                           <p xml:lang="el">Φθαρμένο, ο εμπροσθότυπος αποκλίνει από το κέντρο προς το αριστέρό μέρος του δίσκου και ο οπισθότυπος προς το δεξιό.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
                         <layout n="whole">
                            <rs type="execution">
                               <seg xml:lang="en">Struck</seg>
-                              <seg xml:lang="de">???</seg>
+                              <seg xml:lang="de">Geprägt</seg>
+                              <seg xml:lang="el">Παιστό</seg>
                            </rs>
                            <rs type="shape">
                               <seg xml:lang="en">Round</seg>
                               <seg xml:lang="de">Rund</seg>
+                              <seg xml:lang="el">Σφαιρικό</seg>
                            </rs>
                            <rs type="matrix" subtype="not-surviving">
                               <idno type="SigiDoc">m-WGGwLW</idno>
@@ -166,6 +186,7 @@
                      <origDate type="analysis" notBefore="1041" notAfter="1060" evidence="epigraphy" resp="#MC">
                         <seg xml:lang="en">Mid-11th c.</seg>
                         <seg xml:lang="de">Mitte 11. Jh.</seg>
+                        <seg xml:lang="el">Μέσα 11ου αι.</seg>
                      </origDate>
                      <!-- for an internal date >
                             <origDate type="internal" when="0001" when-custom="2023" datingMethod="">
@@ -227,6 +248,7 @@
                               </dimensions>
                               <p xml:lang="en">Iconography</p>
                               <p xml:lang="de">Ikonographie</p>
+                              <p xml:lang="el">Εικονογραφία</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -246,10 +268,12 @@
                               <figDesc ana="" n="r" xml:lang="de">Büste der Muttergottes mit
                                             geöffneten Händen vor ihrer Brust. Details undeutlich.
                                             Keine Siglen sichtbar.</figDesc>
+                              <figDesc ana="" n="r" xml:lang="el">Προτομή της Θεοτόκου με τα χέρια ανοιχτά μπροστά στο στήθος. Λεπτομέρειες αδιευκρίνιστες. Δεν διακρίνονται σίγλλα.</figDesc>
                               <figDesc ana="" n="decoR" xml:lang="en">No border
                                             visible.</figDesc>
                               <figDesc ana="" n="decoR" xml:lang="de">Kein Rand
                                             sichtbar.</figDesc>
+                              <figDesc ana="" n="decoR" xml:lang="el">Δεν διακρίνεται πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -279,6 +303,7 @@
                               </dimensions>
                               <p xml:lang="en">Legend of 7 lines.</p>
                               <p xml:lang="de">Legende auf 7 Zeilen.</p>
+                              <p xml:lang="el">Επιγραφή 7 στίχων.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -296,6 +321,7 @@
                               <figDesc ana="" n="v" xml:lang="de"/>
                               <figDesc ana="" n="decoV" xml:lang="en">Cross at the beginning of the legend. Border of dots.</figDesc>
                               <figDesc ana="" n="decoV" xml:lang="de">Kreuz am Anfang der Legende. Perlrand.</figDesc>
+                              <figDesc ana="" n="decoV" xml:lang="el">Σταυρός στην αρχή της επιγραφής. Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -316,6 +342,7 @@
             <graphic url="SB_249a.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -325,6 +352,7 @@
             <graphic url="SB_249b.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -379,6 +407,7 @@
             <p>Μήτηρ Θεοῦ / Βασίλειος πρωτοσπαθάριος ἐπὶ τοῦ Χρυσοτρικλίνου, κριτὴς ἐπὶ τοῦ ἱπποδρόμου καὶ τῶν Ἀνατολικῶν ὁ Ξηρός.</p>
             <p xml:lang="en">Mother of God. Basileios Xeros, imperial protospatharios epi tou chrysotriklinou, krites epi tou hippodromou and of the Anatolikoi</p>
             <p xml:lang="de">Muttergottes. Basileios Xeros, kaiserlicher protospatharios epi tou chrysotriklinou, krites epi tou hippodromou und der Anatolikoi.</p>
+            <p xml:lang="el">Θεοτόκος. Βασίλειος Ξηρός, πρωτοσπαθάριος επί του Χρυσοτρικλίνου, κριτή επί του ιπποδρόμου και των Ανατολικών.</p>
          </div>
          <div type="commentary" subtype="text">
             <p xml:lang="en">The restitution of the missing parts of the legend is based on the parallels. The name Basileios Xeros[1] is attested on many other seals, however the identification of the issuer remains uncertain. 
