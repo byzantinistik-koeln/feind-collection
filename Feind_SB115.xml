@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -9,12 +10,14 @@
             <editor role="seal-editor" xml:id="MF">Martina Filosa</editor>
             <editor role="seal-editor" xml:id="CS">Claudia Sode</editor>
             <funder>
-               <orgName corresp="https://anr.fr/">Agence Nationale de la Recherche (ANR)</orgName>, France /<orgName corresp="https://www.dfg.de/">Deutsche Forschungsgemeinschaft(DFG)</orgName>, Deutschland.</funder>
+               <orgName corresp="https://anr.fr/">Agence Nationale de la Recherche (ANR)</orgName>,
+               France /<orgName corresp="https://www.dfg.de/">Deutsche
+                  Forschungsgemeinschaft (DFG)</orgName>, Deutschland.</funder>
             <principal>Claudia Sode</principal>
             <funder>
-               <orgName corresp="https://anr.fr/">Agence Nationale de la Recherche
-                        (ANR)</orgName>, France / <orgName corresp="https://www.dfg.de/">Deutsche
-                        Forschungsgemeinschaft (DFG)</orgName>, Deutschland. </funder>
+               <orgName corresp="https://anr.fr/">Agence Nationale de la Recherche (ANR)</orgName>,
+               France / <orgName corresp="https://www.dfg.de/">Deutsche Forschungsgemeinschaft
+                  (DFG)</orgName>, Deutschland. </funder>
             <principal ref="#CS"/>
             <principal xml:id="AS">Alessio Sopracasa</principal>
          </titleStmt>
@@ -25,15 +28,17 @@
             <editor role="digital-editor" when="2025" xml:id="PE">Pia Evening</editor>
          </editionStmt>
          <publicationStmt>
-            <authority>ANR/DFG DigiByzSeal - Unlocking the Hidden Value of Seals: New Methodologies for Historical Research in Byzantine Studies</authority>
+            <authority>ANR/DFG DigiByzSeal - Unlocking the Hidden Value of Seals: New Methodologies
+               for Historical Research in Byzantine Studies</authority>
             <idno type="filename">Feind_SB115</idno>
             <idno type="SigiDocID">"s-qaaCuv"</idno>
             <idno type="sequence"/>
             <!--what to do with sequence for now?-->
             <date when="2025-01-02"/>
             <availability>
-               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International - CC BY-NC-SA
-                        4.0</licence>
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/"
+                  >Attribution-NonCommercial-ShareAlike 4.0 International - CC BY-NC-SA
+                  4.0</licence>
             </availability>
          </publicationStmt>
          <sourceDesc>
@@ -55,12 +60,10 @@
                      <forename>Βασίλειος</forename>
                      <surname>Αποκάπης</surname>
                   </persName>
-                  <idno type="PBW" cert="low" ana="http://pbw2016.kdl.kcl.ac.uk/person/Basileios/101/">Basileios
-                            101</idno>
+                  <idno type="PBW" cert="low"
+                     ana="http://pbw2016.kdl.kcl.ac.uk/person/Basileios/101/">Basileios 101</idno>
                   <!--okay that I added this refernce?-->
-                  <!--<idno type="PmbZ" ana=""></idno>-->
                </person>
-               <idno/>
             </listPerson>
             <msDesc>
                <msIdentifier>
@@ -71,7 +74,8 @@
                   </country>
                   <settlement>
                      <seg xml:lang="en">
-                        <placeName ref="https://www.geonames.org/6553049/koeln.html">Cologne</placeName>
+                        <placeName ref="https://www.geonames.org/6553049/koeln.html"
+                           >Cologne</placeName>
                      </seg>
                      <seg xml:lang="de">
                         <placeName ref="https://www.geonames.org/6553049/koeln.html"/>Köln</seg>
@@ -93,9 +97,10 @@
                </msIdentifier>
                <msContents>
                   <summary n="whole">
-                     <seg xml:lang="en">Provincial administration.</seg>
+                     <seg xml:lang="en">Provincial administration</seg>
                      <seg xml:lang="de">Provinzialverwaltung</seg>
-                     <seg xml:lang="el">Μολυβδόβουλλα αξιωματούχων της περιφερειακής διοίκησης.</seg>
+                     <seg xml:lang="el">Μολυβδόβουλλα αξιωματούχων της περιφερειακής
+                        διοίκησης</seg>
                   </summary>
                </msContents>
                <physDesc>
@@ -109,11 +114,9 @@
                                  <seg xml:lang="el">Μολυβδόβουλλο</seg>
                               </term>
                               <interp type="workType" xml:lang="de">Origineller
-                                            Siegelabdruck.</interp>
-                              <interp type="workType" xml:lang="en">Original
-                                            impression.</interp>
-                              <interp type="workType" xml:lang="el">Αρχική
-                                 αποτύπωση.</interp>
+                                 Siegelabdruck</interp>
+                              <interp type="workType" xml:lang="en">Original impression</interp>
+                              <interp type="workType" xml:lang="el">Αρχική αποτύπωση</interp>
                            </objectType>
                            <material>
                               <seg xml:lang="de">Blei</seg>
@@ -130,10 +133,10 @@
                            <measure type="countermark" unit="clock"/>
                         </support>
                         <condition rend="blank-too-small">
-                           <p xml:lang="de">Rohling zu klein für die Matrix, schwache
-                                        Prägung.</p>
+                           <p xml:lang="de">Rohling zu klein für die Matrix, schwache Prägung.</p>
                            <p xml:lang="en">Blank too small for the die, weak imprint. </p>
-                           <p xml:lang="el">Ο δίσκος μικρότερος από τη σφραγίδα αποτύπωσης, αδύναμη αποτύπωση.</p>
+                           <p xml:lang="el">Ο δίσκος μικρότερος από τη σφραγίδα αποτύπωσης, αδύναμη
+                              αποτύπωση.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -160,10 +163,11 @@
                      <origPlace>
                         <seg xml:lang="en"/>
                      </origPlace>
-                     <origDate type="analysis" notBefore="1051" notAfter="1100" evidence="epigraphy" cert="high" resp="#MC">
-                        <seg xml:lang="en">11th c., second half.</seg>
-                        <seg xml:lang="de">11. Jh., zweite Hälfte.</seg>
-                        <seg xml:lang="el">11ος αι., δεύτερο μισό.</seg>
+                     <origDate type="analysis" notBefore="1051" notAfter="1100" evidence="epigraphy"
+                        cert="high" resp="#MC">
+                        <seg xml:lang="en">11th c., second half</seg>
+                        <seg xml:lang="de">11. Jh., zweite Hälfte</seg>
+                        <seg xml:lang="el">11ος αι., δεύτερο μισό</seg>
                      </origDate>
                   </origin>
                   <provenance type="found" subtype="discovered">
@@ -217,19 +221,21 @@
                      <decoDesc>
                         <decoNote>
                            <figure>
-                              <figDesc ana="person male saint St-Basil bust bishop" n="r" xml:lang="en">Bust of St
-                                            basil. Details indistinct. Legend on either side with
-                                            letters in cross shape.</figDesc>
-                              <figDesc ana="person male saint St-Basil bust bishop" n="r" xml:lang="de">Büste des
-                                            Hl. Basileios. Details undeutlich. Legende auf beiden
-                                            Seiten aus Buchstaben in kreuzförmiger
-                                            Anordnung.</figDesc>
-                               <figDesc ana="person male saint St-Basil bust bishop" n="r" xml:lang="el">Προτομή αγ. Βασιλείου. Δεν διακρίνονται λεπτομέρειες. Επιγραφή και στις δύο πλευρές, διαμορφωμένη σε σχήμα σταυρού.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="en">No border
-                                            visible.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="de">Kein Rand
-                                            sichtbar.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="el">Δεν διακρίνεται πλαίσιο.</figDesc>
+                              <figDesc ana="person male saint St-Basil bust bishop" n="r"
+                                 xml:lang="en">Bust of St Basil. Details indistinct. Legend on
+                                 either side with letters in cross shape.</figDesc>
+                              <figDesc ana="person male saint St-Basil bust bishop" n="r"
+                                 xml:lang="de">Büste des Hl. Basileios. Details undeutlich. Legende
+                                 auf beiden Seiten aus Buchstaben in kreuzförmiger
+                                 Anordnung.</figDesc>
+                              <figDesc ana="person male saint St-Basil bust bishop" n="r"
+                                 xml:lang="el">Προτομή αγ. Βασιλείου. Δεν διακρίνονται λεπτομέρειες.
+                                 Επιγραφή και στις δύο πλευρές, διαμορφωμένη σε σχήμα
+                                 σταυρού.</figDesc>
+                              <figDesc ana="" n="decoR" xml:lang="en">No border visible.</figDesc>
+                              <figDesc ana="" n="decoR" xml:lang="de">Kein Rand sichtbar.</figDesc>
+                              <figDesc ana="" n="decoR" xml:lang="el">Δεν διακρίνεται
+                                 πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -243,10 +249,8 @@
                         <seg xml:lang="en">Reverse</seg>
                      </summary>
                      <textLang n="v" mainLang="grc">
-                        <seg xml:lang="en">greek
-            </seg>
-                        <seg xml:lang="fr">grec
-            </seg>
+                        <seg xml:lang="en">greek </seg>
+                        <seg xml:lang="fr">grec </seg>
                      </textLang>
                   </msContents>
                   <physDesc>
@@ -271,14 +275,15 @@
                      <decoDesc>
                         <decoNote>
                            <figure>
-                                        <!--<figDesc n="v" xml:lang="en" ana=""/>-->
-                              <figDesc ana="" n="decoV" xml:lang="en">Above the legend, a
-                                            decoration consists of a cross between two dashes.
-                                            Border.</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="de">Oberhalb der Legende ist
-                                            eine Dekoration aus einem Kreuz zwischen zwei
-                                            Zierlinien. Rand.</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="el">Πάνω από την επιγραφή, διακοσμητικό μοτίβο, το οποίο αποτελείται από έναν σταυρό ανάμεσα σε δύο γραμμές. Στικτό πλαίσιο.</figDesc>
+                              <!--<figDesc n="v" xml:lang="en" ana=""/>-->
+                              <figDesc ana="" n="decoV" xml:lang="en">Above the legend, a decoration
+                                 consists of a cross between two dashes. Border.</figDesc>
+                              <figDesc ana="" n="decoV" xml:lang="de">Oberhalb der Legende ist eine
+                                 Dekoration aus einem Kreuz zwischen zwei Zierlinien.
+                                 Rand.</figDesc>
+                              <figDesc ana="" n="decoV" xml:lang="el">Πάνω από την επιγραφή,
+                                 διακοσμητικό μοτίβο, το οποίο αποτελείται από έναν σταυρό ανάμεσα
+                                 σε δύο γραμμές. Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -318,7 +323,7 @@
          <div type="edition" subtype="editorial" xml:space="preserve">
                   <div type="textpart" n="obv" subtype="label" rend="columns" xml:lang="grc">
                       <ab>
-                          <cb n="a"/>ὁ ἅγιος 
+                          <cb n="a"/>Ὁ ἅγιος 
                           <cb n="b"/><expan><abbr><supplied reason="lost">Β</supplied>ασί<supplied reason="lost">λ</supplied>ε</abbr><supplied reason="lost"><abbr>ιο</abbr><ex>ς</ex></supplied></expan>
                       </ab>
                   </div>
@@ -359,39 +364,46 @@
          </div>
          <div type="commentary" subtype="text">
             <p xml:lang="en">The seal inscription shows an alternating use of the dative and the
-                    nominative. On another very similar seal type the same inscription is entirely
-                    in the dative.[1]</p>
+               nominative. On another very similar seal type the same inscription is entirely in the
+               dative.[1]</p>
          </div>
          <div type="commentary" subtype="footnotes">
-            <!--add to bibliography: "Erdoğan2018": E. G. Erdoğan, A Selection of Unpublished Lead Seals from the Gaziantep Archeological Museum: Seals Issued by State Officials, in Sanat Tarihi Yıllığı Sayı 27, 2018, p. 81-99.--><!--DONE-->
-                <!--add to bibliography: "PrigentCheynetErdoğan2020": Vivien Prigent, Jean-Claude Cheynet, Esra Erdoğan, Les sceaux byzantins du musée de Gaziantep, Revue des études byzantines 78, 2020, p. 5-69.--><!--DONE-->
-                <!--add to bibliography: "Grünbart1998": Michael Grünbart, Die Familie Apokapes im Lichte neuer Quellen, SBS 5, 1998, p. 29-41.--> <!--DONE-->
-                <!--add to bibliography: "Cheynet1994": Cheynet, Jean-Claude, Sceaux byzantins des Musées d'Antioche et de Tarse, In: Travaux et Mémoires du Centre de Recherche d'Histoire et Civilisation de Byzance Bd. 12 (1994) S. 391-478.--><!-- done-->
-            <p xml:id="footnote-1">[1] (1) Gaziantep, Museum of Archeology, no. 2010.2.18,
-                    published in <bibl>
-                  <ptr target="Erdoğan2018"/>, p. <citedRange unit="page">86-87</citedRange>, no. <citedRange unit="entry">3</citedRange>
-               </bibl>;
-                            <bibl>
-                               <ptr target="PrigentCheynetErdoğan2020"/>, p. <citedRange unit="page">24-25</citedRange>
-               </bibl>; the seal is also mentioned in
-                            <bibl>
-                  <ptr target="Grünbart1998"/>, p. <citedRange unit="page">38-39</citedRange> and note <citedRange unit="entry">34</citedRange>
+            <!--add to bibliography: "Erdoğan2018": E. G. Erdoğan, A Selection of Unpublished Lead Seals from the Gaziantep Archeological Museum: Seals Issued by State Officials, in Sanat Tarihi Yıllığı Sayı 27, 2018, p. 81-99.-->
+            <!--DONE-->
+            <!--add to bibliography: "PrigentCheynetErdoğan2020": Vivien Prigent, Jean-Claude Cheynet, Esra Erdoğan, Les sceaux byzantins du musée de Gaziantep, Revue des études byzantines 78, 2020, p. 5-69.-->
+            <!--DONE-->
+            <!--add to bibliography: "Grünbart1998": Michael Grünbart, Die Familie Apokapes im Lichte neuer Quellen, SBS 5, 1998, p. 29-41.-->
+            <!--DONE-->
+            <!--add to bibliography: "Cheynet1994": Cheynet, Jean-Claude, Sceaux byzantins des Musées d'Antioche et de Tarse, In: Travaux et Mémoires du Centre de Recherche d'Histoire et Civilisation de Byzance Bd. 12 (1994) S. 391-478.-->
+            <!-- done-->
+            <p xml:id="footnote-1">[1] (1) Gaziantep, Museum of Archeology, no. 2010.2.18, published
+               in <bibl>
+                  <ptr target="Erdoğan2018"/>, p. <citedRange unit="page">86-87</citedRange>, no.
+                     <citedRange unit="entry">3</citedRange>
                </bibl>; <bibl>
-                  <ptr target="Cheynet1994"/>, p. <citedRange unit="page">423</citedRange>, note <citedRange unit="entry">79</citedRange>
-               </bibl>; (2) Antakya, Hatay Archaeology Museum, no. 2
-                    (Khoury Collection) published in <bibl>
-                  <ptr target="Khoury"/>, p. <citedRange unit="page">425</citedRange>, no. <citedRange unit="entry">7</citedRange>
+                  <ptr target="PrigentCheynetErdoğan2020"/>, p. <citedRange unit="page"
+                     >24-25</citedRange>
+               </bibl>; the seal is also mentioned in <bibl>
+                  <ptr target="Grünbart1998"/>, p. <citedRange unit="page">38-39</citedRange> and
+                  note <citedRange unit="entry">34</citedRange>
+               </bibl>; <bibl>
+                  <ptr target="Cheynet1994"/>, p. <citedRange unit="page">423</citedRange>, note
+                     <citedRange unit="entry">79</citedRange>
+               </bibl>; (2) Antakya, Hatay Archaeology Museum, no. 2 (Khoury Collection) published
+               in <bibl>
+                  <ptr target="Khoury"/>, p. <citedRange unit="page">425</citedRange>, no.
+                     <citedRange unit="entry">7</citedRange>
                </bibl> (= <bibl>
-                  <ptr target="SBS_Auctions2002-2006"/>,
-                            <citedRange unit="page">130</citedRange>, no. <citedRange unit="entry">7</citedRange>
-               </bibl>). It is unclear to which seal type belongs a seal
-                    of Basileios Apokapes, proedros and doux auctioned in a lot with other
-                    specimens, see Münz Zentrum, Auction 76 (10–12 November 1993), lot 1390,
-                    mentioned by <bibl>
-                  <ptr target="CheynetTheodoridis"/>, p. <citedRange unit="page">25</citedRange>, note <citedRange unit="entry">60</citedRange>
+                  <ptr target="SBS_Auctions2002-2006"/>, <citedRange unit="page">130</citedRange>,
+                  no. <citedRange unit="entry">7</citedRange>
+               </bibl>). It is unclear to which seal type belongs a seal of Basileios Apokapes,
+               proedros and doux auctioned in a lot with other specimens, see Münz Zentrum, Auction
+               76 (10–12 November 1993), lot 1390, mentioned by <bibl>
+                  <ptr target="CheynetTheodoridis"/>, p. <citedRange unit="page">25</citedRange>,
+                  note <citedRange unit="entry">60</citedRange>
                </bibl>; <bibl>
-                  <ptr target="Grünbart1998"/>, p.
-                            <citedRange unit="page">39</citedRange>, note <citedRange unit="entry">34</citedRange>
+                  <ptr target="Grünbart1998"/>, p. <citedRange unit="page">39</citedRange>, note
+                     <citedRange unit="entry">34</citedRange>
                </bibl>; <bibl>
                   <ptr target="Khoury"/>, p. <citedRange unit="page">425</citedRange>
                </bibl>; <bibl>
@@ -399,16 +411,15 @@
                </bibl>.</p>
          </div>
          <div type="bibliography" subtype="parallels">
-            <p>(1) Theodoritis Collection, no. 548 – <bibl>
-                  <ptr target="CheynetTheodoridis"/>,
-                        no. <citedRange unit="entry">12</citedRange>
-               </bibl>; (2) Zeus Numismatics,
-                    Auction 13 (31 October 2020), <ref target="https://www.biddr.com/auctions/zeusnumismatics/browse?a=1338&amp;l=1428924">lot 1123</ref>.</p>
+            <p>(1) Theodoriδis Collection, no. 548 – <bibl>
+                  <ptr target="CheynetTheodoridis"/>, no. <citedRange unit="entry">12</citedRange>
+               </bibl>; (2) Zeus Numismatics, Auction 13 (31 October 2020), <ref
+                  target="https://www.biddr.com/auctions/zeusnumismatics/browse?a=1338&amp;l=1428924"
+                  >lot 1123</ref>.</p>
          </div>
          <div type="bibliography" subtype="discussion">
             <p>(1) also mentioned in <bibl>
-                  <ptr target="PrigentCheynetErdoğan2020"/>,
-                            <citedRange unit="page">24</citedRange>
+                  <ptr target="PrigentCheynetErdoğan2020"/>, <citedRange unit="page">24</citedRange>
                </bibl>.</p>
          </div>
       </body>
