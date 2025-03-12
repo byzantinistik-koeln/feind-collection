@@ -4,6 +4,7 @@
          <titleStmt>
             <title xml:lang="en">Seal of Ιoannes tourmarches of Opsikion</title>
             <title xml:lang="de">Siegel des Ιoannes turmarches vom Opsikion</title>
+            <title xml:lang="el">Μολυβδόβουλλο Ιωάννη, τουμάρχη του Οψικίου</title>
             <editor role="seal-editor" xml:id="MC">Maria Teresa Catalano</editor>
             <editor role="seal-editor" xml:id="MF">Martina Filosa</editor>
             <editor role="seal-editor" xml:id="CS">Claudia Sode</editor>
@@ -41,6 +42,9 @@
                   <persName xml:lang="de">
                      <forename>Ιoannes</forename>
                   </persName>
+                  <persName xml:lang="el">
+                     <forename>Ιωάννης</forename>
+                  </persName>
                </person>
             </listPerson>
             <msDesc>
@@ -48,10 +52,12 @@
                   <country>
                      <seg xml:lang="en">Germany</seg>
                      <seg xml:lang="de">Deutschland</seg>
+                     <seg xml:lang="el">Γερμανία</seg>
                   </country>
                   <settlement>
                      <seg xml:lang="en">Cologne</seg>
                      <seg xml:lang="de">Köln</seg>
+                     <seg xml:lang="el">Κολωνία</seg>
                   </settlement>
                   <institution/>
                   <repository/>
@@ -72,14 +78,17 @@
                   <summary n="whole">
                      <seg xml:lang="en">Provincial administration</seg>
                      <seg xml:lang="de">Provinzialverwaltung</seg>
+                     <seg xml:lang="el">Μολυβδόβουλλα αξιωματούχων της περιφερειακής διοίκησης.</seg>
                   </summary>
                   <msItem>
                      <author>
                         <roleName role="issuer" type="military">
                            <seg xml:lang="en">Ιoannes</seg>
                            <seg xml:lang="de">Ιoannes</seg>
+                           <seg xml:lang="el">Ιωάννης</seg>
                            <interp type="milieu" xml:lang="en">Military</interp>
                            <interp type="milieu" xml:lang="de">Militär</interp>
+                           <interp type="milieu" xml:lang="el">Στρατιωτικό (πεδίο δραστηριοποίησης).</interp>
                         </roleName>
                      </author>
                   </msItem>
@@ -92,15 +101,19 @@
                               <term>
                                  <seg xml:lang="en">Seal</seg>
                                  <seg xml:lang="de">Siegel</seg>
+                                 <seg xml:lang="el">Μολυβδόβουλλο</seg>
                               </term>
                               <interp type="workType" xml:lang="en">Original
                                             impression</interp>
                               <interp type="workType" xml:lang="de">Origineller
                                             Siegelabdruck</interp>
+                              <interp type="workType" xml:lang="el">Αρχική
+                                 αποτύπωση</interp>
                            </objectType>
                            <material>
                               <seg xml:lang="en">Lead</seg>
                               <seg xml:lang="de">Blei</seg>
+                              <seg xml:lang="el">Μόλυβδος</seg>
                            </material>
                            <dimensions type="support" unit="mm">
                               <dim type="diameter">21</dim>
@@ -115,17 +128,20 @@
                            <p xml:lang="en">Green patina, corroded, struck off-centre to the upper left on the obverse and to the upper right on the reverse.</p>
                            <p xml:lang="de">Grüne Patina, korrodiert, Prägung auf dem Avers nach oben links und
                                         auf dem Revers nach oben rechts versetzt.</p>
+                           <p xml:lang="el">Πατίνα πράσινου χρώματος, διαβρωμένο, ο εμπροσθότυπος αποκλίνει από το κέντρο προς το άνω αριστερό μέρος και ο οπισθότυπος προς το άνω δεξιό.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
                         <layout n="whole">
                            <rs type="execution">
                               <seg xml:lang="en">Struck</seg>
-                              <seg xml:lang="de">???</seg>
+                              <seg xml:lang="de">Geprägt</seg>
+                              <seg xml:lang="el">Παιστό</seg>
                            </rs>
                            <rs type="shape">
                               <seg xml:lang="en">Round</seg>
                               <seg xml:lang="de">Rund</seg>
+                              <seg xml:lang="el">Σφαιρικό</seg>
                            </rs>
                            <rs type="matrix" subtype="not-surviving">
                               <idno type="SigiDoc">m-NDSMgR</idno>
@@ -156,6 +172,7 @@
                      <origDate type="analysis" notBefore="0981" notAfter="1020" evidence="iconography epigraphy" resp="#MC">
                         <seg xml:lang="en">late 10th c. - early 11th c.</seg>
                         <seg xml:lang="de">Spätes 10. Jh. - frühes 11. Jh.</seg>
+                        <seg xml:lang="el">Τέλη 10ου αι. - αρχές 11ου αι.</seg>
                      </origDate>
                      <!-- for an internal date >
                             <origDate type="internal" when="0001" when-custom="2023" datingMethod="">
@@ -217,6 +234,7 @@
                               </dimensions>
                               <p xml:lang="en">Iconography</p>
                               <p xml:lang="de">Ikonographie</p>
+                              <p xml:lang="el">Εικονογραφία</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -233,8 +251,10 @@
                               <figDesc ana="" n="r" xml:lang="en">Bust of the Mother of God with her hands open before her breast. Sigla and on either side. Traces of a circular inscription.</figDesc>
                               <figDesc ana="" n="r" xml:lang="de">Büste der Muttergottes mit
                                             geöffneten Händen vor ihrer Brust. Siglen auf beiden Seiten. Reste einer umlaufenden Legende sichtbar.</figDesc>
+                              <figDesc ana="" n="r" xml:lang="el">Προτομή της Θεοτόκου με τα χέρια ανοιχτά μπροστά στο στήθος. Σίγγλα εκατέρωθεν της μορφής. Ίχνη κυκλοτερής επιγραφής.</figDesc>
                               <figDesc ana="" n="decoR" xml:lang="en">Border of dots.</figDesc>
                               <figDesc ana="" n="decoR" xml:lang="de">Perlrand</figDesc>
+                              <figDesc ana="" n="decoR" xml:lang="el">Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -264,6 +284,7 @@
                               </dimensions>
                               <p xml:lang="en">Legend of 5 lines.</p>
                               <p xml:lang="de">Legende auf 5 Zeilen.</p>
+                              <p xml:lang="el">Επιγραφή 5 στίχων.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -281,6 +302,7 @@
                               <figDesc ana="" n="v" xml:lang="de"/>
                               <figDesc ana="" n="decoV" xml:lang="en">Border of dots.</figDesc>
                               <figDesc ana="" n="decoV" xml:lang="de">Perlrand</figDesc>
+                              <figDesc ana="" n="decoV" xml:lang="el">Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -300,6 +322,7 @@
             <graphic url="SB_146a.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -309,6 +332,7 @@
             <graphic url="SB_146b.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -359,6 +383,7 @@
             <p>Μήτηρ Θεοῦ / Ἰωάννῃ βασιλικῷ σπαθαροκανδιδάτῳ καὶ τρομαρχῃ Ὀψηκίου.</p>
             <p xml:lang="en">Mother of God. Ioannes spatharokandidatos and tourmarches of Opsikion.</p>
             <p xml:lang="de">Muttergottes. Ioannes spatharokandidatos und turmarches vom Opsikion.</p>
+            <p xml:lang="el">Θεοτόκος. Ιωάννης βασιλικός σπαθαροκανδιδάτος και τουρμάρχης Οψικίου.</p>
          </div>
          <div type="commentary" subtype="text">
             <p xml:lang="en"/>

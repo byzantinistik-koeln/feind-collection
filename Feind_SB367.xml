@@ -86,14 +86,11 @@
                   <msItem>
                      <author>
                         <roleName role="issuer" type="military">
-                           <seg xml:lang="en">
-                              <forename>Alexios</forename>
+                           <seg xml:lang="el"> <ref target="http://pbw2016.kdl.kcl.ac.uk/person/Alexios/17004/">Alexios</ref>
                            </seg>
-                           <seg xml:lang="de">
-                              <forename>Alexios</forename>
-                           </seg>
-                           <seg xml:lang="el">
-                              <forename>Αλέξιος</forename>
+                           <seg xml:lang="de"> <ref target="http://pbw2016.kdl.kcl.ac.uk/person/Alexios/17004/">Alexios</ref>
+                                                        </seg>
+                           <seg xml:lang="el"> <ref target="http://pbw2016.kdl.kcl.ac.uk/person/Alexios/17004/">Alexios</ref>
                            </seg>
                            <interp type="milieu" xml:lang="en">Military</interp>
                            <interp type="milieu" xml:lang="de">Militär</interp>
@@ -135,14 +132,14 @@
                         <condition rend="blank-too-small ">
                            <p xml:lang="en">Green patina, effaced to right on the obverse and to left on the reverse.</p>
                            <p xml:lang="de">Grüne Patina, auf der Vorderseite nach rechts und auf der Rückseite nach links gelöscht.</p>
-                           <p xml:lang="el">Πατίνα πρασινωπού χρωματος, σβησμένη προς τα δεξιά του πεδίου στην εμπρόσθια όψη και προς τα αριστερά του πεδίου στην οπίσθια όψη.</p>
+                           <p xml:lang="el">Πατίνα πρασινωπού χρωματος, στην εμπρόσθια όψη, σβησμένο προς τα δεξιά του πεδίου και στην οπίσθια όψη, προς τα αριστερά του πεδίου.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
                         <layout n="whole">
                            <rs type="execution">
                               <seg xml:lang="en">Struck</seg>
-                              <seg xml:lang="de">???</seg>
+                              <seg xml:lang="de">Geprägt</seg>
                               <seg xml:lang="el">Παιστό</seg>
                            </rs>
                            <rs type="shape">
@@ -176,7 +173,7 @@
                                 <interp type="datingCriteria" xml:lang="de"/>
                             </origDate>-->
                      <!-- for a date range or centuries (NOT BEFORE - NOT AFTER)-->
-                     <origDate type="analysis" notBefore="1156" notAfter="1168" evidence=" epigraphy iconography" resp="MC">
+                     <origDate type="analysis" notBefore="1156" notAfter="1168" evidence="epigraphy iconography" resp="MC">
                         <seg xml:lang="en">1157–1167.</seg>
                         <seg xml:lang="de">1157–1167.</seg>
                         <seg xml:lang="el">1157–1167.</seg>
@@ -247,7 +244,7 @@
                            <figure>
                               <figDesc ana="" n="r" xml:lang="en">Bust of St Demetrios holding spear in his left hand. The shield in his right hand is not preserved. Legend preserved at left.</figDesc>
                               <figDesc ana="" n="r" xml:lang="de">Büste des hl. Demetrius mit Nimbus. Die rechte Hand hält einen Speer.</figDesc>
-                              <figDesc ana="" n="r" xml:lang="el">Προτομή του αγ.  Δημητρίου κρατώντας δόρυ στο αριστερό του χέρι. Η ασπίδα στο δεξί του χέρι δεν σώζεται. Σίγλλα διατηρούνται  στα αριστερά του πεδίου.</figDesc>
+                              <figDesc ana="" n="r" xml:lang="el">Προτομή του αγ. Δημητρίου, που κρατάει δόρυ στο αριστερό του χέρι. Η ασπίδα στο δεξί του χέρι δεν σώζεται. Σίγλλα διατηρούνται  στα αριστερά του πεδίου.</figDesc>
                               <figDesc ana="" n="decoR" xml:lang="en">Border of dots.</figDesc>
                               <figDesc ana="" n="decoR" xml:lang="de">Perlrand</figDesc>
                               <figDesc ana="" n="decoR" xml:lang="el">Στικτό πλαίσιο.</figDesc>
@@ -320,6 +317,7 @@
             <graphic url="SB_367a.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -329,6 +327,7 @@
             <graphic url="SB_367b.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -350,8 +349,8 @@
                                 <lb n="1"/><supplied reason="lost">Σ</supplied>φραγὶς 
                                 <lb n="2"/><supplied reason="lost">᾿Αλ</supplied>εξίου 
 
-                                <lb n="3"/><rs type="dignity" ref="#sebastos"><supplied reason="lost">σεβ</supplied>αστοῦ </rs>
-                                <lb n="4"/><supplied reason="lost">τοῦ</supplied><rs type="office" subtype="military" ref="#protostrator_001"><expan><abbr>πρωτο
+                                <lb n="3"/><rs type="dignity" ref="#d0075"><supplied reason="lost">σεβ</supplied>αστοῦ </rs>
+                                <lb n="4"/><supplied reason="lost">τοῦ</supplied><rs type="office" subtype="military" ref="#of0277"><expan><abbr>πρωτο
                                 <lb n="5" break="no"/><supplied reason="lost">στ</supplied>ράτορο</abbr><ex>ς</ex></expan></rs>
                             </ab>
                   </div>
@@ -385,7 +384,7 @@
             <p>῾Ο ἅγιος Δημήτριος/ Σφραγὶς᾿Αλεξίου σεβαστοῦ τοῦ πρωτοστράτορος.</p>
             <p xml:lang="en">St. Demetrius. Seal of Alexios sebastos and protostrator.</p>
             <p xml:lang="de">Hl. Demetrius Siegel des Alexios sebastos und protostrator. </p>
-            <p xml:lang="el">Ο άγ. Δημήτριος. Σφραγίδα του Αλεξίου σεβαστού και πρωτοστράτορα.</p>
+            <p xml:lang="el">Ο άγ. Δημήτριος. Σφραγίδα του Αλεξίου, σεβαστού και πρωτοστράτορα.</p>
          </div>
          <div type="commentary" subtype="text">
             <p xml:lang="en">The seal is usually attributed to Alexios Axouchos (PBW Alexios 17004),  son of the megadomestikos Ioannes Axouchos, and doux of Kilikia in 1165. </p>
@@ -415,10 +414,10 @@
                   <ptr target="Zacos1"/>, <citedRange unit="part">no. 2731bis</citedRange>
                </bibl>;
                       <bibl>
-                  <ptr target="Laurent1932b"/>, <citedRange unit="page">p. 433-434</citedRange>, <citedRange unit="part">no. 6</citedRange>
-               </bibl>;
+                  <ptr target="Laurent1932a"/>, <citedRange unit="page">p. 433-434</citedRange>, <citedRange unit="part">no. 6</citedRange>
+                      </bibl>(=<bibl><ptr target="SBS_Articles1931-1986"/>, <citedRange unit="page">p. 48</citedRange>, <citedRange unit="part">no. 5</citedRange></bibl>);
                       <bibl>
-                  <ptr target="Laurent1931b"/>,<citedRange unit="part"> no. 572</citedRange>.</bibl>
+                         <ptr target="Laurent1934"/>,<citedRange unit="part"> no. 572</citedRange>.</bibl>
             </p>
          </div>
          <div type="bibliography" subtype="discussion"> <!--if you don't have further bibliography, put this div in a comment-->

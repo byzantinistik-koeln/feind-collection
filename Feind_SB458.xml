@@ -6,6 +6,7 @@
          <titleStmt>
             <title xml:lang="en">Seal of Georgios Hexamilites, prothospatharios, krites epi tou hippodromou and of the Armenika themata</title>
             <title xml:lang="de">Siegel des Georgios Hexamilites, prothospatharios, krites epi tou hippodromou und der Armenika themata</title>
+            <title xml:lang="el">Μολυβδόβουλλο Γεωργίου Εξαμηλίτη, πρωτοσπαθαρίου, κριτή επί του ιπποδρόμου και των Αρμενιακών θεμάτων.</title>
             <editor role="seal-editor" xml:id="MC">Maria Teresa Catalano</editor>
             <editor role="seal-editor" xml:id="MF">Martina Filosa</editor>
             <editor role="seal-editor" xml:id="CS">Claudia Sode</editor>
@@ -45,6 +46,10 @@
                      <forename>Georgios</forename>
                      <surname>Hexamilites</surname>
                   </persName>
+                  <persName xml:lang="el">
+                     <forename>Γεώργιος</forename>
+                     <surname>Εξαμηλίτης</surname>
+                  </persName>
                </person>
             </listPerson>
             <msDesc>
@@ -52,10 +57,12 @@
                   <country>
                      <seg xml:lang="en">Germany</seg>
                      <seg xml:lang="de">Deutschland</seg>
+                     <seg xml:lang="el">Γερμανία</seg>
                   </country>
                   <settlement>
                      <seg xml:lang="en">Cologne</seg>
                      <seg xml:lang="de">Köln</seg>
+                     <seg xml:lang="el">Κολωνία</seg>
                   </settlement>
                   <institution/>
                   <repository/>
@@ -76,6 +83,7 @@
                   <summary n="whole">
                      <seg xml:lang="en">Provincial administration.</seg>
                      <seg xml:lang="de">Provinzialverwaltung</seg>
+                     <seg xml:lang="el">Μολυβδόβουλλα αξιωματούχων της περιφερειακής διοίκησης.</seg>
                   </summary>
                   <msItem>
                      <author>
@@ -86,8 +94,12 @@
                            <seg xml:lang="de">
                               <ref target="http://pbw2016.kdl.kcl.ac.uk/person/Georgios/20167/">Georgios Hexamilites</ref>
                            </seg>
+                           <seg xml:lang="el">
+                              <ref target="http://pbw2016.kdl.kcl.ac.uk/person/Georgios/20167/">Γεώργιος Εξαμηλίτης</ref>
+                           </seg>
                            <interp type="milieu" xml:lang="en">Civil</interp>
                            <interp type="milieu" xml:lang="de">Zivil</interp>
+                           <interp type="milieu" xml:lang="el">Κρατικό (πεδίο δραστηριοποίησης).</interp>
                         </roleName>
                      </author>
                   </msItem>
@@ -100,15 +112,19 @@
                               <term>
                                  <seg xml:lang="en">Seal</seg>
                                  <seg xml:lang="de">Siegel</seg>
+                                 <seg xml:lang="el">Μολυβδόβουλλο</seg>
                               </term>
                               <interp type="workType" xml:lang="en">Original
                                             impression</interp>
                               <interp type="workType" xml:lang="de">Origineller
                                             Siegelabdruck</interp>
+                              <interp type="workType" xml:lang="el">Αρχική
+                                 αποτύπωση</interp>
                            </objectType>
                            <material>
                               <seg xml:lang="en">Lead</seg>
                               <seg xml:lang="de">Blei</seg>
+                              <seg xml:lang="el">Μόλυβδος</seg>
                            </material>
                            <dimensions type="support" unit="mm">
                               <dim type="diameter">22</dim>
@@ -122,17 +138,20 @@
                         <condition rend="blank-too-small">
                            <p xml:lang="en">Blank too small for the die.</p>
                            <p xml:lang="de">Rohling zu klein für die Matrix.</p>
+                           <p xml:lang="el">Ο δίσκος μικρότερος από τη σφραγίδα αποτύπωσης.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
                         <layout n="whole">
                            <rs type="execution">
                               <seg xml:lang="en">Struck</seg>
-                              <seg xml:lang="de">???</seg>
+                              <seg xml:lang="de">Geprägt</seg>
+                              <seg xml:lang="el">Παιστό</seg>
                            </rs>
                            <rs type="shape">
                               <seg xml:lang="en">Round</seg>
                               <seg xml:lang="de">Rund</seg>
+                              <seg xml:lang="el">Σφαιρικό</seg>
                            </rs>
                            <rs type="matrix" subtype="not-surviving">
                               <idno type="SigiDoc">m-Lv7q3f</idno>
@@ -154,6 +173,7 @@
                      <origDate type="analysis" notBefore="1041" notAfter="1060" evidence="epigraphy" resp="#MC">
                         <seg xml:lang="en">Mid-11th c.</seg>
                         <seg xml:lang="de">Mitte 11. Jh.</seg>
+                        <seg xml:lang="el">Μέσα 11ου αι.</seg>
                      </origDate>
                   </origin>
                   <acquisition>
@@ -183,6 +203,7 @@
                               </dimensions>
                               <p xml:lang="en">Iconography.</p>
                               <p xml:lang="de">Ikonographie.</p>
+                              <p xml:lang="el">Εικονογραφία</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -198,10 +219,12 @@
                            <figure>
                               <figDesc ana="" n="r" xml:lang="en">Bust of the Mother of God with her hands open before her breast. Some details indistinct. Sigla partially preserved at right.</figDesc>
                               <figDesc ana="" n="r" xml:lang="de">Büste der Muttergottes mit geöffneten Händen vor ihrer Brust. Details undeutlich. Teilweise Siglen auf der rechten Seite erhalten.</figDesc>
+                              <figDesc ana="" n="r" xml:lang="el">Προτομή της Θεοτόκου με τα χέρια ανοιχτά μπροστά στο στήθος. Ορισμένές λεπτομέρειες δεν διακρίνονται. Σίγγλα διατηρούνται στα δεξιά του πεδίου.</figDesc>
                               <figDesc ana="" n="decoR" xml:lang="en">No border
                                             visible.</figDesc>
                               <figDesc ana="" n="decoR" xml:lang="de">Kein Rand
                                             sichtbar.</figDesc>
+                              <figDesc ana="" n="decoR" xml:lang="el">Δεν διακρίνεται πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -231,6 +254,7 @@
                               </dimensions>
                               <p xml:lang="en">Legend of 7 lines, the first and the last line missing.</p>
                               <p xml:lang="de">Legende auf 7 Zeilen. Die erste und letzte Zeile fehlen.</p>
+                              <p xml:lang="el">ΕΠιγραφή 7 στίχων. Ο πρώτος και ο τελεύταίος λείπουν.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -250,6 +274,7 @@
                                             visible.</figDesc>
                               <figDesc ana="" n="decoV" xml:lang="de">Kein Rand
                                             sichtbar.</figDesc>
+                              <figDesc ana="" n="decoV" xml:lang="el">Δεν διακρίνεται πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -272,6 +297,7 @@
             <graphic url="SB_458a.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -281,6 +307,7 @@
             <graphic url="SB_458b.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -335,6 +362,7 @@
             <p>Μήτηρ Θεοῦ / Θεοτόκε βοήθει Γεωργίῳ πρωτοσπαθαρίῳ κριτῇ ἐπὶ τοῦ ἱπποδρόμου καὶ τῶν ᾿Αρμενικῶν θεμάτων ὁ Ἑξαμηλίτης.</p>
             <p xml:lang="en">Mother of God. Mother of God, help Georgios Hexamilites, prothospatharios, krites epi tou hippodromou and of the Armenika themata.</p>
             <p xml:lang="de">Muttergottes. Muttergottes, hilf Georgios Hexamilites, prothospatharios, krites epi tou hippodromou und der Armenika themata.</p>
+            <p xml:lang="el">Θεοτόκος. Θεοτόκε βοήθησε το Γεώργιο Εξαμηλίτη, πρωτοσπαθάριο, κριτή επί του ιπποδρόμου και των Αρμενικών θεμάτων.</p>
          </div>
          <div type="commentary" subtype="text">
             <p xml:lang="en">The restitution of the first and last line of the legend is based on the parallels. Georgios Hexamilites[1] is also known from another seal type, on which he appears at an earlier stage of his career, as <hi rend="italic">spatharokandidatos</hi>, <hi rend="italic">protonotarios</hi> and <hi rend="italic">krites</hi> of Seleukeia.[2] 
@@ -353,15 +381,15 @@
             <p/>
          </div>
          <div type="bibliography" subtype="parallels">
-            <p>(1) Athens, Numismatic Museum, no. 78 (Stamoules Collection) – <!--Athens1930 K. M. Konstantopoulos, Βυζαντιακά μολυβδόβουλλα. Συλλογή Αναστασίου Κ. Π. Σταμούλη, Athens in bibliography to be done!--><bibl>
+            <p>(1) Athens, Numismatic Museum, no. 78 (Stamoules Collection) – <!--Athens1930 K. M. Konstantopoulos, Βυζαντιακά μολυβδόβουλλα. Συλλογή Αναστασίου Κ. Π. Σταμούλη, Athens in bibliography to be done!--><bibl> <!--DONE-->
                   <ptr target="Athens1930"/>, p. <citedRange unit="page">15</citedRange>, no. <citedRange unit="entry">78</citedRange>
-               </bibl>; <!--A. Wassiliou-Seibt, Die Familie Hexamilites. Ein Beitrag zur byzantinischen Prosopographie, Hellenika 52, 2002, p. 243-261 to be done in bibliography--><bibl>
-                  <ptr target="Wassiliou-Seibt2002"/>, p. <citedRange unit="page">247-248</citedRange>, no. <citedRange unit="entry">7b</citedRange>
+               </bibl>; <!--A. Wassiliou-Seibt, Die Familie Hexamilites. Ein Beitrag zur byzantinischen Prosopographie, Hellenika 52, 2002, p. 243-261 to be done in bibliography--><bibl> <!--DONE-->
+                  <ptr target="Wassiliou2002"/>, p. <citedRange unit="page">247-248</citedRange>, no. <citedRange unit="entry">7b</citedRange>
                </bibl> (= <bibl>
                   <ptr target="SBS_Articles2002-2006"/>, p. <citedRange unit="page">148</citedRange>, no. <citedRange unit="entry">7b</citedRange>
                </bibl>); (2) IFEB, no. 422 – mentioned in <bibl>
-                  <ptr target="Wassiliou-Seibt2002"/>, p. <citedRange unit="page">247</citedRange>
-               </bibl>; (3) Adnan Aci Collection, no. 154, struck from a different boulloterion – <!-- Vera Bulgurlu, A Selection of Unpublished Byzantine Lead Seals from the Adnan Aci Collection related to the East, in Zh. Zhekova, T. Todorov (eds), ΑΝΤΙΧΑΡΙΣΜΑΤΟΣ ΕΠΙΣΦΡΑΓΙΣΙΣ. A Tribute to Prof. Ivan Jordanov’s 70th Anniversary, Shumen 2019, p. 130-144 to be done in bibliography--><bibl>
+                  <ptr target="Wassiliou2002"/>, p. <citedRange unit="page">247</citedRange>
+               </bibl>; (3) Adnan Aci Collection, no. 154, struck from a different boulloterion – <!-- Vera Bulgurlu, A Selection of Unpublished Byzantine Lead Seals from the Adnan Aci Collection related to the East, in Zh. Zhekova, T. Todorov (eds), ΑΝΤΙΧΑΡΙΣΜΑΤΟΣ ΕΠΙΣΦΡΑΓΙΣΙΣ. A Tribute to Prof. Ivan Jordanov’s 70th Anniversary, Shumen 2019, p. 130-144 to be done in bibliography--><bibl> <!--DONE-->
                   <ptr target="Bulgurlu2019"/>, p. <citedRange unit="page">133-134</citedRange>, no. <citedRange unit="entry">4</citedRange>
                </bibl>.                  
                   </p>

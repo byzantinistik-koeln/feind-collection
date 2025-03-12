@@ -5,6 +5,7 @@
          <titleStmt>
             <title xml:lang="en">Seal of Sergios</title>
             <title xml:lang="de">Siegel des Sergios</title>
+            <title xml:lang="el">Μολυβδόβουλλο Σεργίου</title>
             <editor role="seal-editor" xml:id="MC">Maria Teresa Catalano</editor>
             <editor role="seal-editor" xml:id="MF">Martina Filosa</editor>
             <editor role="seal-editor" xml:id="CS">Claudia Sode</editor>
@@ -51,6 +52,10 @@
                      <forename>Sergios</forename>
                      <surname/>
                   </persName>
+                  <persName xml:lang="el">
+                     <forename>Σέργιος</forename>
+                     <surname/>
+                  </persName>
                   <idno type="PBW"/>
                   <idno type="PmbZ"/>
                   <idno type="PLP"/>
@@ -63,10 +68,12 @@
                   <country>
                      <seg xml:lang="en">Germany</seg>
                      <seg xml:lang="de">Deutschland</seg>
+                     <seg xml:lang="el">Γερμανία</seg>
                   </country>
                   <settlement>
                      <seg xml:lang="en">Cologne</seg>
                      <seg xml:lang="de">Köln</seg>
+                     <seg xml:lang="el">Κολωνία</seg>
                   </settlement>
                   <institution/>
                   <repository/>
@@ -87,6 +94,7 @@
                   <summary n="whole">
                      <seg xml:lang="en">Private</seg>
                      <seg xml:lang="de">Privat</seg>
+                     <seg xml:lang="el">Μολυβδόβουλλα ιδιωτών.</seg>
                   </summary>
                </msContents>
                <physDesc>
@@ -97,15 +105,19 @@
                               <term>
                                  <seg xml:lang="en">Seal</seg>
                                  <seg xml:lang="de">Siegel</seg>
+                                 <seg xml:lang="el">Μολυβδόβουλλο</seg>
                               </term>
                               <interp type="workType" xml:lang="en">Original
                                             impression</interp>
                               <interp type="workType" xml:lang="de">Origineller
                                             Siegelabdruck</interp>
+                              <interp type="workType" xml:lang="el">Αρχική
+                                 αποτύπωση</interp>
                            </objectType>
                            <material>
                               <seg xml:lang="en">Lead</seg>
                               <seg xml:lang="de">Blei</seg>
+                              <seg xml:lang="el">Μόλυβδος</seg>
                            </material>
                            <dimensions type="support" unit="mm">
                               <dim type="diameter"/>
@@ -119,17 +131,20 @@
                         <condition rend="corroded not-centered">
                            <p xml:lang="en">Corroded, struck off-centre.</p>
                            <p xml:lang="de">Korrodiert, Prägung nicht mittig.</p>
+                           <p xml:lang="el">Διαβρωμένο, χτυπημένο εκτός κέντρου.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
                         <layout n="whole">
                            <rs type="execution">
                               <seg xml:lang="en">Struck</seg>
-                              <seg xml:lang="de">???</seg>
+                              <seg xml:lang="de">Geprägt</seg>
+                              <seg xml:lang="el">Παιστό</seg>
                            </rs>
                            <rs type="shape">
                               <seg xml:lang="en">Round</seg>
                               <seg xml:lang="de">Rund</seg>
+                              <seg xml:lang="el">Σφαιρικό</seg>
                            </rs>
                            <rs type="matrix" subtype="not-surviving">
                               <idno type="SigiDoc">m-l3HzZv</idno>
@@ -160,6 +175,7 @@
                      <origDate type="analysis" notBefore="0481" notAfter="0500" evidence="epigraphy iconography" resp="#MC">
                         <seg xml:lang="en">Late 5th c.</seg>
                         <seg xml:lang="de">Spätes 5. Jh.</seg>
+                        <seg xml:lang="el">Τέλη 5ου αι.</seg>
                      </origDate>
                      <!-- for an internal date -->
                      <!--<origDate type="internal" when="0001" when-custom="2023" datingMethod="">
@@ -221,6 +237,7 @@
                               </dimensions>
                               <p xml:lang="en">Iconography</p>
                               <p xml:lang="de">Ikonographie</p>
+                              <p xml:lang="el">Εικονογραφία</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -236,8 +253,10 @@
                            <figure>
                               <figDesc ana="" n="r" xml:lang="en">Bust in profile, facing right (details indistinct).</figDesc>
                               <figDesc ana="" n="r" xml:lang="de">Büste im Profil, Blick nach rechts (Details undeutlich).</figDesc>
+                              <figDesc ana="" n="r" xml:lang="el">Προτομή κατά κρόταφον προς τα δεξιά (δεν διακρίνονται λεπτομέρειες).</figDesc>
                               <figDesc ana="" n="decoR" xml:lang="en">Wreath border.</figDesc>
                               <figDesc ana="" n="decoR" xml:lang="de">Schachtelhalmrand</figDesc>
+                              <figDesc ana="" n="decoR" xml:lang="el">Στεφανωτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -267,6 +286,7 @@
                               </dimensions>
                               <p xml:lang="en">Legend of 2 lines.</p>
                               <p xml:lang="de">Legende auf 2 Zeilen.</p>
+                              <p xml:lang="el">Επιγραφή 2 στίχων.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -284,6 +304,7 @@
                               <figDesc ana="" n="v" xml:lang="de"/>
                               <figDesc ana="" n="decoV" xml:lang="en">Wreath border.</figDesc>
                               <figDesc ana="" n="decoV" xml:lang="de">Schachtelhalmrand</figDesc>
+                              <figDesc ana="" n="decoV" xml:lang="el">Στεφανωτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -303,6 +324,7 @@
             <graphic url="SB_462a.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -312,6 +334,7 @@
             <graphic url="SB_462b.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -319,9 +342,9 @@
    <text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <body>
          <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"> <!--change the language code according to the language of your edition, the values (also when combined, e.g. Greek-Latin) are in the guidelines. Same goes for what comes next, textpart etc.-->
-                  <div type="textpart" subtype="sigla" n="obv" rend="columns" xml:lang="grc"> <!--obverse, editorial-->
+                  <!--<div type="textpart" subtype="sigla" n="obv" rend="columns" xml:lang="grc"> <!-\-obverse, editorial-\->
                       <ab/>
-                  </div>
+                  </div>-->
                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial--><!--omitted so korrekt?-->
                       <ab ana="gen">
                           <lb n="1"/>Σε<supplied reason="omitted">ρ</supplied>
@@ -330,9 +353,9 @@
                   </div>
               </div>
          <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang=""> 
-                  <div type="textpart" subtype="sigla" n="obv" rend="columns" xml:lang="grc"> <!--obverse, diplomatic-->
+                  <!--<div type="textpart" subtype="sigla" n="obv" rend="columns" xml:lang="grc"> <!-\-obverse, diplomatic-\->
                       <ab/>
-                  </div>
+                  </div>-->
                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, diplomatic-->
                       <ab>
                           <lb n="1"/>Σε
@@ -350,6 +373,7 @@
             <p>Σεργίου.</p>
             <p xml:lang="en">(Seal of) Sergios.</p>
             <p xml:lang="de">(Siegel des) Sergios.</p>
+            <p xml:lang="el">(Σφραγίδα) Σεργίου.</p>
          </div>
          <div type="commentary" subtype="text">
             <p xml:lang="en"/>
@@ -361,12 +385,12 @@
          <div type="bibliography" subtype="edition">
             <p/>
          </div>
-         <div type="bibliography" subtype="parallels"> <!--if you don't have parallels, put this div in a comment-->
+         <!--<div type="bibliography" subtype="parallels"> <!-\-if you don't have parallels, put this div in a comment-\->
             <p/>
-         </div>
-         <div type="bibliography" subtype="discussion"> <!--if you don't have further bibliography, put this div in a comment-->
+         </div>-->
+         <!--<div type="bibliography" subtype="discussion"> <!-\-if you don't have further bibliography, put this div in a comment-\->
             <p/>
-         </div>
+         </div>-->
       </body>
    </text>
 </TEI>

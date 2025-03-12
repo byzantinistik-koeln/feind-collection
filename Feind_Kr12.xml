@@ -2,8 +2,8 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title xml:lang="en">Seal of Manuel Mandromenos</title>
-            <title xml:lang="de">Siegel des Manuel Mandromenos</title>
+            <title xml:lang="en">Seal of Manouel Mandromenos</title>
+            <title xml:lang="de">Siegel des Manouel Mandromenos</title>
             <title xml:lang="el">Μολυβδόβουλλο Μανουήλ Μανδρομηνού</title>
             <editor role="seal-editor" xml:id="MC">Maria Teresa Catalano</editor>
             <editor role="seal-editor" xml:id="MF">Martina Filosa</editor>
@@ -37,16 +37,16 @@
             <listPerson type="issuer">
                <person role="private" gender="M">
                   <persName xml:lang="en">
-                     <forename>Manuel</forename>
+                     <forename>Manouel</forename>
                      <surname>Mandromenos</surname>
                   </persName>
                   <persName xml:lang="de">
-                     <forename>Manuel</forename>
+                     <forename>Manouel</forename>
                      <surname>Mandromenos</surname>
                   </persName>
                   <persName xml:lang="el">
                      <forename>Μανουήλ</forename>
-                     <surname>Μανδρομένος</surname>
+                     <surname>Μανδρομηνοός</surname>
                   </persName>
                </person>
             </listPerson>
@@ -86,8 +86,9 @@
                   <msItem>
                      <author>
                         <roleName role="issuer" type="private">
-                           <seg xml:lang="en">Manuel Mandromenos</seg>
-                           <seg xml:lang="de">Manuel Mandromenos</seg>
+                           <seg xml:lang="en">Manouel Mandromenos</seg>
+                           <seg xml:lang="de">Manouel Mandromenos</seg>
+                           <seg xml:lang="el">Μανουήλ Μανδρομηνός</seg>
                            <interp type="milieu" xml:lang="en">Private</interp>
                            <interp type="milieu" xml:lang="de">Privat</interp>
                            <interp type="milieu" xml:lang="el">Ιδιωτικό</interp>
@@ -134,6 +135,7 @@
                      <layoutDesc>
                         <layout n="whole">
                            <rs type="execution">
+                              <seg xml:lang="en">Struck</seg>
                               <seg xml:lang="de">Geprägt</seg>
                               <seg xml:lang="el">Παιστό</seg>
                            </rs>
@@ -233,7 +235,7 @@
                               </dimensions>
                               <p xml:lang="en">Iconography with inscription.</p>
                               <p xml:lang="de">Ikonographie mit Beischrift.</p>
-                              <p xml:lang="el">Εικονογραφία με επιγραφή</p>
+                              <p xml:lang="el">Εικονογραφία με επιγραφή.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>

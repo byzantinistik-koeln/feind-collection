@@ -5,6 +5,7 @@
          <titleStmt>
             <title xml:lang="en">Seal of the imperial kommerkia of Thrace</title>
             <title xml:lang="de">Siegel der kaiserlichen Kommerkia von Thrakien</title>
+            <title xml:lang="el">Μολυβδόβουλλο των βασιλικών κομμερκίων της Θράκης</title>
             <editor role="seal-editor" xml:id="MC">Maria Teresa Catalano</editor>
             <editor role="seal-editor" xml:id="MF">Martina Filosa</editor>
             <editor role="seal-editor" xml:id="CS">Claudia Sode</editor>
@@ -64,10 +65,12 @@
                   <country>
                      <seg xml:lang="en">Germany</seg>
                      <seg xml:lang="de">Deutschland</seg>
+                     <seg xml:lang="el">Γερμανία</seg>
                   </country>
                   <settlement>
                      <seg xml:lang="en">Cologne</seg>
                      <seg xml:lang="de">Köln</seg>
+                     <seg xml:lang="el">Κολωνία</seg>
                   </settlement>
                   <institution/>
                   <repository/>
@@ -88,6 +91,7 @@
                   <summary n="whole">
                      <seg xml:lang="en">Provincial administration.</seg>
                      <seg xml:lang="de">Provinzialverwaltung</seg>
+                     <seg xml:lang="el">Μολυβδόβουλλα αξιωματούχων της περιφερειακής διοίκησης.</seg>
                   </summary>
                </msContents>
                <physDesc>
@@ -98,15 +102,19 @@
                               <term>
                                  <seg xml:lang="en">Seal</seg>
                                  <seg xml:lang="de">Siegel</seg>
+                                 <seg xml:lang="el">Μολυβδόβουλλο</seg>
                               </term>
                               <interp type="workType" xml:lang="en">Original
                                             impression</interp>
                               <interp type="workType" xml:lang="de">Origineller
                                             Siegelabdruck</interp>
+                              <interp type="workType" xml:lang="el">Αρχική
+                                 αποτύπωση</interp>
                            </objectType>
                            <material>
                               <seg xml:lang="en">Lead</seg>
                               <seg xml:lang="de">Blei</seg>
+                              <seg xml:lang="el">Μόλυβδος</seg>
                            </material>
                            <dimensions type="support" unit="mm">
                               <dim type="diameter"/>
@@ -120,17 +128,20 @@
                         <condition rend="pierced torn-channel blank-too-small">
                            <p xml:lang="en">Dented, cracked along the channel and open in the upper half on the obverse, hole on one side; blank too small for the die.</p>
                            <p xml:lang="de">Eingedellt, entlang des Fadenkanals auf dem Avers in der oberen Hälfte aufgebrochen, Loch, Rohling zu klein für die Matrix.</p>
+                           <p xml:lang="el">Φέρει βαθούλωμα, ραγισμένο κατά μήκος του διαύλου, σπασμένο με άνοιγμα στο πάνω μισό στην εμπρόσθια όψη, οπή στη μία πλευρά, ο δίσκος μικρότερος από τη σφραγίδα της αποτύπωσης.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
                         <layout n="whole">
                            <rs type="execution">
                               <seg xml:lang="en">Struck</seg>
-                              <seg xml:lang="de">???</seg>
+                              <seg xml:lang="de">Geprägt</seg>
+                              <seg xml:lang="el">Παιστό</seg>
                            </rs>
                            <rs type="shape">
                               <seg xml:lang="en">Round</seg>
                               <seg xml:lang="de">Rund</seg>
+                              <seg xml:lang="el">Σφαιρικό</seg>
                            </rs>
                            <rs type="matrix" subtype="not-surviving">
                               <idno type="SigiDoc">m-nidqdS</idno>
@@ -161,6 +172,7 @@
                      <origDate type="analysis" notBefore="0801" notAfter="0820" evidence="epigraphy iconography" resp="#MC">
                         <seg xml:lang="en">Early 9th c.</seg>
                         <seg xml:lang="de">Frühes 9. Jh.</seg>
+                        <seg xml:lang="el">Αρχές 9ου αι.</seg>
                      </origDate>
                      <!-- for an internal date -->
                      <!--<origDate type="internal" when="0001" when-custom="2023" datingMethod="">
@@ -222,6 +234,7 @@
                               </dimensions>
                               <p xml:lang="en">Iconography</p>
                               <p xml:lang="de">Ikonographie</p>
+                              <p xml:lang="el">Εικονογραφία.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -237,8 +250,10 @@
                            <figure>
                               <figDesc ana="" n="r" xml:lang="en">In the upper field, two imperial busts (details indistinct).</figDesc>
                               <figDesc ana="" n="r" xml:lang="de">Zwei kaiserliche Büsten im oberen Feld (Details undeutlich).</figDesc>
+                              <figDesc ana="" n="r" xml:lang="el">Στο πάνω μέρος, δύο αυτοκρακρατορικές προτομές. (δεν διακρίνονται λεπτομέρειες).</figDesc>
                               <figDesc ana="" n="decoR" xml:lang="en">No border visible.</figDesc>
                               <figDesc ana="" n="decoR" xml:lang="de">Kein Rand sichtbar.</figDesc>
+                              <figDesc ana="" n="decoR" xml:lang="el">Δεν διακρίνεται πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -268,6 +283,7 @@
                               </dimensions>
                               <p xml:lang="en">Legend of 4 lines.</p>
                               <p xml:lang="de">Legende auf 4 Zeilen.</p>
+                              <p xml:lang="el">Επιγραφή 4 στίχων.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -285,6 +301,7 @@
                               <figDesc ana="" n="v" xml:lang="de"/>
                               <figDesc ana="" n="decoV" xml:lang="en">No border visible.</figDesc>
                               <figDesc ana="" n="decoV" xml:lang="de">Kein Rand sichtbar.</figDesc>
+                              <figDesc ana="" n="decoV" xml:lang="el">Δεν διακρίνεται πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -304,6 +321,7 @@
             <graphic url="SB_434a.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -313,6 +331,7 @@
             <graphic url="SB_434b.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -325,10 +344,10 @@
                   </div>
                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial--><!--surplus so korrekt?-->
                       <ab>
-                          <lb n="1"/><supplied reason="lost">+</supplied>Τῶν
+                          <lb n="1"/><supplied reason="lost">+</supplied><rs type="institution" ref="#org0036">Τῶν
                           <lb n="2"/><surplus><supplied reason="lost">β</supplied></surplus><expan><abbr>β</abbr><ex>ασιλικῶν</ex></expan> <expan><abbr>κομ
-                          <lb n="3" break="no"/><supplied reason="lost">μ</supplied>ερκ</abbr><ex>ίων</ex></expan> τῆς 
-                          <lb n="4"/><expan><abbr><supplied reason="lost">Θ</supplied>ρᾴκ</abbr><ex>ης</ex></expan>
+                          <lb n="3" break="no"/><supplied reason="lost">μ</supplied>ερκ</abbr><ex>ίων</ex></expan> </rs>τῆς 
+                          <lb n="4"/><placeName ref="#geo0048"><expan><abbr><supplied reason="lost">Θ</supplied>ρᾴκ</abbr><ex>ης</ex></expan></placeName>
                       </ab>
                   </div>
               </div>
@@ -355,6 +374,7 @@
             <p>Τῶν βασιλικῶν κομμερκίων τῆς Θρᾴκης.</p>
             <p xml:lang="en">(Seal of) the imperial kommerkia of Thrace.</p>
             <p xml:lang="de">(Siegel der) kaiserlichen Kommerkia von Thrakien.</p>
+            <p xml:lang="el">(Σφραγίδα) των βασιλικών κομμερκίων της Θράκης.</p>
          </div>
          <div type="commentary" subtype="text">
             <p xml:lang="en">The restitution of the missing parts of the legend is based on the parallels.</p>
