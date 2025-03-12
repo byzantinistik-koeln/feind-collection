@@ -7,7 +7,7 @@
                     kanikleiou</title>
             <title xml:lang="en">Seal of N. Libellisios, krites of the velum, and epi tou
                     kanikleiou</title>
-            <title xml:lang="en">Μολυβφόβουλλο Ν. Λιβελλίσιος, κριτής του βήλου και επί του κανικλείου</title>
+            <title xml:lang="en">Μολυβδόβουλλο Ν. Λιβελλίσιος, κριτή του βήλου και επί του κανικλείου</title>
             <editor role="seal-editor" xml:id="MC">Maria Teresa Catalano</editor>
             <editor role="seal-editor" xml:id="MF">Martina Filosa</editor>
             <editor role="seal-editor" xml:id="CS">Claudia Sode</editor>
@@ -279,7 +279,7 @@
                                             eine Dekoration aus einem Stern zwischen zwei
                                             Zierlinien; unterhalb der Legende sind Reste einer
                                             Dekoration erkennbar. Perlrand.</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="el">Πάνω από την επιγραφή, διακοσμητικό μοτίβο, το οποίο αποτελείται απο έναν αστερίσκος ανάμεσα σε δύο γραμμές. Κάτω από την επιγραφή ίχνη διακόσμησης. Στικτό πλαίσιο.</figDesc>
+                              <figDesc ana="" n="decoV" xml:lang="el">Πάνω από την επιγραφή, διακοσμητικό μοτίβο, το οποίο αποτελείται απο έναν αστερίσκο ανάμεσα σε δύο γραμμές. Κάτω από την επιγραφή ίχνη διακόσμησης. Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -296,7 +296,7 @@
       <surfaceGrp>
          <surface n="r">
             <desc>Obverse</desc>
-            <graphic url="" type="photo">
+            <graphic url="SB_111a.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
                <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
@@ -306,7 +306,7 @@
       <surfaceGrp>
          <surface n="v">
             <desc>Reverse</desc>
-            <graphic url="" type="photo">
+            <graphic url="SB_111b.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
                <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>

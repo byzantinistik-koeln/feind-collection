@@ -140,17 +140,17 @@
                            <measure type="channelOrient" unit="clock">1-7</measure>
                            <measure type="countermark" unit="clock"/>
                         </support>
-                        <condition rend="  not-centered obliterated ">
+                        <condition rend="not-centered obliterated ">
                            <p xml:lang="en">Chipped at both ends of the channel.</p>
                            <p xml:lang="de">An beiden Enden des Kanals bestoßen.</p>
-                           <p xml:lang="el">Σπασμένη και στα δυο στόμια του διαύλου.</p>
+                           <p xml:lang="el">Σπασμένο και στα δυο στόμια του διαύλου.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
                         <layout n="whole">
                            <rs type="execution">
                               <seg xml:lang="en">Struck</seg>
-                              <seg xml:lang="de">???</seg>
+                              <seg xml:lang="de">Geprägt</seg>
                               <seg xml:lang="el">Παιστό</seg>
                            </rs>
                            <rs type="shape">
@@ -184,7 +184,7 @@
                                 <interp type="datingCriteria" xml:lang="de"/>
                             </origDate>-->
                      <!-- for a date range or centuries (NOT BEFORE - NOT AFTER)-->
-                     <origDate type="analysis" notBefore="1001" notAfter="1100" evidence=" epigraphy iconography" resp="MC">
+                     <origDate type="analysis" notBefore="1001" notAfter="1100" evidence="epigraphy iconography" resp="MC">
                         <seg xml:lang="en">11th c.</seg>
                         <seg xml:lang="de">11. Jh.</seg>
                         <seg xml:lang="el">11ος αι.</seg>
@@ -255,7 +255,7 @@
                            <figure>
                               <figDesc ana="" n="r" xml:lang="en">Bust of St Nicholas offering a blessing with his right hand and holding the Book in his left. Legend on either side. Circular inscription beginning with a cross at 8 o’clock.</figDesc>
                               <figDesc ana="" n="r" xml:lang="de">Büste des Hl. Nikolaus, der mit der rechten Hand einen Segen ausspricht und in der linken das Buch hält. Legende auf beiden Seiten. Kreisförmige Inschrift, beginnend mit einem Kreuz bei 8 Uhr.</figDesc>
-                              <figDesc ana="" n="r" xml:lang="el">Προτομή του αγ. Νικολάου, ευλογεί με το δεξί του χέρι και κρατά Ευαγγέλιο στο αριστερό. Επιγραφή εκατέρωθεν του πεδίου. Κυκλοτερή επιγραφή, η οποία αρχίζει με σταυρό απο την 8η ώρα.</figDesc>
+                              <figDesc ana="" n="r" xml:lang="el">Προτομή του αγ. Νικολάου, ευλογεί με το δεξί του χέρι και κρατά Ευαγγέλιο στο αριστερό. Επιγραφή εκατέρωθεν του πεδίου. Κυκλοτερή επιγραφή, η οποία ξεκινάει με σταυρό στα αριστερά, στο σημείο του άξονα 8.</figDesc>
                               <figDesc ana="" n="decoR" xml:lang="en">Border of dots.</figDesc>
                               <figDesc ana="" n="decoR" xml:lang="de">Perlrand</figDesc>
                               <figDesc ana="" n="decoR" xml:lang="el">Στικτό πλαίσιο.</figDesc>
@@ -307,7 +307,7 @@
                               <figDesc ana="" n="v" xml:lang="de"/>
                               <figDesc ana="" n="decoV" xml:lang="en">Cross at the beginning of the legend. Below, a decoration consisting of a dot between two dashes. Border of dots.</figDesc>
                               <figDesc ana="" n="decoV" xml:lang="de">Kreuz am Anfang der Legende. Unten, eine Dekoration bestehend aus einem Punkt zwischen zwei Strichen. Perlrand</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="el">Σταυρός στην αρχή της επιγραφής.  Από κάτω, διακοσμητικό μοτίβο το οποίο  αποτελείται από μια στιγμή ανάμεσα σε δύο παύλες. Στικτό πλαίσιο.</figDesc>
+                              <figDesc ana="" n="decoV" xml:lang="el">Σταυρός στην αρχή της επιγραφής.  Από κάτω, διακοσμητικό μοτίβο, το οποίο  αποτελείται από μια στιγμή ανάμεσα σε δύο γραμμές. Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -328,6 +328,7 @@
             <graphic url="SB_570a.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -337,6 +338,7 @@
             <graphic url="SB_570b.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -410,7 +412,7 @@
             <p> Ὁ ἅγιος Νικόλαος. Κύριε βοήθει τῷ σῷ δούλῳ / Θεοδοσίῳ βασιλικῷ νοταρίῳ καὶ πρωτονοταρίῳ. </p>
             <p xml:lang="en">St Nicholas. Lord, help your servant Theodosios imperial notarios and protonotarios.</p>
             <p xml:lang="de">Hl. Nikolaus. Herr, hilf deinem Diener Theodosios kaiserlichem notarios und protonotarios.</p>
-            <p xml:lang="el">Ο  άγ. Νικόλαος. Κύριε βοήθησε τον δούλο σου Θεοδόσιο βασιλικό νοτάριο και πρωτονοτάριο.</p>
+            <p xml:lang="el">Ο  άγ. Νικόλαος. Κύριε βοήθησε το δούλο σου Θεοδόσιο, βασιλικό νοτάριο και πρωτονοτάριο.</p>
          </div>
          <div type="commentary" subtype="text">
                 <!--<p xml:lang="en"></p> <!-\-if you have the commentary only in German and would like to show it also in the English page, you should delete the xml:lang-\->
@@ -435,13 +437,13 @@
                </bibl>
             </p>
          </div>
-         <div type="bibliography" subtype="discussion"> <!--if you don't have further bibliography, put this div in a comment-->
-                 <!--<!-\- <p>-\->
+         <!--<div type="bibliography" subtype="discussion"> <!-\-if you don't have further bibliography, put this div in a comment-\->
+                 <!-\-<!-\\- <p>-\\->
                       <bibl>
                           <ptr target=""/>, <citedRange unit=""/>
                       </bibl>
-                  <!-\-</p>-\->-->
-              </div>
+                  <!-\\-</p>-\\->-\->
+              </div>-->
       </body>
    </text>
 </TEI>
