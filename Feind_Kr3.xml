@@ -408,7 +408,7 @@
          <div type="commentary" subtype="text">
             <p xml:lang="en">The issuer is known only from this seal type.</p>
             <!--if you have the commentary only in German and would like to show it also in the English page, you should delete the xml:lang-->
-            <p xml:lang="de"></p>
+            <p xml:lang="de"/>
          </div>
          <div type="commentary" subtype="footnotes">
             <p xml:lang="en"> </p>
@@ -420,7 +420,7 @@
                      <ref target="https://www.degruyter.com/database/PMBZ/entry/PMBZ23116/html">no. 20963</ref>
                   </citedRange>.</bibl>
             </p>-->
-            <p xml:lang="de"></p>
+            <p xml:lang="de"/>
          </div>
          <div type="bibliography" subtype="edition">
                 

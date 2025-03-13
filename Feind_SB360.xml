@@ -393,7 +393,7 @@
          <div type="commentary" subtype="text">
             <p xml:lang="en">On another seal type Maria Dalassene [1], refers to herself as a nun, with the addition of Α in ligature in the legend [2].  </p>
             <!--if you have the commentary only in German and would like to show it also in the English page, you should delete the xml:lang-->
-            <p xml:lang="de"></p>
+            <p xml:lang="de"/>
          </div>
          <div type="commentary" subtype="footnotes">
                 <p xml:id="footnote-1">[1].  <bibl><ptr target="PBW"/>, <citedRange unit="entry"><ref target="http://pbw2016.kdl.kcl.ac.uk/person/Maria/20126/"> Maria 20126</ref></citedRange></bibl>.</p>

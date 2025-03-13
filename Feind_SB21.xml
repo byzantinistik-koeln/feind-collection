@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- last changed before 1.0 version release 2021-08-02 --><!-- last changed before 1.1 release: 2023-04-12 -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- last changed before 1.0 version release 2021-08-02 --><!-- last changed before 1.1 release: 2023-04-12 --><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <!-- schema location for users of the SigiDoc's version of EFES available at https://github.com/SigiDoc/SigiDoc-->
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
@@ -37,8 +36,7 @@
             <date when="2023-07-11"/>
             <!--change the date according to what you need-->
             <availability>
-               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/"
-                  >Attribution-NonCommercial-ShareAlike 4.0 International - CC BY-NC-SA
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International - CC BY-NC-SA
                   4.0</licence>
             </availability>
          </publicationStmt>
@@ -183,8 +181,7 @@
                                 <interp type="datingCriteria" xml:lang="de"/>
                             </origDate>-->
                      <!-- for a date range or centuries (NOT BEFORE - NOT AFTER)-->
-                     <origDate type="analysis" notBefore="1001" notAfter="1050"
-                        evidence="epigraphy iconography" resp="MC">
+                     <origDate type="analysis" notBefore="1001" notAfter="1050" evidence="epigraphy iconography" resp="MC">
                         <seg xml:lang="en">11th c., first half.</seg>
                         <seg xml:lang="de">11. Jh., erste Hälfte.</seg>
                         <seg xml:lang="el">11ος αι., πρώτο μισό. </seg>
@@ -421,7 +418,7 @@
          <div type="commentary" subtype="text">
             <p xml:lang="en"/>
             <!--if you have the commentary only in German and would like to show it also in the English page, you should delete the xml:lang-->
-            <p xml:lang="de"></p>
+            <p xml:lang="de"/>
          </div>
          <div type="commentary" subtype="footnotes">
             <p xml:lang="en"/>
@@ -439,8 +436,7 @@
          <div type="bibliography" subtype="parallels">
             <!--if you don't have parallels, put this div in a comment-->
             <p>(1) <bibl>
-                  <ptr target="triton"/> Triton, Auction XI (8–9 January 2008), <citedRange
-                     unit="entry">
+                  <ptr target="triton"/> Triton, Auction XI (8–9 January 2008), <citedRange unit="entry">
                      <ref target="https://www.cngcoins.com/Coin.aspx?CoinID=115597">lot 1174</ref>
                   </citedRange>, from the Robert E. Hecht Collection (= SBS 12, 2016, p. 192, no.
                   1174).</bibl>

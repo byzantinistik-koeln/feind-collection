@@ -392,7 +392,7 @@
          <div type="commentary" subtype="text">
             <p xml:lang="en">The surname Nesiotes is a conjecture [1]. </p>
             <!--if you have the commentary only in German and would like to show it also in the English page, you should delete the xml:lang-->
-            <p xml:lang="de"></p>
+            <p xml:lang="de"/>
          </div>
          <div type="commentary" subtype="footnotes">
             <p xml:lang="en" xml:id="footnote-1">[1]. On the surname, see also <bibl>
@@ -400,7 +400,7 @@
                </bibl>
             </p>
             <!--if you have the footnotes only in French and would like to show it also in the English page, you should delete the xml:lang-->
-            <p xml:lang="de"></p>
+            <p xml:lang="de"/>
          </div>
          <div type="bibliography" subtype="edition">
             <p>
