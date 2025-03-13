@@ -422,20 +422,20 @@
          <div type="bibliography" subtype="edition">
             <p/>
          </div>
-         <div type="bibliography" subtype="parallels"><!--Literatur Lichacev und Laurent und Caseau ergänzen in bibliography.xml-->
+         <div type="bibliography" subtype="parallels"><!--Literatur Lichacev und Laurent und Caseau ergänzen in bibliography.xml--><!--DONE-->
             <p>(1) DO BZS.1955.1.3412 – <bibl>
                   <ptr target="DOseals3"/>, no. <citedRange unit="entry">86.23</citedRange>
                </bibl>, also published in <bibl>
                   <ptr target="DOsealsOnline"/>, <citedRange unit="entry">
                      <ref target="https://www.doaks.org/resources/seals/byzantine-seals/BZS.1955.1.3412/view">BZS.1955.1.3412</ref>
                   </citedRange>
-               </bibl>; (2) Saint Petersburg, State Hermitage Museum – <bibl>
-                  <ptr target="Lichacev"/>, p. <citedRange unit="page">30</citedRange>, table <citedRange unit="part">VIII</citedRange>, no. <citedRange unit="entry">23</citedRange>
-               </bibl>.<!--N. P. Lichačev, Istoričesko značenie italo-grečsoj ikonopisi, Petersburg 1911, po. 30, table VIII, no. 23-->; <bibl>
-                  <ptr target="Laurent"/>, p. <citedRange unit="page">21-25</citedRange>
+               </bibl>;</p> <p>(2) Saint Petersburg, State Hermitage Museum – <bibl>
+                  <ptr target="Lihačev1911"/>, p. <citedRange unit="page">30</citedRange>, table <citedRange unit="part">VIII</citedRange>, no. <citedRange unit="entry">23</citedRange>
+               </bibl><!--N. P. Lichačev, Istoričesko značenie italo-grečsoj ikonopisi, Petersburg 1911, po. 30, table VIII, no. 23-->; <bibl>
+                  <ptr target="Laurent1936"/>, p. <citedRange unit="page">21-25</citedRange>
                </bibl>; <!--V. Laurent, Erithos - Akozer, deux patronymes supposes, Hellenika 9, 1936, p. 21–25--> <bibl>
-                  <ptr target="Cheynet2012"/>, p. <citedRange unit="page">5</citedRange>, no. <citedRange unit="entry">c)</citedRange>
-               </bibl>; (3) Istanbul, Archeological Museum, no. 230 – <bibl>
+                  <ptr target="Cheynet2012"/>, p. <citedRange unit="page">5</citedRange>, no. <citedRange unit="entry">c</citedRange>
+               </bibl>;</p><p>(3) Istanbul, Archeological Museum, no. 230 – <bibl>
                   <ptr target="Istanbul"/>, no. <citedRange unit="entry">3.9</citedRange>
                </bibl>.                   
                   </p>
@@ -443,8 +443,8 @@
          <div type="bibliography" subtype="discussion">
             <p>
                <bibl>
-                  <ptr target="Caseau"/>, p. <citedRange unit="page">83</citedRange>, no. <citedRange unit="entry">2</citedRange>
-               </bibl>. <!--B. Caseau, Saint Mark, a family saint? The Iconography of the Xeroi Seals, in: Ch. Stavrakos, B. Papadopoulou (eds), Epeironde: Proceedings of the 10th International Symposium of Byzantine Sigillography (Ioannina 1.–3. October 2009), Wiesbaden 2011, p. 81–109, here p. 83, no. 2.-->
+                  <ptr target="Caseau2011"/>, p. <citedRange unit="page">83</citedRange>, no. <citedRange unit="entry">2</citedRange>
+               </bibl>. <!--B. Caseau, Saint Mark, a family saint? The Iconography of the Xeroi Seals, in: Ch. Stavrakos, B. Papadopoulou (eds), Epeironde: Proceedings of the 10th International Symposium of Byzantine Sigillography (Ioannina 1.–3. October 2009), Wiesbaden 2011, p. 81–109, here p. 83, no. 2.--> <!--DONE-->
                   </p>
          </div>
       </body>
