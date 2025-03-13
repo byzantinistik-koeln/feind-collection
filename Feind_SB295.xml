@@ -4,6 +4,7 @@
          <titleStmt>
             <title xml:lang="en">Seal of Theodoros Megalommates</title>
             <title xml:lang="de">Siegel des Theodoros Megalommates</title>
+            <title xml:lang="el">Μολυβδόβουλλο Θεοδώρου Μεγαλομμάτη</title>
             <editor role="seal-editor" xml:id="MC">Maria Teresa Catalano</editor>
             <editor role="seal-editor" xml:id="MF">Martina Filosa</editor>
             <editor role="seal-editor" xml:id="CS">Claudia Sode</editor>
@@ -43,6 +44,10 @@
                      <forename>Theodoros</forename>
                      <surname>Megalommates</surname>
                   </persName>
+                  <persName xml:lang="el">
+                     <forename>Θεόδωρος</forename>
+                     <surname>Μεγαλομμάτης</surname>
+                  </persName>
                </person>
             </listPerson>
             <msDesc>
@@ -50,10 +55,12 @@
                   <country>
                      <seg xml:lang="en">Germany</seg>
                      <seg xml:lang="de">Deutschland</seg>
+                     <seg xml:lang="el">Γερμανία</seg>
                   </country>
                   <settlement>
                      <seg xml:lang="en">Cologne</seg>
                      <seg xml:lang="de">Köln</seg>
+                     <seg xml:lang="el">Κολωνία</seg>
                   </settlement>
                   <institution/>
                   <repository/>
@@ -74,14 +81,17 @@
                   <summary n="whole">
                      <seg xml:lang="en">Private</seg>
                      <seg xml:lang="de">Privat</seg>
+                     <seg xml:lang="el">Μολυβδόβουλλα ιδιωτών</seg>
                   </summary>
                   <msItem>
                      <author>
                         <roleName role="issuer" type="private">
                            <seg xml:lang="en">Theodoros Megalommates</seg>
                            <seg xml:lang="de">Theodoros Megalommates</seg>
+                           <seg xml:lang="el">Θεόδωρος Μεγαλομμάτης</seg>
                            <interp type="milieu" xml:lang="en">Private</interp>
                            <interp type="milieu" xml:lang="de">Privat</interp>
+                           <interp type="milieu" xml:lang="el">Ιδιωτικό</interp>
                         </roleName>
                      </author>
                   </msItem>
@@ -94,15 +104,19 @@
                               <term>
                                  <seg xml:lang="en">Seal</seg>
                                  <seg xml:lang="de">Siegel</seg>
+                                 <seg xml:lang="el">Μολυβδόβουλλο</seg>
                               </term>
                               <interp type="workType" xml:lang="en">Original
                                             impression</interp>
                               <interp type="workType" xml:lang="de">Origineller
                                             Siegelabdruck</interp>
+                              <interp type="workType" xml:lang="el">Αρχική
+                                 αποτύπωση</interp>
                            </objectType>
                            <material>
                               <seg xml:lang="en">Lead</seg>
                               <seg xml:lang="de">Blei</seg>
+                              <seg xml:lang="el">Μόλυβδος</seg>
                            </material>
                            <dimensions type="support" unit="mm">
                               <dim type="diameter">34</dim>
@@ -116,17 +130,20 @@
                         <condition rend="corroded">
                            <p xml:lang="en">Brown patina, dented, weakly imprinted.</p>
                            <p xml:lang="de">Braune Patina, eingedellt, schwache Prägung.</p>
+                           <p xml:lang="el">Πατίνα καστανού χρώματος, φέρει βαθούλωμα, αδύναμη αποτύπωση της σφραγίδας.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
                         <layout n="whole">
                            <rs type="execution">
                               <seg xml:lang="en">Struck</seg>
-                              <seg xml:lang="de">???</seg>
+                              <seg xml:lang="de">Geprägt</seg>
+                              <seg xml:lang="el">Παιστό</seg>
                            </rs>
                            <rs type="shape">
                               <seg xml:lang="en">Round</seg>
                               <seg xml:lang="de">Rund</seg>
+                              <seg xml:lang="el">Σφαιρικό</seg>
                            </rs>
                            <rs type="matrix" subtype="not-surviving">
                               <idno type="SigiDoc">m-08lbrs</idno>
@@ -157,6 +174,7 @@
                      <origDate type="analysis" notBefore="1151" notAfter="1250" evidence="iconography epigraphy" resp="#MC">
                         <seg xml:lang="en">12th c., second half – 13th c., first half.</seg>
                         <seg xml:lang="de">12. Jh., zweite Hälfte – 13. Jh., erste Hälfte.</seg>
+                        <seg xml:lang="el">12ος αι, δεύτερο μισό – 13ος αι, πρώτο μισό.</seg>
                      </origDate>
                      <!-- for an internal date >
                             <origDate type="internal" when="0001" when-custom="2023" datingMethod="">
@@ -218,6 +236,7 @@
                               </dimensions>
                               <p xml:lang="en">Iconography</p>
                               <p xml:lang="de">Ikonographie</p>
+                              <p xml:lang="el">Εικονογραφία</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -234,8 +253,10 @@
                               <figDesc ana="" n="r" xml:lang="en">St Theodore standing, holding a spear in his right hand and resting his left hand on a shield.
                                             Legend on either side.</figDesc>
                               <figDesc ana="" n="r" xml:lang="de">Stehender Hl. Theodoros mit Lanze in der rechten und Schild in der linken Hand. Beischrift auf beiden Seiten.</figDesc>
+                              <figDesc ana="" n="r" xml:lang="el">Ιστάμενη μορφή του αγ. Θεοδώρου. Κρατάει δόρι στο δεξί του χέρι και ακουμπάει το αριστερό στην ασπίδα. Επιγραφή εκατέρωθεν του.</figDesc>
                               <figDesc ana="" n="decoR" xml:lang="en">No border visible.</figDesc>
                               <figDesc ana="" n="decoR" xml:lang="de">Kein Rand sichtbar.</figDesc>
+                              <figDesc ana="" n="decoR" xml:lang="el">Δεν διακρίνεται πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -265,6 +286,7 @@
                               </dimensions>
                               <p xml:lang="en">Legend of 7 lines, the last line is missing.</p>
                               <p xml:lang="de">Legende auf 7 Zeilen, die letzte Zeile fehlt.</p>
+                              <p xml:lang="el">Επιγραφή 7 στίχων, εκ των οποίων ο πρώτος λείπει.</p>
                            </layout>
                         </layoutDesc>
                      </objectDesc>
@@ -282,6 +304,7 @@
                               <figDesc ana="" n="v" xml:lang="de"/>
                               <figDesc ana="" n="decoV" xml:lang="en">Cross at the beginning of the legend. No border visible.</figDesc>
                               <figDesc ana="" n="decoV" xml:lang="de">Kreuz am Anfang der Legende. Kein Rand sichtbar.</figDesc>
+                              <figDesc ana="" n="decoV" xml:lang="el">Σταυρός στην αρχή της επιγραφής. Δεν διακρίνεται πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -301,6 +324,7 @@
             <graphic url="SB_295a.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -310,6 +334,7 @@
             <graphic url="SB_295b.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
+               <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
          </surface>
       </surfaceGrp>
@@ -366,6 +391,7 @@
             <p>ὁ ἅγιος Θεόδωρος. / Μεγαλομμάτου τάς γραφάς Θεοδώρου στήριζε Θεόδωρε μαρτύρων κλέος.</p>
             <p xml:lang="en">St Theodoros. Theodoros, Glory of the Martyrs, defend the writings of Theodoros Megalommates.</p>
             <p xml:lang="de">Hl. Theodoros. Stütze, Theodoros, Ruhm der Märtyrer, die Schriften des Theodoros Megalommates.</p>
+            <p xml:lang="el">Ο άγιος Θεόδωρος. Θεόδωρε, δόξα των μαρτύρων, υπερασπίσου τα γραπτά του Θεόδωρου Μεγαλομμάτη.</p>
          </div>
          <div type="commentary" subtype="text">
             <p xml:lang="en"/>
