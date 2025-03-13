@@ -2,8 +2,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title xml:lang="de">Siegel des Theodoros</title>
             <title xml:lang="en">Seal of Theodoros</title>
+            <title xml:lang="de">Siegel des Theodoros</title>
             <title xml:lang="el">Μολυβδόβουλλο Θεοδώρου</title>
             <editor role="seal-editor" xml:id="MC">Maria Teresa Catalano</editor>
             <editor role="seal-editor" xml:id="MF">Martina Filosa</editor>
