@@ -342,7 +342,7 @@
                                                        
                               <lb n="1"/> <persName type="forename" ref="#Michael-4">Μιχαὴ<supplied reason="lost">λ</supplied></persName>
                                <lb n="2"/> <rs type="dignity" ref="#d0066"><expan><ex>πρωτο</ex><abbr>σπαθ</abbr><ex>άριος</ex></expan></rs> <rs type="office" subtype="civil" ref="#of0112"><expan><abbr>κρ</abbr><supplied reason="lost">ι</supplied>
-                               <lb n="3" break="no"/> τ<ex>ὴς</ex></expan></rs><rs type="institution" ref="org0017">ἐπὶ τοῦ <expan><abbr>ἱπ
+                               <lb n="3" break="no"/> τ<ex>ὴς</ex></expan></rs><rs type="institution" ref="#org0017">ἐπὶ τοῦ <expan><abbr>ἱπ
                                <lb n="4" break="no"/> ποδ</abbr><ex>ρόμου</ex> </expan></rs><expan><abbr><am>S</am></abbr><ex>καὶ</ex></expan><rs type="office" subtype="civil" ref="#of0016"> ἀν<supplied reason="lost">α</supplied>
                                <lb n="5" break="no"/><expan><abbr>γραφ</abbr><ex>εὺς</ex> </expan>τοῦ  <placeName type="geography" ref="#geo0018"><supplied reason="lost"><expan><abbr>Αἰγ</abbr><ex>αίου</ex></expan></supplied>
                                <lb n="6"/><expan><supplied reason="lost">Π</supplied><abbr>ελ</abbr><supplied reason="lost">άγ<ex>ους</ex></supplied></expan></placeName></rs>
@@ -411,8 +411,8 @@
               </div>-->
          <div type="bibliography" subtype="parallels"> <!--if you don't have parallels, put this div in a comment-->
             <p>
-               <bibl>Zacos Collection (current location unknow) –<bibl>
-                     <ptr target="Zacos2"/>, no. <citedRange unit="part">593</citedRange>.</bibl>
+               <bibl>Zacos Collection (current location unknow) –
+                     <ptr target="Zacos2"/>, no. <citedRange unit="part">593</citedRange>.
                </bibl>
             </p>
          </div>
