@@ -38,15 +38,19 @@
                <person role="military" gender="M">
                   <persName xml:lang="en">
                      <forename>Nikephoros</forename>
-                     <surname>III</surname>
+                     <surname>Botaneiates</surname>
+                  </persName>
+                  <persName xml:lang="grc">
+                     <forename>Νικηφόρος</forename>
+                     <surname>Βοτανειάτης</surname>
                   </persName>
                   <persName xml:lang="de">
                      <forename>Nikephoros</forename>
-                     <surname>III</surname>
+                     <surname>Botaneiates</surname>
                   </persName>
                   <persName xml:lang="el">
                      <forename>Νικηφόρος</forename>
-                     <surname>Γ</surname>
+                     <surname>Βοτανειάτης</surname>
                   </persName>
                </person>
             </listPerson>
@@ -58,9 +62,13 @@
                      <seg xml:lang="el">Γερμανία</seg>
                   </country>
                   <settlement>
-                     <seg xml:lang="en">Cologne</seg>
-                     <seg xml:lang="de">Köln</seg>
-                     <seg xml:lang="el">Κολωνία</seg>
+                     <seg xml:lang="en">
+                        <placeName ref="https://www.geonames.org/6553049/koeln.html">Cologne</placeName>
+                     </seg>
+                     <seg xml:lang="de">
+                        <placeName ref="https://www.geonames.org/6553049/koeln.html"/>Köln</seg>
+                     <seg xml:lang="el">
+                        <placeName ref="https://www.geonames.org/6553049/koeln.html"/>Κολωνία</seg>
                   </settlement>
                   <institution/>
                   <repository/>
@@ -348,7 +356,7 @@
          <div type="edition" subtype="editorial" xml:space="preserve"> 
                   <div type="textpart" subtype="label" n="obv" rend="columns" xml:lang="grc"> <!--obverse, editorial-->
                       <ab>
-                          <cb n="a"/>ὁ <expan><abbr>ἅ</abbr><ex>γιος</ex></expan> Δημή
+                          <cb n="a"/>Ὁ <expan><abbr>ἅ</abbr><ex>γιος</ex></expan> Δημή
                           <cb n="b" break="no"/><supplied reason="lost">τριος</supplied>
                       </ab>
                   </div>
@@ -371,9 +379,7 @@
                          <cb n="a"/>ʘ|ΔΗ|
                           <cb n="b"/>.....
                       </ab>
-                          
                   </div>
-                  
                 <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, diplomatic-->
                       <ab>
                           <lb n="1"/>+ΚΕ..
@@ -387,12 +393,6 @@
                           </ab>
                   </div>
               </div>
-         <div type="apparatus">
-            <listApp>
-               <app xml:lang=""/>
-               <!--if you don't need the apparatus, just delete the xml:lang-->
-            </listApp>
-         </div>
          <div type="translation">
             <p>ὁ ἅγιος Δημήτριος. / Κύριε βοήθει Νικηφόρῳ πρoτωπροέδρῳ καὶ δουκὶ Πελοπονίσου καὶ Ἑλάδος τῷ Βοτανειάτι.</p>
             <p xml:lang="en">St Demetrios. Lord, help Nikephoros Botaneiates protoproedros and doux of Peloponnese and Hellas.</p>
@@ -420,16 +420,15 @@
             <p>(1) specimen published by Begleres (acquired in Smyrna; current location unknown) – <bibl>
                   <ptr target="Begleres1916"/>, p. <citedRange unit="page">5</citedRange> (with picture)</bibl>; <bibl>
                   <ptr target="Laurent1929"/>, p. <citedRange unit="page">610</citedRange>, no. <citedRange unit="entry">3</citedRange>
-               </bibl>; (2) Orghidan Collection – <bibl>
+               </bibl>;</p> <p>(2) Orghidan Collection – <bibl>
                   <ptr target="Orghidan"/>, no. <citedRange unit="entry">235</citedRange>
-               </bibl>; (3) Hirsch, Auction 175 (23–26 September 1992), lot 1567 (= <bibl>
+               </bibl>;</p> <p>(3) Hirsch, Auction 175 (23–26 September 1992), lot 1567 (= <bibl>
                   <ptr target="SBS_Auctions1991-1996"/>, p. <citedRange unit="page">122</citedRange>, no. <citedRange unit="entry">1567</citedRange>
-               </bibl>); (4) Dr. Busso Peus, Auction 376 (29–30 October 2003), lot 1378 (= <bibl>
+               </bibl>);</p> <p>(4) Dr. Busso Peus, Auction 376 (29–30 October 2003), lot 1378 (= <bibl>
                   <ptr target="SBS_Auctions2002-2006"/>, p. <citedRange unit="page">186</citedRange>, no. <citedRange unit="entry">1378</citedRange>
                </bibl>); Münz Zentrum, Auction 94 (13–15 May 1998), lot 942 (= <bibl>
                   <ptr target="SBS_Auctions1997-2001"/>, p. <citedRange unit="page">238</citedRange>, no. <citedRange unit="entry">942</citedRange>
-               </bibl>).
-                </p>
+               </bibl>).</p>
          </div>
          <div type="bibliography" subtype="discussion"><!--Karagiorgou2008b in bibliography ergänzen, O. Karagiorgou, Περί αλφαβητισμού, αιρέσεων, εικονογραφίας και πολιτικών φιλοδοξιών στα μολυβδόβουλλα του Νικηφόρου Βοτανειάτη (περίπου 1001/2-1081), Byzantina Symmeikta 18, 2008, p. 77-122-->
                 <!--Seibt2008 in bibliography ergänzen, N. Seibt, W. Seibt, Siegel der Sammlung Orghidan. Eine Nachlese zur Edition V. Laurents, JÖB 53, 2008, p. 195-208-->

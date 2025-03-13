@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- last changed before 1.0 version release 2021-08-02 --><!-- last changed before 1.1 release: 2023-04-12 --><?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <!-- schema location for users of the SigiDoc's version of EFES available at https://github.com/SigiDoc/SigiDoc-->
+   <!-- schema location for users of the SigiDoc's version of EFES available at https://github.com/SigiDoc/SigiDoc-->
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -10,7 +10,9 @@
             <editor role="seal-editor" xml:id="MF">Martina Filosa</editor>
             <editor role="seal-editor" xml:id="CS">Claudia Sode</editor>
             <funder>
-               <orgName corresp="https://anr.fr/">Agence Nationale de la Recherche (ANR)</orgName>, France /<orgName corresp="https://www.dfg.de/">Deutsche Forschungsgemeinschaft(DFG)</orgName>, Deutschland.</funder>
+               <orgName corresp="https://anr.fr/">Agence Nationale de la Recherche (ANR)</orgName>,
+               France /<orgName corresp="https://www.dfg.de/">Deutsche
+                  Forschungsgemeinschaft(DFG)</orgName>, Deutschland.</funder>
             <principal>Claudia Sode</principal>
             <!--here go the editors of the printed record, when available-->
          </titleStmt>
@@ -22,7 +24,8 @@
             <!-- here the editor of the digital edition should be defined. If he/she already appears above as editor of the seal, you can refer to them with a ref attribute and point to the xml:id with a #; if they appear for the first time, you should write a new xml:id as you did above on line 14 and 15. As an example I referred to MF as defined on l. 15 and added a new xml:id for, e.g., Pia-->
          </editionStmt>
          <publicationStmt>
-            <authority>ANR/DFG DigiByzSeal - Unlocking the Hidden Value of Seals: New Methodologies for Historical Research in Byzantine Studies</authority>
+            <authority>ANR/DFG DigiByzSeal - Unlocking the Hidden Value of Seals: New Methodologies
+               for Historical Research in Byzantine Studies</authority>
             <idno type="filename">Feind_SB61</idno>
             <!--here goes the name of the file-->
             <idno type="SigiDocID">s-1bsF2x</idno>
@@ -33,7 +36,7 @@
             <!--change the date according to what you need-->
             <availability>
                <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International - CC BY-NC-SA
-                        4.0</licence>
+                  4.0</licence>
             </availability>
          </publicationStmt>
          <sourceDesc>
@@ -58,9 +61,13 @@
                      <seg xml:lang="el">Γερμανία</seg>
                   </country>
                   <settlement>
-                     <seg xml:lang="en">Cologne</seg>
-                     <seg xml:lang="de">Köln</seg>
-                     <seg xml:lang="el">Κολωνία</seg>
+                     <seg xml:lang="en">
+                        <placeName ref="https://www.geonames.org/6553049/koeln.html">Cologne</placeName>
+                     </seg>
+                     <seg xml:lang="de">
+                        <placeName ref="https://www.geonames.org/6553049/koeln.html"/>Köln</seg>
+                     <seg xml:lang="el">
+                        <placeName ref="https://www.geonames.org/6553049/koeln.html"/>Κολωνία</seg>
                   </settlement>
                   <institution/>
                   <repository/>
@@ -98,7 +105,7 @@
                            <interp type="milieu" xml:lang="en">Private</interp>
                            <interp type="milieu" xml:lang="de">Privat</interp>
                            <interp type="milieu" xml:lang="el">Ιδιωτικό (πεδίο
-                                        δραστηριοποίησης).</interp>
+                              δραστηριοποίησης).</interp>
                         </roleName>
                      </author>
                   </msItem>
@@ -113,12 +120,10 @@
                                  <seg xml:lang="de">Siegel</seg>
                                  <seg xml:lang="el">Μολυβδόβουλλο</seg>
                               </term>
-                              <interp type="workType" xml:lang="en">Original
-                                            impression</interp>
+                              <interp type="workType" xml:lang="en">Original impression</interp>
                               <interp type="workType" xml:lang="de">Origineller
-                                            Siegelabdruck</interp>
-                              <interp type="workType" xml:lang="el">Αρχική
-                                            αποτύπωση</interp>
+                                 Siegelabdruck</interp>
+                              <interp type="workType" xml:lang="el">Αρχική αποτύπωση</interp>
                            </objectType>
                            <material>
                               <seg xml:lang="en">Lead</seg>
@@ -136,10 +141,9 @@
                         </support>
                         <condition rend=" well-struck corroded ">
                            <p xml:lang="en">Dark grey patina, corroded, well centered.</p>
-                           <p xml:lang="de">Dunkelgraue Patina, korrodiert, gut
-                                        zentriert.</p>
-                           <p xml:lang="el">Πατίνα σκουροπράσινου χρώματος, διαβρωμένο,
-                                        αποτύπωση καλά κεντραρισμένη.</p>
+                           <p xml:lang="de">Dunkelgraue Patina, korrodiert, gut zentriert.</p>
+                           <p xml:lang="el">Πατίνα σκουροπράσινου χρώματος, διαβρωμένο, αποτύπωση
+                              καλά κεντραρισμένη.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -240,7 +244,7 @@
                      </objectDesc>
                      <handDesc>
                         <handNote n="r">
-                                    <!--NB: in this field you can refer to epigraphic features on the seal using also AthenaRuby-->
+                           <!--NB: in this field you can refer to epigraphic features on the seal using also AthenaRuby-->
                            <seg xml:lang="en"/>
                            <seg xml:lang="de"/>
                            <seg xml:lang="de"/>
@@ -250,15 +254,14 @@
                         <decoNote>
                            <figure>
                               <figDesc ana="" n="r" xml:lang="en">Bust of the Mother of God
-                                            (Hodegetria) holding the Child in her left arm. Sigla
-                                            partially preserved at right.</figDesc>
+                                 (Hodegetria) holding the Child in her left arm. Sigla partially
+                                 preserved at right.</figDesc>
                               <figDesc ana="" n="r" xml:lang="de">Büste der Gottesmutter
-                                            (Hodegetria), die das Kind im linken Arm hält. Die Sigla
-                                            ist rechts teilweise erhalten.</figDesc>
-                              <figDesc ana="" n="r" xml:lang="el">Προτομή της Θεοτόκου
-                                            (Οδηγήτρια), κρατά το Χριστό στο αριστερό της χέρι.
-                                            Σίγλλα διατηρούνται μερικώς στα δεξιά του
-                                            πεδίου.</figDesc>
+                                 (Hodegetria), die das Kind im linken Arm hält. Die Sigla ist rechts
+                                 teilweise erhalten.</figDesc>
+                              <figDesc ana="" n="r" xml:lang="el">Προτομή της Θεοτόκου (Οδηγήτρια),
+                                 κρατά το Χριστό στο αριστερό της χέρι. Σίγλλα διατηρούνται μερικώς
+                                 στα δεξιά του πεδίου.</figDesc>
                               <figDesc ana="" n="decoR" xml:lang="en">Border of dots.</figDesc>
                               <figDesc ana="" n="decoR" xml:lang="de">Perlrand</figDesc>
                               <figDesc ana="" n="decoR" xml:lang="el">Στικτό πλαίσιο.</figDesc>
@@ -276,10 +279,8 @@
                         <seg xml:lang="en">Reverse</seg>
                      </summary>
                      <textLang n="v" mainLang="grc">
-                        <seg xml:lang="en">greek
-            </seg>
-                        <seg xml:lang="fr">grec
-            </seg>
+                        <seg xml:lang="en">greek </seg>
+                        <seg xml:lang="fr">grec </seg>
                      </textLang>
                   </msContents>
                   <physDesc>
@@ -297,7 +298,7 @@
                      </objectDesc>
                      <handDesc>
                         <handNote n="v">
-                                    <!--NB: in this field you can refer to epigraphic features on the seal using also AthenaRuby-->
+                           <!--NB: in this field you can refer to epigraphic features on the seal using also AthenaRuby-->
                            <seg xml:lang="en"/>
                            <seg xml:lang="de"/>
                            <seg xml:lang="el"/>
@@ -308,15 +309,14 @@
                            <figure>
                               <figDesc ana="" n="v" xml:lang="en"/>
                               <figDesc ana="" n="v" xml:lang="de"/>
-                              <figDesc ana="" n="decoV" xml:lang="en">Above the legend, a
-                                            decoration consisting of a dot between two dashes.
-                                            Border of dots.</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="de">Kreuz am Anfang der
-                                            Legende. Oben eine Dekoration bestehend aus einem Punkt
-                                            zwischen zwei Strichen. Perlrand</figDesc>
+                              <figDesc ana="" n="decoV" xml:lang="en">Above the legend, a decoration
+                                 consisting of a dot between two dashes. Border of dots.</figDesc>
+                              <figDesc ana="" n="decoV" xml:lang="de">Kreuz am Anfang der Legende.
+                                 Oben eine Dekoration bestehend aus einem Punkt zwischen zwei
+                                 Strichen. Perlrand</figDesc>
                               <figDesc ana="" n="decoV" xml:lang="el">Πάνω από την επιγραφή,
-                                            διακοσμητικό μοτίβο το οποίο αποτελείται από μια στιγμή
-                                            ανάμεσα σε δύο παύλες. Στικτό πλαίσιο.</figDesc>
+                                 διακοσμητικό μοτίβο το οποίο αποτελείται από μια στιγμή ανάμεσα σε
+                                 δύο παύλες. Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -418,28 +418,25 @@
                   <p xml:lang="en">[your commentary here]</p> <!-\-if you have the commentary only in German and would like to show it also in the English page, you should delete the xml:lang-\->
                   <p xml:lang="de">[your commentary here]</p>
               </div>-->
-         <!--<div type="commentary" subtype="footnotes">
-                  <p xml:lang="en">[your footnotes here]</p> <!-\-if you have the footnotes only in French and would like to show it also in the English page, you should delete the xml:lang-\->
-                  <p xml:lang="de">[your footnotes here]</p>
-              </div>-->
          <!--<div type="bibliography" subtype="edition">
             <p>
                <bibl> <ptr target=""/>, <citedRange unit=""/> <!-\-before citedRange add the right abbreviation, e.g. if it's a page, p. etc.-\->                   </bibl>
             </p>
          </div>-->
-         <div type="bibliography" subtype="parallels"> <!--if you don't have parallels, put this div in a comment-->
+         <div type="bibliography" subtype="parallels">
+            <!--if you don't have parallels, put this div in a comment-->
             <p>
-               <bibl>(1)  
-                     <ptr target="DOsealsOnline"/>, <citedRange unit="entry">
-                        <ref target="https://www.doaks.org/resources/seals/byzantine-seals/BZS.1958.106.4555/">BZS.1958.106.4555</ref>
-                     </citedRange></bibl> − <bibl>
-                        <ptr target="Wassiliou-Seibt2016"/>, <citedRange unit="part">no. 2144 </citedRange>(giving the name as Theodotos</bibl>;</p> 
-                          <p>(2) <bibl>
-                     <ptr target="DOsealsOnline"/>, <citedRange unit="entry">
-                        <ref target="https://www.doaks.org/resources/seals/byzantine-seals/BZS.1958.106.4725">BZS.1958.106.4725</ref>
-                     </citedRange>
-                  </bibl>.</p> 
-<p>Both parallels are from a different boulloterion than our seal.</p>
+               <bibl>(1) <ptr target="DOsealsOnline"/>, <citedRange unit="entry">
+                     <ref target="https://www.doaks.org/resources/seals/byzantine-seals/BZS.1958.106.4555/">BZS.1958.106.4555</ref>
+                  </citedRange></bibl> − <bibl>
+                  <ptr target="Wassiliou-Seibt2016"/>, <citedRange unit="part">no. 2144
+                  </citedRange>(giving the name as Theodotos</bibl>;</p>
+            <p>(2) <bibl>
+                  <ptr target="DOsealsOnline"/>, <citedRange unit="entry">
+                     <ref target="https://www.doaks.org/resources/seals/byzantine-seals/BZS.1958.106.4725">BZS.1958.106.4725</ref>
+                  </citedRange>
+               </bibl>.</p>
+            <p>Both parallels are from a different boulloterion than our seal.</p>
          </div>
          <!--<div type="bibliography" subtype="discussion"> <!-\-if you don't have further bibliography, put this div in a comment-\->
             <p>

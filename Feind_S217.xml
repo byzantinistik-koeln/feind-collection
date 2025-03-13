@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -36,8 +35,7 @@
             <!--what to do with sequence for now?-->
             <date when="2025-01-12"/>
             <availability>
-               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/"
-                  >Attribution-NonCommercial-ShareAlike 4.0 International - CC BY-NC-SA
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International - CC BY-NC-SA
                   4.0</licence>
             </availability>
          </publicationStmt>
@@ -67,9 +65,7 @@
                   </persName>
                   <!-- <idno type="PBW" ana=""></idno>
                         <idno type="PmbZ" ana=""></idno>-->
-                  <idno type="PLRE"
-                     ana="https://archive.org/details/prosopography-later-roman-empire/PLRE-III-B/page/n221/mode/2up"
-                     >Stephanus 42</idno>
+                  <idno type="PLRE" ana="https://archive.org/details/prosopography-later-roman-empire/PLRE-III-B/page/n221/mode/2up">Stephanus 42</idno>
                </person>
                <idno/>
             </listPerson>
@@ -82,8 +78,7 @@
                   </country>
                   <settlement>
                      <seg xml:lang="en">
-                        <placeName ref="https://www.geonames.org/6553049/koeln.html"
-                           >Cologne</placeName>
+                        <placeName ref="https://www.geonames.org/6553049/koeln.html">Cologne</placeName>
                      </seg>
                      <seg xml:lang="de">
                         <placeName ref="https://www.geonames.org/6553049/koeln.html"/>Köln</seg>
@@ -180,8 +175,7 @@
                                 <seg xml:lang="en">1192 CE</seg>
                             </origDate>-->
                      <!-- for a date range or centuries-->
-                     <origDate type="analysis" notBefore="0651" notAfter="0700" evidence="epigraphy"
-                        cert="high" resp="#MC">
+                     <origDate type="analysis" notBefore="0651" notAfter="0700" evidence="epigraphy" cert="high" resp="#MC">
                         <seg xml:lang="en">7th c., second half.</seg>
                         <seg xml:lang="de">7. Jh., zweite Hälfte.</seg>
                         <seg xml:lang="el">7ος αι., δεύτερο μισό.</seg>
@@ -414,15 +408,11 @@
                   <ptr target="Metcalf2014"/>, <citedRange unit=" part">no. 970</citedRange>
                </bibl>; (3) DO BZS.1958.106.3736 − <bibl>
                   <ptr target="DOsealsOnline"/>,<citedRange unit="entry">
-                     <ref
-                        target="https://www.doaks.org/resources/seals/byzantine-seals/BZS.1958.106.3736/view"
-                        >BZS.1958.106.3736 </ref>
+                     <ref target="https://www.doaks.org/resources/seals/byzantine-seals/BZS.1958.106.3736/view">BZS.1958.106.3736 </ref>
                   </citedRange>
                </bibl>; (4) DO BZS.1947.2.628 − <bibl>
                   <ptr target="DOsealsOnline"/>,<citedRange unit="entry">
-                     <ref
-                        target="https://www.doaks.org/resources/seals/byzantine-seals/BZS.1947.2.628/view"
-                        >BZS.1947.2.628 </ref>
+                     <ref target="https://www.doaks.org/resources/seals/byzantine-seals/BZS.1947.2.628/view">BZS.1947.2.628 </ref>
                   </citedRange>
                </bibl>. </p>
          </div>

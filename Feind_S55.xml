@@ -42,7 +42,7 @@
                <person gender="M" role="private">
                         <!--gender to be changed as wished; the value of role is imperial civil military aristocracy secular-church monastic civic corporate private undetermined-->
                   <persName xml:lang="grc">
-                     <forename></forename>
+                     <forename/>
                      <surname/>
                   </persName>
                   <persName xml:lang="en">
