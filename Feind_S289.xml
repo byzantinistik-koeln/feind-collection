@@ -319,7 +319,7 @@
          </surface>
       </surfaceGrp>
    </facsimile>
-   <text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <text>
       <body>
          <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"> <!--change the language code according to the language of your edition, the values (also when combined, e.g. Greek-Latin) are in the guidelines. Same goes for what comes next, textpart etc.-->
                   <div type="textpart" subtype="face" n="obv" rend="linear" xml:lang="la"> <!--obverse, editorial-->
@@ -355,49 +355,13 @@
                       </ab>
                   </div>
               </div>
-         <div type="apparatus">
-            <listApp>
-               <app xml:lang=""/>
-               <!--if you don't need the apparatus, just delete the xml:lang-->
-            </listApp>
-         </div>
          <div type="translation">
             <p>Theodorou / Θεοδώρου.</p>
             <p xml:lang="en">(Seal of) Theodoros.</p>
             <p xml:lang="de">(Siegel des) Theodoros.</p>
             <p xml:lang="el">(Σφράγισμα του) Θεοδώρου.</p>
          </div>
-         <div type="commentary" subtype="text">
-            <p xml:lang="en"></p>
-            <!--if you have the commentary only in German and would like to show it also in the English page, you should delete the xml:lang-->
-            <p xml:lang="de"></p>
-         </div>
-         <div type="commentary" subtype="footnotes">
-            <p xml:lang="en"></p>
-            <!--if you have the footnotes only in French and would like to show it also in the English page, you should delete the xml:lang-->
-            <p xml:lang="de"></p>
-         </div>
-         <div type="bibliography" subtype="edition">
-            <p>
-                      <!-- <bibl>
-                          <ptr target=""/>, <citedRange unit=""/> <!-\-before citedRange add the right abbreviation, e.g. if it's a page, p. etc.-\->
-                      </bibl>
-                  </p>
-              </div>
-            <div type="bibliography" subtype="parallels"> <!-\-if you don't have parallels, put this div in a comment-\->
-                  <p>
-                      <bibl>
-                          <ptr target=""/>, <citedRange unit=""/>
-                      </bibl>
-                  </p>
-              </div>
-            <div type="bibliography" subtype="discussion"> <!-\-if you don't have further bibliography, put this div in a comment-\->
-                  <p>
-                      <bibl>
-                          <ptr target=""/>, <citedRange unit=""/>
-                      </bibl>-->
-                  </p>
-         </div>
+         <div type="commentary" subtype="text"/>         
       </body>
    </text>
 </TEI>

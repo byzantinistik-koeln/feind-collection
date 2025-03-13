@@ -56,13 +56,12 @@
                      <forename>Basileios</forename>
                      <surname>Apokapes</surname>
                   </persName>
-                  <persName xml:lang="en">
+                  <persName xml:lang="el">
                      <forename>Βασίλειος</forename>
                      <surname>Αποκάπης</surname>
                   </persName>
                   <idno type="PBW" cert="low"
                      ana="http://pbw2016.kdl.kcl.ac.uk/person/Basileios/101/">Basileios 101</idno>
-                  <!--okay that I added this refernce?-->
                </person>
             </listPerson>
             <msDesc>
@@ -277,10 +276,10 @@
                            <figure>
                               <!--<figDesc n="v" xml:lang="en" ana=""/>-->
                               <figDesc ana="" n="decoV" xml:lang="en">Above the legend, a decoration
-                                 consists of a cross between two dashes. Border.</figDesc>
+                                 consists of a cross between two dashes. Border of dots.</figDesc>
                               <figDesc ana="" n="decoV" xml:lang="de">Oberhalb der Legende ist eine
                                  Dekoration aus einem Kreuz zwischen zwei Zierlinien.
-                                 Rand.</figDesc>
+                                 Perlrand.</figDesc>
                               <figDesc ana="" n="decoV" xml:lang="el">Πάνω από την επιγραφή,
                                  διακοσμητικό μοτίβο, το οποίο αποτελείται από έναν σταυρό ανάμεσα
                                  σε δύο γραμμές. Στικτό πλαίσιο.</figDesc>
@@ -411,9 +410,10 @@
                </bibl>.</p>
          </div>
          <div type="bibliography" subtype="parallels">
-            <p>(1) Theodoriδis Collection, no. 548 – <bibl>
+            <p>(1) Theodoridis Collection, no. 548 – <bibl>
                   <ptr target="CheynetTheodoridis"/>, no. <citedRange unit="entry">12</citedRange>
-               </bibl>; (2) Zeus Numismatics, Auction 13 (31 October 2020), <ref
+               </bibl>;</p>
+            <p>(2) Zeus Numismatics, Auction 13 (31 October 2020), <ref
                   target="https://www.biddr.com/auctions/zeusnumismatics/browse?a=1338&amp;l=1428924"
                   >lot 1123</ref>.</p>
          </div>
