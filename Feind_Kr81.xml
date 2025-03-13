@@ -40,10 +40,10 @@
             <listPerson type="issuer">
                <person role=" civil" gender="M">
                   <persName xml:lang="en">
-                     <forename>Basileios </forename>
+                     <forename>Basileios</forename>
                   </persName>
                   <persName xml:lang="de">
-                     <forename>Basileios </forename>
+                     <forename>Basileios</forename>
                   </persName>
                   <persName xml:lang="el">
                      <forename>Βασίλειος</forename>
@@ -84,24 +84,7 @@
                      <seg xml:lang="el">Μολυβδόβουλλα αξιωματούχων της περιφερειακής διοίκησης.
                             </seg>
                   </summary>
-                  <msItem>
-                     <author>
-                        <roleName role="issuer" type=" civil">
-                           <seg xml:lang="en">
-                              <forename> Basileios</forename>
-                           </seg>
-                           <seg xml:lang="de">
-                              <forename> Basileios</forename>
-                           </seg>
-                           <seg xml:lang="el">
-                              <forename>Βασίλειος</forename>
-                           </seg>
-                           <interp type="milieu" xml:lang="en">Civil</interp>
-                           <interp type="milieu" xml:lang="de">Zivil</interp>
-                           <interp type="milieu" xml:lang="el">Κρατικό (πεδίο δραστηριοποίησης).</interp>
-                        </roleName>
-                     </author>
-                  </msItem>
+                  
                </msContents>
                <physDesc>
                   <objectDesc>

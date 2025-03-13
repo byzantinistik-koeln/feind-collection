@@ -85,18 +85,7 @@
                      <seg xml:lang="de">Kirchlich</seg>
                      <seg xml:lang="el">Μολυβδόβουλλα εκκλησιαστικών αξιωματούχων </seg>
                   </summary>
-                  <msItem>
-                     <author>
-                        <roleName role="issuer" type="secular-church">
-                           <seg xml:lang="en">Eustathios</seg>
-                           <seg xml:lang="de">Eustathios</seg>
-                           <seg xml:lang="el">Ευστάθιος</seg>
-                           <interp type="milieu" xml:lang="en">Secular church.</interp>
-                           <interp type="milieu" xml:lang="de">Kirchlich</interp>
-                           <interp type="milieu" xml:lang="el">Κοσμική Εκκλησία (πεδίο δραστηριοποίησης).</interp>
-                        </roleName>
-                     </author>
-                  </msItem>
+                  
                </msContents>
                <physDesc>
                   <objectDesc>

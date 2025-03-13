@@ -86,24 +86,7 @@
                      <seg xml:lang="de">Provinzialverwaltug</seg>
                      <seg xml:lang="el">Μολυβδόβουλλα αξιωματούχων της περιφερειακής διοίκησης.</seg>
                   </summary>
-                  <msItem>
-                     <author>
-                        <roleName role="issuer" type="military">
-                           <seg xml:lang="en">
-                              <forename>Nikephoros Theodorokanos </forename>
-                           </seg>
-                           <seg xml:lang="de">
-                              <forename>Nikephoros Theodorokanos </forename>
-                           </seg>
-                           <seg xml:lang="el">
-                              <forename>Νικηφόρος Θεοδωρόκανος</forename>
-                           </seg>
-                           <interp type="milieu" xml:lang="en">Military</interp>
-                           <interp type="milieu" xml:lang="de">Militär</interp>
-                           <interp type="milieu" xml:lang="el">Στρατιωτικό (πεδίο δραστηριοποίησης).</interp>
-                        </roleName>
-                     </author>
-                  </msItem>
+                  
                </msContents>
                <physDesc>
                   <objectDesc>

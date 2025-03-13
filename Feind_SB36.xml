@@ -80,18 +80,7 @@
                      <seg xml:lang="de">Provinzialverwaltung</seg>
                      <seg xml:lang="el">Μολυβδόβουλλα αξιωματούχων της περιφερειακής διοίκησης.</seg>
                   </summary>
-                  <msItem>
-                     <author>
-                        <roleName role="issuer" type="civil">
-                           <seg xml:lang="en">Ioannes</seg>
-                           <seg xml:lang="de">Ioannes</seg>
-                           <seg xml:lang="el">Ιωάννης</seg>
-                           <interp type="milieu" xml:lang="en">Civil</interp>
-                           <interp type="milieu" xml:lang="de">Zivil</interp>
-                           <interp type="milieu" xml:lang="el">Κρατικό (πεδίο δραστηριοποίησης).</interp>
-                        </roleName>
-                     </author>
-                  </msItem>
+                  
                </msContents>
                <physDesc>
                   <objectDesc>

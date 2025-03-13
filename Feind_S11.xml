@@ -74,18 +74,7 @@
                      <seg xml:lang="el">Μολυβδόβουλλα αξιωματούχων της περιφερειακής διοίκησης.
                      </seg>
                   </summary>
-                  <msItem>
-                     <author>
-                        <roleName role="issuer" type="corporate">
-                           <seg xml:lang="en">Anonymous</seg>
-                           <seg xml:lang="de">Anonymous</seg>
-                           <seg xml:lang="el">Ανώνυμος</seg>
-                           <interp type="milieu" xml:lang="en">Corporate</interp>
-                           <interp type="milieu" xml:lang="de">Korporativ</interp>
-                           <interp type="milieu" xml:lang="el">Θεσμικό (πεδίο δραστηριοποίησης).</interp>
-                        </roleName>
-                     </author>
-                  </msItem>
+                  
                </msContents>
                <physDesc>
                   <objectDesc>

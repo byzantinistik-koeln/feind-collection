@@ -87,22 +87,7 @@
                      <seg xml:lang="el">Μολυβδόβουλλα αξιωματούχων της κεντρικής διοίκησης.
                             </seg>
                   </summary>
-                  <msItem>
-                     <author>
-                        <roleName role="issuer" type="civil">
-                           <seg xml:lang="en"><ref target="https://www.degruyter.com/database/PMBZ/entry/PMBZ23116/html">Basileios</ref>
-                              </seg>
-                           <seg xml:lang="de"><ref target="https://www.degruyter.com/database/PMBZ/entry/PMBZ23116/html">Basileios</ref>
-                           </seg>
-                           <seg xml:lang="el"><ref target="https://www.degruyter.com/database/PMBZ/entry/PMBZ23116/html">Βασίλειος</ref>
-                           </seg>
-                           <interp type="milieu" xml:lang="en">Civil</interp>
-                           <interp type="milieu" xml:lang="de">Zivil</interp>
-                           <interp type="milieu" xml:lang="el">Κρατικό (πεδίο
-                                        δραστηριοποίησης)</interp>
-                        </roleName>
-                     </author>
-                  </msItem>
+                  
                </msContents>
                <physDesc>
                   <objectDesc>

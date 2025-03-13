@@ -81,24 +81,7 @@
                      <seg xml:lang="de">Würdenträger</seg>
                      <seg xml:lang="el">Μολυβδόβουλλα αξιωματούχων</seg>
                   </summary>
-                  <msItem>
-                     <author>
-                        <roleName role="issuer" type=" aristocracy">
-                           <seg xml:lang="en">
-                              <forename>Ioannes Liparinos</forename>
-                           </seg>
-                           <seg xml:lang="de">
-                              <forename>Ioannes Liparinos</forename>
-                           </seg>
-                           <seg xml:lang="el">
-                              <forename>Ιωάννης Λιπαρινός</forename>
-                           </seg>
-                           <interp type="milieu" xml:lang="en">Αristocracy</interp>
-                           <interp type="milieu" xml:lang="de">Aristokratie</interp>
-                           <interp type="milieu" xml:lang="el">Αριστοκρατικό (πεδίο δραστηριοποίησης).</interp>
-                        </roleName>
-                     </author>
-                  </msItem>
+                  
                </msContents>
                <physDesc>
                   <objectDesc>

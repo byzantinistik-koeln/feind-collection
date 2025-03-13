@@ -80,18 +80,7 @@
                      <seg xml:lang="de">Kirchlich</seg>
                      <seg xml:lang="el">Μολυβδόβουλλα εκκλησιαστικών αξιωματούχων.</seg>
                   </summary>
-                  <msItem>
-                     <author>
-                        <roleName role="issuer" type="monastic">
-                           <seg xml:lang="en">Symeon</seg>
-                           <seg xml:lang="de">Symeon</seg>
-                           <seg xml:lang="el">Συμεών</seg>
-                           <interp type="milieu" xml:lang="en">Monastic</interp>
-                           <interp type="milieu" xml:lang="de">Monastisch</interp>
-                           <interp type="milieu" xml:lang="el">Μοναστικό (πεδίο δραστηριοποίησης)</interp>
-                        </roleName>
-                     </author>
-                  </msItem>
+                  
                </msContents>
                <physDesc>
                   <objectDesc>

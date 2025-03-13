@@ -84,24 +84,7 @@
                      <seg xml:lang="de">Provinzialverwaltug </seg>
                      <seg xml:lang="el">Μολυβδόβουλλα αξιωματούχων της περιφερειακής διοίκησης.</seg>
                   </summary>
-                  <msItem>
-                     <author>
-                        <roleName role="issuer" type="civil ">
-                           <seg xml:lang="en"><ref target="http://pbw2016.kdl.kcl.ac.uk/person/Petros/20122/">Petros</ref>
-                              <forename>Petros</forename>
-                           </seg>
-                           <seg xml:lang="de"><ref target="http://pbw2016.kdl.kcl.ac.uk/person/Petros/20122/">Petros</ref>
-                              <forename>Petros</forename>
-                           </seg>
-                           <seg xml:lang="el"><ref target="http://pbw2016.kdl.kcl.ac.uk/person/Petros/20122/">Πέτρος</ref>
-                              <forename>Petros</forename>
-                           </seg>
-                           <interp type="milieu" xml:lang="en">Civil</interp>
-                           <interp type="milieu" xml:lang="de">Zivil</interp>
-                           <interp type="milieu" xml:lang="el">Κρατικό (πεδίο δραστηριοποίησης).</interp>
-                        </roleName>
-                     </author>
-                  </msItem>
+                  
                </msContents>
                <physDesc>
                   <objectDesc>

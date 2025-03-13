@@ -84,25 +84,7 @@
                      <seg xml:lang="de">Kirchlich </seg>
                      <seg xml:lang="el">Μολυβδόβουλλα εκκλησιαστικών αξιωματούχων.</seg>
                   </summary>
-                  <msItem>
-                     <author>
-                        <roleName role="issuer" type="monastic ">
-                           <seg xml:lang="en">
-                              <forename>Kallinikos</forename>
-                           </seg>
-                           <seg xml:lang="de">
-                              <forename>Kallinikos</forename>
-                           </seg>
-                           <seg xml:lang="el">
-                              <forename>Καλλίνικος</forename>
-                           </seg>
-                           <interp type="milieu" xml:lang="en">Μonastic</interp>
-                           <interp type="milieu" xml:lang="de">Μonastic</interp>
-                           <interp type="milieu" xml:lang="el">Μοναστικό (πεδίο
-                                        δραστηριοποίησης).</interp>
-                        </roleName>
-                     </author>
-                  </msItem>
+                  
                </msContents>
                <physDesc>
                   <objectDesc>

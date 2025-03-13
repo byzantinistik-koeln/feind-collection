@@ -83,24 +83,7 @@
                      <seg xml:lang="de">Würdenträger</seg>
                      <seg xml:lang="el">Μολυβδόβουλλα αξιωματούχων.</seg>
                   </summary>
-                  <msItem>
-                     <author>
-                        <roleName role="issuer" type="aristocracy">
-                           <seg xml:lang="en">
-                              <ref target="https://www.degruyter.com/database/PMBZ/entry/PMBZ16054/html">Maurianos</ref>
-                           </seg>
-                           <seg xml:lang="de">
-                              <ref target="https://www.degruyter.com/database/PMBZ/entry/PMBZ16054/html">Maurianos</ref>
-                           </seg>
-                           <seg xml:lang="el">
-                              <ref target="https://www.degruyter.com/database/PMBZ/entry/PMBZ16054/html">Μαυριανός</ref>
-                           </seg>
-                           <interp type="milieu" xml:lang="en">Aristocracy</interp>
-                           <interp type="milieu" xml:lang="de">Aristokratie</interp>
-                           <interp type="milieu" xml:lang="de">Αριστοκρατικό (πεδίο δραστηριοποίησης)</interp>
-                        </roleName>
-                     </author>
-                  </msItem>
+                  
                </msContents>
                <physDesc>
                   <objectDesc>

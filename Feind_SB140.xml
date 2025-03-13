@@ -86,18 +86,7 @@
                      <seg xml:lang="de">?</seg>
                      <seg xml:lang="el">;</seg>
                   </summary>
-                  <msItem>
-                     <author>
-                        <roleName role="issuer" type="civil">
-                           <seg xml:lang="en">Konstantinos</seg>
-                           <seg xml:lang="de">Konstantinos</seg>
-                           <seg xml:lang="el">Κωνσταντίνος</seg>
-                           <interp type="milieu" xml:lang="en">Civil</interp>
-                           <interp type="milieu" xml:lang="de">Zivil</interp>
-                           <interp type="milieu" xml:lang="el">Κρατικό (πεδίο δραστηριοποίησης).</interp>
-                        </roleName>
-                     </author>
-                  </msItem>
+                  
                </msContents>
                <physDesc>
                   <objectDesc>

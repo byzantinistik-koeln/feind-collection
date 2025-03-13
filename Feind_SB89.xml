@@ -83,24 +83,7 @@
                      <seg xml:lang="de">Privat </seg>
                      <seg xml:lang="el">Μολυβδόβουλλα ιδιωτών.</seg>
                   </summary>
-                  <msItem>
-                     <author>
-                        <roleName role="issuer" type=" private">
-                           <seg xml:lang="en">
-                              <forename>Euthymios</forename>
-                           </seg>
-                           <seg xml:lang="de">
-                              <forename>Euthymios</forename>
-                           </seg>
-                           <seg xml:lang="el">
-                              <forename>Ευθύμιος</forename>
-                           </seg>
-                           <interp type="milieu" xml:lang="en">Private</interp>
-                           <interp type="milieu" xml:lang="de">Privat</interp>
-                           <interp type="milieu" xml:lang="el">Ιδιωτικό (πεδίο δραστηριοποίησης).</interp>
-                        </roleName>
-                     </author>
-                  </msItem>
+                  
                </msContents>
                <physDesc>
                   <objectDesc>
