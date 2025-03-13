@@ -409,7 +409,7 @@
             </listApp>
          </div>
          <div type="translation">
-            <p>Μήτηρ Θεοῦ/ Σῴζοις, πάναγνε, Θεόδωρον οἰκέτην. </p>
+            <p>Μήτηρ Θεοῦ / Σῴζοις, πάναγνε, Θεόδωρον οἰκέτην.</p>
             <p xml:lang="en">Mother of God. All-holy One, may you save your servant Theodore.</p>
             <p xml:lang="de">Muttergottes. Allheiliger, möge du deinen Diener Theodore retten.</p>
             <p xml:lang="el">Θεοτόκος. Πάναγνη, σώσε το δούλο σου Θεόδωρο.</p>
@@ -422,37 +422,32 @@
                   <p xml:lang="en">[your footnotes here]</p> <!-\-if you have the footnotes only in French and would like to show it also in the English page, you should delete the xml:lang-\->
                   <p xml:lang="de">[your footnotes here]</p>
               </div>-->
-         <div type="bibliography" subtype="edition">
+         <!--<div type="bibliography" subtype="edition">
             <p>
-               <bibl> <!-- <ptr target=""/>, <citedRange unit=""/> <!-\-before citedRange add the right abbreviation, e.g. if it's a page, p. etc.-\->
--->                      </bibl>
+               <bibl> <ptr target=""/>, <citedRange unit=""/> <!-\-before citedRange add the right abbreviation, e.g. if it's a page, p. etc.-\->                   </bibl>
             </p>
-         </div>
+         </div>-->
          <div type="bibliography" subtype="parallels"> <!--if you don't have parallels, put this div in a comment-->
             <p>
-               <bibl>(1)  <bibl>
+               <bibl>(1)  
                      <ptr target="DOsealsOnline"/>, <citedRange unit="entry">
                         <ref target="https://www.doaks.org/resources/seals/byzantine-seals/BZS.1958.106.4555/">BZS.1958.106.4555</ref>
-                     </citedRange>
-                  </bibl> − <bibl>
-                     <ptr target="Wassiliou-Seibt2016"/>, <citedRange unit="part">no. 2144 </citedRange>(giving the name as Theodotos</bibl>; 
-                          (2) <bibl>
+                     </citedRange></bibl> − <bibl>
+                        <ptr target="Wassiliou-Seibt2016"/>, <citedRange unit="part">no. 2144 </citedRange>(giving the name as Theodotos</bibl>;</p> 
+                          <p>(2) <bibl>
                      <ptr target="DOsealsOnline"/>, <citedRange unit="entry">
                         <ref target="https://www.doaks.org/resources/seals/byzantine-seals/BZS.1958.106.4725">BZS.1958.106.4725</ref>
                      </citedRange>
-                  </bibl>. 
-                          Both parallels are from a different boulloterion than our seal.
-<!--                          <ptr target=""/>, <citedRange unit=""/>
--->                      </bibl>
-            </p>
+                  </bibl>.</p> 
+<p>Both parallels are from a different boulloterion than our seal.</p>
          </div>
-         <div type="bibliography" subtype="discussion"> <!--if you don't have further bibliography, put this div in a comment-->
+         <!--<div type="bibliography" subtype="discussion"> <!-\-if you don't have further bibliography, put this div in a comment-\->
             <p>
-                      <!--<bibl>
+                      <bibl>
                           <ptr target=""/>, <citedRange unit=""/>
-                      </bibl>-->
+                      </bibl>
                   </p>
-         </div>
+         </div>-->
       </body>
    </text>
 </TEI>
