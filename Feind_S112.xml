@@ -79,24 +79,7 @@
                      <seg xml:lang="de">Zentralverwaltung</seg>
                      <seg xml:lang="el">Μολυβδόβουλλα αξιωματούχων της κεντρικής διοίκησης.</seg>
                   </summary>
-                  <msItem>
-                     <author>
-                        <roleName role="issuer" type="civil">
-                           <seg xml:lang="en">
-                              <ref target="http://pbw2016.kdl.kcl.ac.uk/person/Basileios/20221/">Basileios Mauros</ref>
-                           </seg>
-                           <seg xml:lang="de">
-                              <ref target="http://pbw2016.kdl.kcl.ac.uk/person/Basileios/20221/">Basileios Mauros</ref>
-                           </seg>
-                           <seg xml:lang="el">
-                              <ref target="http://pbw2016.kdl.kcl.ac.uk/person/Basileios/20221/">Βασίλειος Μαύρος</ref>
-                           </seg>
-                           <interp type="milieu" xml:lang="en">Civil</interp>
-                           <interp type="milieu" xml:lang="de">Zivil</interp>
-                           <interp type="milieu" xml:lang="el">Κρατικό (πεδίο δραστηριοιποίσης).</interp>
-                        </roleName>
-                     </author>
-                  </msItem>
+                  
                </msContents>
                <physDesc>
                   <objectDesc>

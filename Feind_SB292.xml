@@ -84,28 +84,7 @@
                      <seg xml:lang="de">Kirchlich </seg>
                      <seg xml:lang="el">Μολυβδόβουλλα εκκλησιαστικών αξιωματούχων.</seg>
                   </summary>
-                  <msItem>
-                     <author>
-                        <roleName role="issuer" type="secular-church ">
-                           <seg xml:lang="en">
-                              <seg xml:lang="en"> <ref target="http://pbw2016.kdl.kcl.ac.uk/person/Niketas/20147/">Niketas</ref>
-                              </seg>
-                           </seg>
-                           <seg xml:lang="de">
-                              <seg xml:lang="en"> <ref target="http://pbw2016.kdl.kcl.ac.uk/person/Niketas/20147/">Niketas</ref>
-                              </seg>
-                           </seg>
-                           <seg xml:lang="el">
-                              <seg xml:lang="en"> <ref target="http://pbw2016.kdl.kcl.ac.uk/person/Niketas/20147/">Νικήτας</ref>
-                              </seg>
-                           </seg>
-                           <interp type="milieu" xml:lang="en">Secular Church</interp>
-                           <interp type="milieu" xml:lang="de">Kirche</interp>
-                           <interp type="milieu" xml:lang="el">Κοσμική Εκκλησία (πεδίο
-                                        δραστηριοποίησης).</interp>
-                        </roleName>
-                     </author>
-                  </msItem>
+                  
                </msContents>
                <physDesc>
                   <objectDesc>

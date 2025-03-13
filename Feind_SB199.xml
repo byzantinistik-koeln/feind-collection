@@ -80,18 +80,7 @@
                      <seg xml:lang="de">Zentralverwaltung</seg>
                      <seg xml:lang="el">Μολυβδόβουλλα αξιωματούχων της κεντρικής διοίκησης .</seg>
                   </summary>
-                  <msItem>
-                     <author>
-                        <roleName role="issuer" type="military">
-                           <seg xml:lang="en">Theophylaktos</seg>
-                           <seg xml:lang="de">Theophylaktos</seg>
-                           <seg xml:lang="el">Θεοφύλακτος</seg>
-                           <interp type="milieu" xml:lang="en">Military</interp>
-                           <interp type="milieu" xml:lang="de">Militär</interp>
-                              <interp type="milieu" xml:lang="el">Στρατιωτικό (πεδίο δραστηριοποίησης).</interp>
-                        </roleName>
-                     </author>
-                  </msItem>
+                  
                </msContents>
                <physDesc>
                   <objectDesc>

@@ -85,30 +85,7 @@
                      <seg xml:lang="de">Zentralverwaltung</seg>
                      <seg xml:lang="el">Μολυβδόβουλλα αξιωματούχων της κεντρικής διοίκησης.</seg>
                   </summary>
-                  <msItem>
-                     <author>
-                        <roleName role="issuer" type=" civil">
-                           <seg xml:lang="en">
-                              <forename>
-                                 <ref target="http://pbw2016.kdl.kcl.ac.uk/person/Theodosios/20118/">Theodosios </ref>
-                              </forename>
-                           </seg>
-                           <seg xml:lang="de">
-                              <forename>
-                                 <ref target="http://pbw2016.kdl.kcl.ac.uk/person/Theodosios/20118/">Theodosios </ref>
-                              </forename>
-                           </seg>
-                           <seg xml:lang="el">
-                              <forename>
-                                 <ref target="http://pbw2016.kdl.kcl.ac.uk/person/Theodosios/20118/">Θεοδόσιος</ref>
-                              </forename>
-                           </seg>
-                           <interp type="milieu" xml:lang="en">Civil</interp>
-                           <interp type="milieu" xml:lang="de">Zivil</interp>
-                           <interp type="milieu" xml:lang="el">Κρατικό (πεδίο δραστηριοποίησης).</interp>
-                        </roleName>
-                     </author>
-                  </msItem>
+                  
                </msContents>
                <physDesc>
                   <objectDesc>

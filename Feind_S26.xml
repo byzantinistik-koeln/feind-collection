@@ -87,25 +87,7 @@
                      <seg xml:lang="el">Μολυβδόβουλλα αξιωματούχων της κεντρικής διοίκησης.
                             </seg>
                   </summary>
-                  <msItem>
-                     <author>
-                        <roleName role="issuer" type=" civil">
-                           <seg xml:lang="en">
-                              <forename>Aetios </forename>
-                           </seg>
-                           <seg xml:lang="de">
-                              <forename>Aetios </forename>
-                           </seg>
-                           <seg xml:lang="el">
-                              <forename>Αέτιος</forename>
-                           </seg>
-                           <interp type="milieu" xml:lang="en">Civil</interp>
-                           <interp type="milieu" xml:lang="de">Zivil</interp>
-                           <interp type="milieu" xml:lang="el">Κρατικό (πεδίο
-                                        δραστηριοποίησης)</interp>
-                        </roleName>
-                     </author>
-                  </msItem>
+                  
                </msContents>
                <physDesc>
                   <objectDesc>

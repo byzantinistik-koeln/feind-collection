@@ -81,23 +81,7 @@
                      <seg xml:lang="de">Kirchlich</seg>
                      <seg xml:lang="el">Κοσμική Εκκλησία (πεδίο δραστηριοποίησης)</seg>
                   </summary>
-                  <msItem>
-                     <author>
-                        <roleName role="issuer" type="monasticsecular-church">
-                           <seg xml:lang="en">
-                              <ref target="https://www.degruyter.com/database/PMBZ/entry/PMBZ25609/html">Ioannikios</ref>
-                           </seg>
-                           <seg xml:lang="de">
-                              <ref target="https://www.degruyter.com/database/PMBZ/entry/PMBZ25609/html">Ioannikios</ref>
-                           </seg>
-                           <interp type="milieu" xml:lang="en">Monastic, Secular
-                                        church.</interp>
-                           <interp type="milieu" xml:lang="de">Monastisch,
-                                        Kirchlich.</interp>
-                           <interp type="milieu" xml:lang="el">Κοσμική Εκκλησία, Μοναστικό (πεδίο δραστηριοποίησης).</interp>
-                        </roleName>
-                     </author>
-                  </msItem>
+                  
                </msContents>
                <physDesc>
                   <objectDesc>

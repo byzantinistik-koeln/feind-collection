@@ -91,24 +91,7 @@
                      <seg xml:lang="de">Provinzialverwaltung</seg>
                      <seg xml:lang="el">Μολυβδόβουλλα αξιωματούχων της περιφερειακής διοίκησης.</seg>
                   </summary>
-                  <msItem>
-                     <author>
-                        <roleName role="issuer" type="military">
-                           <seg xml:lang="en">
-                              <ref target="http://pbw2016.kdl.kcl.ac.uk/person/Nikephoros/3/">Nikephoros III Botaneiates</ref>
-                           </seg>
-                           <seg xml:lang="de">
-                              <ref target="http://pbw2016.kdl.kcl.ac.uk/person/Nikephoros/3/">Nikephoros III Botaneiates</ref>
-                           </seg>
-                           <seg xml:lang="de">
-                              <ref target="http://pbw2016.kdl.kcl.ac.uk/person/Nikephoros/3/">Νικηφόρος Γ' Βοτανειάτης</ref>
-                           </seg>
-                           <interp type="milieu" xml:lang="en">Military</interp>
-                           <interp type="milieu" xml:lang="de">Militär</interp>
-                           <interp type="milieu" xml:lang="el">Στρατιωτικό (πεδίο δραστηριοποίησης).</interp>
-                        </roleName>
-                     </author>
-                  </msItem>
+                  
                </msContents>
                <physDesc>
                   <objectDesc>

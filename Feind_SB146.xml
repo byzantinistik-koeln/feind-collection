@@ -56,8 +56,7 @@
                   </country>
                   <settlement>
                      <seg xml:lang="en">
-                        <placeName ref="https://www.geonames.org/6553049/koeln.html"
-                           >Cologne</placeName>
+                        <placeName ref="https://www.geonames.org/6553049/koeln.html">Cologne</placeName>
                      </seg>
                      <seg xml:lang="de">
                         <placeName ref="https://www.geonames.org/6553049/koeln.html"/>Köln</seg>
@@ -85,18 +84,7 @@
                      <seg xml:lang="de">Provinzialverwaltung</seg>
                      <seg xml:lang="el">Μολυβδόβουλλα αξιωματούχων της περιφερειακής διοίκησης.</seg>
                   </summary>
-                  <msItem>
-                     <author>
-                        <roleName role="issuer" type="military">
-                           <seg xml:lang="en">Ιoannes</seg>
-                           <seg xml:lang="de">Ιoannes</seg>
-                           <seg xml:lang="el">Ιωάννης</seg>
-                           <interp type="milieu" xml:lang="en">Military</interp>
-                           <interp type="milieu" xml:lang="de">Militär</interp>
-                           <interp type="milieu" xml:lang="el">Στρατιωτικό (πεδίο δραστηριοποίησης).</interp>
-                        </roleName>
-                     </author>
-                  </msItem>
+                  
                </msContents>
                <physDesc>
                   <objectDesc>
