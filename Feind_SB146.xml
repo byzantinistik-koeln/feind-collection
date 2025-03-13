@@ -37,10 +37,10 @@
             <listPerson type="issuer">
                <person role="military" gender="M">
                   <persName xml:lang="en">
-                     <forename>Ιoannes</forename>
+                     <forename>Ioannes</forename>
                   </persName>
                   <persName xml:lang="de">
-                     <forename>Ιoannes</forename>
+                     <forename>Ioannes</forename>
                   </persName>
                   <persName xml:lang="el">
                      <forename>Ιωάννης</forename>
@@ -55,9 +55,14 @@
                      <seg xml:lang="el">Γερμανία</seg>
                   </country>
                   <settlement>
-                     <seg xml:lang="en">Cologne</seg>
-                     <seg xml:lang="de">Köln</seg>
-                     <seg xml:lang="el">Κολωνία</seg>
+                     <seg xml:lang="en">
+                        <placeName ref="https://www.geonames.org/6553049/koeln.html"
+                           >Cologne</placeName>
+                     </seg>
+                     <seg xml:lang="de">
+                        <placeName ref="https://www.geonames.org/6553049/koeln.html"/>Köln</seg>
+                     <seg xml:lang="el">
+                        <placeName ref="https://www.geonames.org/6553049/koeln.html"/>Κολωνία</seg>
                   </settlement>
                   <institution/>
                   <repository/>

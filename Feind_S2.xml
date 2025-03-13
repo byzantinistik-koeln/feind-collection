@@ -342,7 +342,7 @@
                                <lb n="2"/><supplied reason="lost">τῷ</supplied> σῷ <expan><abbr>δού</abbr><ex>λῳ</ex></expan></rs>
                                <lb n="3"/><supplied reason="lost">Μ</supplied>ιχαήλ 
                                <lb n="4"/><rs type="dignity" ref="#d0047"><expan><supplied reason="lost"><abbr>π</abbr><ex>ατ</ex></supplied><abbr>ρι</abbr><ex>κίῳ</ex></expan></rs> <rs type="office" subtype="civil" ref="#of0112"><expan><abbr>κριτ</abbr><ex>ῇ</ex></expan></rs>
-                               <lb n="5"/>τοῦ <rs type="institution" ref="org0007"><expan><abbr>βήλ</abbr><ex>ου</ex></expan></rs>
+                               <lb n="5"/>τοῦ <rs type="institution" ref="#org0007"><expan><abbr>βήλ</abbr><ex>ου</ex></expan></rs>
                       </ab>
                   </div>
                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->

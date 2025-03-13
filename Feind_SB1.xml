@@ -346,7 +346,7 @@
          <div type="edition" subtype="editorial" xml:space="preserve"> 
                   <div type="textpart" subtype="label" n="obv" rend="columns" xml:lang="grc"> <!--obverse, editorial-->
                       <ab><!--incovation TOBEDONE-->
-                          <cb n="a"/><rs type="invocation" ref="inv007">Παναγία Θε
+                          <cb n="a"/><rs type="invocation" ref="#inv007">Παναγία Θε
                           <cb n="b" break="no"/>οτόκε <expan><abbr>Σουβρ</abbr><ex>ίτων</ex></expan></rs>
                       </ab>
                   </div>

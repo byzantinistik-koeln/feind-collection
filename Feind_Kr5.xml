@@ -345,7 +345,7 @@
                       <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
                       <ab ana="dat">
                           <lb n="2"/>Νηκο
-                          <lb n="3" break="no"/><supplied reason="lost">λ</supplied>άῳ <rs type="dignity" ref="d0079"><expan><abbr>β</abbr><ex>ασιλικῷ</ex></expan> <expan><abbr>σπ
+                          <lb n="3" break="no"/><supplied reason="lost">λ</supplied>άῳ <rs type="dignity" ref="#d0079"><expan><abbr>β</abbr><ex>ασιλικῷ</ex></expan> <expan><abbr>σπ
                           <lb n="4" break="no"/><supplied reason="lost">α</supplied>θ</abbr><ex>αρίῳ</ex></expan></rs> <expan><abbr><am>S</am></abbr><ex>καὶ</ex></expan> <rs type="office" subtype="civil" ref="#of0026"><expan><abbr>ἀση
                           <lb n="5" break="no"/><supplied reason="lost">κ</supplied>ρῆτ</abbr><ex>ις</ex></expan></rs>
                       </ab>
