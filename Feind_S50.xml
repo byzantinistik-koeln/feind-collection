@@ -398,57 +398,43 @@
          </div>
          <div type="bibliography" subtype="parallels"> <!--if you don't have parallels, put this div in a comment-->
             <p>
-               <bibl> (1) <bibl>
+           (1) <bibl>
                      <ptr target="DOsealsOnline"/>, <citedRange unit="entry">
-                        <ref target="https://www.doaks.org/resources/seals/byzantine-seals/BZS.1951.31.5.121/view">BZS.1951.31.5.121</ref>
-                     </citedRange>
-                  </bibl>;
-                    (2) <bibl>
+                        <ref target="https://www.doaks.org/resources/seals/byzantine-seals/BZS.1951.31.5.121/view">BZS.1951.31.5.121</ref></citedRange></bibl>;   </p>
+                  <p>(2) <bibl>
                      <ptr target="DOsealsOnline"/>, <citedRange unit="entry">
-                        <ref target="https://www.doaks.org/resources/seals/byzantine-seals/BZS.1958.106.5316/view">BZS.1958.106.5316</ref>
-                     </citedRange>
-                  </bibl>;
-                    (3) Private collection, Germany − <bibl>
-                     <ptr target="Sode1997"/>, <citedRange unit="part">no. 451</citedRange>;
-                  </bibl>
-                    (4) <bibl>
+                        <ref target="https://www.doaks.org/resources/seals/byzantine-seals/BZS.1958.106.5316/view">BZS.1958.106.5316</ref></citedRange></bibl>;   </p>
+                     <p>(3) Private collection, Germany − <bibl><ptr target="Sode1997"/>, <citedRange unit="part">no. 451</citedRange>;
+                     </bibl>   </p>
+                        <p>(4) <bibl>
                      <ptr target="DOsealsOnline"/>, <citedRange unit="entry">
-                        <ref target="https://www.doaks.org/resources/seals/byzantine-seals/BZS.1958.106.4318">BZS.1958.106.4318</ref>
-                     </citedRange>
-                  </bibl>;  (5) <bibl>
+                        <ref target="https://www.doaks.org/resources/seals/byzantine-seals/BZS.1958.106.4318">BZS.1958.106.4318</ref></citedRange></bibl>; </p>
+            <p> (5) <bibl>
                      <ptr target="DOsealsOnline"/>, <citedRange unit="entry">
                         <ref target="https://www.doaks.org/resources/seals/byzantine-seals/BZS.1955.1.2102/view">BZS.1955.1.2102</ref>
-                     </citedRange>
-                  </bibl>;
-                    (6) <bibl>
+                     </citedRange></bibl>;   </p>
+                           <p> (6) <bibl>
                      <ptr target="DOsealsOnline"/>, <citedRange unit="entry">
                         <ref target="https://www.doaks.org/resources/seals/byzantine-seals/BZS.1958.106.3947/view">BZS.1958.106.3947</ref>
                      </citedRange>
                   </bibl> − <bibl>
-                     <ptr target="Zacos1"/>,  <citedRange unit="part">nos. 994 and 995a-b</citedRange>
-                  </bibl>;
-                   (7) <bibl>
+                     <ptr target="Zacos1"/>,  <citedRange unit="part">nos. 994 and 995a-b</citedRange></bibl>;   </p>
+                              <p>(7) <bibl>
                      <ptr target="DOsealsOnline"/>, <citedRange unit="entry">
                         <ref target="https://www.doaks.org/resources/seals/byzantine-seals/BZS.1951.31.5.2564/view">BZS.1951.31.5.2564</ref>
-                     </citedRange>
-                  </bibl>; 
-                    (8) <bibl>
+                     </citedRange></bibl>;    </p>
+                                 <p>(8) <bibl>
                      <ptr target="DOsealsOnline"/>, <citedRange unit="entry">
                         <ref target="https://www.doaks.org/resources/seals/byzantine-seals/BZS.1951.31.5.1110/view">BZS.1951.31.5.1110</ref>
-                     </citedRange>
-                  </bibl>; 
-                    (9) <bibl>
+                     </citedRange></bibl>;    </p>
+                                    <p>(9) <bibl>
                      <ptr target="DOsealsOnline"/>, <citedRange unit="entry">
-                        <ref target="https://www.doaks.org/resources/seals/byzantine-seals/BZS.1947.2.800/view">BZS.1947.2.800</ref>
-                     </citedRange>
-                  </bibl>; 
-                    (10) <bibl>
+                        <ref target="https://www.doaks.org/resources/seals/byzantine-seals/BZS.1947.2.800/view">BZS.1947.2.800</ref></citedRange></bibl>;    </p>
+            <p> (10) <bibl>
                      <ptr target="DOsealsOnline"/>, <citedRange unit="entry">
-                        <ref target="https://www.doaks.org/resources/seals/byzantine-seals/BZS.1947.2.801/view">BZS.1947.2.801</ref>
-                     </citedRange>
-                  </bibl>.
+                        <ref target="https://www.doaks.org/resources/seals/byzantine-seals/BZS.1947.2.801/view">BZS.1947.2.801</ref></citedRange></bibl>.
                     
-                      </bibl>
+                   
             </p>
             <!--                          <ptr target=""/>, <citedRange unit=""/>
 -->

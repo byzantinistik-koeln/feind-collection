@@ -387,8 +387,7 @@
          </div>
          <div type="bibliography" subtype="parallels"> <!--if you don't have parallels, put this div in a comment-->
             <p>
-               <bibl>
-                          (1) Bucharest, Institute of Archaeology (Ion Mititelu Collection)  –  Barnea , Noi sigilii, no. 4 (= SBS 5, 1998, p. 90, no. 4) − <bibl>
+               <bibl>Bucharest, Institute of Archaeology (Ion Mititelu Collection)  –  Barnea , Noi sigilii, no. 4 (= SBS 5, 1998, p. 90, no. 4) − <bibl>
                      <ptr target="Barnea1966"/>, <citedRange unit="part">no. 4</citedRange> (= SBS 5, 1998, p. 90, no. 4).</bibl>
                </bibl>
             </p>

@@ -403,18 +403,18 @@
                   </citedRange>
                </bibl> − <bibl>
                   <ptr target="DOseals3"/>, <citedRange unit="part">no. 2.25b</citedRange>
-               </bibl>;
-                    (2) <bibl>
+               </bibl>;     </p>
+               <p>(2) <bibl>
                   <ptr target="DOsealsOnline"/>
                   <citedRange unit="entry">
                      <ref target="https://www.doaks.org/resources/seals/byzantine-seals/BZS.1955.1.2618">BZS.1955.1.2618</ref>
                   </citedRange>
                </bibl> − <bibl>
                   <ptr target="DOseals3"/>, <citedRange unit="part">no. 2.25a</citedRange>
-               </bibl>;
-                    (3) S. Kophopoulos Collection, no. 37 − <bibl>
-                  <ptr target="Stavrakos2010"/>, <citedRange unit="part">no. 2.I.II. 6</citedRange>; </bibl>
-               (4) Robert Feind Collection,<ref target="http://127.0.0.1:9999/en/seals/Feind_SB198.html"> SB-198</ref>.
+               </bibl>;     </p>
+                  <p>(3) S. Kophopoulos Collection, no. 37 − <bibl>
+                     <ptr target="Stavrakos2010"/>, <citedRange unit="part">no. 2.I.II. 6</citedRange>; </bibl>     </p>
+                     <p> (4) Robert Feind Collection,<ref target="http://127.0.0.1:9999/en/seals/Feind_SB198.html"> SB-198</ref>.
                       <bibl>
 
                       </bibl>

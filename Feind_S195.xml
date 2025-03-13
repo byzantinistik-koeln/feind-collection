@@ -391,7 +391,7 @@
          <div type="bibliography" subtype="parallels">
             <p>(1) Zacos Collection – <bibl>
                   <ptr target="Zacos1"/>, no. <citedRange unit="entry">956</citedRange>
-               </bibl>; (2) BZS.1947.2.527 – <bibl>
+            </bibl>;</p> <p>(2) BZS.1947.2.527 – <bibl>
                   <ptr target="DOsealsOnline"/>, <citedRange unit="entry">
                      <ref target="https://www.doaks.org/resources/seals/byzantine-seals/BZS.1947.2.527">BZS.1947.2.527</ref>
                   </citedRange>

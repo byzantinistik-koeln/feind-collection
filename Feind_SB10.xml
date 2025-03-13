@@ -410,8 +410,8 @@
          </div>
          <div type="bibliography" subtype="parallels">
             <p> (1) Istanbul, Archaeological Museum, no. 259 – <bibl>
-                  <ptr target="Istanbul"/>, no. <citedRange unit="entry">3.34</citedRange>
-               </bibl> ; (2) Schlumberger Collection (current location unknown) – <bibl>
+                  <ptr target="Istanbul"/>, no. <citedRange unit="entry">3.34</citedRange></bibl>;</p>
+            <p> (2) Schlumberger Collection (current location unknown) – <bibl>
                   <ptr target="Schlumberger1884"/>, p. <citedRange unit="page">278</citedRange>, no.<citedRange unit="entry">4</citedRange>
                </bibl>.                  
                   </p>

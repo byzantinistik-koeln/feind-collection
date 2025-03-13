@@ -394,19 +394,25 @@
          <div type="bibliography" subtype="parallels"><!--"Seibt, Zarnitz" = "Seibt1997"? bitte prüfen-->
             <p>(1) Geneve, Museum of Art and History, CdN 2004-558 (Zacos Collection) – <bibl>
                   <ptr target="ZacosGenève"/>, no. <citedRange unit="entry">354a</citedRange>
-               </bibl>; Spink, Auction 135 (6 October 1999), lot 314; (2) Munich, Staatliche Münzsammlung (Zarnitz Collection) – <bibl>
+            </bibl>; Spink, Auction 135 (6 October 1999), lot 314;  </p>
+            <p> (2) Munich, Staatliche Münzsammlung (Zarnitz Collection) – <bibl>
                   <ptr target="Seibt1997"/>, no. <citedRange unit="entry">4.1.8</citedRange>
                </bibl>; Münz Zentrum, Auction 77 (13–15 April 1994), lot 1181 (<bibl>
                   <ptr target="SBS_Auctions1991-1996"/>, p. <citedRange unit="page">151</citedRange>, no. <citedRange unit="entry">1181</citedRange>
-               </bibl>); Schenk-Behrens Nachf., Auction 65 (26-28 May 1993), lot 892; (3) Geneve, Museum of Art and History, CdN 2004-213 (Zacos Collection) – <bibl>
+               </bibl>); Schenk-Behrens Nachf., Auction 65 (26-28 May 1993), lot 892; </p>
+               <p>(3) Geneve, Museum of Art and History, CdN 2004-213 (Zacos Collection) – <bibl>
                   <ptr target="ZacosGenève"/>, no. <citedRange unit="entry">354b</citedRange>
-               </bibl>; (4) Triton, Auction XI (8–9 January 2008), lot 1198, from the Robert E. Hecht Collection (<bibl>
+               </bibl>; </p>
+                  <p>(4) Triton, Auction XI (8–9 January 2008), lot 1198, from the Robert E. Hecht Collection (<bibl>
                   <ptr target="SBS_Auctions2007-2011"/>, p. <citedRange unit="page">195</citedRange>, no. <citedRange unit="entry">1198</citedRange>
                </bibl>); Gorny &amp; Mosch, Auction 152 (9–10 January 2006), <ref target="https://www.cngcoins.com/Coin.aspx?CoinID=115621">lot 2713</ref> (<bibl>
                   <ptr target="SBS_Auctions2002-2006"/>, p. <citedRange unit="page">167</citedRange>, no. <citedRange unit="entry">2713</citedRange>
                </bibl>); Künker, Auction 25 (29 September – 01 October 1993), lot 572 (<bibl>
                   <ptr target="SBS_Auctions1991-1996"/>, p. <citedRange unit="page">138</citedRange>, no. <citedRange unit="entry">572</citedRange>
-               </bibl>); (5) Classical Numismatic Group, Auction 376 (15 June 2016), lot 599; (6) Classical Numismatic Group, Auction 111 (29 May 2019), lot 882, from the Gert Boersema Collection; (7) Classical Numismatic Group, Auction 114 (13 May 2020), <ref target="https://auctions.cngcoins.com/lots/view/4-CLOFL/theodore-megalommates-1150-1250-pb-seal-37mm-3947-g-12h">lot 1063</ref>, from the Exarch Collection.
+               </bibl>);</p>
+            <p>(5) Classical Numismatic Group, Auction 376 (15 June 2016), lot 599; </p>
+            <p>(6) Classical Numismatic Group, Auction 111 (29 May 2019), lot 882, from the Gert Boersema Collection; </p>
+                        <p>(7) Classical Numismatic Group, Auction 114 (13 May 2020), <ref target="https://auctions.cngcoins.com/lots/view/4-CLOFL/theodore-megalommates-1150-1250-pb-seal-37mm-3947-g-12h">lot 1063</ref>, from the Exarch Collection.
                 </p>
          </div>
          <div type="bibliography" subtype="discussion">

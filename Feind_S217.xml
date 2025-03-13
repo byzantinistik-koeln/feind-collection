@@ -325,7 +325,7 @@
       <surfaceGrp>
          <surface n="r">
             <desc>Obverse</desc>
-            <graphic url="" type="photo">
+            <graphic url="S_217a.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
                <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
@@ -335,7 +335,7 @@
       <surfaceGrp>
          <surface n="v">
             <desc>Reverse</desc>
-            <graphic url="" type="photo">
+            <graphic url="S_217b.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
                <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
@@ -404,13 +404,13 @@
          <div type="bibliography" subtype="parallels">
             <p> (1) Zacos Collection − <bibl>
                   <ptr target="Zacos1"/>, <citedRange unit=" part">1007 A</citedRange>
-               </bibl>(no pictures); (2) private collection − <bibl>
+            </bibl>(no pictures);</p> <p> (2) private collection − <bibl>
                   <ptr target="Metcalf2014"/>, <citedRange unit=" part">no. 970</citedRange>
-               </bibl>; (3) DO BZS.1958.106.3736 − <bibl>
+            </bibl>; </p><p> (3) DO BZS.1958.106.3736 − <bibl>
                   <ptr target="DOsealsOnline"/>,<citedRange unit="entry">
                      <ref target="https://www.doaks.org/resources/seals/byzantine-seals/BZS.1958.106.3736/view">BZS.1958.106.3736 </ref>
                   </citedRange>
-               </bibl>; (4) DO BZS.1947.2.628 − <bibl>
+            </bibl>; </p><p> (4) DO BZS.1947.2.628 − <bibl>
                   <ptr target="DOsealsOnline"/>,<citedRange unit="entry">
                      <ref target="https://www.doaks.org/resources/seals/byzantine-seals/BZS.1947.2.628/view">BZS.1947.2.628 </ref>
                   </citedRange>

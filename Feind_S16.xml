@@ -290,7 +290,7 @@
       <surfaceGrp>
          <surface n="r">
             <desc>Obverse</desc>
-            <graphic url="S_16a" type="photo">
+            <graphic url="S_16a.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
                <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
@@ -300,7 +300,7 @@
       <surfaceGrp>
          <surface n="v">
             <desc>Reverse</desc>
-            <graphic url="S_16b" type="photo">
+            <graphic url="S_16b.jpg" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
                   <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
@@ -374,13 +374,11 @@
                   </p>
          </div>
          <div type="bibliography" subtype="parallels"> <!--if you don't have parallels, put this div in a comment-->
-            <p>
-               <bibl>
-                          (1)Private collection, Germany – <bibl>
-                     <ptr target="Sode1997"/>, <citedRange unit="part">no. 428</citedRange>;</bibl>
-                          (2) Seyrig Collection, 336 – <bibl>
+            <p> (1) Private collection, Germany – <bibl>
+                     <ptr target="Sode1997"/>, <citedRange unit="part">no. 428</citedRange>;</bibl>   </p>
+                     <p> (2) Seyrig Collection, 336 – <bibl>
                      <ptr target="Seyrig"/>, <citedRange unit="part">no. 46</citedRange>.</bibl>
-               </bibl>
+               
             </p>
          </div>
          <!--<div type="bibliography" subtype="discussion"> <!-\-if you don't have further bibliography, put this div in a comment-\->

@@ -390,11 +390,11 @@
          <div type="bibliography" subtype="parallels"> <!-- Seibt1997 richtige Zuordnung zu "Seibt, Zarnitz, no. 3.1.5"?--><!-- Cheynet, Tatis in bibiliography ergänzen!-->
             <p>(1) Munich, Staatliche Münzsammlung, no. 329 (Zarnitz Collection) – <bibl>
                   <ptr target="Seibt1997"/>, no. <citedRange unit="entry">3.1.5</citedRange>
-               </bibl>; (2) Triton, Auction XI (8–9 January 2008), <ref target="https://www.cngcoins.com/Coin.aspx?CoinID=115548">lot 1125</ref>, from the Robert E. Hecht Collection (= <bibl>
+            </bibl>;  </p><p>(2) Triton, Auction XI (8–9 January 2008), <ref target="https://www.cngcoins.com/Coin.aspx?CoinID=115548">lot 1125</ref>, from the Robert E. Hecht Collection (= <bibl>
                   <ptr target="SBS_Auctions2007-2011"/>, p. <citedRange unit="page">188</citedRange>, no. <citedRange unit="entry">1125</citedRange>
-               </bibl>); (3) Tatis Collection, no. 3035 – <bibl>
+            </bibl>);  </p><p>(3) Tatis Collection, no. 3035 – <bibl>
                   <ptr target="CheynetTatış"/>, no. <citedRange unit="entry">5.56</citedRange>
-               </bibl>; (4) BnF, no. 753 (Zacos Collection) – mentioned in <bibl>
+            </bibl>;  </p><p>(4) BnF, no. 753 (Zacos Collection) – mentioned in <bibl>
                   <ptr target="CheynetTatış"/>, p. <citedRange unit="page">224</citedRange>
                </bibl>.
                 </p>

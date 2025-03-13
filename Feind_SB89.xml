@@ -391,17 +391,15 @@
          </div>
          <div type="bibliography" subtype="parallels"> <!--if you don't have parallels, put this div in a comment-->
             <p>
-               <bibl>(1) Zacos Collection – <bibl>
+               <bibl>(1) Zacos Collection – 
                      <ptr target="Zacos1"/>
                      <citedRange unit="part">no. 2960</citedRange>
-                  </bibl>; 
-                          (2) Schlumberger Collection  – <bibl>
+               </bibl>; </p>
+            <p>  (2) Schlumberger Collection  – <bibl>
                      <ptr target="Schlumberger1884"/>
-                     <citedRange unit="page">p. 89</citedRange> (drawing).</bibl>
+               <citedRange unit="page">p. 89</citedRange> (drawing).</bibl> </p>
                   <!--                          <ptr target=""/>, <citedRange unit=""/>
--->
-               </bibl>
-            </p>
+-->              
          </div>
          <div type="bibliography" subtype="discussion"> <!--if you don't have further bibliography, put this div in a comment-->
             <p>

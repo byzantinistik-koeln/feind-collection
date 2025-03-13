@@ -393,26 +393,26 @@
          <div type="bibliography" subtype="parallels">
             <p> (1) American Numismatic Society, Mabbott, no. 223 – <bibl>
                   <ptr target="LaurentCorpus2"/>,<citedRange unit="part"> no. 886</citedRange>
-               </bibl> ; 
-                    (2) American Numismatic Society, Mabbott, no. 333 – <bibl>
+            </bibl> ; </p>
+               <p>  (2) American Numismatic Society, Mabbott, no. 333 – <bibl>
                   <ptr target="LaurentCorpus2"/>, <citedRange unit="part">no. 886</citedRange>
-               </bibl> ; (3) Yambol, Historical Museum, no. 5463 – <bibl>
+               </bibl> ;</p> <p>(3) Yambol, Historical Museum, no. 5463 – <bibl>
                   <ptr target="JordanovCorpus2"/>,  <citedRange unit="part">no. 427</citedRange>
                </bibl>; <bibl>
                   <ptr target="JordanovCorpus3"/>,  <citedRange unit="part">no. 936</citedRange>
                </bibl>; <bibl>
                   <ptr target="Jordanov2002"/>, <citedRange unit="page">p. 28-29</citedRange>, <citedRange unit="part">no. 7</citedRange>
-               </bibl> ; (4) private collection (V. Vurbanov, Bulgaria) – <bibl>
+               </bibl> ; </p><p>(4) private collection (V. Vurbanov, Bulgaria) – <bibl>
                   <ptr target="JordanovCorpus2"/>, <citedRange unit="part">no. 428</citedRange>
                </bibl>; <bibl>
                   <ptr target="JordanovCorpus3"/>, <citedRange unit="part">no. 937</citedRange>
                </bibl>; <bibl>
                   <ptr target="Jordanov2002"/>,<citedRange unit="page"> p. 28-29</citedRange>, <citedRange unit="part">no. 8</citedRange>
-               </bibl> ; (5) private collection (Bulgaria) – <bibl>
+               </bibl> ;</p> <p>(5) private collection (Bulgaria) – <bibl>
                   <ptr target="JordanovCorpus2"/>, <citedRange unit="part">no. 429</citedRange>
                </bibl>; <bibl>
                   <ptr target="JordanovCorpus3"/>, <citedRange unit="part">no. 938</citedRange>
-               </bibl> (in both cases only a mention). (1) and (2) don’t seem to have been struck by the same boulloterion as ours.                   
+               </bibl> (in both cases only a mention).</p><p> (1) and (2) don’t seem to have been struck by the same boulloterion as ours.                   
                   </p>
          </div>
          <!--<div type="bibliography" subtype="discussion"> if you don't have further bibliography, put this div in a comment

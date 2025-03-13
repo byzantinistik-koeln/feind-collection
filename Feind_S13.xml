@@ -385,27 +385,26 @@
          </div>
          <div type="bibliography" subtype="parallels">
             <p>
-               <bibl>(1) <bibl>
+             (1) <bibl>
                      <ptr target="Sode1997"/>, <citedRange unit="part">no. 432</citedRange>
-                  </bibl>;
-                        (2) <bibl>
+               </bibl>; </p>
+                  <p>(2) <bibl>
                      <ptr target="Zacos1"/>, <citedRange unit="part">no. 2902</citedRange>
-                  </bibl>; 
-                        (3) Müller Munzenhandlung, Auction 68 (20–21 September 1991), lot 585 (= SBS 3, 1993, p. 197, no.585); 
-                        (4) Kölner Münzkabinett, Auction 55 (7–8 April 1992), lot 506 (= SBS 3, 1993, p. 187, no. 506); 
-                        (5) <bibl>
-                     <ptr target="Schlumberger1891"/>, <citedRange unit="page">p. 131</citedRange>, <citedRange unit="part">no. 68</citedRange> (no picture)</bibl>. 
-                        Seals (1)-(4) are not from the same boulloterion as ours, with different line breaks. 
-                        
+                  </bibl>; </p> 
+            <p>(3) Müller Munzenhandlung, Auction 68 (20–21 September 1991), lot 585 (= SBS 3, 1993, p. 197, no.585); </p> 
+            <p>(4) Kölner Münzkabinett, Auction 55 (7–8 April 1992), lot 506 (= SBS 3, 1993, p. 187, no. 506); </p> 
+                           <p>(5) <bibl>
+                     <ptr target="Schlumberger1891"/>, <citedRange unit="page">p. 131</citedRange>, <citedRange unit="part">no. 68</citedRange> (no picture)</bibl>.
+                        Seals (1)-(4) are not from the same boulloterion as ours, with different line breaks.  </p>
+                       
                         <!-- <ptr target=""/>, <citedRange unit=""/> <!-\-before citedRange add the right abbreviation, e.g. if it's a page, p. etc.-\->
--->                      </bibl>
-            </p>
+-->                  
+         
             <!--if you don't have parallels, put this div in a comment-->
-            <p>
-               <bibl>
+          
 <!--                          <ptr target=""/>, <citedRange unit=""/>
--->                      </bibl>
-            </p>
+-->                      
+      
          </div>
          <div type="bibliography" subtype="discussion"> <!--if you don't have further bibliography, put this div in a comment-->
             <p>

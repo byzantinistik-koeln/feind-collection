@@ -387,21 +387,26 @@
          <div type="bibliography" subtype="parallels"><!-- Nesbitt1999 in bibliography ergänzen: J. W. Nesbitt, Byzantine lead seals from the vicinity of the governor’s palace and warehouses, in K. G. Holum, A. Raban, J. Patrich, Caesarea papers 2. Herod's temple, the provincial governor's praetorium and granaries, the later harbor, a gold coin hoard, and other studies (Journal of Roman Archaeology, Supplementary Series 35), Portsmouth, Ri, 1999, p. 129-135.--> <!--DONE-->
             <p>Similar seals are (1) Zacos Collection – <bibl>
                   <ptr target="Zacos1"/>, nos. <citedRange unit="entry">763a</citedRange>
-               </bibl>; (2) DO BZS.1958.106.1118 – <bibl>
+            </bibl>;   </p>
+               <p>(2) DO BZS.1958.106.1118 – <bibl>
                   <ptr target="DOsealsOnline"/>, <citedRange unit="entry">
                      <ref target="https://www.doaks.org/resources/seals/byzantine-seals/BZS.1958.106.1118">BZS.1958.106.1118</ref>
                   </citedRange>
-               </bibl>; (3) DO BZS.1951.31.5.260 (Zacos Collection) – <bibl>
+               </bibl>;  </p>
+                  <p>(3) DO BZS.1951.31.5.260 (Zacos Collection) – <bibl>
                   <ptr target="DOsealsOnline"/>, <citedRange unit="entry">
                      <ref target="https://www.doaks.org/resources/seals/byzantine-seals/BZS.1951.31.5.260">BZS.1951.31.5.260</ref>
                   </citedRange>
                </bibl>; <bibl>
                   <ptr target="Zacos1"/>, nos. <citedRange unit="entry">763b</citedRange>
-               </bibl>; (4) Istanbul, Archeological Museum, no. Ist. 490-1151 – <bibl>
+               </bibl>;   </p>
+                     <p>(4) Istanbul, Archeological Museum, no. Ist. 490-1151 – <bibl>
                   <ptr target="Istanbul"/>, no. <citedRange unit="entry">8.30</citedRange>
-               </bibl>; (5) a seal excavated in Caesarea, Inv. 42/93, CC9000612,002. – <bibl>
+                     </bibl>;  </p>
+                        <p>(5) a seal excavated in Caesarea, Inv. 42/93, CC9000612,002. – <bibl>
                   <ptr target="Nesbitt1999"/>, p. <citedRange unit="page">131</citedRange>, no. <citedRange unit="entry">11</citedRange>
-               </bibl>; (6) Münz Zentrum, Auction 73 (22–24 April 1992), lot 2049 (= <bibl>
+                        </bibl>;   </p>
+                           <p>(6) Münz Zentrum, Auction 73 (22–24 April 1992), lot 2049 (= <bibl>
                   <ptr target="SBS_Auctions1986-1992"/>, p. <citedRange unit="page">181</citedRange>, no. <citedRange unit="entry">2049</citedRange>
                </bibl>; <bibl>
                   <ptr target="SBS_Auctions1991-1996"/>, p. <citedRange unit="page">145</citedRange>, no. <citedRange unit="entry">2049</citedRange>

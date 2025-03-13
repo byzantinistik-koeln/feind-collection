@@ -417,7 +417,7 @@
               </div>-->
          <div type="bibliography" subtype="parallels">
             <!--if you don't have parallels, put this div in a comment-->
-            <p>(1) <bibl>
+            <p><bibl>
                   <ptr target="triton"/> Triton, Auction XI (8–9 January 2008), <citedRange unit="entry">
                      <ref target="https://www.cngcoins.com/Coin.aspx?CoinID=115597">lot 1174</ref>
                   </citedRange>, from the Robert E. Hecht Collection (= SBS 12, 2016, p. 192, no.

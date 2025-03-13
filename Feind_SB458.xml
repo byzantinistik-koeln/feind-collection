@@ -370,18 +370,18 @@
                   <ptr target="Wassiliou2002"/>, p. <citedRange unit="page">247-248</citedRange>, no. <citedRange unit="entry">7b</citedRange>
                </bibl> (= <bibl>
                   <ptr target="SBS_Articles2002-2006"/>, p. <citedRange unit="page">148</citedRange>, no. <citedRange unit="entry">7b</citedRange>
-               </bibl>); (2) IFEB, no. 422 – mentioned in <bibl>
+               </bibl>);   </p>
+               <p>(2) IFEB, no. 422 – mentioned in <bibl>
                   <ptr target="Wassiliou2002"/>, p. <citedRange unit="page">247</citedRange>
-               </bibl>; (3) Adnan Aci Collection, no. 154, struck from a different boulloterion – <!-- Vera Bulgurlu, A Selection of Unpublished Byzantine Lead Seals from the Adnan Aci Collection related to the East, in Zh. Zhekova, T. Todorov (eds), ΑΝΤΙΧΑΡΙΣΜΑΤΟΣ ΕΠΙΣΦΡΑΓΙΣΙΣ. A Tribute to Prof. Ivan Jordanov’s 70th Anniversary, Shumen 2019, p. 130-144 to be done in bibliography--><bibl> <!--DONE-->
-                  <ptr target="Bulgurlu2019"/>, p. <citedRange unit="page">133-134</citedRange>, no. <citedRange unit="entry">4</citedRange>
-               </bibl>.                  
+               </bibl>;   </p>
+                  <p>(3) Adnan Aci Collection, no. 154, struck from a different boulloterion – <!-- Vera Bulgurlu, A Selection of Unpublished Byzantine Lead Seals from the Adnan Aci Collection related to the East, in Zh. Zhekova, T. Todorov (eds), ΑΝΤΙΧΑΡΙΣΜΑΤΟΣ ΕΠΙΣΦΡΑΓΙΣΙΣ. A Tribute to Prof. Ivan Jordanov’s 70th Anniversary, Shumen 2019, p. 130-144 to be done in bibliography--><bibl> <!--DONE-->
+                  <ptr target="Bulgurlu2019"/>, p. <citedRange unit="page">133-134</citedRange>, no. <citedRange unit="entry">4</citedRange></bibl>.                  
                   </p>
          </div>
          <div type="bibliography" subtype="discussion">
             <p><!-- V. Laurent, Bulletin de sigillographie byzantine, Byzantion 6, 1931, p. 771-829 to be done in bibliography-->
                <bibl>
-                  <ptr target="Laurent1931"/>, p. <citedRange unit="page">782</citedRange>, no. <citedRange unit="entry">5</citedRange> and p. <citedRange unit="page">793</citedRange>, no. <citedRange unit="entry">2</citedRange>
-               </bibl>.
+                  <ptr target="Laurent1931"/>, p. <citedRange unit="page">782</citedRange>, no. <citedRange unit="entry">5</citedRange> and p. <citedRange unit="page">793</citedRange>, no. <citedRange unit="entry">2</citedRange></bibl>.
                   </p>
          </div>
       </body>

@@ -416,34 +416,34 @@
          </div>
          <div type="bibliography" subtype="parallels"> <!--if you don't have parallels, put this div in a comment-->
             <p>  (1) Athens, Benaki Museum − <bibl>
-                  <ptr target="LaurentCorpus5.1"/>, <citedRange unit="part">no. 93</citedRange>;</bibl>
-                    (2) DO BZS.1947.2.290 (Shaw Collection, no. 1115, former Mordtmann) − <bibl>
+               <ptr target="LaurentCorpus5.1"/>, <citedRange unit="part">no. 93</citedRange>;</bibl> </p>
+               <p>(2) DO BZS.1947.2.290 (Shaw Collection, no. 1115, former Mordtmann) − <bibl>
                   <ptr target="LaurentCorpus5.1"/>, <citedRange unit="part">no. 93</citedRange> − </bibl>
                <bibl>
                   <ptr target="DOsealsOnline"/>,<citedRange unit="entry">
                      <ref target="https://www.doaks.org/resources/seals/byzantine-seals/BZS.1947.2.290">BZS.1947.2.290 </ref>
                   </citedRange>
-               </bibl>;
-                    (3) Saint Petersburg, State Hermitage Museum  − <bibl>
+               </bibl>; </p>
+                  <p>(3) Saint Petersburg, State Hermitage Museum  − <bibl>
                   <ptr target="LaurentCorpus5.1"/>, <citedRange unit="part">no. 93</citedRange>
                </bibl> − <bibl>
                   <ptr target="Lihačev1911"/>,  <citedRange unit="page">p. 13</citedRange>,  <citedRange unit="entry">table V</citedRange>,  <citedRange unit="part">no. 12</citedRange>
                </bibl> − <bibl>
-                  <ptr target="Laurent1932"/>,  <citedRange unit="part">no. 251</citedRange>;</bibl>
-                    (4) Geneve, Museum of Art and History, CdN 2004-323 (Zacos Collection) − <bibl>
+                  <ptr target="Laurent1932"/>,  <citedRange unit="part">no. 251</citedRange>;</bibl> </p>
+                     <p>(4) Geneve, Museum of Art and History, CdN 2004-323 (Zacos Collection) − <bibl>
                   <ptr target="Zacos2"/>,  <citedRange unit="part">no. 647</citedRange>
                </bibl> − <bibl>
-                  <ptr target="ZacosGenève"/>,  <citedRange unit="part">no. 260</citedRange>;</bibl>
-                    (5) Zacos Collection − <bibl>
+                  <ptr target="ZacosGenève"/>,  <citedRange unit="part">no. 260</citedRange>;</bibl> </p>
+                        <p>(5) Zacos Collection − <bibl>
                   <ptr target="CNG"/>, Auction <citedRange unit="entry">99</citedRange>  (13 May 2015), <citedRange unit="entry">
                      <ref target="https://www.numisbids.com/n.php?lot=852&amp;p=lot&amp;sid=1081"/>lot 852</citedRange>, from the Prue Morgan Fitts Collection</bibl> − The New York Sale, Auction 4 (17 January 2002), lot 445. −  Spink, Auction 127 (7 October 1998), lot 37;
-                    (6) (7) BnF nos. 3228 and 3229 (Zacos Collection) −  mentioned in <bibl>
+                        </p> <p> (6) (7) BnF nos. 3228 and 3229 (Zacos Collection) −  mentioned in <bibl>
                   <ptr target="ZacosGenève"/>, <citedRange unit="page">p. 296</citedRange>
                </bibl> and <bibl>
-                  <ptr target="CheynetTatış"/>, <citedRange unit="page">p. 281</citedRange>, unpublished;</bibl>
-                    (8) Aphrodisia, acc. no. 68.410 − <bibl>
-                  <ptr target="Nesbitt1983"/>, <citedRange unit="page"> p. 162</citedRange>, <citedRange unit="part"> no. 7</citedRange> (= SBS 5, 1998, p. 177, no. 7)</bibl>; 
-                    (9) Tatis Collection, no. 2640 −  <bibl>
+                  <ptr target="CheynetTatış"/>, <citedRange unit="page">p. 281</citedRange>, unpublished;</bibl> </p>
+                              <p>  (8) Aphrodisia, acc. no. 68.410 − <bibl>
+                                 <ptr target="Nesbitt1983"/>, <citedRange unit="page"> p. 162</citedRange>, <citedRange unit="part"> no. 7</citedRange> (= SBS 5, 1998, p. 177, no. 7)</bibl>;  </p>
+                                 <p>(9) Tatis Collection, no. 2640 −  <bibl>
                   <ptr target="CheynetTatış"/>,  <citedRange unit="part">no. 6.4</citedRange>.</bibl> Further references: <bibl>
                   <ptr target="Wassiliou-Seibt2016"/>, <citedRange unit="part">no. 1476</citedRange>
                </bibl>− <bibl>
@@ -453,12 +453,12 @@
                </bibl> − <bibl>
                   <ptr target="Wassiliou-Seibt2017"/>,<citedRange unit="page"> p. 202-211</citedRange>
                </bibl>− <bibl>
-                  <ptr target="Cheynet2008b"/>, <citedRange unit="page"> p. 57</citedRange>;</bibl>
-                    (10) Münz Zentrum, Auction 78 (7–9 September 1994), lot 805 (= SBS 6, 1999, p. 152, no. 805); Hirsch, Auction 181 (22–25 February 1994), lot 1034o (= SBS 6, 1999, p. 125, no. 1034o); 
-                    (11) Münz Zentrum, Auction 91 (4–5 September 1997), lot 797 (= SBS 8, 2003, p. 235, no. 797), no picture
-                    (12) <bibl>Numismatik Naumann, Auction 56 (6 August 2017) <citedRange unit="entry">
-                     <ref target="https://www.biddr.com/auctions/numismatiknaumann/browse?a=158&amp;l=142448">lot 805</ref></citedRange></bibl>. 
-                    Seals nos. (5) and (10) are parallels to ours
+                  <ptr target="Cheynet2008b"/>, <citedRange unit="page"> p. 57</citedRange>;</bibl> </p>
+            <p> (10) Münz Zentrum, Auction 78 (7–9 September 1994), lot 805 (= SBS 6, 1999, p. 152, no. 805); Hirsch, Auction 181 (22–25 February 1994), lot 1034o (= SBS 6, 1999, p. 125, no. 1034o);  </p>
+            <p>(11) Münz Zentrum, Auction 91 (4–5 September 1997), lot 797 (= SBS 8, 2003, p. 235, no. 797), no picture </p>
+                                          <p> (12) <bibl>Numismatik Naumann, Auction 56 (6 August 2017) <citedRange unit="entry">
+                                             <ref target="https://www.biddr.com/auctions/numismatiknaumann/browse?a=158&amp;l=142448">lot 805</ref></citedRange></bibl>.  </p>
+                                             <p>Seals nos. (5) and (10) are parallels to ours
                 </p>
          </div>
          <!--<div type="bibliography" subtype="discussion"> <!-\-if you don't have further bibliography, put this div in a comment-\->
