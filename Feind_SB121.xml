@@ -2,8 +2,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title xml:lang="de">Siegel des Manuel, Nachkomme der Caesaren</title>
             <title xml:lang="en">Seal of Manouel, descendant of the Caesars</title>
+            <title xml:lang="de">Siegel des Manuel, Nachkomme der Caesaren</title>
             <title xml:lang="el">Μολυβδόβουλλο του Μανουήλ, απογόνου των Καισάρων</title>
             <editor role="seal-editor" xml:id="MC">Maria Teresa Catalano</editor>
             <editor role="seal-editor" xml:id="MF">Martina Filosa</editor>

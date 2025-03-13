@@ -3,8 +3,8 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title xml:lang="en">Seal of Bardas patrikios, imperial protospatharios, and strategos of Anatolikoi.</title>
-            <title xml:lang="de">Siegel des Bardas patrikios, kaiserliche protospatharios und strategos von Anatolikoi.</title>
+            <title xml:lang="en">Seal of Bardas patrikios, imperial protospatharios, and strategos of Anatolikoi</title>
+            <title xml:lang="de">Siegel des Bardas patrikios, kaiserliche protospatharios und strategos von Anatolikoi</title>
             <title xml:lang="el">Μολυβδόβουλλο του Βάρδα, πατρικίου, βασιλικού πρωτοσπαθαρίου και στρατηγού των Ανατολικών</title>
             <editor role="seal-editor" xml:id="MC">Maria Teresa Catalano</editor>
             <editor role="seal-editor" xml:id="MF">Martina Filosa</editor>

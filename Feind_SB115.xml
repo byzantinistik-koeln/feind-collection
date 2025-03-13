@@ -3,8 +3,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title xml:lang="de">Siegel des Basileios Apokapes, proedros und doux</title>
             <title xml:lang="en">Seal of Basileios Apokapes, proedros and doux</title>
+            <title xml:lang="de">Siegel des Basileios Apokapes, proedros und doux</title>
             <title xml:lang="el">Μολυβδόβουλλο Βασιλείου Αποκάπη, προέδρου και δούκα</title>
             <editor role="seal-editor" xml:id="MC">Maria Teresa Catalano</editor>
             <editor role="seal-editor" xml:id="MF">Martina Filosa</editor>

@@ -2,8 +2,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title xml:lang="de">Siegel des Martinos stratelates</title>
             <title xml:lang="en">Seal of Martinos stratelates</title>
+            <title xml:lang="de">Siegel des Martinos stratelates</title>
             <title xml:lang="el">Μολυβδόβουλλο Μαρτίνου στρατηλάτη</title>
             <editor role="seal-editor" xml:id="MC">Maria Teresa Catalano</editor>
             <editor role="seal-editor" xml:id="MF">Martina Filosa</editor>
@@ -303,7 +303,7 @@
                   </div>
                   <div type="textpart" n="rev" subtype="face" rend="monogram-cross" xml:lang="grc">
                       <ab ana="gen">
-                          <lb n="1"/><rs type="dignitary" ref="#d0083"><expan><ex>στρατηλάτου</ex></expan></rs>
+                          <lb n="1"/><rs type="dignity" ref="#d0083"><expan><ex>στρατηλάτου</ex></expan></rs>
                       </ab>
                   </div>
               </div>
@@ -327,8 +327,7 @@
          </div>
          <div type="commentary" subtype="text"><!--add "Zografopoulos2005" to bibliography: Zografopoulos K. J., Die byzantinischen Bleisiegel aus Karthago [PhD Diss.], Wien 2005.-->
             <p xml:lang="en">A seal of Martinos stratelates edited in <bibl>
-                  <ptr target="Zografopoulos2005"/>, <citedRange unit="entry">M17</citedRange>
-               </bibl>, and dated to the first half of the 7th century is not a parallel.</p>
+                  <ptr target="Zografopoulos2005"/>, <citedRange unit="entry">M17</citedRange></bibl>, and dated to the first half of the 7th century is not a parallel.</p>
             </div>
          <!--<div type="bibliography" subtype="parallels">
                 <p>

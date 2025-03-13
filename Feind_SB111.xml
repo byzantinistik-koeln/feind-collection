@@ -3,11 +3,11 @@
       <fileDesc>
          <titleStmt>
                 <!--Seal with ASSEMBLED BOULLOTERIA!!! -->
+            <title xml:lang="en">Seal of N. Libellisios, krites of the velum, and epi tou
+               kanikleiou</title>
             <title xml:lang="de">Siegel des N. Libellisios, krites des velum und epi tou
                     kanikleiou</title>
-            <title xml:lang="en">Seal of N. Libellisios, krites of the velum, and epi tou
-                    kanikleiou</title>
-            <title xml:lang="en">Μολυβδόβουλλο Ν. Λιβελλίσιος, κριτή του βήλου και επί του κανικλείου</title>
+            <title xml:lang="el">Μολυβδόβουλλο Ν. Λιβελλίσιος, κριτή του βήλου και επί του κανικλείου</title>
             <editor role="seal-editor" xml:id="MC">Maria Teresa Catalano</editor>
             <editor role="seal-editor" xml:id="MF">Martina Filosa</editor>
             <editor role="seal-editor" xml:id="CS">Claudia Sode</editor>
@@ -75,7 +75,7 @@
                      </seg>
                      <seg xml:lang="de">
                         <placeName ref="https://www.geonames.org/6553049/koeln.html"/>Köln</seg>
-                     <seg xml:lang="en">
+                     <seg xml:lang="el">
                         <placeName ref="https://www.geonames.org/6553049/koeln.html">Κολωνία</placeName>
                      </seg>
                   </settlement>
@@ -136,7 +136,7 @@
                                         teilweise abgenutzt auf dem Avers.</p>
                            <p xml:lang="en">Thin crack at the upper end of the channel,
                                         partially effaced on the obverse.</p>
-                           <p xml:lang="en">Ραγισμένο στο άνω στόμιο του διαύλου, ελαφρώς σβησμένο στον εμπροσθότυπο.</p>
+                           <p xml:lang="el">Ραγισμένο στο άνω στόμιο του διαύλου, ελαφρώς σβησμένο στον εμπροσθότυπο.</p>
                         </condition>
                      </supportDesc>
                      <layoutDesc>
@@ -362,23 +362,23 @@
                     Libellesios' selection of matrices. </p>
          </div>
          <div type="bibliography" subtype="parallels"><!--N. P. Lichačev, Molivdovuly grečeskogo vostoka, Moskow 1991. add to bibliography as "Lihačev1991" and Ch. Chotzakoglou, Byzantinische Bleisiegel aus Ungarn, SBS 6, 1999, 59-70 as "Chotzakoglou1999"!-->
-            <p>On following seals, only the reverse is parallel to ours: (1) DO
+            <p>On following seals, only the reverse is parallel to ours:</p> <p>(1) DO
                     BZS.1951.31.5.1214 (Fogg Collection, no. 1214) – <bibl>
                   <ptr target="LaurentCorpus2"/>, no. <citedRange unit="entry">221</citedRange>
                </bibl>; <bibl>
                   <ptr target="DOsealsOnline"/>, <citedRange unit="entry">
                      <ref target="https://www.doaks.org/resources/seals/byzantine-seals/BZS.1951.31.5.1214/view">BZS.1951.31.5.1214</ref>
                   </citedRange>
-               </bibl>; (2) Saint Petersburg,
+               </bibl>;</p> <p>(2) Saint Petersburg,
                     State Hermitage Museum, M-8047 – <bibl>
                   <ptr target="Lihačev1991"/>, p.
                             <citedRange unit="page">114</citedRange>, no. <citedRange unit="entry">8</citedRange>, table <citedRange unit="entry">LXIV</citedRange>, no.
                             <citedRange unit="entry">8</citedRange>
-               </bibl>; (3) Budapest, Hungarian
+               </bibl>;</p> <p>(3) Budapest, Hungarian
                     National Museum, no. 2A/1996 – <bibl>
                   <ptr target="Chotzakoglou1999"/>, p.
                             <citedRange unit="page">65</citedRange>, no. <citedRange unit="7"/>
-               </bibl>. </p>
+               </bibl>.</p> 
          </div>
       </body>
    </text>

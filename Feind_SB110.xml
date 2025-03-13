@@ -2,8 +2,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title xml:lang="de">Siegel des Stephanos ostiarios und chartoularios</title>
             <title xml:lang="en">Seal of Stephanos ostiarios and chartoularios</title>
+            <title xml:lang="de">Siegel des Stephanos ostiarios und chartoularios</title>
             <title xml:lang="el">Μολυβδόβουλλο Στεφάνου οστιαρίου και χαρτουλαρίου</title>
             <editor role="seal-editor" xml:id="MC">Maria Teresa Catalano</editor>
             <editor role="seal-editor" xml:id="MF">Martina Filosa</editor>
@@ -77,7 +77,7 @@
                      </seg>
                      <seg xml:lang="de">
                         <placeName ref="https://www.geonames.org/6553049/koeln.html"/>Köln</seg>
-                     <seg xml:lang="en">
+                     <seg xml:lang="el">
                         <placeName ref="https://www.geonames.org/6553049/koeln.html">Κολωνία</placeName>
                      </seg>
                   </settlement>

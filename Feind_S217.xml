@@ -3,8 +3,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title xml:lang="de">Siegel des Stephanos apo hypaton</title>
             <title xml:lang="en">Seal of Stephanos apo hypaton</title>
+            <title xml:lang="de">Siegel des Stephanos apo hypaton</title>
             <title xml:lang="el">Μολυβδόβουλλο Στεφάνου από υπάτων</title>
             <editor role="seal-editor" xml:id="MC">Maria Teresa Catalano</editor>
             <editor role="seal-editor" xml:id="MF">Martina Filosa</editor>
