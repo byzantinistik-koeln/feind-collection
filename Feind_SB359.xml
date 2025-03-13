@@ -37,13 +37,16 @@
             <listPerson type="issuer">
                <person role="private" gender="M">
                   <persName xml:lang="en">
-                     <forename>Basileios...</forename>
+                     <forename>Basileios</forename>
+                     <surname>N.</surname>
                   </persName>
                   <persName xml:lang="de">
-                     <forename>Basileios...</forename>
+                     <forename>Basileios</forename>
+                     <surname>N.</surname>
                   </persName>
                   <persName xml:lang="el">
-                     <forename>Βασίλειος...</forename>
+                     <forename>Βασίλειος</forename>
+                     <surname>N.</surname>
                   </persName>
                </person>
             </listPerson>

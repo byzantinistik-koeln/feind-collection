@@ -40,10 +40,10 @@
             <listPerson type="issuer">
                <person role=" civil" gender="M">
                   <persName xml:lang="en">
-                     <forename>Basileios </forename>
+                     <forename>Basileios</forename>
                   </persName>
                   <persName xml:lang="de">
-                     <forename>Basileios </forename>
+                     <forename>Basileios</forename>
                   </persName>
                   <persName xml:lang="el">
                      <forename>Βασίλειος</forename>
