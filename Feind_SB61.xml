@@ -244,9 +244,9 @@
                               <figDesc ana="" n="r" xml:lang="el">Προτομή της Θεοτόκου (Οδηγήτρια),
                                  κρατά το Χριστό στο αριστερό της χέρι. Σίγλλα διατηρούνται μερικώς
                                  στα δεξιά του πεδίου.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="en">Border of dots.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="de">Perlrand</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="el">Στικτό πλαίσιο.</figDesc>
+                              <figDesc n="decoR" xml:lang="en">Border of dots.</figDesc>
+                              <figDesc n="decoR" xml:lang="de">Perlrand</figDesc>
+                              <figDesc n="decoR" xml:lang="el">Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -291,12 +291,12 @@
                            <figure>
                               <figDesc ana="" n="v" xml:lang="en"/>
                               <figDesc ana="" n="v" xml:lang="de"/>
-                              <figDesc ana="" n="decoV" xml:lang="en">Above the legend, a decoration
+                              <figDesc n="decoV" xml:lang="en">Above the legend, a decoration
                                  consisting of a dot between two dashes. Border of dots.</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="de">Kreuz am Anfang der Legende.
+                              <figDesc n="decoV" xml:lang="de">Kreuz am Anfang der Legende.
                                  Oben eine Dekoration bestehend aus einem Punkt zwischen zwei
                                  Strichen. Perlrand</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="el">Πάνω από την επιγραφή,
+                              <figDesc n="decoV" xml:lang="el">Πάνω από την επιγραφή,
                                  διακοσμητικό μοτίβο το οποίο αποτελείται από μια στιγμή ανάμεσα σε
                                  δύο παύλες. Στικτό πλαίσιο.</figDesc>
                            </figure>

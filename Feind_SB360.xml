@@ -234,9 +234,9 @@
                               <figDesc ana="" n="r" xml:lang="en">Bust of the Mother of God with her hands upraised in prayer (Episkepsis) and the medallion of Christ before her. Sigla on either side.</figDesc>
                               <figDesc ana="" n="r" xml:lang="de">Büste der Muttergottes orans /Typ Episkepsis mit Christusmedaillon vor der Brust. Inschrift auf beiden Seiten.</figDesc>
                               <figDesc ana="" n="r" xml:lang="el">Προτομή της Θεοτόκου, δεόμενη, (Επίσκεψις), με το μετάλλιο του Χριστού μπροστά στο στήθος της.  Σίγλλα διατηρούνται εκατέρωθεν του πεδίου.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="en">Border of tight dots.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="de">Perlrand</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="el">Στικτό πλαίσιο.</figDesc>
+                              <figDesc n="decoR" xml:lang="en">Border of tight dots.</figDesc>
+                              <figDesc n="decoR" xml:lang="de">Perlrand</figDesc>
+                              <figDesc n="decoR" xml:lang="el">Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -283,9 +283,9 @@
                            <figure>
                               <figDesc ana="" n="v" xml:lang="en"/>
                               <figDesc ana="" n="v" xml:lang="de"/>
-                              <figDesc ana="" n="decoV" xml:lang="en">The cross above is not preserved. Border of  tight dots. </figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="de">Das Kreuz oben ist nicht erhalten. Perlrand.</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="el">Ο σταυρός πάνω από την επιγραφή δεν σώζεται. Στικτό πλαίσιο.</figDesc>
+                              <figDesc n="decoV" xml:lang="en">The cross above is not preserved. Border of  tight dots. </figDesc>
+                              <figDesc n="decoV" xml:lang="de">Das Kreuz oben ist nicht erhalten. Perlrand.</figDesc>
+                              <figDesc n="decoV" xml:lang="el">Ο σταυρός πάνω από την επιγραφή δεν σώζεται. Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>

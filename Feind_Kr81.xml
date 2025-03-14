@@ -234,11 +234,11 @@
                               <figDesc ana="" n="r" xml:lang="en">Patriarchal cross mounted on three steps. Along the circumference, within concentric borders of dots, a circular inscription beginning with a cross at 7 o'clock.</figDesc>
                               <figDesc ana="" n="r" xml:lang="de">Patriarchenkreuz auf drei Stufen, nimbiert, mit umlaufender Inschrift.</figDesc>
                               <figDesc ana="" n="r" xml:lang="el">Πατριαρχικός σταυρός  υψώνεται επάνω σε τριβαθμιδωτή βάση. Περιβάλλεται απο κυκλοτερή επιγραφή, η οποία ξεκινάει με σταυρό στα αριστερά, στο σημείο του άξονα 7.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="en">Cross at the begenning of
+                              <figDesc n="decoR" xml:lang="en">Cross at the begenning of
                                             the legend. Border of dots.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="de">Vorangestelltes Kreuz.
+                              <figDesc n="decoR" xml:lang="de">Vorangestelltes Kreuz.
                                             Perlrand.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="el"> Σταυρός στην αρχή της
+                              <figDesc n="decoR" xml:lang="el"> Σταυρός στην αρχή της
                                             επιγραφής. Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
@@ -285,9 +285,9 @@
                            <figure>
                               <figDesc ana="" n="v" xml:lang="en"/>
                               <figDesc ana="" n="v" xml:lang="de"/>
-                              <figDesc ana="" n="decoV" xml:lang="en">Cross at the beginning of the legend. Border of dots. </figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="de">Kreuz am Anfang der Legende. Perlrand.</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="el">Σταυρός στην αρχή της επιγραφής. Στικτό
+                              <figDesc n="decoV" xml:lang="en">Cross at the beginning of the legend. Border of dots. </figDesc>
+                              <figDesc n="decoV" xml:lang="de">Kreuz am Anfang der Legende. Perlrand.</figDesc>
+                              <figDesc n="decoV" xml:lang="el">Σταυρός στην αρχή της επιγραφής. Στικτό
                                             πλαίσιο. </figDesc>
                            </figure>
                         </decoNote>

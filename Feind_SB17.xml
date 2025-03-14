@@ -230,9 +230,9 @@
                               <figDesc ana="" n="r" xml:lang="en">The Mother of God standing, holding the Christ on her left arm (Hodegetria). No sigla visible. Along the circumference, a partially preserved circular inscription beginning with a cross at 7h.</figDesc>
                               <figDesc ana="" n="r" xml:lang="de">Stehende Muttergottes mit dem Christuskind im linken Arm (Hodegetria). Umlaufende Inschrift nur teilweise lesbar..</figDesc>
                               <figDesc ana="" n="r" xml:lang="el">Ιστάμενη Θεοτόκος, κρατάει το Χριστό στο αριστερό της χέρι (Οδηγήτρια) Δεν διακρίνονται σίγλλα. Στην περιφέρεια του κύκλου, μερικώς διατηρημένη κυκλοτερή επιγραφή, η οποία ξεκινάει με σταυρό από το σημείο του άξονα 7.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="en">Border indistinct.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="de">Grenze undeutlich..</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="el">Δεν διακρίνεται πλαίσιο.</figDesc>
+                              <figDesc n="decoR" xml:lang="en">Border indistinct.</figDesc>
+                              <figDesc n="decoR" xml:lang="de">Grenze undeutlich..</figDesc>
+                              <figDesc n="decoR" xml:lang="el">Δεν διακρίνεται πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -279,9 +279,9 @@
                            <figure>
                               <figDesc ana="" n="v" xml:lang="en"/>
                               <figDesc ana="" n="v" xml:lang="de"/>
-                              <figDesc ana="" n="decoV" xml:lang="en"/>
-                              <figDesc ana="" n="decoV" xml:lang="de"/>
-                              <figDesc ana="" n="decoV" xml:lang="el"/>
+                              <figDesc n="decoV" xml:lang="en"/>
+                              <figDesc n="decoV" xml:lang="de"/>
+                              <figDesc n="decoV" xml:lang="el"/>
                            </figure>
                         </decoNote>
                      </decoDesc>

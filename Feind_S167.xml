@@ -242,11 +242,11 @@
                            <figure>
                               <figDesc ana="" n="r" xml:lang="en"/>
                               <figDesc ana="" n="r" xml:lang="de"/>
-                              <figDesc ana="" n="decoR" xml:lang="en">No border
+                              <figDesc n="decoR" xml:lang="en">No border
                                             visible.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="de">Kein Rand
+                              <figDesc n="decoR" xml:lang="de">Kein Rand
                                             sichtbar.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="el">Δεν διακρίνεται πλαίσιο.</figDesc>
+                              <figDesc n="decoR" xml:lang="el">Δεν διακρίνεται πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -292,11 +292,11 @@
                            <figure>
                               <figDesc ana="" n="v" xml:lang="en"/>
                               <figDesc ana="" n="v" xml:lang="de"/>
-                              <figDesc ana="" n="decoV" xml:lang="en">No border
+                              <figDesc n="decoV" xml:lang="en">No border
                                             visible.</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="de">Kein Rand
+                              <figDesc n="decoV" xml:lang="de">Kein Rand
                                             sichtbar.</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="el">Δεν διακρίνεται πλαίσιο.</figDesc>
+                              <figDesc n="decoV" xml:lang="el">Δεν διακρίνεται πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>

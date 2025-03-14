@@ -254,9 +254,9 @@
                               <figDesc ana="" n="r" xml:lang="en">Bust in profile, facing right (details indistinct).</figDesc>
                               <figDesc ana="" n="r" xml:lang="de">Büste im Profil, Blick nach rechts (Details undeutlich).</figDesc>
                               <figDesc ana="" n="r" xml:lang="el">Προτομή κατά κρόταφον προς τα δεξιά (δεν διακρίνονται λεπτομέρειες).</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="en">Wreath border.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="de">Schachtelhalmrand</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="el">Στεφανωτό πλαίσιο.</figDesc>
+                              <figDesc n="decoR" xml:lang="en">Wreath border.</figDesc>
+                              <figDesc n="decoR" xml:lang="de">Schachtelhalmrand</figDesc>
+                              <figDesc n="decoR" xml:lang="el">Στεφανωτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -302,9 +302,9 @@
                            <figure>
                               <figDesc ana="" n="v" xml:lang="en"/>
                               <figDesc ana="" n="v" xml:lang="de"/>
-                              <figDesc ana="" n="decoV" xml:lang="en">Wreath border.</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="de">Schachtelhalmrand</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="el">Στεφανωτό πλαίσιο.</figDesc>
+                              <figDesc n="decoV" xml:lang="en">Wreath border.</figDesc>
+                              <figDesc n="decoV" xml:lang="de">Schachtelhalmrand</figDesc>
+                              <figDesc n="decoV" xml:lang="el">Στεφανωτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>

@@ -196,9 +196,9 @@
                               <figDesc ana="" n="r" xml:lang="en">Two imperial busts (details indistinct). </figDesc>
                               <figDesc ana="" n="r" xml:lang="de">Zwei kaiserliche Büsten (Details undeutlich).</figDesc>
                               <figDesc ana="" n="r" xml:lang="el">Δύο αυτοκρατορικές προτομές (ασαφείς λεπτομέρειες).</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="en">No border visible.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="de">Kein Rand sichtbar.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="el">Μη ορατό πλαίσιο.</figDesc>
+                              <figDesc n="decoR" xml:lang="en">No border visible.</figDesc>
+                              <figDesc n="decoR" xml:lang="de">Kein Rand sichtbar.</figDesc>
+                              <figDesc n="decoR" xml:lang="el">Μη ορατό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -241,9 +241,9 @@
                      <decoDesc>
                         <decoNote>
                            <figure>
-                              <figDesc ana="" n="decoV" xml:lang="en">No border visible.</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="de">Kein Rand sichtbar.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="el">Μη ορατό πλαίσιο.</figDesc>
+                              <figDesc n="decoV" xml:lang="en">No border visible.</figDesc>
+                              <figDesc n="decoV" xml:lang="de">Kein Rand sichtbar.</figDesc>
+                              <figDesc n="decoR" xml:lang="el">Μη ορατό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>

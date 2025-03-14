@@ -240,11 +240,11 @@
                            <figure>
                               <figDesc ana="" n="r" xml:lang="en"/>
                               <figDesc ana="" n="r" xml:lang="de"/>
-                              <figDesc ana="" n="decoR" xml:lang="en">Cross at the beginning of
+                              <figDesc n="decoR" xml:lang="en">Cross at the beginning of
                                             the legend. Border of dots.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="de">Kreuz am Anfang der
+                              <figDesc n="decoR" xml:lang="de">Kreuz am Anfang der
                                             Legende. Perlrand.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="el">Σταυρός στην αρχή της επιγραφής. Στικτό πλαίσιο.</figDesc>
+                              <figDesc n="decoR" xml:lang="el">Σταυρός στην αρχή της επιγραφής. Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -290,11 +290,11 @@
                            <figure>
                               <figDesc ana="" n="v" xml:lang="en"/>
                               <figDesc ana="" n="v" xml:lang="de"/>
-                              <figDesc ana="" n="decoV" xml:lang="en">The first and the last line
+                              <figDesc n="decoV" xml:lang="en">The first and the last line
                                             are between two dashes. Border of dots.</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="de">Die erste und letzte Zeile
+                              <figDesc n="decoV" xml:lang="de">Die erste und letzte Zeile
                                             sind zwischen zwei Zierlinien. Perlrand.</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="el">Ο πρώτος και τελευταίος στίχος της επιγραφής βρίσκεται ανάμεσα σε δυο οριζόντιες γραμμές. Στικτό πλαίσιο.</figDesc>
+                              <figDesc n="decoV" xml:lang="el">Ο πρώτος και τελευταίος στίχος της επιγραφής βρίσκεται ανάμεσα σε δυο οριζόντιες γραμμές. Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>

@@ -252,9 +252,9 @@
                                             hält (Hodegetria). Details undeutlich. Reste von Siglen
                                             auf beiden Seiten erkennbar.</figDesc>
                               <figDesc ana="female person Virgin Christ bust child" n="r" xml:lang="el"> Προτομή Θεοτόκου, κρατάει τον Χριστό στο αριστερό της χέρι (Οδηγήτρια). Δεν διακρίνονται λεπτομέρειες. Ίχνη σίγλλα και στις δύο πλευρές. </figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="en">Border of dots.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="de">Perlrand</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="el">Στικτό πλαίσιο.</figDesc>
+                              <figDesc n="decoR" xml:lang="en">Border of dots.</figDesc>
+                              <figDesc n="decoR" xml:lang="de">Perlrand</figDesc>
+                              <figDesc n="decoR" xml:lang="el">Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -297,12 +297,12 @@
                         <decoNote>
                            <figure>
                                         <!--<figDesc n="v" xml:lang="en" ana=""/>-->
-                              <figDesc ana="" n="decoV" xml:lang="en">The last line is between
+                              <figDesc n="decoV" xml:lang="en">The last line is between
                                             two dashes (preserved at right). Border of dots.</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="de">Die letzte Zeile ist
+                              <figDesc n="decoV" xml:lang="de">Die letzte Zeile ist
                                             zwischen zwei Zierlinien (auf der rechten Seite
                                             erhalten). Perlrand.</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="el">Διακοσμητικό μοτίβο το οποίο αποτελείται από δύο γραμμές (διατηρείται στα δεξία του πεδίου). Στικτό πλαίσιο.</figDesc>
+                              <figDesc n="decoV" xml:lang="el">Διακοσμητικό μοτίβο το οποίο αποτελείται από δύο γραμμές (διατηρείται στα δεξία του πεδίου). Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>

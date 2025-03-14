@@ -245,11 +245,11 @@
                                             möglicherweise ein Pfau, mit Zweig oder Ranke im
                                             Schnabel.</figDesc>
                               <figDesc ana="" n="r" xml:lang="el">Ένα πουλί, πιθανότατα ένα παγώνι, στραμμένο προς τα δεξιά, κρατώντας ένα κλαδί ή ένα κλωνάρι στο ράμφος του.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="en">Cross at the beginning of
+                              <figDesc n="decoR" xml:lang="en">Cross at the beginning of
                                             the legend. Border of dots.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="de">Kreuz am Anfang der
+                              <figDesc n="decoR" xml:lang="de">Kreuz am Anfang der
                                             Legende. Perlrand.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="el">Σταυρός στην αρχή της επιγραφής. Στικτό πλαίσιο.</figDesc>
+                              <figDesc n="decoR" xml:lang="el">Σταυρός στην αρχή της επιγραφής. Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -295,13 +295,13 @@
                            <figure>
                               <figDesc ana="" n="v" xml:lang="en"/>
                               <figDesc ana="" n="v" xml:lang="de"/>
-                              <figDesc ana="" n="decoV" xml:lang="en">Cross at the beginning of the legend. Below the legend, a
+                              <figDesc n="decoV" xml:lang="en">Cross at the beginning of the legend. Below the legend, a
                                             decoration consisting of a cross of dots set between two
                                             dashes. Border of dots.</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="de">Kreuz am Anfang der Legende. Unterhalb der Legende, eine
+                              <figDesc n="decoV" xml:lang="de">Kreuz am Anfang der Legende. Unterhalb der Legende, eine
                                             Dekoration aus vier Punkten zwischen zwei Zierlinien.
                                             Perlrand.</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="el">Σταυρός στην αρχή της επιγραφής. Κάτω από την επιγραφή διακοσμητικό μοτίβο το οποίο αποτελείται από έναν σταυρό από στιγμές ανάμεσα σε δύο γραμμές. Στικτό πλαίσιο.</figDesc>
+                              <figDesc n="decoV" xml:lang="el">Σταυρός στην αρχή της επιγραφής. Κάτω από την επιγραφή διακοσμητικό μοτίβο το οποίο αποτελείται από έναν σταυρό από στιγμές ανάμεσα σε δύο γραμμές. Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>

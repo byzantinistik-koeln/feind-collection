@@ -231,9 +231,9 @@
                               <figDesc ana="" n="r" xml:lang="en">Bust of the Mother of God (Hodegetria) holding the Child in her left arm. Sigla on either side.</figDesc>
                               <figDesc ana="" n="r" xml:lang="de">Büste der Muttergottes Hodegetria. Beischrift auf beiden Seiten.</figDesc>
                               <figDesc ana="" n="r" xml:lang="el">Προτομή της Θεοτόκου (Οδηγήτρια), που κρατάει το Χριστό στο αριστερό της χέρι. Διατηρούνται σίγλλα και στις δυο πλευρές του πεδίου.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="en">Border of dots.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="de">Perlrand</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="el">Στικτό πλαίσιο.</figDesc>
+                              <figDesc n="decoR" xml:lang="en">Border of dots.</figDesc>
+                              <figDesc n="decoR" xml:lang="de">Perlrand</figDesc>
+                              <figDesc n="decoR" xml:lang="el">Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -280,9 +280,9 @@
                            <figure>
                               <figDesc ana="" n="v" xml:lang="en"/>
                               <figDesc ana="" n="v" xml:lang="de"/>
-                              <figDesc ana="" n="decoV" xml:lang="en">Cross at the beginning of the legend. Above, a decoration consisting of a dot between two dashes. Border of dots.</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="de">Kreuz am Anfang der Legende. Oben eine Dekoration bestehend aus einem Punkt zwischen zwei Strichen. Perlrand</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="el">Σταυρός στην αρχή της επιγραφής.  Απο πάνω,  διακοσμητικό μοτίβο, το οποίο  αποτελείται από μια στιγμή ανάμεσα σε δύο γραμμές. Στικτό πλαίσιο.</figDesc>
+                              <figDesc n="decoV" xml:lang="en">Cross at the beginning of the legend. Above, a decoration consisting of a dot between two dashes. Border of dots.</figDesc>
+                              <figDesc n="decoV" xml:lang="de">Kreuz am Anfang der Legende. Oben eine Dekoration bestehend aus einem Punkt zwischen zwei Strichen. Perlrand</figDesc>
+                              <figDesc n="decoV" xml:lang="el">Σταυρός στην αρχή της επιγραφής.  Απο πάνω,  διακοσμητικό μοτίβο, το οποίο  αποτελείται από μια στιγμή ανάμεσα σε δύο γραμμές. Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>

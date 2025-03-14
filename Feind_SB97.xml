@@ -260,9 +260,9 @@
                                             ihr. Details unklar. Sigla auf beiden Seiten.</figDesc>
                               <figDesc ana="female person Virgin Christ bust child medallion" n="r" xml:lang="el">Προτομή της Θεοτόκου με το μετάλλιο του Χριστού μπροστά στο στήθος της. Οι λεπτομέρειες δεν είναι διακριτές. Σίγλλα και
                                             στις δύο πλευρές.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="en">Border of dots.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="de">Perlrand</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="el">Στικτό πλαίσιο.</figDesc>
+                              <figDesc n="decoR" xml:lang="en">Border of dots.</figDesc>
+                              <figDesc n="decoR" xml:lang="de">Perlrand</figDesc>
+                              <figDesc n="decoR" xml:lang="el">Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -305,11 +305,11 @@
                         <decoNote>
                            <figure>
                                         <!--<figDesc n="v" xml:lang="en" ana=""/>-->
-                              <figDesc ana="" n="decoV" xml:lang="en">Above, a decoration
+                              <figDesc n="decoV" xml:lang="en">Above, a decoration
                                             consisting of three dashes. Border of dots.</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="de">Oben eine Verzierung
+                              <figDesc n="decoV" xml:lang="de">Oben eine Verzierung
                                             bestehend aus drei Strichen. Perlrand. </figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="el">Στην κορύφη, διακοσμητικό
+                              <figDesc n="decoV" xml:lang="el">Στην κορύφη, διακοσμητικό
                                             μοτίβο, το οποίο αποτελείται απο τρεις γραμμές. Στικτό
                                             πλαίσιο.</figDesc>
                            </figure>

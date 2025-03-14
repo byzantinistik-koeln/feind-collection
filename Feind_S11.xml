@@ -243,9 +243,9 @@
                            <figure>
                               <figDesc ana="" n="r" xml:lang="en"/>
                               <figDesc ana="" n="r" xml:lang="de"/>
-                              <figDesc ana="" n="decoR" xml:lang="en">Wreath border.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="de">Schachtelhelmrand.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="el">Στεφανωτό πλαίσιο.</figDesc>
+                              <figDesc n="decoR" xml:lang="en">Wreath border.</figDesc>
+                              <figDesc n="decoR" xml:lang="de">Schachtelhelmrand.</figDesc>
+                              <figDesc n="decoR" xml:lang="el">Στεφανωτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -291,9 +291,9 @@
                            <figure>
                               <figDesc ana="" n="v" xml:lang="en"/>
                               <figDesc ana="" n="v" xml:lang="de"/>
-                              <figDesc ana="" n="decoV" xml:lang="en">Wreath border. Legend followed by a cross on a separate line.</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="de">Schachtelhelmrand. Kreuz in einer separaten Zeile.</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="el">Στεφανωτό πλαίσιο. Σταυρός σε ξεχωριστή γραμμή κάτω από την επιγραφή.</figDesc>
+                              <figDesc n="decoV" xml:lang="en">Wreath border. Legend followed by a cross on a separate line.</figDesc>
+                              <figDesc n="decoV" xml:lang="de">Schachtelhelmrand. Kreuz in einer separaten Zeile.</figDesc>
+                              <figDesc n="decoV" xml:lang="el">Στεφανωτό πλαίσιο. Σταυρός σε ξεχωριστή γραμμή κάτω από την επιγραφή.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>

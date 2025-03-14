@@ -238,9 +238,9 @@
                               <figDesc ana="" n="r" xml:lang="en">Bust of the Mother of God holding the Child in her left arm. In the field on either side, a palm or cypress tree.</figDesc>
                               <figDesc ana="" n="r" xml:lang="de">Büste der Gottesmutter, die das Kind im linken Arm hält. Auf dem Feld auf beiden Seiten eine Palme oder Zypresse.</figDesc>
                               <figDesc ana="" n="r" xml:lang="el">Προτομή της Θεοτόκου που κρατά το Χριστό στο αριστερό της χέρι. Στο πεδίο εκατέρωθεν, φοίνικας ή κυπαρίσσι.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="en">Wreath border.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="de">Schachtelhalmrand.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="el">Στεφανωτό πλαίσιο.</figDesc>
+                              <figDesc n="decoR" xml:lang="en">Wreath border.</figDesc>
+                              <figDesc n="decoR" xml:lang="de">Schachtelhalmrand.</figDesc>
+                              <figDesc n="decoR" xml:lang="el">Στεφανωτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -285,9 +285,9 @@
                            <figure>
                               <figDesc ana="" n="v" xml:lang="en"/>
                               <figDesc ana="" n="v" xml:lang="de"/>
-                              <figDesc ana="" n="decoV" xml:lang="en">Cross at the beginning of the legend.  Wreath border. </figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="de">Kreuz am Anfang der Legende. Schachtelhalmrand.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="el">Σταυρός στην αρχή της επιγραφής. Στεφανωτό πλαίσιο.</figDesc>
+                              <figDesc n="decoV" xml:lang="en">Cross at the beginning of the legend.  Wreath border. </figDesc>
+                              <figDesc n="decoV" xml:lang="de">Kreuz am Anfang der Legende. Schachtelhalmrand.</figDesc>
+                              <figDesc n="decoR" xml:lang="el">Σταυρός στην αρχή της επιγραφής. Στεφανωτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>

@@ -235,9 +235,9 @@
                            <figure>
                               <figDesc ana="" n="r" xml:lang="en"/>
                               <figDesc ana="" n="r" xml:lang="de"/>
-                              <figDesc ana="" n="decoR" xml:lang="en">Above the legend, a decoration consisting of a cross. Border of dots.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="de">Über der Legende befindet sich eine Verzierung in Form eines Kreuzes. Perlrand.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="el">Πάνω από την επιγραφή διακοσμητικό μοτίβο σε σχήμα σταυρού. Στικτό πλαίσιο.</figDesc>
+                              <figDesc n="decoR" xml:lang="en">Above the legend, a decoration consisting of a cross. Border of dots.</figDesc>
+                              <figDesc n="decoR" xml:lang="de">Über der Legende befindet sich eine Verzierung in Form eines Kreuzes. Perlrand.</figDesc>
+                              <figDesc n="decoR" xml:lang="el">Πάνω από την επιγραφή διακοσμητικό μοτίβο σε σχήμα σταυρού. Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -282,9 +282,9 @@
                            <figure>
                               <figDesc ana="" n="v" xml:lang="en"/>
                               <figDesc ana="" n="v" xml:lang="de"/>
-                              <figDesc ana="" n="decoV" xml:lang="en">Above the legend, a decoration consisting of a cross.</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="de">Über der Legende befindet sich eine Verzierung in Form eines Kreuzes.</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="el">Πάνω από την επιγραφή διακοσμητικό μοτίβο σε σχήμα σταυρού. </figDesc>
+                              <figDesc n="decoV" xml:lang="en">Above the legend, a decoration consisting of a cross.</figDesc>
+                              <figDesc n="decoV" xml:lang="de">Über der Legende befindet sich eine Verzierung in Form eines Kreuzes.</figDesc>
+                              <figDesc n="decoV" xml:lang="el">Πάνω από την επιγραφή διακοσμητικό μοτίβο σε σχήμα σταυρού. </figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>

@@ -239,9 +239,9 @@
                               <figDesc ana="" n="r" xml:lang="de">Patriarchenkreuz auf drei Stufen.</figDesc>
                               <figDesc ana="" n="r" xml:lang="el">Πατριαρχικός σταυρός υψώνεται  επάνω σε τριβαθμιδωτή
                                  βάση.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="en">Cross at he beginning of the legend. Border of dots.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="de">Kreuz am Anfang der Legende. Perlrand.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="el">Σταυρός στην αρχή της επιγραφής. Στικτό πλαίσιο.</figDesc>
+                              <figDesc n="decoR" xml:lang="en">Cross at he beginning of the legend. Border of dots.</figDesc>
+                              <figDesc n="decoR" xml:lang="de">Kreuz am Anfang der Legende. Perlrand.</figDesc>
+                              <figDesc n="decoR" xml:lang="el">Σταυρός στην αρχή της επιγραφής. Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -287,9 +287,9 @@
                            <figure>
                               <figDesc ana="" n="v" xml:lang="en"/>
                               <figDesc ana="" n="v" xml:lang="de"/>
-                              <figDesc ana="" n="decoV" xml:lang="en">Above the legend, a decoration consisting of three dots. Border of dots.</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="de">Drei Punkte oberhalb der Legende. Perlrand.</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="el">Πάνω από την επιγραφή, διακοσμητικό μοτίβο, το οποίο αποτελείται από τρεις στιγμές. Στικτό πλαίσιο.</figDesc>
+                              <figDesc n="decoV" xml:lang="en">Above the legend, a decoration consisting of three dots. Border of dots.</figDesc>
+                              <figDesc n="decoV" xml:lang="de">Drei Punkte oberhalb der Legende. Perlrand.</figDesc>
+                              <figDesc n="decoV" xml:lang="el">Πάνω από την επιγραφή, διακοσμητικό μοτίβο, το οποίο αποτελείται από τρεις στιγμές. Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>

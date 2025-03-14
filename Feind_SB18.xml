@@ -231,9 +231,9 @@
                               <figDesc ana="" n="r" xml:lang="en">Bust of St John the Baptist offering a blessing with his right hand and holding a scroll in his left. Legend on either side.</figDesc>
                               <figDesc ana="" n="r" xml:lang="de">Büste des hl. Johannes Prodromos mit Nimbus.</figDesc>
                               <figDesc ana="" n="r" xml:lang="el">Προτομή του αγ. Ιωάννη του Βαπτιστή, ευλογεί με το δεξί του χέρι και κρατά ειλητάριο στο αριστερό. Επιγραφή εκατέρωθεν του πεδίου.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="en">No border visible.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="de">Kein Rand sichtbar</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="el">Δεν διακρίνεται πλαίσιο.</figDesc>
+                              <figDesc n="decoR" xml:lang="en">No border visible.</figDesc>
+                              <figDesc n="decoR" xml:lang="de">Kein Rand sichtbar</figDesc>
+                              <figDesc n="decoR" xml:lang="el">Δεν διακρίνεται πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -280,9 +280,9 @@
                            <figure>
                               <figDesc ana="" n="v" xml:lang="en"/>
                               <figDesc ana="" n="v" xml:lang="de"/>
-                              <figDesc ana="" n="decoV" xml:lang="en">Cross at the beginning of the legend. No border visible.</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="de">Kreuz am Anfang der Legende. Kein Rand sichtbar</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="el">Σταυρός στην αρχή της επιγραφής. Δεν διακρίνεται πλαίσιο.</figDesc>
+                              <figDesc n="decoV" xml:lang="en">Cross at the beginning of the legend. No border visible.</figDesc>
+                              <figDesc n="decoV" xml:lang="de">Kreuz am Anfang der Legende. Kein Rand sichtbar</figDesc>
+                              <figDesc n="decoV" xml:lang="el">Σταυρός στην αρχή της επιγραφής. Δεν διακρίνεται πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>

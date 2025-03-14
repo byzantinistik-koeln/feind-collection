@@ -230,9 +230,9 @@
                               <figDesc ana="" n="r" xml:lang="en">Bust of the Mother of God with her hands open before her breast. Sigla preserved at right.</figDesc>
                               <figDesc ana="" n="r" xml:lang="de">Büste der Muttergottes mit vor der Brust geöffneten Händen. Sigla rechts erhalten.</figDesc>
                               <figDesc ana="" n="r" xml:lang="el">Προτομή της Θεοτόκου με τα χέρια ανοιχτά μπροστά στο στήθος της. Σίγλλα διατηρούνται στα δεξία του πεδίου.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="en">Border of dots.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="de">Perlrand</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="el">Στικτό πλαίσιο.</figDesc>
+                              <figDesc n="decoR" xml:lang="en">Border of dots.</figDesc>
+                              <figDesc n="decoR" xml:lang="de">Perlrand</figDesc>
+                              <figDesc n="decoR" xml:lang="el">Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -279,9 +279,9 @@
                            <figure>
                               <figDesc ana="" n="v" xml:lang="en"/>
                               <figDesc ana="" n="v" xml:lang="de"/>
-                              <figDesc ana="" n="decoV" xml:lang="en">Border of dots.</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="de">Perlrand</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="el">Στικτό πλαίσιο.</figDesc>
+                              <figDesc n="decoV" xml:lang="en">Border of dots.</figDesc>
+                              <figDesc n="decoV" xml:lang="de">Perlrand</figDesc>
+                              <figDesc n="decoV" xml:lang="el">Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>

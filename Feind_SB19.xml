@@ -241,9 +241,9 @@
                               <figDesc ana="" n="r" xml:lang="en">Bust of the archangel Michael with loros holding a trefoil sceptre in his right hand and a globus in his left.</figDesc>
                               <figDesc ana="" n="r" xml:lang="de">Büste des heiligen Michael mit Locken und Nimbus, der einen mit Perlen bestickten Loros trägt. Die rechte Hand hält ein dreiblättriges Szepter, die linke einen Globus.</figDesc>
                               <figDesc ana="" n="r" xml:lang="el">Προτομή αρχαγγέλου Μιχαήλ με λωρο, κρατάει σταυροφόρο σκήπτρο  στο δεξί του χέρι και σταυροφόρο σφαίρα στο αριστερό. .</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="en">Border of dots.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="de">Perlrand</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="el">Στικτό πλαίσιο.</figDesc>
+                              <figDesc n="decoR" xml:lang="en">Border of dots.</figDesc>
+                              <figDesc n="decoR" xml:lang="de">Perlrand</figDesc>
+                              <figDesc n="decoR" xml:lang="el">Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -289,11 +289,11 @@
                            <figure>
                               <figDesc ana="" n="v" xml:lang="en"/>
                               <figDesc ana="" n="v" xml:lang="de"/>
-                              <figDesc ana="" n="decoV" xml:lang="en">Cross at the beginning of
+                              <figDesc n="decoV" xml:lang="en">Cross at the beginning of
                                             the legend. The last line is between two dashes. Border of dots.</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="de">Kreuz am Anfang der
+                              <figDesc n="decoV" xml:lang="de">Kreuz am Anfang der
                                             Legende. Die letzte Zeile ist zwischen zwei Zierstrichen. Perlrand.</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="el">Σταυρός στην αρχή της επιγραφής. Ο τελευταίος στίχος ανάμεσα σε δύο στιγμές. Στικτό πλαίσιο.</figDesc>
+                              <figDesc n="decoV" xml:lang="el">Σταυρός στην αρχή της επιγραφής. Ο τελευταίος στίχος ανάμεσα σε δύο στιγμές. Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>

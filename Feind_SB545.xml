@@ -249,9 +249,9 @@
                                             Nimbus. Details unsicher. Im Feld auf jeder Seite ein
                                             Kreuz.</figDesc>
                               <figDesc ana="" n="r" xml:lang="el">Μορφή η οποία φέρει φωτοστέφανο και απεικονίζεται μετωπικά. Δεν διακρίνονται λεπτομέρειες. Στο πεδίο εκατέρωθεν της μορφής από ένας σταυρός.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="en">Wreath border.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="de">Schachtelhelmrand</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="el">Στεφανωτό πλαίσιο.</figDesc>
+                              <figDesc n="decoR" xml:lang="en">Wreath border.</figDesc>
+                              <figDesc n="decoR" xml:lang="de">Schachtelhelmrand</figDesc>
+                              <figDesc n="decoR" xml:lang="el">Στεφανωτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -299,9 +299,9 @@
                            <figure>
                               <figDesc ana="" n="v" xml:lang="en"/>
                               <figDesc ana="" n="v" xml:lang="de"/>
-                              <figDesc ana="" n="decoV" xml:lang="en">Wreath border.</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="de">Schachtelhelmrand</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="el">Στεφανωτό πλαίσιο.</figDesc>
+                              <figDesc n="decoV" xml:lang="en">Wreath border.</figDesc>
+                              <figDesc n="decoV" xml:lang="de">Schachtelhelmrand</figDesc>
+                              <figDesc n="decoV" xml:lang="el">Στεφανωτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>

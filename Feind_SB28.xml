@@ -234,9 +234,9 @@
                               <figDesc ana="" n="r" xml:lang="en">Bust of a saint, probably St Basil, offering a blessing with his right hand and holding a book in his left. Details indistinct. Traces of a legend on either side: A or B at left and O at right.</figDesc>
                               <figDesc ana="" n="r" xml:lang="de">Büste eines Heiligen mit Locken und Nimbus. Er trägt einen mit Perlen bestickten Loros, hält eine Bibel vor sich.</figDesc>
                               <figDesc ana="" n="r" xml:lang="el">Προτομή αγίου, πιθανώς του αγίου Βασιλείου, ευλογεί με το δεξί του χέρι και κρατά Ευαγγέλιο στο αριστερό. Λεπτομέρειες δυσδιάκριτες. Ίχνη επιγραφής εκατέρωθεν της μορφής: Α ή Β αριστερά και Ο δεξιά του πεδίου.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="en">Border of dots.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="de">Perlrand</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="el">Στικτό πλαίσιο.</figDesc>
+                              <figDesc n="decoR" xml:lang="en">Border of dots.</figDesc>
+                              <figDesc n="decoR" xml:lang="de">Perlrand</figDesc>
+                              <figDesc n="decoR" xml:lang="el">Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -283,9 +283,9 @@
                            <figure>
                               <figDesc ana="" n="v" xml:lang="en"/>
                               <figDesc ana="" n="v" xml:lang="de"/>
-                              <figDesc ana="" n="decoV" xml:lang="en">Border of dots.</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="de">Perlrand</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="el">Στικτό πλαίσιο.</figDesc>
+                              <figDesc n="decoV" xml:lang="en">Border of dots.</figDesc>
+                              <figDesc n="decoV" xml:lang="de">Perlrand</figDesc>
+                              <figDesc n="decoV" xml:lang="el">Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>

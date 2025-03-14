@@ -218,9 +218,9 @@
                               <figDesc ana="2-persons male saint St-Peter St-Paul standing" n="r" xml:lang="en">Two standing saints (Peter and Paul?). Details indistinct. Traces of a legend at right.</figDesc>
                               <figDesc ana="2-persons male saint St-Peter St-Paul standing" n="r" xml:lang="de">Zwei stehende Heilige (Petrus und Paulus?). Details undeutlich. Reste einer Legende auf der rechten Seite.</figDesc>
                               <figDesc ana="2-persons male saint St-Peter St-Paul standing" n="r" xml:lang="el">Δύο ιστάμενες μορφές (Πέτρος και Παύλος;) Δεν διακρίνονται λεπτομέρειες. Ίχνη επιγραφής στα δεξιά του πεδίου.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="en">Border of dots.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="de">Perlrand</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="el">Στικτό πλαίσιο.</figDesc>
+                              <figDesc n="decoR" xml:lang="en">Border of dots.</figDesc>
+                              <figDesc n="decoR" xml:lang="de">Perlrand</figDesc>
+                              <figDesc n="decoR" xml:lang="el">Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -263,9 +263,9 @@
                         <decoNote>
                            <figure>
                                         <!--<figDesc n="v" xml:lang="en" ana=""/>-->
-                              <figDesc ana="" n="decoV" xml:lang="en">Cross at the beginning of the legend. The last line ist between two dots. Above the legend, a decoration consists of a dash and a dot. Border of dots.</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="de">Kreuz am Anfang der Legende. Die letzte Zeile ist zwischen zwei Punkten. Oberhalb der Legende ist eine Dekoration aus einer Zierlinie und einem Punkt. Perlrand.</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="el">Σταυρός στην αρχή της επιγραφής. Ο τελευταίος στίχος βρίσκεται ανάμεσα σε δύο στίγμες. Πάνω από την επιγραφή, διακοσμητικό μοτίβο, το οποίο αποτελείται από μία γραμμή και μια στιγμή. Στικτό πλαίσιο.</figDesc>
+                              <figDesc n="decoV" xml:lang="en">Cross at the beginning of the legend. The last line ist between two dots. Above the legend, a decoration consists of a dash and a dot. Border of dots.</figDesc>
+                              <figDesc n="decoV" xml:lang="de">Kreuz am Anfang der Legende. Die letzte Zeile ist zwischen zwei Punkten. Oberhalb der Legende ist eine Dekoration aus einer Zierlinie und einem Punkt. Perlrand.</figDesc>
+                              <figDesc n="decoV" xml:lang="el">Σταυρός στην αρχή της επιγραφής. Ο τελευταίος στίχος βρίσκεται ανάμεσα σε δύο στίγμες. Πάνω από την επιγραφή, διακοσμητικό μοτίβο, το οποίο αποτελείται από μία γραμμή και μια στιγμή. Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>

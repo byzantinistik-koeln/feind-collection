@@ -239,13 +239,13 @@
                            <figure>
                               <figDesc ana="" n="r" xml:lang="en"/>
                               <figDesc ana="" n="r" xml:lang="de"/>
-                              <figDesc ana="" n="decoR" xml:lang="en">Cross at the beginning of
+                              <figDesc n="decoR" xml:lang="en">Cross at the beginning of
                                             the legend. Below, a decoration consisting of a dot
                                             between two dashes. Border of dots.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="de">Kreuz am Anfang der
+                              <figDesc n="decoR" xml:lang="de">Kreuz am Anfang der
                                             Legende. Darunter eine Verzierung, bestehend aus einem
                                             Punkt zwischen zwei Strichen. Perlrand.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="el">Σταυρός στην αρχή της
+                              <figDesc n="decoR" xml:lang="el">Σταυρός στην αρχή της
                                             επιγραφής. Κάτω από την επιγραφή, διακοσμητικό μοτίβο το
                                             οποίο αποτελείται απο μία στιγμή ανάμεσα σε δύο οριζόντιες γραμμές. Στικτό πλαίσιο.</figDesc>
                            </figure>
@@ -294,14 +294,14 @@
                            <figure>
                               <figDesc ana="" n="v" xml:lang="en"/>
                               <figDesc ana="" n="v" xml:lang="de"/>
-                              <figDesc ana="" n="decoV" xml:lang="en">Above, remnants of a
+                              <figDesc n="decoV" xml:lang="en">Above, remnants of a
                                             decoration; below, a decoration consisting of a cross
                                             between two dashes. Border of dots.</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="de">Über der Legende Reste
+                              <figDesc n="decoV" xml:lang="de">Über der Legende Reste
                                             einer Verzierung; unterhalb eine Verzierung, die aus
                                             einem Kreuz zwischen zwei Strichen besteht.
                                             Perlrand.</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="el">Πάνω από την επιγραφή,
+                              <figDesc n="decoV" xml:lang="el">Πάνω από την επιγραφή,
                                             υπολείμματα διακοσμητικού μοτίβου˙ κάτω απο την
                                             επιγραφή, διακοσμητικό μοτίβο το οποίο αποτελείται απο
                                             ένα σταυρό ανάμεσα σε δύο οριζόντιες γραμμέ. Στικτό

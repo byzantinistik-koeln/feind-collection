@@ -218,9 +218,9 @@
                                             und einen Schild in der linken Hand hält. Die Legende
                                             ist nicht erhalten.</figDesc>
                               <figDesc ana="person male saint military bust shield spear" n="r" xml:lang="el">Προτομή στρατιωτικού αγίου, που κρατάει δόρι στο δεξί χέρι και ασπίδα στο αριστερό. Δεν σώζεται επιγραφή.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="en">Border of dots.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="de">Perlrand</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="el">Στικτό πλαίσιο.</figDesc>
+                              <figDesc n="decoR" xml:lang="en">Border of dots.</figDesc>
+                              <figDesc n="decoR" xml:lang="de">Perlrand</figDesc>
+                              <figDesc n="decoR" xml:lang="el">Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -263,10 +263,10 @@
                         <decoNote>
                            <figure>
                                         <!--<figDesc n="v" xml:lang="en" ana=""/>-->
-                              <figDesc ana="" n="decoV" xml:lang="en">Cross at the beginning of the legend. At the end of the first, third and last line is a dash. Border of
+                              <figDesc n="decoV" xml:lang="en">Cross at the beginning of the legend. At the end of the first, third and last line is a dash. Border of
                                             dots.</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="de">Kreuz am Anfang der Legende. Eine Zierlinie befindet sich jeweils am Ende der ersten, dritten und letzten Zeile. Perlrand.</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="el">Σταυρός στην αρχή της επιγραφής. Στο τέλος του πρώτου, τρίτου και του τελευταίου στίχου υπάρχει μία γραμμή. Στικτό πλαίσιο.</figDesc>
+                              <figDesc n="decoV" xml:lang="de">Kreuz am Anfang der Legende. Eine Zierlinie befindet sich jeweils am Ende der ersten, dritten und letzten Zeile. Perlrand.</figDesc>
+                              <figDesc n="decoV" xml:lang="el">Σταυρός στην αρχή της επιγραφής. Στο τέλος του πρώτου, τρίτου και του τελευταίου στίχου υπάρχει μία γραμμή. Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>

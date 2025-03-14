@@ -231,9 +231,9 @@
                               <figDesc ana="" n="r" xml:lang="en">A rosace or floral pattern consisting of a cross adorned with a pellet in the middle and at the end of each arm, and with fleurons in the quarters. Along the circumference, a partially preserved circular inscription beginning at 12 o’clock.</figDesc>
                               <figDesc ana="" n="r" xml:lang="de">Kreuz mit Pflanzenornamente in den vier Ecken und in einem Perlenrand enthalten. Umlaufende Inschrift.</figDesc>
                               <figDesc ana="" n="r" xml:lang="el">Ρόδακας ή φυτικό μοτίβο, το οποίο αποτελείται από έναν σταυρό, ο οποίος κοσμείται από ένα σφαιρίδιο στη μέση και στην άκρη κάθε βραχίονα του σταυρού. Μικρότερα φυτικά μοτίβα σχηματίζονται στα τεταρτημόρια του σταυρού. Κατά μήκος της περιφέρειας, διακρίνεται μια μερικώς διατηρημένη κυκλοτερή επιγραφή που αρχίζει από το σημείο του άξονα 12.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="en">Border of dots.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="de">Perlrand</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="el">Στικτό πλαίσιο.</figDesc>
+                              <figDesc n="decoR" xml:lang="en">Border of dots.</figDesc>
+                              <figDesc n="decoR" xml:lang="de">Perlrand</figDesc>
+                              <figDesc n="decoR" xml:lang="el">Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -280,9 +280,9 @@
                            <figure>
                               <figDesc ana="" n="v" xml:lang="en"/>
                               <figDesc ana="" n="v" xml:lang="de"/>
-                              <figDesc ana="" n="decoV" xml:lang="en">Border of dots.</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="de">Perlrand</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="el">Στικτό πλαίσιο.</figDesc>
+                              <figDesc n="decoV" xml:lang="en">Border of dots.</figDesc>
+                              <figDesc n="decoV" xml:lang="de">Perlrand</figDesc>
+                              <figDesc n="decoV" xml:lang="el">Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>

@@ -233,9 +233,9 @@
                               <figDesc ana="" n="r" xml:lang="en">Leo III, Constantine V, and Leo IV seated, each wearing a chlamys and a crown with cross.</figDesc>
                               <figDesc ana="" n="r" xml:lang="de">Leon III, Konstantin V und Leon IV thronend, jeweils mit Chlamys und einer Krone mit Kreuz.</figDesc>
                               <figDesc ana="" n="r" xml:lang="el">Λέων Γ΄, Κωνσταντίνος Ε΄και Λέων Δ' ένθρονοι. Φορούν χλαμύδα και στέμμα με σταυρό.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="en">No border visible.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="de">Kein Rand sichtbar.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="el">Δεν διακρίνεται πλαίσιο.</figDesc>
+                              <figDesc n="decoR" xml:lang="en">No border visible.</figDesc>
+                              <figDesc n="decoR" xml:lang="de">Kein Rand sichtbar.</figDesc>
+                              <figDesc n="decoR" xml:lang="el">Δεν διακρίνεται πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -282,9 +282,9 @@
                               <figDesc ana="" n="v" xml:lang="en">Two imperial busts, probably Constantine VI and Irene. Details indistinct.</figDesc>
                               <figDesc ana="" n="v" xml:lang="de">Zwei kaiserliche Büsten, wahrscheinlich Konstantin VI und Irene. Details undeutlich.</figDesc>
                               <figDesc ana="" n="v" xml:lang="el">Δύο αυτοκρατορικές προτομές, πιθανώς του Κωνσταντίνου ΣΤ΄ και της Ειρήνης. Οι λεπτομέρειες είναι ασαφείς.</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="en">No border visible.</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="de">Kein Rand sichtbar.</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="el">Δεν διακρίνεται πλαίσιο.</figDesc>
+                              <figDesc n="decoV" xml:lang="en">No border visible.</figDesc>
+                              <figDesc n="decoV" xml:lang="de">Kein Rand sichtbar.</figDesc>
+                              <figDesc n="decoV" xml:lang="el">Δεν διακρίνεται πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>

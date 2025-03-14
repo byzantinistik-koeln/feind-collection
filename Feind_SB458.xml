@@ -203,11 +203,11 @@
                               <figDesc ana="" n="r" xml:lang="en">Bust of the Mother of God with her hands open before her breast. Some details indistinct. Sigla partially preserved at right.</figDesc>
                               <figDesc ana="" n="r" xml:lang="de">Büste der Muttergottes mit geöffneten Händen vor ihrer Brust. Details undeutlich. Teilweise Siglen auf der rechten Seite erhalten.</figDesc>
                               <figDesc ana="" n="r" xml:lang="el">Προτομή της Θεοτόκου με τα χέρια ανοιχτά μπροστά στο στήθος. Ορισμένές λεπτομέρειες δεν διακρίνονται. Σίγγλα διατηρούνται στα δεξιά του πεδίου.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="en">No border
+                              <figDesc n="decoR" xml:lang="en">No border
                                             visible.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="de">Kein Rand
+                              <figDesc n="decoR" xml:lang="de">Kein Rand
                                             sichtbar.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="el">Δεν διακρίνεται πλαίσιο.</figDesc>
+                              <figDesc n="decoR" xml:lang="el">Δεν διακρίνεται πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -253,11 +253,11 @@
                            <figure>
                               <figDesc ana="" n="v" xml:lang="en"/>
                               <figDesc ana="" n="v" xml:lang="de"/>
-                              <figDesc ana="" n="decoV" xml:lang="en">No border
+                              <figDesc n="decoV" xml:lang="en">No border
                                             visible.</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="de">Kein Rand
+                              <figDesc n="decoV" xml:lang="de">Kein Rand
                                             sichtbar.</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="el">Δεν διακρίνεται πλαίσιο.</figDesc>
+                              <figDesc n="decoV" xml:lang="el">Δεν διακρίνεται πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>

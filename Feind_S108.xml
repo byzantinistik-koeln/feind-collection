@@ -230,9 +230,9 @@
                            <figure>
                               <figDesc ana="" n="r" xml:lang="en"/>
                               <figDesc ana="" n="r" xml:lang="de"/>
-                              <figDesc ana="" n="decoR" xml:lang="en">Above and below, a decoration consisting of a cross between tendrils. Wreath border.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="de">Oben und unten ein Dekor bestehend aus einem Kreuz zwischen Ranken. Kranzrand.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="el">Επάνω και κάτω από την επιγραφή διακοσμητικό μοτίβο το οποίο αποτελείται απο έναν σταυρό ανάμεσα σε δύο λυρόσχημες έλικες. Στεφανωτό πλαίσιο.</figDesc>
+                              <figDesc n="decoR" xml:lang="en">Above and below, a decoration consisting of a cross between tendrils. Wreath border.</figDesc>
+                              <figDesc n="decoR" xml:lang="de">Oben und unten ein Dekor bestehend aus einem Kreuz zwischen Ranken. Kranzrand.</figDesc>
+                              <figDesc n="decoR" xml:lang="el">Επάνω και κάτω από την επιγραφή διακοσμητικό μοτίβο το οποίο αποτελείται απο έναν σταυρό ανάμεσα σε δύο λυρόσχημες έλικες. Στεφανωτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -278,9 +278,9 @@
                            <figure>
                               <figDesc ana="" n="v" xml:lang="en"/>
                               <figDesc ana="" n="v" xml:lang="de"/>
-                              <figDesc ana="" n="decoV" xml:lang="en">Above and below, a decoration consisting of a cross between tendrils. Wreath border.</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="de">Oben und unten ein Dekor bestehend aus einem Kreuz zwischen Ranken. Kranzrand.</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="el">Επάνω και κάτω από την επιγραφή διακοσμητικό μοτίβο το οποίο αποτελείται απο έναν σταυρό ανάμεσα σε δύο λυρόσχημες έλικες. Στεφανωτό πλαίσιο.</figDesc>
+                              <figDesc n="decoV" xml:lang="en">Above and below, a decoration consisting of a cross between tendrils. Wreath border.</figDesc>
+                              <figDesc n="decoV" xml:lang="de">Oben und unten ein Dekor bestehend aus einem Kreuz zwischen Ranken. Kranzrand.</figDesc>
+                              <figDesc n="decoV" xml:lang="el">Επάνω και κάτω από την επιγραφή διακοσμητικό μοτίβο το οποίο αποτελείται απο έναν σταυρό ανάμεσα σε δύο λυρόσχημες έλικες. Στεφανωτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>

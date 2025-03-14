@@ -231,9 +231,9 @@
                               <figDesc ana="" n="r" xml:lang="en">Bust of the Mother of God with her hands open before her breast. Sigla preserved at left.</figDesc>
                               <figDesc ana="" n="r" xml:lang="de">Büste der Muttergottes mit geöffneten Händen vor der Brust. Links erhaltene Sigla.</figDesc>
                               <figDesc ana="" n="r" xml:lang="el">Προτομή της Θεοτόκου με τα χέρια ανοιχτά μπροστά στο στήθος της.  Σίγλλα διατηρούνται στα αριστερά του πεδίου.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="en">Border of dots.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="de">Perlrand</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="el">Στικτό πλαίσιο.</figDesc>
+                              <figDesc n="decoR" xml:lang="en">Border of dots.</figDesc>
+                              <figDesc n="decoR" xml:lang="de">Perlrand</figDesc>
+                              <figDesc n="decoR" xml:lang="el">Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -280,9 +280,9 @@
                               <figDesc ana="" n="v" xml:lang="en"/>
                               <figDesc ana="" n="v" xml:lang="de"/>
                               <figDesc ana="" n="v" xml:lang="el"/>
-                              <figDesc ana="" n="decoV" xml:lang="en">Above the legend, remnants of a decoration consisting of a cross of dots set between two dashes. Τhe last line between two dashes. Border of dots. </figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="de">Oberhalb der Legende, Reste einer Verzierung, die aus einem Kreuz aus Punkten zwischen zwei Strichen besteht. Τdie letzte Zeile zwischen zwei Strichen. Perlrand.</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="el">Πάνω από την επιγραφή, ίχνη διακόσμησης. Αποτελείται από σταυρό από στιγμές ανάμεσα σε δύο γραμμές. Ο τελευταίος στίχος ανάμεσα σε δύο γραμμές. Στικτό πλαίσιο.</figDesc>
+                              <figDesc n="decoV" xml:lang="en">Above the legend, remnants of a decoration consisting of a cross of dots set between two dashes. Τhe last line between two dashes. Border of dots. </figDesc>
+                              <figDesc n="decoV" xml:lang="de">Oberhalb der Legende, Reste einer Verzierung, die aus einem Kreuz aus Punkten zwischen zwei Strichen besteht. Τdie letzte Zeile zwischen zwei Strichen. Perlrand.</figDesc>
+                              <figDesc n="decoV" xml:lang="el">Πάνω από την επιγραφή, ίχνη διακόσμησης. Αποτελείται από σταυρό από στιγμές ανάμεσα σε δύο γραμμές. Ο τελευταίος στίχος ανάμεσα σε δύο γραμμές. Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>

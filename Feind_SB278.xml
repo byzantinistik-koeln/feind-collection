@@ -235,9 +235,9 @@
                               <figDesc ana="" n="r" xml:lang="en">Bust of St John the Baptist holding a long staff cross over his left shoulder. Details indistinct. No legend visible.</figDesc>
                               <figDesc ana="" n="r" xml:lang="de">Büste des hl. Johannes Prodromos mit Nimbus, langen Haaren und Bart; er hält in seiner rechten Hand ein Stabkreuz.</figDesc>
                               <figDesc ana="" n="r" xml:lang="el">Προτομή του αγ. Ιωάννη του Βαπτιστή, που κρατάει έναν μακρύ σταυρό στον αριστερό του ώμο. Δεν διακρίνοται λεπτομέρειες. Μη ορατή επιγραφή.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="en">Border of dots.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="de">Perlrand</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="el">Στικτό πλαίσιο.</figDesc>
+                              <figDesc n="decoR" xml:lang="en">Border of dots.</figDesc>
+                              <figDesc n="decoR" xml:lang="de">Perlrand</figDesc>
+                              <figDesc n="decoR" xml:lang="el">Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -284,9 +284,9 @@
                            <figure>
                               <figDesc ana="" n="v" xml:lang="en"/>
                               <figDesc ana="" n="v" xml:lang="de"/>
-                              <figDesc ana="" n="decoV" xml:lang="en">Cross at the  beginning of the legend. Above and below, a decoration consisting of a cross of dots set between two dashes. Border of dots.</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="de">Kreuz am Anfang der Legende. Oben und unten ein Dekor bestehend aus einem Kreuz aus Punkten zwischen zwei Strichen. Perlrand</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="el"> Σταυρός στην αρχή της επιγραφής. Πάνω και κάτω από την επιγραφή, διακοσμητικό μοτίβο, το οποίο αποτελείται από ένα σταυρό από στιγμές ανάμεσα σε δυο γραμμές. Στικτό πλαίσιο.</figDesc>
+                              <figDesc n="decoV" xml:lang="en">Cross at the  beginning of the legend. Above and below, a decoration consisting of a cross of dots set between two dashes. Border of dots.</figDesc>
+                              <figDesc n="decoV" xml:lang="de">Kreuz am Anfang der Legende. Oben und unten ein Dekor bestehend aus einem Kreuz aus Punkten zwischen zwei Strichen. Perlrand</figDesc>
+                              <figDesc n="decoV" xml:lang="el"> Σταυρός στην αρχή της επιγραφής. Πάνω και κάτω από την επιγραφή, διακοσμητικό μοτίβο, το οποίο αποτελείται από ένα σταυρό από στιγμές ανάμεσα σε δυο γραμμές. Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>

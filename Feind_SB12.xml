@@ -246,9 +246,9 @@
                                             Nimbus. Die rechte Hand hält einen Speer, die linke
                                             einen Schild.</figDesc>
                               <figDesc ana="" n="r" xml:lang="el">Προτομή αγ. Δημητρίου, κρατάει δόρι στο δεξί χέρι και ασπίδα στο αριστερό .</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="en">Border of dots.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="de">Perlrand</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="el">Στικτό πλαίσιο.</figDesc>
+                              <figDesc n="decoR" xml:lang="en">Border of dots.</figDesc>
+                              <figDesc n="decoR" xml:lang="de">Perlrand</figDesc>
+                              <figDesc n="decoR" xml:lang="el">Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -302,11 +302,11 @@
                                             Nimbus und mit einem Märtyrerkreuz in der rechten
                                             Hand.</figDesc>
                               <figDesc ana="" n="v" xml:lang="el">Προτομή του αγ. Γεωργίου, κρατάει σταυρό στο δεξί του χέρι.</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="en">Cross at the beginning of
+                              <figDesc n="decoV" xml:lang="en">Cross at the beginning of
                                             the legend. Border of dots.</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="de">Kreuz am Anfang der
+                              <figDesc n="decoV" xml:lang="de">Kreuz am Anfang der
                                             Legende. Perlrand.</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="el">Σταυρός στην αρχή της επιγραφής. Στικτό πλαίσιο.</figDesc>
+                              <figDesc n="decoV" xml:lang="el">Σταυρός στην αρχή της επιγραφής. Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>

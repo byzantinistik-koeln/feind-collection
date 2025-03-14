@@ -234,11 +234,11 @@
                               <figDesc ana="" n="r" xml:lang="en">Patriarchal cross (with a X at the lower transverse bar) mounted on three steps. Fleurons on either side. Along the circumference, a circular inscription beginning with a cross at 7 o'clock.</figDesc>
                               <figDesc ana="" n="r" xml:lang="de">Auf drei Stufen montiertes Patriarchenkreuz (mit einem X am unteren Querbalken). Fleurons auf beiden Seiten. Entlang des Umfangs eine kreisförmige Inschrift, beginnend mit einem Kreuz bei 7 Uhr.</figDesc>
                               <figDesc ana="" n="r" xml:lang="el">Πατριαρχικός σταυρός (με Χιαστί ακτίνα στο σημείο τόμής της κάθετης με τη μεγάλη οριζόντια κεραία) υψώνεται επάνω σε τριβαθμιδωτή βάση.  Εκατέρωθεν του σταυρού φυτικά μοτίβα. Περιβάλλεται απο κυκλοτερή επιγραφή η οποία ξεκινάει με σταυρό στα αριστερά, στο σημείο του άξονα 7.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="en">Cross at the begenning of
+                              <figDesc n="decoR" xml:lang="en">Cross at the begenning of
                                             the legend, border of dots.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="de">Vorangestelltes Kreuz,
+                              <figDesc n="decoR" xml:lang="de">Vorangestelltes Kreuz,
                                             Perlrand.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="el"> Σταυρός στην αρχή της
+                              <figDesc n="decoR" xml:lang="el"> Σταυρός στην αρχή της
                                             επιγραφής. Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
@@ -285,9 +285,9 @@
                            <figure>
                               <figDesc ana="" n="v" xml:lang="en"/>
                               <figDesc ana="" n="v" xml:lang="de"/>
-                              <figDesc ana="" n="decoV" xml:lang="en">Star at the beginning of the legend. Border of dots. </figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="de">Stern am Anfang der Legende. Perlrand.</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="el">Αστερίσκος στην αρχή της επιγραφής. Στικτό
+                              <figDesc n="decoV" xml:lang="en">Star at the beginning of the legend. Border of dots. </figDesc>
+                              <figDesc n="decoV" xml:lang="de">Stern am Anfang der Legende. Perlrand.</figDesc>
+                              <figDesc n="decoV" xml:lang="el">Αστερίσκος στην αρχή της επιγραφής. Στικτό
                                             πλαίσιο. </figDesc>
                            </figure>
                         </decoNote>

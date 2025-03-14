@@ -235,9 +235,9 @@
                               <figDesc ana="" n="r" xml:lang="en">Bust of St George holding a spear in his right hand and a shield in his left. Legend on either side.</figDesc>
                               <figDesc ana="" n="r" xml:lang="de">Büste des hl Georg mit jugendlichem Lockenkopf in Nimbus, hält mit der linken Hand ein Schild, mit der rechten Hand einen Speer. Inschrift auf beiden Seiten.</figDesc>
                               <figDesc ana="" n="r" xml:lang="el">Προτομή του αγ. Γεωργίου, κρατάει δόρυ στο δεξί του χέρι και ασπίδα στο αριστερό. Επιγραφή εκατέρωθεν της μορφής.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="en">Border of dots.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="de">Perlrand</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="el">Στικτό πλαίσιο.</figDesc>
+                              <figDesc n="decoR" xml:lang="en">Border of dots.</figDesc>
+                              <figDesc n="decoR" xml:lang="de">Perlrand</figDesc>
+                              <figDesc n="decoR" xml:lang="el">Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -284,9 +284,9 @@
                            <figure>
                               <figDesc ana="" n="v" xml:lang="en"/>
                               <figDesc ana="" n="v" xml:lang="de"/>
-                              <figDesc ana="" n="decoV" xml:lang="en">Border of dots.</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="de">Perlrand</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="el">Στικτό πλαίσιο.</figDesc>
+                              <figDesc n="decoV" xml:lang="en">Border of dots.</figDesc>
+                              <figDesc n="decoV" xml:lang="de">Perlrand</figDesc>
+                              <figDesc n="decoV" xml:lang="el">Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>

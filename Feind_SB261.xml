@@ -240,9 +240,9 @@
                               <figDesc ana="" n="r" xml:lang="el">Προτομή Θεοτόκου (Οδηγήτρια),
                                             κρατάει τον Xριστό στο αριστερό της χέρι. Σίγλλα
                                             διατηρούνται στα αριστερά του πεδίου.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="en">Border of dots.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="de">Perlrand</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="el">Στικτό πλαίσιο.</figDesc>
+                              <figDesc n="decoR" xml:lang="en">Border of dots.</figDesc>
+                              <figDesc n="decoR" xml:lang="de">Perlrand</figDesc>
+                              <figDesc n="decoR" xml:lang="el">Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -289,13 +289,13 @@
                            <figure>
                               <figDesc ana="" n="v" xml:lang="en"/>
                               <figDesc ana="" n="v" xml:lang="de"/>
-                              <figDesc ana="" n="decoV" xml:lang="en">A cross at the beginning of
+                              <figDesc n="decoV" xml:lang="en">A cross at the beginning of
                                             the legend. Above, a decoration consisting of a dot
                                             between two dashes.</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="de">Ein Kreuz am Anfang der
+                              <figDesc n="decoV" xml:lang="de">Ein Kreuz am Anfang der
                                             Legende. Darüber eine Verzierung, bestehend aus einem
                                             Punkt zwischen zwei Strichen.</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="el">Σταυρός στην αρχή της
+                              <figDesc n="decoV" xml:lang="el">Σταυρός στην αρχή της
                                             επιγραφής. Από πάνω, διακοσμητικό μοτίβο το οποίο
                                             αποτελείται από μία στιγμή ανάμεσα σε δύο
                                             γραμμές.</figDesc>

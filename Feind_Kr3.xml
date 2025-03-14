@@ -246,11 +246,11 @@
                               <figDesc ana="" n="r" xml:lang="el">Πατριαρχικός σταυρός υψώνεται επάνω σε τετραβαθμιδωτή
                                             βάση. Περιβάλλεται απο κυκλοτερή επιγραφή, η οποία
                                             ξεκινάει με σταυρό απο το σημείο του άξονα 7.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="en">Cross at the begenning of
+                              <figDesc n="decoR" xml:lang="en">Cross at the begenning of
                                             the legend, border of dots.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="de">Vorangestelltes Kreuz,
+                              <figDesc n="decoR" xml:lang="de">Vorangestelltes Kreuz,
                                             Perlrand.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="el"> Σταυρός στην αρχή της
+                              <figDesc n="decoR" xml:lang="el"> Σταυρός στην αρχή της
                                             επιγραφής, στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
@@ -297,13 +297,13 @@
                            <figure>
                               <figDesc ana="" n="v" xml:lang="en"/>
                               <figDesc ana="" n="v" xml:lang="de"/>
-                              <figDesc ana="" n="decoV" xml:lang="en">A tendril decoration on a
+                              <figDesc n="decoV" xml:lang="en">A tendril decoration on a
                                             separate line above and below the legend. Border of
                                             dots.</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="de">Eine Ranken Dekoration auf
+                              <figDesc n="decoV" xml:lang="de">Eine Ranken Dekoration auf
                                             einer separaten Zeile über und unter der Legende.
                                             Perlrand.</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="el">Διακοσμητικό μοτίβο με έλικες σε
+                              <figDesc n="decoV" xml:lang="el">Διακοσμητικό μοτίβο με έλικες σε
                                             ξεχωριστή γραμμή πάνω και κάτω απο την επιγραφή. Στικτό
                                             πλαίσιο.</figDesc>
                            </figure>

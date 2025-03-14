@@ -252,11 +252,11 @@
                                             geöffneten Händen vor ihrer Brust. Details undeutlich.
                                             Keine Siglen sichtbar.</figDesc>
                               <figDesc ana="" n="r" xml:lang="el">Προτομή της Θεοτόκου με τα χέρια ανοιχτά μπροστά στο στήθος. Λεπτομέρειες αδιευκρίνιστες. Δεν διακρίνονται σίγλλα.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="en">No border
+                              <figDesc n="decoR" xml:lang="en">No border
                                             visible.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="de">Kein Rand
+                              <figDesc n="decoR" xml:lang="de">Kein Rand
                                             sichtbar.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="el">Δεν διακρίνεται πλαίσιο.</figDesc>
+                              <figDesc n="decoR" xml:lang="el">Δεν διακρίνεται πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -302,9 +302,9 @@
                            <figure>
                               <figDesc ana="" n="v" xml:lang="en"/>
                               <figDesc ana="" n="v" xml:lang="de"/>
-                              <figDesc ana="" n="decoV" xml:lang="en">Cross at the beginning of the legend. Border of dots.</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="de">Kreuz am Anfang der Legende. Perlrand.</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="el">Σταυρός στην αρχή της επιγραφής. Στικτό πλαίσιο.</figDesc>
+                              <figDesc n="decoV" xml:lang="en">Cross at the beginning of the legend. Border of dots.</figDesc>
+                              <figDesc n="decoV" xml:lang="de">Kreuz am Anfang der Legende. Perlrand.</figDesc>
+                              <figDesc n="decoV" xml:lang="el">Σταυρός στην αρχή της επιγραφής. Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>

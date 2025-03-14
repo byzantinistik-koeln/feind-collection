@@ -196,9 +196,9 @@
                               <figDesc ana="" n="r" xml:lang="en">In the upper field, two imperial busts (details indistinct).</figDesc>
                               <figDesc ana="" n="r" xml:lang="de">Zwei kaiserliche Büsten im oberen Feld (Details undeutlich).</figDesc>
                               <figDesc ana="" n="r" xml:lang="el">Στο πάνω μέρος, δύο αυτοκρακρατορικές προτομές. (δεν διακρίνονται λεπτομέρειες).</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="en">No border visible.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="de">Kein Rand sichtbar.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="el">Δεν διακρίνεται πλαίσιο.</figDesc>
+                              <figDesc n="decoR" xml:lang="en">No border visible.</figDesc>
+                              <figDesc n="decoR" xml:lang="de">Kein Rand sichtbar.</figDesc>
+                              <figDesc n="decoR" xml:lang="el">Δεν διακρίνεται πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -244,9 +244,9 @@
                            <figure>
                               <figDesc ana="" n="v" xml:lang="en"/>
                               <figDesc ana="" n="v" xml:lang="de"/>
-                              <figDesc ana="" n="decoV" xml:lang="en">No border visible.</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="de">Kein Rand sichtbar.</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="el">Δεν διακρίνεται πλαίσιο.</figDesc>
+                              <figDesc n="decoV" xml:lang="en">No border visible.</figDesc>
+                              <figDesc n="decoV" xml:lang="de">Kein Rand sichtbar.</figDesc>
+                              <figDesc n="decoV" xml:lang="el">Δεν διακρίνεται πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>

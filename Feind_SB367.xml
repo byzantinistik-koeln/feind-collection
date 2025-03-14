@@ -231,9 +231,9 @@
                               <figDesc ana="" n="r" xml:lang="en">Bust of St Demetrios holding spear in his left hand. The shield in his right hand is not preserved. Legend preserved at left.</figDesc>
                               <figDesc ana="" n="r" xml:lang="de">Büste des hl. Demetrius mit Nimbus. Die rechte Hand hält einen Speer.</figDesc>
                               <figDesc ana="" n="r" xml:lang="el">Προτομή του αγ. Δημητρίου, που κρατάει δόρυ στο αριστερό του χέρι. Η ασπίδα στο δεξί του χέρι δεν σώζεται. Σίγλλα διατηρούνται  στα αριστερά του πεδίου.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="en">Border of dots.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="de">Perlrand</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="el">Στικτό πλαίσιο.</figDesc>
+                              <figDesc n="decoR" xml:lang="en">Border of dots.</figDesc>
+                              <figDesc n="decoR" xml:lang="de">Perlrand</figDesc>
+                              <figDesc n="decoR" xml:lang="el">Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -280,9 +280,9 @@
                            <figure>
                               <figDesc ana="" n="v" xml:lang="en"/>
                               <figDesc ana="" n="v" xml:lang="de"/>
-                              <figDesc ana="" n="decoV" xml:lang="en">Border of dots.</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="de">Perlrand</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="el">Στικτό πλαίσιο.</figDesc>
+                              <figDesc n="decoV" xml:lang="en">Border of dots.</figDesc>
+                              <figDesc n="decoV" xml:lang="de">Perlrand</figDesc>
+                              <figDesc n="decoV" xml:lang="el">Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>

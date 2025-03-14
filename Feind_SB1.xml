@@ -238,10 +238,10 @@
                               <figDesc ana="" n="r" xml:lang="en">The Mother of God standing, holding the Christ on her left arm (Hodegetria).</figDesc>
                               <figDesc ana="" n="r" xml:lang="de">Stehende Muttergottes mit dem Christuskind auf dem linken Arm (Hodegetria-Typ).</figDesc>
                               <figDesc ana="" n="r" xml:lang="el">Ιστάμενη Θεοτόκος κρατάει τον Χριστό στο αριστερό της χέρι (Οδηγήτρια).</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="en">No border visible.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="de">Kein Rand sichtbar.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="de">Kein Rand sichtbar.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="el">Δεν διακρίνεται πλαίσιο.</figDesc>
+                              <figDesc n="decoR" xml:lang="en">No border visible.</figDesc>
+                              <figDesc n="decoR" xml:lang="de">Kein Rand sichtbar.</figDesc>
+                              <figDesc n="decoR" xml:lang="de">Kein Rand sichtbar.</figDesc>
+                              <figDesc n="decoR" xml:lang="el">Δεν διακρίνεται πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -287,9 +287,9 @@
                            <figure>
                               <figDesc ana="" n="v" xml:lang="en"/>
                               <figDesc ana="" n="v" xml:lang="de"/>
-                              <figDesc ana="" n="decoV" xml:lang="en">Cross at the beginning of the legend. No border visible.</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="de">Kreuz am Anfang der Legende. Kein Rand sichtbar.</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="el">Σταυρός στην αρχή της επιγραφής. Δεν διακρίνεται πλαίσιο.</figDesc>
+                              <figDesc n="decoV" xml:lang="en">Cross at the beginning of the legend. No border visible.</figDesc>
+                              <figDesc n="decoV" xml:lang="de">Kreuz am Anfang der Legende. Kein Rand sichtbar.</figDesc>
+                              <figDesc n="decoV" xml:lang="el">Σταυρός στην αρχή της επιγραφής. Δεν διακρίνεται πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>

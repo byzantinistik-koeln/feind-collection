@@ -230,9 +230,9 @@
                            <figure>
                               <figDesc ana="" n="r" xml:lang="en"/>
                               <figDesc ana="" n="r" xml:lang="de"/>
-                              <figDesc ana="" n="decoR" xml:lang="en">Indeterminate border.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="de">Unbestimmter Rand.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="el">Απροσδιόριστο πλαίσιο.</figDesc>
+                              <figDesc n="decoR" xml:lang="en">Indeterminate border.</figDesc>
+                              <figDesc n="decoR" xml:lang="de">Unbestimmter Rand.</figDesc>
+                              <figDesc n="decoR" xml:lang="el">Απροσδιόριστο πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -278,9 +278,9 @@
                            <figure>
                               <figDesc ana="" n="v" xml:lang="en"/>
                               <figDesc ana="" n="v" xml:lang="de"/>
-                              <figDesc ana="" n="decoV" xml:lang="en">Indeterminate border.</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="de">Unbestimmter Rand.</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="el">Απροσδιόριστο πλαίσιο.</figDesc>
+                              <figDesc n="decoV" xml:lang="en">Indeterminate border.</figDesc>
+                              <figDesc n="decoV" xml:lang="de">Unbestimmter Rand.</figDesc>
+                              <figDesc n="decoV" xml:lang="el">Απροσδιόριστο πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>

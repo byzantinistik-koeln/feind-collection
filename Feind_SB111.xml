@@ -227,9 +227,9 @@
                                             einen Segen mit der rechten Hand gibt und ein Buch in
                                             seiner linken Hand hält. Details undeutlich.</figDesc>
                               <figDesc ana="person male saint St-Nicholas blessing standing gospel bishop" n="r" xml:lang="el"> Ιστάμενη αγιολογική μορφή, (πιθανώς ο αγ. Νικόλαος) ευλογεί με το δεξί χέρι και στο αριστερό κρατάει βιβλίο. Δεν διακρίνονται λεπτομέρειες.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="en">Border of dots.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="de">Perlrand</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="el">Στικτό πλαίσιο.</figDesc>
+                              <figDesc n="decoR" xml:lang="en">Border of dots.</figDesc>
+                              <figDesc n="decoR" xml:lang="de">Perlrand</figDesc>
+                              <figDesc n="decoR" xml:lang="el">Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -272,14 +272,14 @@
                         <decoNote>
                            <figure>
                                         <!--<figDesc n="v" xml:lang="en" ana=""/>-->
-                              <figDesc ana="" n="decoV" xml:lang="en">Above the legend, the
+                              <figDesc n="decoV" xml:lang="en">Above the legend, the
                                             decoration consists of a star between two dashes; below
                                             the legend, traces of a decoration. Border of dots.</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="de">Oberhalb der Legende ist
+                              <figDesc n="decoV" xml:lang="de">Oberhalb der Legende ist
                                             eine Dekoration aus einem Stern zwischen zwei
                                             Zierlinien; unterhalb der Legende sind Reste einer
                                             Dekoration erkennbar. Perlrand.</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="el">Πάνω από την επιγραφή, διακοσμητικό μοτίβο, το οποίο αποτελείται απο έναν αστερίσκο ανάμεσα σε δύο γραμμές. Κάτω από την επιγραφή ίχνη διακόσμησης. Στικτό πλαίσιο.</figDesc>
+                              <figDesc n="decoV" xml:lang="el">Πάνω από την επιγραφή, διακοσμητικό μοτίβο, το οποίο αποτελείται απο έναν αστερίσκο ανάμεσα σε δύο γραμμές. Κάτω από την επιγραφή ίχνη διακόσμησης. Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>

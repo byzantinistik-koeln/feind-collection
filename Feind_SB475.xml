@@ -239,9 +239,9 @@
                                             Buchstaben.</figDesc>
                               <figDesc ana="" n="r" xml:lang="el">Προτομή αρχαγγέλου Μιχαήλ, που φοράει λώρο. Στο δεξί χέρι κρατάει σκήπτρο(;) και στο αριστερό
                                             σφαίρα. Ίχνη επιγραφής στα δεξιά του πεδίου.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="en">Border of dots.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="de">Perlrand</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="el">Στικτό πλαίσιο.</figDesc>
+                              <figDesc n="decoR" xml:lang="en">Border of dots.</figDesc>
+                              <figDesc n="decoR" xml:lang="de">Perlrand</figDesc>
+                              <figDesc n="decoR" xml:lang="el">Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -288,12 +288,12 @@
                            <figure>
                               <figDesc ana="" n="v" xml:lang="en"/>
                               <figDesc ana="" n="v" xml:lang="de"/>
-                              <figDesc ana="" n="decoV" xml:lang="en">Cross at the beginning of
+                              <figDesc n="decoV" xml:lang="en">Cross at the beginning of
                                             the legend. Above, a partially preserved decoration
                                             consisting of a dot between two dashes. Border of
                                             dots.</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="de">Kreuz am Anfang der Legende. Oben eine teilweise erhaltene Verzierung, bestehend aus einem Punkt zwischen zwei Strichen. Perlrand.</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="el"> Σταυρός στην αρχή της
+                              <figDesc n="decoV" xml:lang="de">Kreuz am Anfang der Legende. Oben eine teilweise erhaltene Verzierung, bestehend aus einem Punkt zwischen zwei Strichen. Perlrand.</figDesc>
+                              <figDesc n="decoV" xml:lang="el"> Σταυρός στην αρχή της
                                             επιγραφής. Πάνω από την επιγραφή διατηρείται εν μέρει
                                             διακοσμητικό μοτίβο, το οποίο αποτελείται από μία στιγμή
                                             ανάμεσα σε δύο γραμμές. Στικτό πλαίσιο.</figDesc>

@@ -257,11 +257,11 @@
                                             Muttergottes, die das Christuskind auf dem linken Arm
                                             hält (Hodegetria). Details undeutlich. Reste von Siglen
                                             auf beiden Seiten erkennbar.</figDesc>-->
-                              <figDesc ana="" n="decoR" xml:lang="en">Cross at the begenning of the
+                              <figDesc n="decoR" xml:lang="en">Cross at the begenning of the
                                  legend. Wreath border.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="de">Vorangestelltes Kreuz.
+                              <figDesc n="decoR" xml:lang="de">Vorangestelltes Kreuz.
                                  Schachtelhalmrand.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="el">Σταυρός στην αρχή της
+                              <figDesc n="decoR" xml:lang="el">Σταυρός στην αρχή της
                                  επιγραφής. Στεφανωτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
@@ -303,11 +303,11 @@
                         <decoNote>
                            <figure>
                               <!--<figDesc n="v" xml:lang="en" ana=""/>-->
-                              <figDesc ana="" n="decoV" xml:lang="en">Cross at the begenning of the
+                              <figDesc n="decoV" xml:lang="en">Cross at the begenning of the
                                  legend. Wreath border.</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="de">Vorangestelltes Kreuz.
+                              <figDesc n="decoV" xml:lang="de">Vorangestelltes Kreuz.
                                  Schachtelhalmrand.</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="el">Σταυρός στην αρχή της
+                              <figDesc n="decoV" xml:lang="el">Σταυρός στην αρχή της
                                  επιγραφής. Στεφανωτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>

@@ -241,9 +241,9 @@
                                  δεξί χέρι ευλογεί και στο αριστερό κρατάει ευαγγέλιο. Σίγλλα και
                                  στις δυο πλευρές του πεδίου. Κυκλοτερή επιγραφή η οποία ξεκινάει με
                                  σταυρό απο το σημείο του άξονα 8.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="en">Border of dots.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="de">Perlrand</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="el">Στικτό πλαίσιο.</figDesc>
+                              <figDesc n="decoR" xml:lang="en">Border of dots.</figDesc>
+                              <figDesc n="decoR" xml:lang="de">Perlrand</figDesc>
+                              <figDesc n="decoR" xml:lang="el">Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -297,9 +297,9 @@
                                  χέρι κρατάει ομοίωμα ναού και στο αριστερό μικρό σταυρό. Σίγγλα και
                                  στις δυο πλευρές του πεδίου. Κυκλοτερή επιγραφή η οποία ξεκινάει
                                  απο το σημείο του άξονα 9. </figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="en">Border of dots.</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="de">Perlrand</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="el">Στικτό πλαίσιο.</figDesc>
+                              <figDesc n="decoV" xml:lang="en">Border of dots.</figDesc>
+                              <figDesc n="decoV" xml:lang="de">Perlrand</figDesc>
+                              <figDesc n="decoV" xml:lang="el">Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>

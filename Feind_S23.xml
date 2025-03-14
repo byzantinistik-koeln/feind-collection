@@ -247,15 +247,15 @@
                            <figure>
                               <figDesc ana="" n="r" xml:lang="en"/>
                               <figDesc ana="" n="r" xml:lang="de"/>
-                              <figDesc ana="" n="decoR" xml:lang="en">Cross at the beginning of
+                              <figDesc n="decoR" xml:lang="en">Cross at the beginning of
                                             the legend. The last line is between a decoration
                                             consisting of a X with pellets in its quarter. Above and
                                             below, a dot between two dashes. Border of
                                             dots.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="de">Kreuz am Anfang der
+                              <figDesc n="decoR" xml:lang="de">Kreuz am Anfang der
                                             Legende. Die letzte Zeile ist zwischen dekorativen
                                             Punktkreuzen enthalten. Perlrand.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="el">Σταυρός στην αρχή της επιγραφής.  Στο κάτω μέρος διακοσμητικό μοτίβο με (Χ με στιγμές στα τεταρτημόρια του). Στο πάνω και κάτω μέρος της επιγραφής στιγμή ανάμεσα σε δύο οριζόντιες γραμμές. Στικτό πλαίσιο.</figDesc>
+                              <figDesc n="decoR" xml:lang="el">Σταυρός στην αρχή της επιγραφής.  Στο κάτω μέρος διακοσμητικό μοτίβο με (Χ με στιγμές στα τεταρτημόρια του). Στο πάνω και κάτω μέρος της επιγραφής στιγμή ανάμεσα σε δύο οριζόντιες γραμμές. Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -300,14 +300,14 @@
                            <figure>
                               <figDesc ana="" n="v" xml:lang="en"/>
                               <figDesc ana="" n="v" xml:lang="de"/>
-                              <figDesc ana="" n="decoV" xml:lang="en">The last line is between a
+                              <figDesc n="decoV" xml:lang="en">The last line is between a
                                             decoration consisting of a X with pellets in its
                                             quarter. Above and below, a dot between two dashes.
                                             Border of dots.</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="de">Die letzte Zeile ist
+                              <figDesc n="decoV" xml:lang="de">Die letzte Zeile ist
                                             zwischen dekorativen Punktkreuzen enthalten.
                                             Perlrand.</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="el">Στο κάτω μέρος διακοσμητικό μοτίβο με (Χ με στιγμές στα τεταρτημόρια του). Στο πάνω και κάτω μέρος της επιγραφής στιγμή ανάμεσα σε δύο οριζόντιες γραμμές. Στικτό πλαίσιο.</figDesc>
+                              <figDesc n="decoV" xml:lang="el">Στο κάτω μέρος διακοσμητικό μοτίβο με (Χ με στιγμές στα τεταρτημόρια του). Στο πάνω και κάτω μέρος της επιγραφής στιγμή ανάμεσα σε δύο οριζόντιες γραμμές. Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>

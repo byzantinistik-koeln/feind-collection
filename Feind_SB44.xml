@@ -239,9 +239,9 @@
                               <figDesc ana="" n="r" xml:lang="en">Lion advancing toward left; in the upper field, a crescent with a star; in the lower field, a shell (?). </figDesc>
                               <figDesc ana="" n="r" xml:lang="de">Nach links schreitender Löwe unter Mondsichel und Stern; im unteren Feld eine Muschel (?).</figDesc>
                               <figDesc ana="" n="r" xml:lang="el">Λέων που βαδίζει προς τα αριστερά. Στο άνω μέρος  ημισέληνος και αστερίσκος, στο κάτω μέρος ένα κοχύλι(;)</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="en">Wreath (?) border.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="de">Schachtelhelmrand (?)</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="el">Στεφανωτό πλαίσιο (;)</figDesc>
+                              <figDesc n="decoR" xml:lang="en">Wreath (?) border.</figDesc>
+                              <figDesc n="decoR" xml:lang="de">Schachtelhelmrand (?)</figDesc>
+                              <figDesc n="decoR" xml:lang="el">Στεφανωτό πλαίσιο (;)</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -287,9 +287,9 @@
                            <figure>
                               <figDesc ana="" n="v" xml:lang="en"/>
                               <figDesc ana="" n="v" xml:lang="de"/>
-                              <figDesc ana="" n="decoV" xml:lang="en">Wreath (?) border.</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="de">Schachtelhelmrand (?)</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="el">Στεφανωτό πλαίσιο (;)</figDesc>
+                              <figDesc n="decoV" xml:lang="en">Wreath (?) border.</figDesc>
+                              <figDesc n="decoV" xml:lang="de">Schachtelhelmrand (?)</figDesc>
+                              <figDesc n="decoV" xml:lang="el">Στεφανωτό πλαίσιο (;)</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>

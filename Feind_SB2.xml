@@ -249,9 +249,9 @@
                               <figDesc ana="" n="r" xml:lang="en">St Demetrios standing, holding a spear in his right hand and resting his left hand on a shield. Legend preserved at left.</figDesc>
                               <figDesc ana="" n="r" xml:lang="de">Stehender Hl. Demetrios mit Lanze in der rechten und Schild in der linken Hand. Beischrift auf rechter Seite erhalten.</figDesc>
                               <figDesc ana="" n="r" xml:lang="el">Ιστάμενη μορφή του αγ. Δημητρίου, κρατάει δόρι στο δεξί χέρι και ακουμπάει το αριστερό του χέρι σε ασπίδα. Διακρίνεται επιγραφή στα αριστερά.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="en">Border of dots.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="de">Perlrand</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="el">Στικτό πλαίσιο.</figDesc>
+                              <figDesc n="decoR" xml:lang="en">Border of dots.</figDesc>
+                              <figDesc n="decoR" xml:lang="de">Perlrand</figDesc>
+                              <figDesc n="decoR" xml:lang="el">Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -297,9 +297,9 @@
                            <figure>
                               <figDesc ana="" n="v" xml:lang="en"/>
                               <figDesc ana="" n="v" xml:lang="de"/>
-                              <figDesc ana="" n="decoV" xml:lang="en">Cross at the beginning of the legend. The last line is between two dashes. Border of dots.</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="de">Kreuz am Anfang der Legende. Die letzte Zeile ist zwischen zwei Zierlinien. Perlrand.</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="el">Σταυρός στην αρχή της επιγραφής. Ο τελευταίος στίχος βρίσκεται ανάμεσα σε δύο στιγμές. Στικτό πλαίσιο.</figDesc>
+                              <figDesc n="decoV" xml:lang="en">Cross at the beginning of the legend. The last line is between two dashes. Border of dots.</figDesc>
+                              <figDesc n="decoV" xml:lang="de">Kreuz am Anfang der Legende. Die letzte Zeile ist zwischen zwei Zierlinien. Perlrand.</figDesc>
+                              <figDesc n="decoV" xml:lang="el">Σταυρός στην αρχή της επιγραφής. Ο τελευταίος στίχος βρίσκεται ανάμεσα σε δύο στιγμές. Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>

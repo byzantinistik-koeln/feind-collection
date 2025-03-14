@@ -239,9 +239,9 @@
                               <figDesc ana="" n="r" xml:lang="en">Bust of St Demetrios holding a spear in his right hand and a shield in his left. Details indistinct. </figDesc>
                               <figDesc ana="" n="r" xml:lang="de">Büste des heiligen Demetrios mit Nimbus. Die rechte Hand hält einen Speer, die linke einen Schild. Details undeutlich.</figDesc>
                               <figDesc ana="" n="r" xml:lang="el">Προτομή αγ. Δημητρίου. Κρατάει δόρι στο δεξί του χέρι και ασπίδα στο αριστερό. Δεν διακρίνονται λεπτομέρειες.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="en">No border visible.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="de">Kein Rand sichtbar.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="el">Δεν διακρίνεται πλαίσιο.</figDesc>
+                              <figDesc n="decoR" xml:lang="en">No border visible.</figDesc>
+                              <figDesc n="decoR" xml:lang="de">Kein Rand sichtbar.</figDesc>
+                              <figDesc n="decoR" xml:lang="el">Δεν διακρίνεται πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -287,9 +287,9 @@
                            <figure>
                               <figDesc ana="" n="v" xml:lang="en"/>
                               <figDesc ana="" n="v" xml:lang="de"/>
-                              <figDesc ana="" n="decoV" xml:lang="en">No border visible.</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="de">Kein Rand sichtbar.</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="el">Δεν διακρίνεται πλαίσιο.</figDesc>
+                              <figDesc n="decoV" xml:lang="en">No border visible.</figDesc>
+                              <figDesc n="decoV" xml:lang="de">Kein Rand sichtbar.</figDesc>
+                              <figDesc n="decoV" xml:lang="el">Δεν διακρίνεται πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>

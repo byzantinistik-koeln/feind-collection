@@ -237,9 +237,9 @@
                            <figure>
                               <figDesc ana="" n="r" xml:lang="en"/>
                               <figDesc ana="" n="r" xml:lang="de"/>
-                              <figDesc ana="" n="decoR" xml:lang="en">Below the legend, a decoration consisting of tendrils. Wreath border.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="de">Unterhalb der Legende, eine Dekoration aus Ranken. Schachtelhelmrand.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="el">Κάτω από την επιγραφή, διακοσμητικό μοτίβο με λυρόσχημες έλικες. Στεφανωτό πλαίσιο.</figDesc>
+                              <figDesc n="decoR" xml:lang="en">Below the legend, a decoration consisting of tendrils. Wreath border.</figDesc>
+                              <figDesc n="decoR" xml:lang="de">Unterhalb der Legende, eine Dekoration aus Ranken. Schachtelhelmrand.</figDesc>
+                              <figDesc n="decoR" xml:lang="el">Κάτω από την επιγραφή, διακοσμητικό μοτίβο με λυρόσχημες έλικες. Στεφανωτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -285,9 +285,9 @@
                            <figure>
                               <figDesc ana="" n="v" xml:lang="en"/>
                               <figDesc ana="" n="v" xml:lang="de"/>
-                              <figDesc ana="" n="decoV" xml:lang="en">Below the legend, a decoration consisting of tendrils. Wreath border.</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="de">Unterhalb der Legende, eine Dekoration aus Ranken. Schachtelhelmrand.</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="el">Κάτω από την επιγραφή, διακοσμητικό μοτίβο με λυρόσχημες έλικες. Στεφανωτό πλαίσιο.</figDesc>
+                              <figDesc n="decoV" xml:lang="en">Below the legend, a decoration consisting of tendrils. Wreath border.</figDesc>
+                              <figDesc n="decoV" xml:lang="de">Unterhalb der Legende, eine Dekoration aus Ranken. Schachtelhelmrand.</figDesc>
+                              <figDesc n="decoV" xml:lang="el">Κάτω από την επιγραφή, διακοσμητικό μοτίβο με λυρόσχημες έλικες. Στεφανωτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>

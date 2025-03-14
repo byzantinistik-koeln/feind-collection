@@ -236,9 +236,9 @@
                            <figure>
                               <figDesc ana="" n="r" xml:lang="en"/>
                               <figDesc ana="" n="r" xml:lang="de"/>
-                              <figDesc ana="" n="decoR" xml:lang="en"> Cross above and below the legend. Wreath border.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="de">Über und unter der Legende kreuzen. Schachtelhalmrand.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="el">Σταυρός πάνω και κάτω από την επιγραφή. Στεφανωτό πλαίσιο.</figDesc>
+                              <figDesc n="decoR" xml:lang="en"> Cross above and below the legend. Wreath border.</figDesc>
+                              <figDesc n="decoR" xml:lang="de">Über und unter der Legende kreuzen. Schachtelhalmrand.</figDesc>
+                              <figDesc n="decoR" xml:lang="el">Σταυρός πάνω και κάτω από την επιγραφή. Στεφανωτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -283,9 +283,9 @@
                            <figure>
                               <figDesc ana="" n="v" xml:lang="en"/>
                               <figDesc ana="" n="v" xml:lang="de"/>
-                              <figDesc ana="" n="decoV" xml:lang="en">Cross at the beginning and below the legend. Wreath border. </figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="de">Kreuz am Anfang und unterhalb der Legende. Schachtelhalmrand.</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="el">Σταυρός στην αρχή και κάτω από την επιγραφή. Στεφανωτό πλαίσιο.</figDesc>
+                              <figDesc n="decoV" xml:lang="en">Cross at the beginning and below the legend. Wreath border. </figDesc>
+                              <figDesc n="decoV" xml:lang="de">Kreuz am Anfang und unterhalb der Legende. Schachtelhalmrand.</figDesc>
+                              <figDesc n="decoV" xml:lang="el">Σταυρός στην αρχή και κάτω από την επιγραφή. Στεφανωτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>

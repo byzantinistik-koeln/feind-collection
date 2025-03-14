@@ -237,9 +237,9 @@
                            <figure>
                               <figDesc ana="" n="r" xml:lang="en"/>
                               <figDesc ana="" n="r" xml:lang="de"/>
-                              <figDesc ana="" n="decoR" xml:lang="en">Above and below the legend, a decoration consisting of a X with pellets in its quarters set between two dashes. Border of dots.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="de">Ober- und unterhalb der Legende, eine Dekoration bestehend aus X mit Punkten in den Vierteln zwischen zwei Linien. Perlrand.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="el">Πάνω και κάτω από την επιγραφή, διακοσμητικό μοτίβο Χ (με στιγμές στα τεταρτημόρια του) ανάμεσα σε δυο στιγμές, Στικτό πλαίσιο.</figDesc>
+                              <figDesc n="decoR" xml:lang="en">Above and below the legend, a decoration consisting of a X with pellets in its quarters set between two dashes. Border of dots.</figDesc>
+                              <figDesc n="decoR" xml:lang="de">Ober- und unterhalb der Legende, eine Dekoration bestehend aus X mit Punkten in den Vierteln zwischen zwei Linien. Perlrand.</figDesc>
+                              <figDesc n="decoR" xml:lang="el">Πάνω και κάτω από την επιγραφή, διακοσμητικό μοτίβο Χ (με στιγμές στα τεταρτημόρια του) ανάμεσα σε δυο στιγμές, Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -285,9 +285,9 @@
                            <figure>
                               <figDesc ana="" n="v" xml:lang="en"/>
                               <figDesc ana="" n="v" xml:lang="de"/>
-                              <figDesc ana="" n="decoV" xml:lang="en">Above and below the legend, a decoration consisting of a X with pellets in its quarters set between two dashes. Border of dots.</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="de">Ober- und unterhalb der Legende, eine Dekoration bestehend aus X mit Punkten in den Vierteln zwischen zwei Linien. Perlrand.</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="el">Κάτω από την επιγραφή, διακοσμητικό μοτίβο Χ (με στιγμές στα τεταρτημόρια του) ανάμεσα σε δυο στιγμές, Στικτό πλαίσιο.</figDesc>
+                              <figDesc n="decoV" xml:lang="en">Above and below the legend, a decoration consisting of a X with pellets in its quarters set between two dashes. Border of dots.</figDesc>
+                              <figDesc n="decoV" xml:lang="de">Ober- und unterhalb der Legende, eine Dekoration bestehend aus X mit Punkten in den Vierteln zwischen zwei Linien. Perlrand.</figDesc>
+                              <figDesc n="decoV" xml:lang="el">Κάτω από την επιγραφή, διακοσμητικό μοτίβο Χ (με στιγμές στα τεταρτημόρια του) ανάμεσα σε δυο στιγμές, Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>

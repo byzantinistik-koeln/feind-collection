@@ -230,9 +230,9 @@
                               <figDesc ana="" n="r" xml:lang="en">Bust of the Mother of God with her hands upraised in prayer and the medallion of Christ before her (Episkepsis). Sigla on either side.</figDesc>
                               <figDesc ana="" n="r" xml:lang="de">Büste der Muttergottes orans, Typ Episkepsis, mit Christusmedaillon vor der Brust. Inschrift auf beiden Seiten.</figDesc>
                               <figDesc ana="" n="r" xml:lang="el">Προτομή της Θεοτόκου, δεόμενη με μετάλλιο του Χριστού μπροστά στο στήθος της (τύπος Επίσκεψη). Σίγλλα εκατέρωθεν της μορφής.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="en">Border of dots.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="de">Perlrand</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="el">Στικτό πλαίσιο.</figDesc>
+                              <figDesc n="decoR" xml:lang="en">Border of dots.</figDesc>
+                              <figDesc n="decoR" xml:lang="de">Perlrand</figDesc>
+                              <figDesc n="decoR" xml:lang="el">Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -279,9 +279,9 @@
                            <figure>
                               <figDesc ana="" n="v" xml:lang="en"/>
                               <figDesc ana="" n="v" xml:lang="de"/>
-                              <figDesc ana="" n="decoV" xml:lang="en"/>
-                              <figDesc ana="" n="decoV" xml:lang="de"/>
-                              <figDesc ana="" n="decoV" xml:lang="el"/>
+                              <figDesc n="decoV" xml:lang="en"/>
+                              <figDesc n="decoV" xml:lang="de"/>
+                              <figDesc n="decoV" xml:lang="el"/>
                            </figure>
                         </decoNote>
                      </decoDesc>

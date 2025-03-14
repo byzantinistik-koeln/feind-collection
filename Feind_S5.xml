@@ -230,11 +230,11 @@
                            <figure>
                               <figDesc ana="" n="r" xml:lang="en"/>
                               <figDesc ana="" n="r" xml:lang="de"/>
-                              <figDesc ana="" n="decoR" xml:lang="en">Cross at the begenning of the
+                              <figDesc n="decoR" xml:lang="en">Cross at the begenning of the
                                  legend. Border of tight dots.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="de">Vorangestelltes Kreuz.
+                              <figDesc n="decoR" xml:lang="de">Vorangestelltes Kreuz.
                                  Perlrand.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="el"> Σταυρός στην αρχή της
+                              <figDesc n="decoR" xml:lang="el"> Σταυρός στην αρχή της
                                  επιγραφής. Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
@@ -279,10 +279,10 @@
                            <figure>
                               <figDesc ana="" n="v" xml:lang="en"/>
                               <figDesc ana="" n="v" xml:lang="de"/>
-                              <figDesc ana="" n="decoV" xml:lang="en">Border of tight
+                              <figDesc n="decoV" xml:lang="en">Border of tight
                                  dots.</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="de">Perlrand</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="el">Στικτό πλαίσιο.</figDesc>
+                              <figDesc n="decoV" xml:lang="de">Perlrand</figDesc>
+                              <figDesc n="decoV" xml:lang="el">Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>

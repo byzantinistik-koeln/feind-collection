@@ -242,9 +242,9 @@
                               <figDesc ana="" n="r" xml:lang="en">Three hares or rabbits chasing each other in a circle. They are joined by their ears thus forming a triangle in the centre of the "rabbit wheel”.</figDesc>
                               <figDesc ana="" n="r" xml:lang="de">Drei sich in einem Kreis jagende Hasen. Ihre Ohren formen ein Dreieck im Zentrum des "Hasenrads".</figDesc>
                               <figDesc ana="" n="r" xml:lang="el">"Τρεις λαγοί ή κουνέλια που κυνηγούν το ένα το άλλο σε κύκλο. Ενώνονται μέσω των αυτιών τους, σχηματίζοντας έτσι ένα τρίγωνο στο κέντρο του πεδίου.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="en">Border of dots.</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="de">Perlrand</figDesc>
-                              <figDesc ana="" n="decoR" xml:lang="el">Στικτό πλαίσιο.</figDesc>
+                              <figDesc n="decoR" xml:lang="en">Border of dots.</figDesc>
+                              <figDesc n="decoR" xml:lang="de">Perlrand</figDesc>
+                              <figDesc n="decoR" xml:lang="el">Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -290,9 +290,9 @@
                            <figure>
                               <figDesc ana="" n="v" xml:lang="en"/>
                               <figDesc ana="" n="v" xml:lang="de"/>
-                              <figDesc ana="" n="decoV" xml:lang="en">Border of dots.</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="de">Perlrand</figDesc>
-                              <figDesc ana="" n="decoV" xml:lang="el">Στικτό πλαίσιο</figDesc>
+                              <figDesc n="decoV" xml:lang="en">Border of dots.</figDesc>
+                              <figDesc n="decoV" xml:lang="de">Perlrand</figDesc>
+                              <figDesc n="decoV" xml:lang="el">Στικτό πλαίσιο</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
