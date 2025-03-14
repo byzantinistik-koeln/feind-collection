@@ -62,16 +62,13 @@
                      <seg xml:lang="de">Deutschland</seg>
                      <seg xml:lang="el">Γερμανία</seg>
                   </country>
-                  <settlement>
-                     <seg xml:lang="en">
-                        <placeName ref="https://www.geonames.org/6553049/koeln.html">Cologne</placeName>
-                     </seg>
-                     <seg xml:lang="de">
-                        <placeName ref="https://www.geonames.org/6553049/koeln.html"/>Köln</seg>
-                     <seg xml:lang="el">
-                        <placeName ref="https://www.geonames.org/6553049/koeln.html">Κολωνία</placeName>
-                     </seg>
-                  </settlement>
+                  <settlement><seg xml:lang="en"><placeName ref="https://www.geonames.org/6553049/koeln.html">
+                Cologne
+            </placeName></seg><seg xml:lang="de"><placeName ref="https://www.geonames.org/6553049/koeln.html">
+                    Köln
+                </placeName></seg><seg xml:lang="el"><placeName ref="https://www.geonames.org/6553049/koeln.html">
+                Κολωνία
+            </placeName></seg></settlement>
                   <institution/>
                   <repository/>
                   <collection type="private">

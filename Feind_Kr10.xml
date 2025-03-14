@@ -10,7 +10,7 @@
             <editor role="seal-editor" xml:id="MF">Martina Filosa</editor>
             <editor role="seal-editor" xml:id="CS">Claudia Sode</editor>
             <funder>
-               <orgName corresp="https://anr.fr/">Agence Nationale de la Recherche (ANR)</orgName>, France /<orgName corresp="https://www.dfg.de/">Deutsche Forschungsgemeinschaft (DFG)</orgName>, Deutschland.</funder>
+               <orgName corresp="https://anr.fr/">Agence Nationale de la Recherche (ANR)</orgName>, France /<orgName corresp="https://www.dfg.de/">Deutsche Forschungsgemeinschaft(DFG)</orgName>, Deutschland.</funder>
             <principal>Claudia Sode</principal>
             <!--here go the editors of the printed record, when available-->
          </titleStmt>
@@ -57,11 +57,13 @@
                      <seg xml:lang="de">Deutschland</seg>
                      <seg xml:lang="el">Γερμανία</seg>
                   </country>
-                  <settlement>
-                     <seg xml:lang="en">Cologne</seg>
-                     <seg xml:lang="de">Köln</seg>
-                     <seg xml:lang="el">Κολωνία</seg>
-                  </settlement>
+                  <settlement><seg xml:lang="en"><placeName ref="https://www.geonames.org/6553049/koeln.html">
+                Cologne
+            </placeName></seg><seg xml:lang="de"><placeName ref="https://www.geonames.org/6553049/koeln.html">
+                    Köln
+                </placeName></seg><seg xml:lang="el"><placeName ref="https://www.geonames.org/6553049/koeln.html">
+                Κολωνία
+            </placeName></seg></settlement>
                   <institution/>
                   <repository/>
                   <collection type="private">
@@ -384,7 +386,7 @@
             <p xml:id="footnote-1">
                     
                 </p>
-            <p xml:lang="de"></p>
+            <p xml:lang="de"/>
          </div>
          <div type="bibliography" subtype="edition">
                 

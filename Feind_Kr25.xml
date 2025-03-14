@@ -10,7 +10,7 @@
             <editor role="seal-editor" xml:id="MF">Martina Filosa</editor>
             <editor role="seal-editor" xml:id="CS">Claudia Sode</editor>
             <funder>
-               <orgName corresp="https://anr.fr/">Agence Nationale de la Recherche (ANR)</orgName>, France /<orgName corresp="https://www.dfg.de/">Deutsche Forschungsgemeinschaft (DFG)</orgName>, Deutschland.</funder>
+               <orgName corresp="https://anr.fr/">Agence Nationale de la Recherche (ANR)</orgName>, France /<orgName corresp="https://www.dfg.de/">Deutsche Forschungsgemeinschaft(DFG)</orgName>, Deutschland.</funder>
             <principal>Claudia Sode</principal>
             <!--here go the editors of the printed record, when available-->
          </titleStmt>
@@ -67,11 +67,13 @@
                      <seg xml:lang="de">Deutschland</seg>
                      <seg xml:lang="el">Γερμανία</seg>
                   </country>
-                  <settlement>
-                     <seg xml:lang="en">Cologne</seg>
-                     <seg xml:lang="de">Köln</seg>
-                     <seg xml:lang="el">Κολωνία</seg>
-                  </settlement>
+                  <settlement><seg xml:lang="en"><placeName ref="https://www.geonames.org/6553049/koeln.html">
+                Cologne
+            </placeName></seg><seg xml:lang="de"><placeName ref="https://www.geonames.org/6553049/koeln.html">
+                    Köln
+                </placeName></seg><seg xml:lang="el"><placeName ref="https://www.geonames.org/6553049/koeln.html">
+                Κολωνία
+            </placeName></seg></settlement>
                   <institution/>
                   <repository/>
                   <collection type="private">
@@ -258,11 +260,11 @@
                               <figDesc ana="" n="r" xml:lang="de">Patriarchenkreuz auf drei
                                             Stufen. Fleurons auf beiden Seiten.</figDesc>
                               <figDesc ana="" n="r" xml:lang="el">Πατριαρχικός σταυρός σε τριβαθμιδωτή βάση. Φυτικό μοτίβο και στις δύο πλευρές του πεδίου.</figDesc>
-                              <figDesc n="decoR" xml:lang="en">Cross at the beginning of
+                              <figDesc ana="" n="decoR" xml:lang="en">Cross at the beginning of
                                             the legend. Border of dots.</figDesc>
-                              <figDesc n="decoR" xml:lang="de">Kreuz am Anfang der
+                              <figDesc ana="" n="decoR" xml:lang="de">Kreuz am Anfang der
                                             Legende. Perlrand.</figDesc>
-                              <figDesc n="decoR" xml:lang="el">Σταυρός στην αρχή της επιγραφής. Στικτό πλαίσιο.</figDesc>
+                              <figDesc ana="" n="decoR" xml:lang="el">Σταυρός στην αρχή της επιγραφής. Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -308,9 +310,9 @@
                            <figure>
                               <figDesc ana="" n="v" xml:lang="en"/>
                               <figDesc ana="" n="v" xml:lang="de"/>
-                              <figDesc n="decoV" xml:lang="en">Above and below the legend, remnants of a decoration consisting of one or more dots between two dashes. Border of dots.</figDesc>
-                              <figDesc n="decoV" xml:lang="de">Ober- und unterhalb der Legende, Reste einer Dekoration aus einem oder mehreren Punkten zwischen Zierlinien. Perlrand.</figDesc>
-                              <figDesc n="decoV" xml:lang="el">Πάνω και κάτω από την επιγραφή, ίχνη διακοσμητικού μοτίβου, το οποίο αποτελείται από μία ή και περισσότερες στιγμές μεταξύ δύο γραμμών. Στικτό πλαίσιο.</figDesc>
+                              <figDesc ana="" n="decoV" xml:lang="en">Above and below the legend, remnants of a decoration consisting of one or more dots between two dashes. Border of dots.</figDesc>
+                              <figDesc ana="" n="decoV" xml:lang="de">Ober- und unterhalb der Legende, Reste einer Dekoration aus einem oder mehreren Punkten zwischen Zierlinien. Perlrand.</figDesc>
+                              <figDesc ana="" n="decoV" xml:lang="el">Πάνω και κάτω από την επιγραφή, ίχνη διακοσμητικού μοτίβου, το οποίο αποτελείται από μία ή και περισσότερες στιγμές μεταξύ δύο γραμμών. Στικτό πλαίσιο.</figDesc>
                            </figure>
                         </decoNote>
                      </decoDesc>
