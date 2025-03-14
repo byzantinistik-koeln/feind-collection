@@ -146,15 +146,6 @@
                            <placeName ref="URI"/>
                         </seg>
                      </origPlace>
-                     <!-- for a precise year (WHEN):-->
-                     <!--remember: you will most probably only need one of these. Whatever you DON'T need goes in a green comment-->
-                     <!--<origDate type="analysis" when="0001" evidence="" cert="" resp="">
-                                <seg xml:lang="en"/>
-                                <seg xml:lang="de"/>
-                                <interp type="datingCriteria" xml:lang="en"/>
-                                <interp type="datingCriteria" xml:lang="de"/>
-                            </origDate>-->
-                     <!-- for a date range or centuries (NOT BEFORE - NOT AFTER)-->
                      <origDate type="analysis" notBefore="0751" notAfter="0800" evidence="epigraphy iconography" cert="high" resp=" #MC">
                         <seg xml:lang="en">8th c., second half.</seg>
                         <seg xml:lang="de">8. Jh., zweite Hälfte.</seg>
@@ -293,7 +284,6 @@
          <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"> <!--change the language code according to the language of your edition, the values (also when combined, e.g. Greek-Latin) are in the guidelines. Same goes for what comes next, textpart etc.-->
                   <!--<div type="textpart" subtype="face" n="obv" rend="linear" xml:lang="grc"> <!-\-obverse, editorial-\->
                       <ab> 
-                                    
                       </ab>
                   </div>-->
                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
