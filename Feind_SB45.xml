@@ -333,9 +333,9 @@
                             
                           <lb n="1"/><rs type="invocation" ref="#inv001"><expan><abbr>Θ</abbr><ex>εοτόκε</ex></expan><expan> <abbr>β</abbr><ex>οή</ex><abbr>θ</abbr><ex>ει</ex></expan></rs>
                                    <lb n="2"/><supplied reason="lost">Θ</supplied>εοδώρῳ 
-                                       <lb n="3"/><rs type="dignity" ref="#magistros"><supplied reason="lost">μ</supplied>αγίστρῳ</rs> 
-                                       <lb n="4"/> <rs type="dignity" ref="#vestarches"><expan> <supplied reason="lost">β</supplied><abbr>εστάρχ</abbr><ex>ῃ</ex></expan></rs>
-                                       <lb n="5"/><rs type="office" subtype="military" ref="#droug_002"><supplied reason="lost"><ex>καὶ</ex></supplied><expan><abbr>δρουγγαρ</abbr><ex>ίῳ</ex></expan>
+                                       <lb n="3"/><rs type="dignity" ref="#d0038"><supplied reason="lost">μ</supplied>αγίστρῳ</rs> 
+                                       <lb n="4"/> <rs type="dignity" ref="#d0017"><expan> <supplied reason="lost">β</supplied><abbr>εστάρχ</abbr><ex>ῃ</ex></expan></rs>
+                                       <lb n="5"/><rs type="office" subtype="military" ref="#droug_002"><supplied reason="lost"><expan><ex>καὶ</ex></expan></supplied> <expan><abbr>δρουγγαρ</abbr><ex>ίῳ</ex></expan>
                                        <lb n="6"/>τῆς <expan><abbr>βί
                                        <lb n="7" break="no"/>γλ</abbr><ex>ας</ex></expan></rs>
                             </ab>
@@ -343,14 +343,7 @@
               </div>
          <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"> 
                   <div type="textpart" subtype="sigla" n="obv" rend="columns" xml:lang="grc"> <!--obverse, diplomatic-->
-                      <ab> 
-                          <cb n="a"/>
-                             <cb n="b"/>
-                  
-                          
-
-
-                      </ab>
+                      <ab>...</ab> 
                   </div>
                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, diplomatic-->
                       <ab>
