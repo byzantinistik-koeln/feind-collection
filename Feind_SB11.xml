@@ -2,8 +2,8 @@
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
-            <title xml:lang="en">Seal of the imperial kommerkia of Thessalonika</title>
-            <title xml:lang="de">Siegel des kaiserlichen kommerkia von Thessalonika</title>
+            <title xml:lang="en">Seal of the imperial kommerkia of Thessaloniki</title>
+            <title xml:lang="de">Siegel des kaiserlichen kommerkia von Thessaloniki</title>
             <title xml:lang="el">Μολυβδόβουλλο των βασιλικών κομμερκίων Θεσσαλονίκης</title>
             <editor role="seal-editor" xml:id="MC">Maria Teresa Catalano</editor>
             <editor role="seal-editor" xml:id="MF">Martina Filosa</editor>
@@ -34,19 +34,14 @@
             </availability>
          </publicationStmt>
          <sourceDesc>
-            <listPerson type="issuer">
-               <person role="civil" gender="M">
-                  <persName xml:lang="en">
-                     <forename>?</forename>
-                  </persName>
-                  <persName xml:lang="de">
-                     <forename>?</forename>
-                  </persName>
-                  <persName xml:lang="el">
-                     <forename>;</forename>
-                  </persName>
-               </person>
-            </listPerson>
+            <listOrg type="issuer">
+               <org role="corporate" type="civil">
+                  <orgName xml:lang="grc">Βασιλικὰ κομμέρκια Θεσσαλονίκης</orgName>
+                  <orgName xml:lang="en">Imperial kommerkia of Thessaloniki</orgName>
+                  <orgName xml:lang="de">Kaiserliche Kommerkia von Thessaloniki</orgName>
+                  <orgName xml:lang="el">Βασιλικά κομμέρκια της Θεσσαλονίκης</orgName>
+               </org>
+            </listOrg>
             <msDesc>
                <msIdentifier>
                   <country>
