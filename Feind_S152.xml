@@ -341,11 +341,11 @@
                       </ab>
                   </div>
                       <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
-                      <ab ana="dat"><!--Eumenias TOBEDONE in authority-->
+                      <ab ana="dat">
                           <lb n="5"/><rs type="office" subtype="ecclesiastical" ref="#of0216"><expan><ex>μον</ex><abbr>αχ</abbr><ex>ῷ</ex></expan></rs> 
-                          <lb n="6"/>τῷ Εὐ
+                          <lb n="6"/>τῷ <placeName ref="#geo0053">Εὐ
                           <lb n="7" break="no"/>μενεί
-                          <lb n="8" break="no"/>ας
+                          <lb n="8" break="no"/>ας</placeName>
                       </ab>
                   </div>
               </div>

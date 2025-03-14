@@ -332,7 +332,7 @@
                               <lb n="1"/><rs type="invocation" ref="#inv001"><expan><abbr>Θ</abbr><ex>εοτό</ex><abbr>κε</abbr></expan> <expan><abbr>β</abbr><ex>οή</ex><abbr>θ</abbr><ex>ει</ex></expan></rs>
                                <lb n="2"/>Λέοντι 
                                <lb n="3"/><rs type="office" subtype="ecclesiastical" ref="#of0206"><expan><abbr>ἐπισκόπ</abbr><ex>ῳ</ex></expan></rs>
-                               <lb n="4"/><placeName ref="geo0315">Βρυέλου</placeName>
+                               <lb n="4"/><placeName ref="#geo0315">Βρυέλου</placeName>
                                <lb n="5"/><expan><abbr><am>S</am></abbr><ex>καὶ</ex></expan> <rs type="office" subtype="ecclesiastical" ref="#of0232"><expan><abbr>συγ</abbr><ex>κ</ex><abbr>έ</abbr><ex>λλῳ</ex></expan></rs>
                       </ab>
                   </div>
