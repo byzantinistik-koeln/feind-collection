@@ -42,6 +42,8 @@
                <org role="corporate" type="civil">
                   <orgName xml:lang="grc">Βασιλικὰ κομμέρκια</orgName>
                   <orgName xml:lang="en">Imperial kommerkia</orgName>
+                  <orgName xml:lang="de">Kaiserliche Kommerkia</orgName>
+                  <orgName xml:lang="el">Βασιλικά κομμέρκια</orgName>
                </org>
             </listOrg>
             <msDesc>
@@ -312,9 +314,6 @@
                               <lb n="2"/>..Μερκ
                           <lb n="3"/>…
                           <lb n="4"/>…
-                         
-                          
-                           
                       </ab>
                   </div>
               </div>

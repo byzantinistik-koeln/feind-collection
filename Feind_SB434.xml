@@ -42,6 +42,8 @@
                <org role="corporate" type="civil">
                   <orgName xml:lang="grc">Βασιλικὰ κομμέρκια τῆς Θρᾴκης</orgName>
                   <orgName xml:lang="en">Imperial kommerkia of Thrace</orgName>
+                  <orgName xml:lang="de">Kaiserliche Kommerkia von Thrakien</orgName>
+                  <orgName xml:lang="el">Βασιλικά κομμέρκια της Θράκης</orgName>
                </org>
             </listOrg>
             <msDesc>
@@ -279,7 +281,7 @@
          </surface>
       </surfaceGrp>
    </facsimile>
-   <text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <text>
       <body>
          <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"> <!--change the language code according to the language of your edition, the values (also when combined, e.g. Greek-Latin) are in the guidelines. Same goes for what comes next, textpart etc.-->
                   <div type="textpart" subtype="sigla" n="obv" rend="columns" xml:lang="grc"> <!--obverse, editorial-->
