@@ -35,10 +35,18 @@
          </publicationStmt>
          <sourceDesc>
             <listPerson type="issuer">
-               <person gender="M" role="corporate" xml:id="anonymous">
-                  <persName xml:lang="">
-                     <forename/>
-                     <surname/>
+               <person gender="M" role="civil">
+                  <persName xml:lang="grc">
+                     <forename>N.</forename>
+                  </persName>
+                  <persName xml:lang="en">
+                     <forename>N.</forename>
+                  </persName>
+                  <persName xml:lang="de">
+                     <forename>N.</forename>
+                  </persName>
+                  <persName xml:lang="el">
+                     <forename>N.</forename>
                   </persName>
                </person>
             </listPerson>
