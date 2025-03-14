@@ -322,17 +322,16 @@
          <div type="edition" subtype="editorial" xml:space="preserve"> <!--change the language code according to the language of your edition, the values (also when combined, e.g. Greek-Latin) are in the guidelines. Same goes for what comes next, textpart etc.-->
                   <div type="textpart" subtype="sigla" n="obv" rend="columns" xml:lang="grc"> <!--obverse, editorial-->
                       <ab>
-                          <cb n="a"/><rs type="marianTerm" subtype="sigla" ref="#meter-theou"><supplied reason="lost">Μή<ex>τη</ex>ρ
-                          <cb n="b"/>Θ(εο)ῦ</supplied></rs>
+                          <cb n="a"/><rs type="marianTerm" subtype="sigla" ref="#meter-theou"><supplied reason="lost"><expan><abbr>Μή</abbr><ex>τη</ex><abbr>ρ</abbr></expan>
+                          <cb n="b"/><expan><abbr>Θ</abbr><ex>εο</ex><abbr>ῦ</abbr></expan></supplied></rs>
                       </ab>
                   </div>
                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
                       <ab ana="dat">
-                                          
-                              <lb n="1"/><rs type="invocation" ref="#inv002"><expan><abbr>Θ</abbr><ex>εοτό</ex><abbr>κε</abbr></expan> <expan><abbr>β</abbr><ex>οή</ex><abbr>θ</abbr><ex>ει</ex></expan>
+                          <lb n="1"/><rs type="invocation" ref="#inv002"><expan><abbr>Θ</abbr><ex>εοτό</ex><abbr>κε</abbr></expan> <expan><abbr>β</abbr><ex>οή</ex><abbr>θ</abbr><ex>ει</ex></expan>
                           <lb n="2"/>τῷ σῷ <expan><abbr>δού</abbr><ex>λῳ</ex></expan></rs>
-                          <lb n="3"/><persName type="forename" ref="#Petros-1"><expan><abbr>Πέτρ</abbr><ex>ῳ</ex></expan></persName> <rs type="office" subtype="civil" ref="#asekretis_001">ἀση
-                          <lb n="4" break="no"/><expan><abbr>κρῆτ</abbr><ex>ις</ex></expan></rs><expan><abbr><am>S</am></abbr><ex>καὶ</ex></expan> <rs type="office" subtype="civil" ref="#krites_005"><expan><abbr>κρ</abbr><ex>ι</ex>
+                          <lb n="3"/><persName type="forename" ref="#Petros-1"><expan><abbr>Πέτρ</abbr><ex>ῳ</ex></expan></persName> <rs type="office" subtype="civil" ref="#of0026">ἀση
+                          <lb n="4" break="no"/><expan><abbr>κρῆτ</abbr><ex>ις</ex></expan></rs><expan><abbr><am>S</am></abbr><ex>καὶ</ex></expan> <rs type="office" subtype="civil" ref="#of0112"><expan><abbr>κρ</abbr><ex>ι</ex>
                           <lb n="5" break="no"/><abbr>τ</abbr><ex>ῇ</ex></expan> τῶν <placeName type="geography" ref="#geo0006"><expan><abbr>Θρ</abbr><ex>ᾳ</ex>
                           <lb n="6" break="no"/><abbr>κησ</abbr><ex>ίων</ex></expan></placeName></rs>
                       </ab>
