@@ -38,28 +38,12 @@
             </availability>
          </publicationStmt>
          <sourceDesc>
-            <listPerson type="issuer">
-               <person role="civil corporate"> <!--gender to be changed as wished; the value of role is imperial civil military aristocracy secular-church monastic civic corporate private undetermined-->
-                        <!--corporate seal!!!-->
-                  <persName xml:lang="grc">
-                     <forename/>
-                     <surname/>
-                  </persName>
-                  <persName xml:lang="en">
-                     <forename/>
-                     <surname/>
-                  </persName>
-                  <persName xml:lang="de">
-                     <forename/>
-                     <surname/>
-                  </persName>
-                  <idno type="PBW"/>
-                  <idno type="PmbZ"/>
-                  <idno type="PLP"/>
-                  <idno type="PLRE"/>
-               </person>
-               <idno/>
-            </listPerson>
+            <listOrg type="issuer">
+               <org role="corporate" type="civil">
+                  <orgName xml:lang="grc">Βασιλικὰ κομμέρκια τῆς Θρᾴκης</orgName>
+                  <orgName xml:lang="en">Imperial kommerkia of Thrace</orgName>
+               </org>
+            </listOrg>
             <msDesc>
                <msIdentifier>
                   <country>
@@ -160,53 +144,12 @@
                            <placeName ref="URI"/>
                         </seg>
                      </origPlace>
-                     <!-- for a precise year (WHEN):-->
-                     <!--remember: you will most probably only need one of these. Whatever you DON'T need goes in a green comment-->
-                     <!--<origDate type="analysis" when="0001" evidence="" cert="" resp="">
-                                <seg xml:lang="en"/>
-                                <seg xml:lang="de"/>
-                                <interp type="datingCriteria" xml:lang="en"/>
-                                <interp type="datingCriteria" xml:lang="de"/>
-                            </origDate>-->
-                     <!-- for a date range or centuries (NOT BEFORE - NOT AFTER)-->
                      <origDate type="analysis" notBefore="0801" notAfter="0820" evidence="epigraphy iconography" resp="#MC">
                         <seg xml:lang="en">Early 9th c.</seg>
                         <seg xml:lang="de">Frühes 9. Jh.</seg>
                         <seg xml:lang="el">Αρχές 9ου αι.</seg>
                      </origDate>
-                     <!-- for an internal date -->
-                     <!--<origDate type="internal" when="0001" when-custom="2023" datingMethod="">
-                                <seg xml:lang="en"/>
-                                <seg xml:lang="de"/>
-                                <interp type="datingCriteria" xml:lang="en"/>
-                                <interp type="datingCriteria" xml:lang="de"/>
-                            </origDate>-->
-                     <!-- for erroneous dating and corrections: -->
-                     <!--<date>
-                                <choice>
-                                    <sic resp=""/>
-                                    <corr resp="" evidence="" cert=""/>
-                                </choice>
-                                <interp type="datingCriteria" xml:lang=""/>
-                            </date>-->
                   </origin>
-                  <!--<provenance type="found" subtype="" when="2023" xml:lang="" source="" cert="">
-                            <placeName type="ancientFindspot" ref="URI"/>
-                            <placeName type="modernFindspot" ref="URI"/>
-                            <rs type="circumstances"/>
-                        </provenance>
-                        <provenance type="observed" subtype="">
-                            <p xml:lang="en"/>
-                            <p xml:lang="de"/>
-                        </provenance>
-                        <provenance type="not-observed" subtype="">
-                            <p xml:lang="en"/>
-                            <p xml:lang="de"/>
-                        </provenance>
-                        <provenance type="transferred" subtype="">
-                            <p xml:lang="en"/>
-                            <p xml:lang="de"/>
-                        </provenance>-->
                   <acquisition>
                      <p xml:lang="en"/>
                      <p xml:lang="de"/>
@@ -344,8 +287,8 @@
                   </div>
                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial--><!--surplus so korrekt?-->
                       <ab>
-                          <lb n="1"/><supplied reason="lost">+</supplied><rs type="institution" ref="#org0036">Τῶν
-                          <lb n="2"/><surplus><supplied reason="lost">β</supplied></surplus><expan><abbr>β</abbr><ex>ασιλικῶν</ex></expan> <expan><abbr>κομ
+                          <lb n="1"/><supplied reason="lost">+</supplied>Τῶν
+                          <lb n="2"/><rs type="institution" ref="#org0036"><surplus><supplied reason="lost">β</supplied></surplus><expan><abbr>β</abbr><ex>ασιλικῶν</ex></expan> <expan><abbr>κομ
                           <lb n="3" break="no"/><supplied reason="lost">μ</supplied>ερκ</abbr><ex>ίων</ex></expan> </rs>τῆς 
                           <lb n="4"/><placeName ref="#geo0048"><expan><abbr><supplied reason="lost">Θ</supplied>ρᾴκ</abbr><ex>ης</ex></expan></placeName>
                       </ab>
