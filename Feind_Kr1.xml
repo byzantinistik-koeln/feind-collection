@@ -36,11 +36,17 @@
          <sourceDesc>
             <listPerson type="issuer">
                <person role="military" gender="M">
+                  <persName xml:lang="grc">
+                     <forename>N.</forename>
+                  </persName>
                   <persName xml:lang="en">
-                     <forename>?</forename>
+                     <forename>N.</forename>
                   </persName>
                   <persName xml:lang="de">
-                     <forename>?</forename>
+                     <forename>N.</forename>
+                  </persName>
+                  <persName xml:lang="el">
+                     <forename>N.</forename>
                   </persName>
                </person>
             </listPerson>
