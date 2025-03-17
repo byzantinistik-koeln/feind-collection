@@ -6,7 +6,7 @@
       <fileDesc>
          <titleStmt>
             <title xml:lang="en">Seal of Theodosios imperial notarios and protonotarios</title>
-            <title xml:lang="de">Siegel des Theodosios kaiserlichen Notarien und Protonotarius</title>
+            <title xml:lang="de">Siegel des Theodosios kaiserlicher notarios und protonotarios</title>
             <title xml:lang="el">Μολυβδόβουλλο του Θεοδοσίου βασιλικού νοταρίου και πρωτονοταρίου</title>
             <editor role="seal-editor" xml:id="MC">Maria Teresa Catalano</editor>
             <editor role="seal-editor" xml:id="MF">Martina Filosa</editor>
@@ -325,31 +325,24 @@
    <text>
       <body>
          <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"> <!--change the language code according to the language of your edition, the values (also when combined, e.g. Greek-Latin) are in the guidelines. Same goes for what comes next, textpart etc.-->
-                  <div type="textpart" subtype="sigla" n="obv" rend="columns" xml:lang="grc"> <!--obverse, editorial-->
-                      
+                  <div type="textpart" subtype="label" n="obv" rend="columns" xml:lang="grc"> <!--obverse, editorial-->
                       <ab>
-                         
-                          <cb n="a"/><rs type="saintsTerm" subtype="label" ref="#st-nicholas">ὁ <expan><abbr>ἅ</abbr><ex>γιος</ex> </expan><expan> <abbr>Νι
-                         <cb n="b"/>κ</abbr><ex>ό</ex><abbr>λαος</abbr></expan></rs>
+                          <cb n="a"/><expan><abbr>ὁ ἅ</abbr><ex>γιος</ex> </expan><expan> <abbr>Νι
+                         <cb n="b" break="no"/>κ</abbr><ex>ό</ex><abbr>λαος</abbr></expan>
                           </ab>
                   </div>  
                  <div type="textpart" subtype="face" n="obv" rend="circular" xml:lang="grc">
-
                      <ab ana="dat">
                                   <lb n="1"/><rs type="invocation" ref="#inv004"><expan><abbr>Κ</abbr><ex>ύρι</ex><abbr>ε</abbr></expan> βοήθ<supplied reason="lost">ει τ</supplied>ῷ σῷ <expan><abbr>δούλ</abbr><ex>ῳ</ex></expan></rs>
-
                      </ab>
-                 
                       </div>  
                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
-
                       <ab ana="dat">
-                                 <lb n="2"/> Θεο
+                                 <lb n="2"/>Θεο
                                  <lb n="3" break="no"/>δοσίῳ 
-                                <lb n="4" break="no"/><rs type="office" subtype="civil" ref="#of0144"><expan><abbr>β</abbr><ex>ασιλικῷ</ex></expan> νοταρί
-                                 <lb n="5" break="no"/>ῳ</rs>  <expan><abbr><am>S</am></abbr><ex>καὶ</ex></expan> <rs type="office" subtype="civil" ref="#of0172"><expan><ex>πρωτο</ex><abbr>νο
+                                <lb n="4"/><rs type="office" subtype="civil" ref="#of0144"><expan><abbr>β</abbr><ex>ασιλικῷ</ex></expan> νοταρί
+                                 <lb n="5" break="no"/>ῳ</rs>  <expan><abbr><am>S</am></abbr><ex>καὶ</ex></expan> <rs type="office" subtype="civil" ref="#of0172"><expan><abbr><am>Α</am></abbr><ex>πρωτο</ex><abbr>νο
                                  <lb n="6" break="no"/>ταρίῳ</abbr></expan></rs>
-
                             </ab>
                   </div>
               </div>
@@ -390,7 +383,7 @@
          <div type="translation">
             <p> Ὁ ἅγιος Νικόλαος. Κύριε βοήθει τῷ σῷ δούλῳ / Θεοδοσίῳ βασιλικῷ νοταρίῳ καὶ πρωτονοταρίῳ. </p>
             <p xml:lang="en">St Nicholas. Lord, help your servant Theodosios imperial notarios and protonotarios.</p>
-            <p xml:lang="de">Hl. Nikolaus. Herr, hilf deinem Diener Theodosios kaiserlichem notarios und protonotarios.</p>
+            <p xml:lang="de">Hl. Nikolaus. Herr, hilf deinem Diener Theodosios kaiserlicher notarios und protonotarios.</p>
             <p xml:lang="el">Ο  άγ. Νικόλαος. Κύριε βοήθησε το δούλο σου Θεοδόσιο, βασιλικό νοτάριο και πρωτονοτάριο.</p>
          </div>
          <div type="commentary" subtype="text">

@@ -343,7 +343,7 @@
                       <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
                       <ab ana="gen">
                           <lb n="1"/><supplied reason="lost">Εὐστ</supplied>
-                          <lb n="2"/>αθί<supplied reason="lost">ου</supplied> 
+                          <lb n="2" break="no"/>αθί<supplied reason="lost">ου</supplied> 
                           <lb n="3"/><rs type="office" subtype="ecclesiastical" ref="#of0206">ἐπισκ
                           <lb n="4" break="no"/>όπου</rs>
                       </ab>
