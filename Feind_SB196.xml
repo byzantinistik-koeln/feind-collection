@@ -4,7 +4,7 @@
       <fileDesc>
          <titleStmt>
             <title xml:lang="en">Seal of Niketas patrikios, krites of the velum, Chaldia, and Derzene, and anthropos of our holy emperor</title>
-            <title xml:lang="de">Siegel des Niketas Patrikios, Krites des Velum, Chaldia und Derzene, und Anthropos unseres heiligen Kaisers</title>
+            <title xml:lang="de">Siegel des Niketas Patrikios, krites des velum, von Chaldia und Derzene, und anthropos unseres heiligen Kaisers</title>
             <title xml:lang="el">Μολυβδόβουλλο του Νικήτα πατρικίου, κριτή του βήλου, Χαλδίας καὶ Δερζηνής καὶ ανθρώπου του αγίου μας αυτοκράτορα</title>
             <editor role="seal-editor" xml:id="MC">Maria Teresa Catalano</editor>
             <editor role="seal-editor" xml:id="MF">Martina Filosa</editor>
@@ -323,20 +323,19 @@
       <body>
          <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"> <!--change the language code according to the language of your edition, the values (also when combined, e.g. Greek-Latin) are in the guidelines. Same goes for what comes next, textpart etc.-->
                   <div type="textpart" subtype="sigla" n="obv" rend="columns" xml:lang="grc"> <!--obverse, editorial-->
-                      
                       <ab>
-                          <rs type="marianTerm" subtype="sigla" ref="#meter-theou"><cb n="a"/><expan><abbr>Μή</abbr><ex>τη</ex><abbr>ρ</abbr></expan>
-                          <cb n="b"/><supplied reason="lost"><expan><abbr>Θ</abbr><ex>εο</ex><abbr>ῦ</abbr></expan></supplied></rs>
+                          <cb n="a"/><expan><abbr>Μή</abbr><ex>τη</ex><abbr>ρ</abbr></expan>
+                          <cb n="b"/><supplied reason="lost"><expan><abbr>Θ</abbr><ex>εο</ex><abbr>ῦ</abbr></expan></supplied>
                       </ab>
                   </div>
                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
                       <ab ana="dat">
-                                                     <lb n="1"/><rs type="invocation" ref="#inv001"><supplied reason="lost"><expan><abbr>Θ</abbr><ex>εοτό</ex><abbr>κε</abbr></expan></supplied><expan><abbr> β</abbr><ex>οή</ex><abbr>θ</abbr><ex>ει</ex></expan></rs>
-                          <lb n="2"/><persName type="attested" ref="#Niketas-4"><supplied reason="lost">Νική</supplied>τᾳ</persName> <rs type="dignity" ref="#d0047"><expan><abbr>π</abbr><ex>ατ</ex><abbr>ρι</abbr><ex>κίῳ</ex></expan></rs>, 
-                          <lb n="3"/><rs type="office" subtype="civil" ref="#of0112"><supplied reason="lost">κριτῇ</supplied> </rs>τοῦ<rs type="institution" ref="#org0007"> <expan><abbr>βήλ</abbr><ex>ου</ex></expan></rs>, 
-                          <lb n="4"/><rs type="office" subtype="civil" ref="#of0112"><placeName type="geography" ref="#geo0055"><supplied reason="lost"><expan><abbr>Χαλδ</abbr><ex>ίας</ex></expan></supplied> </placeName></rs><expan><abbr><am>S</am></abbr><ex>καὶ</ex></expan> <rs type="office" subtype="civil" ref="#of0112"><placeName type="geography" ref="#geo0128">Δ<supplied reason="lost">ε</supplied>ρ
-                          <lb n="5" break="no"/><supplied reason="lost"><expan><abbr>ζην</abbr><ex>ῆς</ex></expan></supplied></placeName></rs> <supplied reason="lost"><expan><abbr><am>S</am></abbr><ex>καὶ</ex></expan></supplied><rs type="office" subtype="civil" ref="#of0293"> <expan> <abbr>ἀν</abbr><ex>θρώπ</ex><abbr>ου </abbr></expan>
-                          <lb n="6"/><supplied reason="lost"><expan><abbr>τ</abbr><ex>οῦ</ex></expan> <expan><abbr>β</abbr><ex>ασιλέως</ex></expan></supplied></rs><supplied reason="lost"> <expan><abbr>ἡμ</abbr><ex>ῶν</ex></expan> <expan><abbr>τ</abbr><ex>οῦ</ex></expan></supplied><expan> <abbr>ἁγ</abbr><ex>ίου</ex></expan>
+                          <lb n="1"/><rs type="invocation" ref="#inv001"><supplied reason="lost"><expan><abbr>Θ</abbr><ex>εοτό</ex><abbr>κε</abbr></expan></supplied> <expan><abbr>β</abbr><ex>οή</ex><abbr>θ</abbr><ex>ει</ex></expan></rs>
+                          <lb n="2"/><supplied reason="lost">Νική</supplied>τᾳ <rs type="dignity" ref="#d0047"><expan><abbr>π</abbr><ex>ατ</ex><abbr>ρι</abbr><ex>κίῳ</ex></expan></rs>
+                          <lb n="3"/><rs type="office" subtype="civil" ref="#of0112"><supplied reason="lost">κριτῇ</supplied></rs> τοῦ <rs type="institution" ref="#org0007"><expan><abbr>βήλ</abbr><ex>ου</ex></expan></rs> 
+                          <lb n="4"/><placeName ref="#geo0055"><supplied reason="lost"><expan><abbr>Χαλδ</abbr><ex>ίας</ex></expan></supplied></placeName> <expan><abbr><am>S</am></abbr><ex>καὶ</ex></expan> <placeName ref="#geo0128"><expan><abbr>Δ<supplied reason="lost">ε</supplied>ρ</abbr>
+                          <lb n="5" break="no"/><supplied reason="lost"><abbr>ξην</abbr><ex>ῆς</ex></supplied></expan></placeName> <supplied reason="lost"><expan><abbr><am>S</am></abbr><ex>καὶ</ex></expan></supplied> <rs type="office" subtype="civil" ref="#of0294"><expan><abbr>ἀν</abbr><ex>θρώπ</ex><abbr>ου</abbr></expan></rs>
+                             <lb n="6"/><supplied reason="lost"><expan><abbr>τ</abbr><ex>οῦ</ex></expan> <expan><abbr>β</abbr><ex>ασιλέως</ex></expan> <expan><abbr>ἡμ</abbr><ex>ῶν</ex></expan> <expan><abbr>τ</abbr><ex>οῦ</ex></expan></supplied> <expan><abbr>ἁγ</abbr><ex>ίου</ex></expan>
                             </ab>
                   </div>
               </div>
@@ -368,9 +367,9 @@
             </listApp>
          </div>
          <div type="translation">
-            <p>Μήτηρ Θεοῦ/ Θεοτόκε βοήθει Νικήτᾳ πατρικίῳ, κριτῇ τοῦ βήλου, Χαλδίας καὶ Δερζηνῆς καὶ ἀνθρώπου τοῦ βασιλέως ἡμῶν τοῦ ἁγίου.</p>
+            <p>Μήτηρ Θεοῦ / Θεοτόκε βοήθει Νικήτᾳ πατρικίῳ, κριτῇ τοῦ βήλου, Χαλδίας καὶ Δερζηνῆς καὶ ἀνθρώπου τοῦ βασιλέως ἡμῶν τοῦ ἁγίου.</p>
             <p xml:lang="en">Mother of God. Mother of God, help Niketas patrikios, krites of the velum, Chaldia, and Derzene, and anthropos of our holy emperor.</p>
-            <p xml:lang="de">Muttergottes. Muttergottes, hilf Niketas patrikios, krites des velum, Chaldia und Derzene, und anthropos unseres heiligen Kaisers.</p>
+            <p xml:lang="de">Muttergottes. Muttergottes, hilf Niketas patrikios, krites des velum, von Chaldia und Derzene, und anthropos unseres heiligen Kaisers.</p>
             <p xml:lang="el">Θεοτόκε. Θεοτόκε βοήθησε τον Νικήτα πατρίκιο, κριτή του βήλου, Χαλδίας, και Δερζηνής και ανθρώπου του αγίου μας αυτοκράτορα.</p>
          </div>
          <!--<div type="commentary" subtype="text">

@@ -4,7 +4,7 @@
       <fileDesc>
          <titleStmt>
             <title xml:lang="en">Seal of Michael protospatharios, krites epi tou hippodromou, and anagrapheus of the Aigeon Pelagos</title>
-            <title xml:lang="de">Siegel des Michael protospatharios, krites epi tou hippodromou, and anagrapheus of the Aigeon Pelagos</title>
+            <title xml:lang="de">Siegel des Michael protospatharios, krites epi tou hippodromou und anagrapheus der Aigeon Pelagos</title>
             <title xml:lang="el">Μολυβδόβουλλο του Μιχαήλ πρωτοσπαθαρίου, κριτή του ιπποδρόμου και αναγραφέα του Αιγαίου Πελάγους</title>
             <editor role="seal-editor" xml:id="MC">Maria Teresa Catalano</editor>
             <editor role="seal-editor" xml:id="MF">Martina Filosa</editor>
@@ -324,18 +324,14 @@
                   <!--<div type="textpart" subtype="sigla" n="obv" rend="columns" xml:lang="grc"> <!-\-obverse, editorial-\->
                       
                   </div>-->
-                  <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
-                      <ab ana="nom">
-                          
-                                                       
-                              <lb n="1"/> <persName type="forename" ref="#Michael-4">Μιχαὴ<supplied reason="lost">λ</supplied></persName>
-                               <lb n="2"/> <rs type="dignity" ref="#d0066"><expan><ex>πρωτο</ex><abbr>σπαθ</abbr><ex>άριος</ex></expan></rs> <rs type="office" subtype="civil" ref="#of0112"><expan><abbr>κρ</abbr><supplied reason="lost">ι</supplied>
-                               <lb n="3" break="no"/> τ<ex>ὴς</ex></expan></rs><rs type="institution" ref="#org0017">ἐπὶ τοῦ <expan><abbr>ἱπ
-                               <lb n="4" break="no"/> ποδ</abbr><ex>ρόμου</ex> </expan></rs><expan><abbr><am>S</am></abbr><ex>καὶ</ex></expan><rs type="office" subtype="civil" ref="#of0016"> ἀν<supplied reason="lost">α</supplied>
-                               <lb n="5" break="no"/><expan><abbr>γραφ</abbr><ex>εὺς</ex> </expan>τοῦ  <placeName type="geography" ref="#geo0018"><supplied reason="lost"><expan><abbr>Αἰγ</abbr><ex>αίου</ex></expan></supplied>
-                               <lb n="6"/><expan><supplied reason="lost">Π</supplied><abbr>ελ</abbr><supplied reason="lost">άγ<ex>ους</ex></supplied></expan></placeName></rs>
-                           
-                          
+                  <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial--><!--TOBEDONE PLACENAME MARKUP-->
+                      <ab ana="nom">                                                 
+                              <lb n="1"/>Μιχαὴ<supplied reason="lost">λ</supplied>
+                               <lb n="2"/><rs type="dignity" ref="#d0066"><expan><abbr><am>Α</am></abbr><ex>πρωτο</ex><abbr>σπαθ</abbr><ex>άριος</ex></expan></rs> <rs type="office" subtype="civil" ref="#of0112"><expan><abbr>κρ<supplied reason="lost">ι</supplied>
+                               <lb n="3" break="no"/>τ</abbr><ex>ὴς</ex></expan></rs> ἐπὶ τοῦ <rs type="institution" ref="#org0017"><expan><abbr>ἱπ
+                               <lb n="4" break="no"/>ποδ</abbr><ex>ρόμου</ex></expan></rs> <expan><abbr><am>S</am></abbr><ex>καὶ</ex></expan> <rs type="office" subtype="civil" ref="#of0016"><expan><abbr>ἀν<supplied reason="lost">α</supplied>
+                               <lb n="5" break="no"/>γραφ</abbr><ex>εὺς</ex></expan></rs> τοῦ <placeName ref="#"><supplied reason="lost"><expan><abbr>Αἰ
+                               <lb n="6" break="no"/>γ</abbr><ex>αίου</ex></expan></supplied> <expan><abbr><supplied reason="lost">Π</supplied>ελ</abbr><supplied reason="lost"><abbr>άγ</abbr><ex>ους</ex></supplied></expan></placeName>
                       </ab>
                   </div>
               </div>
@@ -370,7 +366,7 @@
          <div type="translation">
             <p>Μιχαὴλ πρωτοσπαθάριος κριτὴς ἐπὶ τοῦ ἱπποδρόμου καὶ ἀναγραφεὺς τοῦ Αἰγαίου Πελάγους.</p>
             <p xml:lang="en">Michael protospatharios, krites epi tou hippodromou, and anagrapheus of the Aigeon Pelagos.</p>
-            <p xml:lang="de">Michael Protospatharios, Krites epi tou hippodromou und Anagrapheus des Aigeon Pelagos.</p>
+            <p xml:lang="de">Michael Protospatharios, krites epi tou hippodromou und anagrapheus der Aigeon Pelagos.</p>
             <p xml:lang="el">Μιχαὴλ πρωτοσπαθάριος κριτὴς του ιπποδρόμου και αναγραφέας του Αιγαίου Πελάγους.</p>
          </div>
          <div type="commentary" subtype="text">

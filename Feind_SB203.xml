@@ -332,18 +332,18 @@
       <body>
          <div type="edition" subtype="editorial" xml:space="preserve"> 
                   <div type="textpart" subtype="face" n="obv" rend="circular" xml:lang="grc"> <!--obverse, editorial-->
-                      <ab>
-                          <lb n="1"/><expan><abbr>Θ</abbr><ex>εοτό</ex><abbr>κε</abbr></expan> <expan><abbr>βοήθ</abbr><ex>ει</ex></expan> τῳ σῷ <expan><abbr>δού</abbr><ex>λῳ</ex></expan>
+                      <ab ana="dat">
+                          <lb n="1"/><rs type="invocation" ref="#inv002"><expan><abbr>Θ</abbr><ex>εοτό</ex><abbr>κε</abbr></expan> <expan><abbr>βοήθ</abbr><ex>ει</ex></expan> τῳ σῷ <expan><abbr>δού</abbr><ex>λῳ</ex></expan></rs>
                       </ab>
                   </div>
                       <div type="textpart" subtype="face" n="rev" rend="circular" xml:lang="grc"> <!--reverse, editorial-->
-                      <ab>
+                      <ab ana="dat">
                           <lb n="2"/>Κων
                           <lb n="3" break="no"/>σταντήν
-                          <lb n="4" break="no"/>ο <expan><abbr>β</abbr><ex>ασιλικῷ</ex></expan> στράτο
-                          <lb n="5" break="no"/>ρα <expan><abbr>κ</abbr><ex>αὶ</ex></expan> <expan><abbr>δυικ
-                          <lb n="6" break="no"/>ιτ</abbr><ex>ῇ</ex></expan> τoν Μ
-                          <lb n="7" break="no"/>ύρoν
+                          <lb n="4" break="no"/>ο <rs type="office" subtype="military" ref="#of0284"><expan><abbr>β</abbr><ex>ασιλικῷ</ex></expan> στράτο
+                          <lb n="5" break="no"/>ρα</rs> <expan><abbr>κ</abbr><ex>αὶ</ex></expan> <rs type="office" subtype="civil" ref="#of0052"><expan><abbr>δυικ
+                          <lb n="6" break="no"/>ιτ</abbr><ex>ῇ</ex></expan></rs> τoν <placeName ref="#geo0198">Μ
+                          <lb n="7" break="no"/>ύρoν</placeName>
                       </ab>
                   </div>
               </div>

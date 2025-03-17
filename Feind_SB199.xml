@@ -331,18 +331,18 @@
       <body>
          <div type="edition" subtype="editorial" xml:space="preserve"> 
                   <div type="textpart" subtype="face" n="obv" rend="circular" xml:lang="grc"> <!--obverse, editorial-->
-                      <ab>
-                          <lb n="1"/><expan><abbr>Κ</abbr><ex>ύρι</ex><abbr>ε</abbr></expan> βοήθει τῷ σῷ δούλῳ
+                      <ab ana="dat">
+                          <lb n="1"/><rs type="invocation" ref="#inv004"><expan><abbr>Κ</abbr><ex>ύρι</ex><abbr>ε</abbr></expan> βοήθει τῷ σῷ δούλῳ</rs>
                       </ab>
                   </div>
                       <div type="textpart" subtype="face" n="rev" rend="circular" xml:lang="grc"> <!--reverse, editorial-->
-                      <ab>
+                      <ab ana="dat">
                           <lb n="2"/>Θεοφυ
-                          <lb n="3" break="no"/>λάκτῳ <expan><abbr>ἀν
+                          <lb n="3" break="no"/>λάκτῳ <rs type="dignity" ref="#d0006"><expan><abbr>ἀν
                           <lb n="4" break="no"/>θυπ</abbr><ex>άτῳ</ex></expan> <expan><abbr>πατρ<supplied reason="lost">ι</supplied>
-                          <lb n="5" break="no"/>κ</abbr><ex>ίῳ</ex></expan> <expan><abbr>β</abbr><ex>ασιλικῷ</ex></expan> <expan><ex>πρωτο</ex><abbr>σπαθ</abbr><ex>αρίῳ</ex></expan> 
-                          <lb n="6"/><expan><ex>καὶ</ex></expan> <expan><abbr>με<supplied reason="lost">γά</supplied>λ</abbr><ex>ῳ</ex></expan> 
-                          <lb n="7"/><expan><abbr><supplied reason="lost">ἑ</supplied>ταιριά</abbr><supplied reason="lost"><abbr>ρ</abbr><ex>χῃ</ex></supplied></expan>
+                          <lb n="5" break="no"/>κ</abbr><ex>ίῳ</ex></expan></rs> <rs type="dignity" ref="#d0067"><expan><abbr>β</abbr><ex>ασιλικῷ</ex></expan> <expan><ex>πρωτο</ex><abbr>σπαθ</abbr><ex>αρίῳ</ex></expan></rs> 
+                          <lb n="6"/><expan><abbr><am>S</am></abbr><ex>καὶ</ex></expan> <rs type="office" subtype="military" ref="#of0262"><expan><abbr>με<supplied reason="lost">γά</supplied>λ</abbr><ex>ῳ</ex></expan> 
+                          <lb n="7"/><expan><abbr><supplied reason="lost">ἑ</supplied>ταιριά</abbr><supplied reason="lost"><abbr>ρ</abbr><ex>χῃ</ex></supplied></expan></rs>
                       </ab>
                   </div>
               </div>
