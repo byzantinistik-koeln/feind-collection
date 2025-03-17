@@ -330,16 +330,16 @@
          <div type="edition" subtype="editorial" xml:space="preserve"> 
                   <div type="textpart" subtype="label" n="obv" rend="columns" xml:lang="grc"> <!--obverse, editorial-->
                       <ab>
-                          <cb n="a"/><expan><ex>Ὁ ἅγιος</ex></expan> <expan><abbr>Παντ</abbr><ex>ε</ex>
+                          <cb n="a"/><expan><abbr>Ὁ ἅ</abbr><ex>γιος</ex></expan> <expan><abbr>Παντ</abbr><ex>ε</ex>
                           <cb n="b" break="no"/><abbr>λε<supplied reason="lost">ή</supplied>μ</abbr><ex>ων</ex></expan>
                       </ab>
                   </div>
                       <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
-                      <ab>
-                          <lb n="1"/><expan><abbr>Κ</abbr><ex>ύρι</ex><abbr>ε</abbr></expan> <expan><abbr>β</abbr><ex>οή</ex><abbr>θ</abbr><ex>ει</ex></expan>
+                      <ab ana="dat">
+                          <lb n="1"/><rs type="invocation" ref="#inv003"><expan><abbr>Κ</abbr><ex>ύρι</ex><abbr>ε</abbr></expan> <expan><abbr>β</abbr><ex>οή</ex><abbr>θ</abbr><ex>ει</ex></expan></rs>
                           <lb n="2"/><expan><abbr>Κωνστ</abbr><ex>αν</ex>
-                          <lb n="3" break="no"/><abbr>τίν</abbr><ex>ῳ</ex></expan> <expan><abbr>ἀρ
-                          <lb n="4" break="no"/>χή</abbr><ex>α</ex><abbr>τρ</abbr><ex>ῷ</ex></expan>
+                          <lb n="3" break="no"/><abbr>τίν</abbr><ex>ῳ</ex></expan> <rs type="office" subtype="civil" ref="#of0028"><expan><abbr>ἀρ
+                          <lb n="4" break="no"/>χή</abbr><ex>α</ex><abbr>τρ</abbr><ex>ῷ</ex></expan></rs>
                       </ab>
                   </div>
               </div>

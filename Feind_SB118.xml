@@ -4,7 +4,7 @@
       <fileDesc>
          <titleStmt>
             <title xml:lang="en">Seal of Genesios imperial protospatharios, epi ton oikeiakon, and epi tou manglaviou</title>
-            <title xml:lang="de">Siegel des Genesios kaiserlichen protospatharios, epi ton oikeiakon und epi tu manglabiu</title>
+            <title xml:lang="de">Siegel des Genesios, kaiserlicher protospatharios, epi ton oikeiakon und epi tu manglabiu</title>
             <title xml:lang="el">Μολυβδόβουλλο του Γενεσίου, βασιλικού πρωτοσπαθαρίου, επί των οικειακών και επί του μαγλαβίου</title>
             <editor role="seal-editor" xml:id="MC">Maria Teresa Catalano</editor>
             <editor role="seal-editor" xml:id="MF">Martina Filosa</editor>
@@ -333,11 +333,11 @@
                   </div>
                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
                       <ab ana="dat">
-                                                      <lb n="1"/>Γενε
-                                   <lb n="2"/><supplied reason="lost">σ</supplied>ήῳ <rs type="dignity" ref="#d0067"><expan><abbr>β</abbr><ex>ασιλικῷ</ex></expan><expan> <ex>πρωτο</ex><abbr>σ</abbr>
-                                   <lb n="3" break="no"/><supplied reason="lost"><ex>πα</ex></supplied><abbr>θ</abbr><ex>αρίῳ</ex> </expan></rs><expan><abbr><am>S</am></abbr><ex>καὶ</ex></expan><rs type="office" subtype="civil" ref="#of0072">ἐπὶ <expan><abbr>τ</abbr><ex>ῶν</ex> </expan>
-                                   <lb n="4"/><expan><supplied reason="lost">οἰ</supplied><abbr>κ</abbr><supplied reason="lost"><ex>ειακῶν</ex></supplied></expan></rs><expan><abbr><am>S</am></abbr><ex>καὶ</ex></expan> <rs type="office" subtype="military" ref="#of0259">ἐπὶ <expan><abbr>τ</abbr><ex>οῦ</ex> </expan>
-                                   <lb n="5"/><expan><supplied reason="lost">μα</supplied><abbr>γλαβ</abbr><ex>ίου</ex></expan></rs>
+                                     <lb n="1"/>Γενε
+                                   <lb n="2" break="no"/><supplied reason="lost">σ</supplied>ήῳ <rs type="dignity" ref="#d0067"><expan><abbr>β</abbr><ex>ασιλικῷ</ex></expan> <expan><abbr><am>Α</am></abbr><ex>πρωτο</ex><abbr>σ
+                                   <lb n="3" break="no"/><supplied reason="lost">πα</supplied>θ</abbr><ex>αρίῳ</ex></expan></rs> <expan><abbr><am>S</am></abbr><ex>καὶ</ex></expan> <rs type="office" subtype="civil" ref="#of0072">ἐπὶ <expan><abbr>τ</abbr><ex>ῶν</ex></expan>
+                                   <lb n="4"/><expan><abbr><supplied reason="lost">οἰ</supplied>κ</abbr><ex>ειακῶν</ex></expan></rs> <expan><abbr><am>S</am></abbr><ex>καὶ</ex></expan> <rs type="office" subtype="military" ref="#of0259">ἐπὶ <expan><abbr>τ</abbr><ex>οῦ</ex></expan>
+                                   <lb n="5"/><expan><abbr><supplied reason="lost">μα</supplied>γλαβ</abbr><ex>ίου</ex></expan></rs>
                                  
                             </ab>
                   </div>
@@ -354,8 +354,8 @@
                   </div>
                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, diplomatic-->
                       <ab>
-                            <lb n="1"/>  γενε
-                        <lb n="2"/> .ΗοR,α,σ
+                            <lb n="1"/>γενε
+                        <lb n="2"/>.ΗοR,α,σ
                            <lb n="3"/>..θ,επιτ
                            <lb n="4"/>..ḳepit
                            <lb n="5"/>..γ̣λαr
@@ -370,9 +370,9 @@
             </listApp>
          </div>
          <div type="translation">
-            <p>Κύριε βοήθει τῷ σῷ δούλῳ/ Γενεσήῳ βασιλικῷ πρωτοσπαθαρίῳ καὶ ἐπὶ τῶν οἰκειακῶν καὶ ἐπὶ τοῦ μαγλαβίου.</p>
+            <p>Κύριε βοήθει τῷ σῷ δούλῳ / Γενεσήῳ βασιλικῷ πρωτοσπαθαρίῳ καὶ ἐπὶ τῶν οἰκειακῶν καὶ ἐπὶ τοῦ μαγλαβίου.</p>
             <p xml:lang="en">Lord, help your servant Genesios imperial protospatharios, epi ton oikeiakon, and epi tou manglaviou.</p>
-            <p xml:lang="de">Herr, hilf deinem Diener Genesios kaiserlichem protospatharios, epi ton oikeiakon und epi tu manglabiu.</p>
+            <p xml:lang="de">Herr, hilf deinem Diener Genesios, kaiserlicher protospatharios, epi ton oikeiakon und epi tu manglabiu.</p>
             <p xml:lang="el">Κύριε βοήθησε το δούλο σου Γενέσιο, βασιλικό πρωτοσπαθάριο επί των οικειακών και επί του μαγλαβίου.</p>
          </div>
          <!--<div type="commentary" subtype="text">

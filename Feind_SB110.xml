@@ -343,11 +343,11 @@
                       </ab>
                       
                   </div>
-                  <div type="textpart" n="rev" subtype="face" rend="linear" xml:lang="grc"><!--ostiarios both dignity and office-->
+                  <div type="textpart" n="rev" subtype="face" rend="linear" xml:lang="grc">
                       <ab ana="dat nom">
                           <lb n="1"/><expan><abbr><supplied reason="lost">Σ</supplied>τέφ
-                          <lb n="2" break="no"/>α<supplied reason="lost">ν</supplied>ο</abbr><ex>ς</ex></expan> <rs type="office" subtype="civil" ref="#of0152"><rs type="dignity" ref="#d0041"><expan><abbr>ὠστ
-                          <lb n="3" break="no"/><supplied reason="lost">ι</supplied>ά<supplied reason="lost">ρι</supplied>ο</abbr><ex>ς</ex></expan></rs></rs> <expan><abbr><am>S</am></abbr><ex>καί</ex></expan> <rs type="office" subtype="civil" ref="#of0193">χαρ
+                          <lb n="2" break="no"/>α<supplied reason="lost">ν</supplied>ο</abbr><ex>ς</ex></expan> <rs type="dignity" ref="#d0041"><expan><abbr>ὠστ
+                          <lb n="3" break="no"/><supplied reason="lost">ι</supplied>ά<supplied reason="lost">ρι</supplied>ο</abbr><ex>ς</ex></expan></rs> <expan><abbr><am>S</am></abbr><ex>καί</ex></expan> <rs type="office" subtype="civil" ref="#of0193">χαρ
                           <lb n="4" break="no"/>του<supplied reason="lost">λ</supplied>άρ
                           <lb n="5" break="no"/>ηος</rs>
                       </ab>

@@ -306,24 +306,26 @@
                   <div type="textpart" n="obv" subtype="label" rend="columns" xml:lang="grc">
                       <ab>
                           <cb n="a"/>ὁ ἅγιο<supplied reason="lost">ς</supplied>
+                         <cb n="b"/>...
                       </ab>
                   </div>
-                  <div type="textpart" n="rev" subtype="face" rend="linear" xml:lang="grc"><!--Something for mark-up in here?-->
-                      <ab>
-                          <lb n="1"/><supplied reason="lost">Ἀ</supplied>θλητὰ 
+                  <div type="textpart" n="rev" subtype="face" rend="linear" xml:lang="grc"><!--Something for mark-up in here? METRICAL?-->
+                      <lg type="met" met="dodecasyllable">
+                          <l n="1"><lb n="1"/><supplied reason="lost">Ἀ</supplied>θλητὰ 
                           <lb n="2"/><supplied reason="lost">Γεώ</supplied>ργιε μαρ
-                          <lb n="3" break="no"/><supplied reason="lost">τύρ</supplied>ων κλέος 
-                          <lb n="4"/><supplied reason="lost">σκέπο</supplied>ις Μανου
+                          <lb n="3" break="no"/><supplied reason="lost">τύρ</supplied>ων κλέος</l> 
+                          <l n="2"><lb n="4"/><supplied reason="lost">σκέπο</supplied>ις Μανου
                           <lb n="5" break="no"/><supplied reason="lost">ὴλ ἔγ</supplied>γονον 
                           <lb n="6"/><supplied reason="lost">τῶν Καισά
-                          <lb n="7" break="no"/>ρων</supplied>
-                      </ab>
+                          <lb n="7" break="no"/>ρων</supplied></l>
+                      </lg>
                   </div>
               </div>
          <div type="edition" subtype="diplomatic" xml:space="preserve">
                   <div type="textpart" subtype="label" n="obv" rend="columns" xml:lang="grc">
                       <ab>
                           <cb n="a"/>ο|Α|γι|ο.
+                         <cb n="b"/>...
                       </ab>
                   </div>
                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc">
