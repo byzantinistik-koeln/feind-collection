@@ -352,14 +352,14 @@
                       </ab>
                   </div>
                       <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
-                      <ab>
+                      <ab ana="nom">
                           <lb n="1"/><expan><abbr>Βασί</abbr><supplied reason="lost"><abbr>λ</abbr><ex>ειος</ex></supplied></expan> 
-                          <lb n="2"/><expan><supplied reason="lost"><ex>πρωτο</ex></supplied><abbr>σπα<supplied reason="lost">θ</supplied>ά</abbr><supplied reason="lost"><abbr>ρ</abbr><ex>ιος</ex></supplied></expan>                           
-                          <lb n="3"/><supplied reason="lost">ἐ</supplied>πὶ <expan><abbr>τ</abbr><ex>οῦ</ex></expan> <supplied reason="lost"><expan><abbr>χρ</abbr><ex>υσοτρι</ex><abbr>κλ</abbr><ex>ίνου</ex></expan></supplied> 
-                          <lb n="4"/><expan><abbr>κρι</abbr><supplied reason="lost"><abbr>τ</abbr><ex>ὴς</ex></supplied></expan> <supplied reason="lost"><expan><abbr>ἐπ</abbr><ex>ὶ</ex></expan> <expan><abbr>τ</abbr><ex>οῦ</ex></expan></supplied> 
-                          <lb n="5"/><expan><abbr>ἱππ</abbr><ex>ο</ex><abbr>δ</abbr><supplied reason="lost"><abbr>ρόμ</abbr><ex>ου</ex></supplied></expan> <supplied reason="lost"><expan><ex>καὶ</ex></expan></supplied> 
-                          <lb n="6"/>τῶν <expan><supplied reason="lost"><abbr>Ἀνατ</abbr><ex>ο</ex></supplied>
-                          <lb n="7" break="no"/><abbr>λ</abbr><ex>ι</ex><abbr>κ</abbr><ex>ῶν</ex></expan> <supplied reason="lost">ὁ <expan><abbr>Ξηρ</abbr><ex>ός</ex></expan></supplied>
+                          <lb n="2"/><rs type="dignity" ref="#d0066"><expan><supplied reason="lost"><abbr><am>Α</am></abbr><ex>πρωτο</ex></supplied><abbr>σπα<supplied reason="lost">θ</supplied>ά</abbr><supplied reason="lost"><abbr>ρ</abbr><ex>ιος</ex></supplied></expan></rs>                           
+                          <lb n="3"/><rs type="office" subtype="civil" ref="#of0070"><supplied reason="lost">ἐ</supplied>πὶ <expan><abbr>τ</abbr><ex>οῦ</ex></expan> <supplied reason="lost"><expan><abbr>χρ</abbr><ex>υσοτρι</ex><abbr>κλ</abbr><ex>ίνου</ex></expan></supplied></rs> 
+                          <lb n="4"/><rs type="office" subtype="civil" ref="#of0112"><expan><abbr>κρι</abbr><supplied reason="lost"><abbr>τ</abbr><ex>ὴς</ex></supplied></expan></rs> <supplied reason="lost"><expan><abbr>ἐπ</abbr><ex>ὶ</ex></expan> <expan><abbr>τ</abbr><ex>οῦ</ex></expan></supplied> 
+                          <lb n="5"/><rs type="institution" ref="#org0017"><expan><abbr>ἱππ</abbr><ex>ο</ex><abbr>δ</abbr><supplied reason="lost"><abbr>ρόμ</abbr><ex>ου</ex></supplied></expan></rs> <supplied reason="lost"><expan><abbr><am>S</am></abbr><ex>καὶ</ex></expan></supplied> 
+                          <lb n="6"/>τῶν <placeName ref="#geo0016"><expan><supplied reason="lost"><abbr>Ἀνατ</abbr><ex>ο</ex></supplied>
+                          <lb n="7" break="no"/><abbr>λ</abbr><ex>ι</ex><abbr>κ</abbr><ex>ῶν</ex></expan></placeName> <supplied reason="lost">ὁ <expan><abbr>Ξηρ</abbr><ex>ός</ex></expan></supplied>
                       </ab>
                   </div>
               </div>

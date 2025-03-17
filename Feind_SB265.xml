@@ -4,7 +4,7 @@
       <fileDesc>
          <titleStmt>
             <title xml:lang="en">Seal of Chrestos apo eparchon</title>
-            <title xml:lang="de">Siegel des  Chrestos apo eparchon</title>
+            <title xml:lang="de">Siegel des Chrestos apo eparchon</title>
             <title xml:lang="el">Μολυβδόβουλλο Χρηστού από επάρχων</title>
             <editor role="seal-editor" xml:id="MC">Maria Teresa Catalano</editor>
             <editor role="seal-editor" xml:id="MF">Martina Filosa</editor>
@@ -327,15 +327,15 @@
    <text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <body>
          <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"> <!--change the language code according to the language of your edition, the values (also when combined, e.g. Greek-Latin) are in the guidelines. Same goes for what comes next, textpart etc.-->
-                  <div type="textpart" subtype="face" n="obv" rend="linear" xml:lang="grc"> <!--obverse, editorial-->
+                  <!--<div type="textpart" subtype="face" n="obv" rend="linear" xml:lang="grc"> <!obverse, editorial
                       <ab> 
                                     
                       </ab>
-                  </div>
+                  </div>-->
                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
-                      <ab>
+                      <ab ana="gen">
                           <lb n="1"/>Χρ<supplied reason="lost">η</supplied>σ
-                            <lb n="2" break="no"/> τοῦ <rs type="dignity" ref="#d0007">ἀπὸ 
+                            <lb n="2" break="no"/>τοῦ <rs type="dignity" ref="#d0007">ἀπὸ 
                             <lb n="3"/>ἐπάρ
                           <lb n="4" break="no"/><supplied reason="lost">χ</supplied>ων</rs>
                           
@@ -343,11 +343,11 @@
                   </div>
               </div>
          <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang=""> 
-                  <div type="textpart" subtype="face" n="obv" rend="linear" xml:lang="grc"> <!--obverse, diplomatic-->
+                  <!--<div type="textpart" subtype="face" n="obv" rend="linear" xml:lang="grc"> <!obverse, diplomatic
                       <ab>
                                             
                       </ab>
-                  </div>
+                  </div>-->
                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, diplomatic-->
                       <ab>
                           <lb n="5"/>+χρḥσ
@@ -367,9 +367,9 @@
          </div>
          <div type="translation">
             <p>Χρηστοῦ ἀπὸ ἐπάρχων.</p>
-            <p xml:lang="en">Mother of God. (Seal of) Chrestos apo eparchon. </p>
-            <p xml:lang="de">Mutter Gottes. (Siegel von) Chrestos apo Eparchon.</p>
-            <p xml:lang="el">Θεοτόκος. (Σφραγίδα) Χρηστού από επάρχων.</p>
+            <p xml:lang="en">(Seal of) Chrestos apo eparchon. </p>
+            <p xml:lang="de">(Siegel des) Chrestos apo eparchon.</p>
+            <p xml:lang="el">(Σφραγίδα) Χρηστού από επάρχων.</p>
          </div>
          <div type="commentary" subtype="text">
             <p xml:lang="en"> </p>

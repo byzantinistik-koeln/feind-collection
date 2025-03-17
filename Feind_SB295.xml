@@ -340,15 +340,15 @@
                       </ab>
                   </div>
                       <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
-                      <ab>
-                          <lb n="1"/>Μ<supplied reason="lost">εγα
+                      <lg type="metrical" met="dodecasyllable"><!--METRICAL-->
+             <l n="1"><lb n="1"/>Μ<supplied reason="lost">εγα
                           <lb n="2" break="no"/>λ</supplied>ομμάτ<supplied reason="lost">ου 
                           <lb n="3"/>τ</supplied>άς γραφάς 
-                          <lb n="4"/><supplied reason="lost">Θεο</supplied>δ<supplied reason="lost">ώρ</supplied>ου στή<supplied reason="lost">ρι
+                          <lb n="4"/><supplied reason="lost">Θεο</supplied>δ<supplied reason="lost">ώρ</supplied>ου</l> <l n="2">στή<supplied reason="lost">ρι
                           <lb n="5" break="no"/>ζ</supplied>ε <supplied reason="lost">Θεό</supplied>δωρε 
                           <lb n="6"/><expan><abbr>μα</abbr><supplied reason="lost"><abbr>ρτύρ</abbr><ex>ων</ex></supplied></expan> <supplied reason="lost">κλ
-                          <lb n="7" break="no"/>έος</supplied>
-                          </ab>
+                          <lb n="7" break="no"/>έος</supplied></l>
+                          </lg>
                          </div>
               </div>
          <div type="edition" subtype="diplomatic" xml:space="preserve"> 

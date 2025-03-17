@@ -347,21 +347,20 @@
                   <div type="textpart" subtype="sigla" n="obv" rend="columns" xml:lang="grc"> <!--obverse, editorial-->
                       
                      <ab>
-                     <cb n="a"/><rs type="marianTerm" subtype="sigla" ref="#meter-theou"><expan><supplied reason="lost"><abbr>Μ</abbr><ex>ήτη</ex><abbr>ρ</abbr></supplied> </expan>
-                   <cb n="b"/> <expan><abbr>Θ</abbr><supplied reason="lost"><ex>εο</ex>ῦ</supplied></expan></rs>
+                     <cb n="a"/><supplied reason="lost"><expan><abbr>Μ</abbr><ex>ήτη</ex><abbr>ρ</abbr></expan></supplied>
+                   <cb n="b"/><expan><abbr>Θ</abbr><supplied reason="lost"><ex>εο</ex><abbr>ῦ</abbr></supplied></expan>
                      </ab>
                       
                   </div>
                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
-                      <ab ana="acc">
-                          
-                                                        
-                              <lb n="1"/><persName type="forename" ref="#niketas-4">Νική
-                                   <lb n="2" break="no"/><supplied reason="lost">τ</supplied>α<supplied reason="lost">ν</supplied></persName>῾Αγνή 
+                      <lg type="metrical" met="dodecasyllable"><!--METRICAL-->
+                           <l n="1">                                                     
+                              <lb n="1"/>Νική
+                                   <lb n="2" break="no"/><supplied reason="lost">τ</supplied>α<supplied reason="lost">ν</supplied> ῾Αγνή 
                                    <lb n="3"/><rs type="office" subtype="ecclesiastical" ref="#of0236">χαρτοφύ
                               <lb n="4" break="no"/>λα<supplied reason="lost">κ</supplied>α</rs> σκέ
-                                   <lb n="5" break="no"/>ποις
-                      </ab>
+                                   <lb n="5" break="no"/>ποις</l>
+                      </lg>
                   </div>
               </div>
          <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang=""> 
@@ -395,9 +394,9 @@
             </listApp>
          </div>
          <div type="translation">
-            <p>Μήτηρ Θεοῦ/Νικήταν ῾Αγνή χαρτοφύλακα σκέποις.</p>
+            <p>Μήτηρ Θεοῦ / Νικήταν ῾Αγνή χαρτοφύλακα σκέποις.</p>
             <p xml:lang="en">Mother of God. Pure one, may you protect Niketas chartophylax.</p>
-            <p xml:lang="de">Muttergottes. Mögest du, unbefleckte, den chartophylax Niketas beschützen.</p>
+            <p xml:lang="de">Muttergottes. Mögest du, Unbefleckte, den chartophylax Niketas beschützen.</p>
             <p xml:lang="el">Θεοτόκε. Αγνή, μακάρι να προστατεύεις τον Νικήτα χαρτοφύλακα.</p>
          </div>
          <div type="commentary" subtype="text">

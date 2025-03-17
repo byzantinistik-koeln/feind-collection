@@ -339,7 +339,7 @@
                       </ab>
                   </div>
                       <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
-                      <ab>
+                      <ab ana="gen">
                           <lb n="1"/><supplied reason="lost">Γε</supplied>ωρ<supplied reason="lost">γίου</supplied> 
                           <lb n="2"/>σφράγισμα <supplied reason="lost">Πα</supplied>
                           <lb n="3" break="no"/>λαιολόγου <expan><abbr>Κ<supplied reason="lost">ο</supplied>

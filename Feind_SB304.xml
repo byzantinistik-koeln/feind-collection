@@ -326,18 +326,18 @@
                       
                       <ab>
                          
-                          <cb n="a"/><rs type="marianTerm" subtype="sigla" ref="#meter-theou"><expan><abbr>Μ</abbr><ex>ήτε</ex><abbr>ρ</abbr> </expan>
-                         <cb n="b"/><expan><abbr>Θ</abbr><ex>εο</ex><abbr>ῦ</abbr></expan></rs>
+                          <cb n="a"/><expan><abbr>Μ</abbr><ex>ήτη</ex><abbr>ρ</abbr></expan>
+                         <cb n="b"/><expan><abbr>Θ</abbr><ex>εο</ex><abbr>ῦ</abbr></expan>
                           
                           
                       </ab>
                   </div>
                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
                       <ab ana="dat">
-                                <lb n="1"/><rs type="invocation" ref="#inv003"><expan><abbr>Κ</abbr><ex>ύρι</ex><abbr>ε</abbr> <abbr>β</abbr><ex>οή</ex><abbr>θ</abbr><ex>ει</ex> </expan></rs>
-                                <lb n="2"/><expan><abbr>Κων</abbr><ex>σταντίνῳ</ex> </expan> <rs type="dignity" ref="#d0066"><expan><ex>πρωτο</ex><abbr>σπα
-                                <lb n="3" break="no"/>θαρ</abbr><ex>ίῳ</ex> </expan></rs> <expan><abbr><am>S</am></abbr><ex>καὶ</ex></expan> <rs type="office" subtype="military" ref="#of0259">ἐπὶ 
-                                <lb n="4"/><supplied reason="lost">τ</supplied>οῦ<expan> <abbr>μαγλ</abbr><ex>α</ex>
+                                <lb n="1"/><rs type="invocation" ref="#inv003"><expan><abbr>Κ</abbr><ex>ύρι</ex><abbr>ε</abbr> <abbr>β</abbr><ex>οή</ex><abbr>θ</abbr><ex>ει</ex></expan></rs>
+                                <lb n="2"/><expan><abbr>Κων</abbr><ex>σταντίνῳ</ex></expan> <rs type="dignity" ref="#d0066"><expan><abbr><am>Α</am></abbr><ex>πρωτο</ex><abbr>σπα
+                                <lb n="3" break="no"/>θαρ</abbr><ex>ίῳ</ex></expan></rs> <expan><abbr><am>S</am></abbr><ex>καὶ</ex></expan> <rs type="office" subtype="military" ref="#of0259">ἐπὶ 
+                                <lb n="4"/><supplied reason="lost">τ</supplied>οῦ <expan><abbr>μαγλ</abbr><ex>α</ex>
                                 <lb n="5" break="no"/><abbr>βίου</abbr></expan></rs>                                                        
                             </ab>
                   </div>
@@ -373,8 +373,8 @@
          </div>
          <div type="translation">
             <p>Μήτηρ Θεοῦ/ Κύριε βοήθει Κωνσταντίνῳ πρωτοσπαθαρίῳ καὶ ἐπὶ τοῦ μαγλαβίου. </p>
-            <p xml:lang="en">Mother of God. Lord, help  Konstantinos protospatharios and epi tou manglaviou.</p>
-            <p xml:lang="de">Muttergottes. Herr, hilf dem Konstantinos protospatharios und epi tu manglabiu.</p>
+            <p xml:lang="en">Mother of God. Lord, help Konstantinos protospatharios and epi tou manglaviou.</p>
+            <p xml:lang="de">Muttergottes. Herr, hilf Konstantinos protospatharios und epi tu manglabiu.</p>
             <p xml:lang="el">Θεοτόκε. Κύριε βοήθησε τον Κωσταντίνο πρωτοσπαθάριο και επί του μαγγλαβίου.</p>
          </div>
          <!--<div type="commentary" subtype="text">

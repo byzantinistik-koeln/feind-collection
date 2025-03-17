@@ -335,13 +335,13 @@
       <body>
          <div type="edition" subtype="editorial" xml:space="preserve"> 
                   <div type="textpart" subtype="face" n="obv" rend="circular" xml:lang="grc"> <!--obverse, editorial-->
-                      <ab>
-                          <lb n="1"/><supplied reason="lost">Πέτρῳ ὑπάτῳ <expan><ex>καὶ</ex></expan> ἐπὶ τῶ</supplied>ν βα<supplied reason="lost">ρβάρων</supplied>
+                      <ab ana="dat">
+                          <lb n="1"/><supplied reason="lost">Πέτρῳ <rs type="dignity" ref="#d0089">ὑπάτῳ</rs> <expan><abbr><am>S</am></abbr><ex>καὶ</ex></expan></supplied> <rs type="office" subtype="civil" ref="#of0074"><supplied reason="lost">ἐπὶ τῶ</supplied>ν βα<supplied reason="lost">ρβάρων</supplied></rs>
                       </ab>
                   </div>
                       <div type="textpart" subtype="face" n="rev" rend="circular" xml:lang="grc"> <!--reverse, editorial-->
-                      <ab>
-                          <lb n="2"/>Πέτρ<supplied reason="lost">ῳ ὑπ</supplied>άτῳ <supplied reason="lost"><expan><ex>καὶ</ex></expan> ἐπὶ τῶν βαρβάρων</supplied>
+                      <ab ana="dat">
+                          <lb n="2"/>Πέτρ<supplied reason="lost">ῳ</supplied> <rs type="dignity" ref="#d0089"><supplied reason="lost">ὑπ</supplied>άτῳ</rs> <supplied reason="lost"><expan><abbr><am>S</am></abbr><ex>καὶ</ex></expan> <rs type="office" subtype="civil" ref="#of0074">ἐπὶ τῶν βαρβάρων</rs></supplied>
                       </ab>
                   </div>
               </div>

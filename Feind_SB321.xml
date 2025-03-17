@@ -331,18 +331,18 @@
          <div type="edition" subtype="editorial" xml:space="preserve"> 
                   <div type="textpart" subtype="label" n="obv" rend="columns" xml:lang="grc"> <!--obverse, editorial-->
                       <ab>
-                          <cb n="a"/><supplied reason="lost">Ὁ <expan><abbr>ἅ</abbr><ex>γιος</ex></expan></supplied> <expan><abbr><supplied reason="lost">Δη</supplied>μ</abbr><ex>ή</ex><abbr>τ
+                          <cb n="a"/><supplied reason="lost"><expan><abbr>Ὁ ἅ</abbr><ex>γιος</ex></expan></supplied> <expan><abbr><supplied reason="lost">Δη</supplied>μ</abbr><ex>ή</ex><abbr>τ
                           <cb n="b" break="no"/><supplied reason="lost">ριος</supplied></abbr></expan>
                       </ab>
                   </div>
                       <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
-                      <ab>
-                          <lb n="1"/><supplied reason="lost">Τ</supplied>ὸν 
+                      <lg type="metrical" met="dodecasyllable" subtype="false"><!--METRICAL ???-->
+                          <l n="1"><lb n="1"/><supplied reason="lost">Τ</supplied>ὸν 
                           <lb n="2"/><expan><abbr>ἁμαρτ
                           <lb n="3" break="no"/>άνον</abbr><ex>τα</ex></expan> Δ<supplied reason="lost">η</supplied>
                           <lb n="4" break="no"/>μήτριο<supplied reason="lost">ν σ</supplied>
-                          <lb n="5" break="no"/>κέπε μ<supplied reason="lost">ε</supplied>
-                       </ab>
+                          <lb n="5" break="no"/>κέπε μ<supplied reason="lost">ε</supplied></l>
+                       </lg>
                          </div>
               </div>
          <div type="edition" subtype="diplomatic" xml:space="preserve"> 
