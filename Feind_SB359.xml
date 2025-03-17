@@ -336,7 +336,7 @@
                       <ab/>
                   </div>-->
                       <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
-                      <ab>
+                      <ab ana="nom">
                           <lb n="1"/>Βασι
                           <lb n="2" break="no"/>λέιος ὁ 
                           <lb n="3"/>..κα.ι

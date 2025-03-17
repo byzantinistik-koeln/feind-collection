@@ -323,28 +323,24 @@
    <text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <body>
          <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"> <!--change the language code according to the language of your edition, the values (also when combined, e.g. Greek-Latin) are in the guidelines. Same goes for what comes next, textpart etc.-->
-                  <div type="textpart" subtype="sigla" n="obv" rend="columns" xml:lang="grc"> <!--obverse, editorial-->
-                      
+                  <div type="textpart" subtype="label" n="obv" rend="columns" xml:lang="grc"> <!--obverse, editorial-->
                       <ab>
-                         
-                     <cb n="a"/><rs type="saintsTerm" subtype="sigla" ref="#st-demetrios">Ο <expan><abbr>ἅ</abbr><ex>γιος</ex></expan> Δημή
-                         <cb n="b"/><supplied reason="lost">τριος</supplied></rs>
+                     <cb n="a"/><expan><abbr>Ὁ ἅ</abbr><ex>γιος</ex></expan> Δημή
+                         <cb n="b" break="no"/><supplied reason="lost">τριος</supplied>
                       </ab>
                   </div>
                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
-
                       <ab ana="gen">
                                 <lb n="1"/><supplied reason="lost">Σ</supplied>φραγὶς 
                                 <lb n="2"/><supplied reason="lost">᾿Αλ</supplied>εξίου 
-
-                                <lb n="3"/><rs type="dignity" ref="#d0075"><supplied reason="lost">σεβ</supplied>αστοῦ </rs>
-                                <lb n="4"/><supplied reason="lost">τοῦ</supplied><rs type="office" subtype="military" ref="#of0277"><expan><abbr>πρωτο
+                                <lb n="3"/><rs type="dignity" ref="#d0075"><supplied reason="lost">σεβ</supplied>αστοῦ</rs>
+                                <lb n="4"/><supplied reason="lost">τοῦ</supplied> <rs type="office" subtype="military" ref="#of0277"><expan><abbr>πρωτο
                                 <lb n="5" break="no"/><supplied reason="lost">στ</supplied>ράτορο</abbr><ex>ς</ex></expan></rs>
                             </ab>
                   </div>
               </div>
          <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"> 
-                  <div type="textpart" subtype="sigla" n="obv" rend="columns" xml:lang="grc"> <!--obverse, diplomatic-->
+                  <div type="textpart" subtype="label" n="obv" rend="columns" xml:lang="grc"> <!--obverse, diplomatic-->
                       <ab> 
                           <cb n="a"/>ʘ̣|δη|μη
                              <cb n="b"/>...
@@ -354,7 +350,7 @@
                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, diplomatic-->
                       <ab>
                           <lb n="0"/>
-                            <lb n="1"/>. p̣aγισ
+                            <lb n="1"/>.p̣aγισ
                         <lb n="2"/> ..ε̣ξιου
                            <lb n="3"/>...α̣ου
                            <lb n="4"/>...Πρωτο
@@ -369,9 +365,9 @@
             </listApp>
          </div>
          <div type="translation">
-            <p>῾Ο ἅγιος Δημήτριος/ Σφραγὶς᾿Αλεξίου σεβαστοῦ τοῦ πρωτοστράτορος.</p>
-            <p xml:lang="en">St. Demetrius. Seal of Alexios sebastos and protostrator.</p>
-            <p xml:lang="de">Hl. Demetrius Siegel des Alexios sebastos und protostrator. </p>
+            <p>῾Ο ἅγιος Δημήτριος / Σφραγὶς᾿Αλεξίου σεβαστοῦ τοῦ πρωτοστράτορος.</p>
+            <p xml:lang="en">St. Demetrios. Seal of Alexios sebastos and protostrator.</p>
+            <p xml:lang="de">Hl. Demetrios. Siegel des Alexios sebastos und protostrator.</p>
             <p xml:lang="el">Ο άγ. Δημήτριος. Σφραγίδα του Αλεξίου, σεβαστού και πρωτοστράτορα.</p>
          </div>
          <div type="commentary" subtype="text">

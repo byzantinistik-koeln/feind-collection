@@ -286,14 +286,14 @@
    <text>
       <body>
          <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"> <!--change the language code according to the language of your edition, the values (also when combined, e.g. Greek-Latin) are in the guidelines. Same goes for what comes next, textpart etc.-->
-                  <div type="textpart" subtype="sigla" n="obv" rend="columns" xml:lang="grc"> <!--obverse, editorial-->
+                  <!--<div type="textpart" subtype="sigla" n="obv" rend="columns" xml:lang="grc"> <!obverse, editorial
                       <ab/>
-                  </div>
-                  <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial--><!--surplus so korrekt?-->
-                      <ab>
-                          <lb n="1"/><supplied reason="lost">+</supplied>Τῶν
-                          <lb n="2"/><rs type="institution" ref="#org0036"><surplus><supplied reason="lost">β</supplied></surplus><expan><abbr>β</abbr><ex>ασιλικῶν</ex></expan> <expan><abbr>κομ
-                          <lb n="3" break="no"/><supplied reason="lost">μ</supplied>ερκ</abbr><ex>ίων</ex></expan> </rs>τῆς 
+                  </div>-->
+                  <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
+                      <ab ana="gen">
+                          <lb n="1"/>Τῶν
+                          <lb n="2"/><rs type="institution" ref="#org0036"><expan><abbr>β</abbr><ex>ασιλικῶν</ex></expan> <expan><abbr>κομ
+                          <lb n="3" break="no"/>ερκ</abbr><ex>ίων</ex></expan> </rs>τῆς 
                           <lb n="4"/><placeName ref="#geo0048"><expan><abbr><supplied reason="lost">Θ</supplied>ρᾴκ</abbr><ex>ης</ex></expan></placeName>
                       </ab>
                   </div>
@@ -304,9 +304,9 @@
                   </div>
                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, diplomatic-->
                       <ab>
-                          <lb n="1"/>.Tν
-                          <lb n="2"/>.βκομ
-                          <lb n="3"/>.ε̣ρκτησ̣
+                          <lb n="1"/>Tν
+                          <lb n="2"/>βκομ
+                          <lb n="3"/>ε̣ρκτησ̣
                           <lb n="4"/>.ρ̣α̣κ̣
                       </ab>
                   </div>
@@ -318,7 +318,7 @@
             </listApp>
          </div>
          <div type="translation">
-            <p>Τῶν βασιλικῶν κομμερκίων τῆς Θρᾴκης.</p>
+            <p>Τῶν βασιλικῶν κομερκίων τῆς Θρᾴκης.</p>
             <p xml:lang="en">(Seal of) the imperial kommerkia of Thrace.</p>
             <p xml:lang="de">(Siegel der) kaiserlichen Kommerkia von Thrakien.</p>
             <p xml:lang="el">(Σφραγίδα) των βασιλικών κομμερκίων της Θράκης.</p>

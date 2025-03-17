@@ -4,7 +4,7 @@
       <fileDesc>
          <titleStmt>
             <title xml:lang="en">Seal of Maria Dalassene</title>
-            <title xml:lang="de">Siegel des Maria Dalassene</title>
+            <title xml:lang="de">Siegel der Maria Dalassene</title>
             <title xml:lang="el">Μολυβδόβουλλο της Μαρίας Δαλασσηνής</title>
             <editor role="seal-editor" xml:id="MC">Maria Teresa Catalano</editor>
             <editor role="seal-editor" xml:id="MF">Martina Filosa</editor>
@@ -326,21 +326,17 @@
       <body>
          <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"> <!--change the language code according to the language of your edition, the values (also when combined, e.g. Greek-Latin) are in the guidelines. Same goes for what comes next, textpart etc.-->
                   <div type="textpart" subtype="sigla" n="obv" rend="columns" xml:lang="grc"> <!--obverse, editorial-->
-                      
                       <ab>
-                         
-                     <cb n="a"/><rs type="marianTerm" subtype="sigla" ref="#meter-theou"><expan><supplied reason="lost"><abbr>Μ</abbr><ex>ήτη</ex><abbr>ρ</abbr></supplied> </expan>
-                         <cb n="b"/><expan><abbr>Θ</abbr><supplied reason="lost"><ex>εο</ex><abbr>ῦ</abbr></supplied></expan></rs>
+                     <cb n="a"/><supplied reason="lost"><expan><abbr>Μ</abbr><ex>ήτη</ex><abbr>ρ</abbr></expan></supplied>
+                         <cb n="b"/><expan><abbr>Θ</abbr><supplied reason="lost"><ex>εο</ex><abbr>ῦ</abbr></supplied></expan>
                       </ab>
                   </div>
                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
                       <ab ana="dat">
-                            
                           <lb n="1"/><rs type="invocation" ref="#inv001"><expan><supplied reason="lost"><abbr>Θ</abbr><ex>εοτό</ex></supplied><abbr>κε</abbr></expan> β<supplied reason="lost">οή
-                                  <lb n="2" break="no"/>θ</supplied>ει</rs><persName type="attested" ref="#maria-dalassene"> Μαρίᾳ 
+                                  <lb n="2" break="no"/>θ</supplied>ει</rs> Μαρίᾳ 
                                   <lb n="3"/>τῇ Δαλασ
-                                  <lb n="4"/>σηνῇ</persName>
-            
+                                  <lb n="4" break="no"/>σηνῇ
                             </ab>
                   </div>
               </div>
@@ -370,7 +366,7 @@
             </listApp>
          </div>
          <div type="translation">
-            <p>Μήτηρ Θεοῦ/ Θεοτόκε βοήθει Μαρίᾳ τῇ Δαλασσηνῇ.</p>
+            <p>Μήτηρ Θεοῦ / Θεοτόκε βοήθει Μαρίᾳ τῇ Δαλασσηνῇ.</p>
             <p xml:lang="en">Mother of God. Mother of God, help Maria Dalassene.</p>
             <p xml:lang="de">Muttergottes. Muttergottes, hilf Maria Dalassene. </p>
             <p xml:lang="el">Θεοτόκε. Θεοτόκε βοήθησε τη Μαρία Δαλασσηνή.</p>

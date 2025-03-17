@@ -289,9 +289,9 @@
                       </ab>
                   </div>-->
                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
-                      <ab>
+                      <ab ana="gen">
                           <lb n="1"/><supplied reason="lost">Τ</supplied>ῶν <rs type="institution" ref="#org0036"><expan><abbr>β</abbr>
-                              <lb n="2" break="no"/><ex>ασιλικῶν</ex> </expan><supplied reason="lost">κο</supplied>μμερκ<supplied reason="lost">ίων</supplied></rs>
+                              <lb n="2" break="no"/><ex>ασιλικῶν</ex></expan> <supplied reason="lost">κο</supplied>μμερκ<supplied reason="lost">ίων</supplied></rs>
                       </ab>
                   </div>
               </div>
