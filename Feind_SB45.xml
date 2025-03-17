@@ -4,7 +4,7 @@
       <fileDesc>
          <titleStmt>
             <title xml:lang="en">Seal of Theodoros magistros, vestarches, and droungarios of the Vigla</title>
-            <title xml:lang="de">Siegel des Theodoros magistros, Vestarches und Droungarios der Vigla</title>
+            <title xml:lang="de">Siegel des Theodoros magistros, vestarches und drungarios der Vigla</title>
             <title xml:lang="el">Μολυβδόβουλλο του Θεοδώρου, μαγίστρου, βεστάρχη και δρουγγαρίου της Βίγλας</title>
             <editor role="seal-editor" xml:id="MC">Maria Teresa Catalano</editor>
             <editor role="seal-editor" xml:id="MF">Martina Filosa</editor>
@@ -326,8 +326,8 @@
                       
                       <ab>
                          
-                     <cb n="a"/> <rs type="marianTerm" subtype="sigla" ref="#meter-theou"><expan><supplied reason="lost"><abbr>Μή</abbr><ex>τη</ex><abbr>ρ</abbr> 
-                         <cb n="b"/> <abbr>Θ</abbr><ex>εο</ex><abbr>ῦ</abbr></supplied></expan></rs>
+                     <cb n="a"/><supplied reason="lost"><expan><abbr>Μή</abbr><ex>τη</ex><abbr>ρ</abbr> 
+                         <cb n="b"/><abbr>Θ</abbr><ex>εο</ex><abbr>ῦ</abbr></expan></supplied>
                       </ab>
                   </div>
                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
@@ -336,8 +336,8 @@
                           <lb n="1"/><rs type="invocation" ref="#inv001"><expan><abbr>Θ</abbr><ex>εοτόκε</ex></expan><expan> <abbr>β</abbr><ex>οή</ex><abbr>θ</abbr><ex>ει</ex></expan></rs>
                                    <lb n="2"/><supplied reason="lost">Θ</supplied>εοδώρῳ 
                                        <lb n="3"/><rs type="dignity" ref="#d0038"><supplied reason="lost">μ</supplied>αγίστρῳ</rs> 
-                                       <lb n="4"/> <rs type="dignity" ref="#d0017"><expan> <supplied reason="lost">β</supplied><abbr>εστάρχ</abbr><ex>ῃ</ex></expan></rs>
-                                       <lb n="5"/><rs type="office" subtype="military" ref="#of0249"><supplied reason="lost"><expan><ex>καὶ</ex></expan></supplied> <expan><abbr>δρουγγαρ</abbr><ex>ίῳ</ex></expan></rs>
+                                       <lb n="4"/><rs type="dignity" ref="#d0017"><expan><abbr><supplied reason="lost">β</supplied>εστάρχ</abbr><ex>ῃ</ex></expan></rs>
+                                       <lb n="5"/><supplied reason="lost"><expan><abbr><am>S</am></abbr><ex>καὶ</ex></expan></supplied> <rs type="office" subtype="military" ref="#of0249"><expan><abbr>δρουγγαρ</abbr><ex>ίῳ</ex></expan></rs>
                                        <lb n="6"/>τῆς <rs type="institution" ref="#org0010"><expan><abbr>βί
                                        <lb n="7" break="no"/>γλ</abbr><ex>ας</ex></expan></rs>
                             </ab>
@@ -369,7 +369,7 @@
          <div type="translation">
             <p>Θεοτόκε βοήθει Θεοδώρῳ μαγίστρῳ βεστάρχῃ δρουγγαρίῳ τῆς βίγλας.</p>
             <p xml:lang="en">Mother of God, help Theodoros magistros, vestarches, and droungarios of the Vigla.</p>
-            <p xml:lang="de">Muttergottes, hilf dem Theodoros magistros bestarches und drungarios der Bigla. </p>
+            <p xml:lang="de">Muttergottes, hilf dem Theodoros magistros, vestarches und drungarios der Vigla. </p>
             <p xml:lang="el">Θεοτόκε βοήθησε το Θεόδωρο, μάγιστρο, βεστάρχη και δρουγγάριο της Βίγλας.</p>
          </div>
          <!--<div type="commentary" subtype="text">

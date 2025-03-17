@@ -338,19 +338,19 @@
                       
                       <ab>
                          
-                          <cb n="a"/><rs type="marianTerm" subtype="sigla" ref="#meter-theou"><expan><supplied reason="lost"><abbr>Μ</abbr><ex>ήτε</ex><abbr>ρ</abbr></supplied></expan>
-                         <cb n="b"/><expan><abbr>Θ</abbr><supplied reason="lost"><ex>εο</ex>ῦ</supplied></expan></rs>
+                          <cb n="a"/><supplied reason="lost"><expan><abbr>Μ</abbr><ex>ήτη</ex><abbr>ρ</abbr></expan></supplied>
+                         <cb n="b"/><expan><abbr>Θ</abbr><supplied reason="lost"><ex>εο</ex><abbr>ῦ</abbr></supplied></expan>
                           
                           
                       </ab>
                   </div>
                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
             
-                            <lg met="dodecasyllable">
-                                <l n="1"><lb n="1"/><rs type="invocation" ref="#inv009"><expan><abbr>σῴζοι</abbr><ex>ς</ex> </expan>
-                                <lb n="2"/><expan><abbr>πάναγν</abbr><ex>ε</ex></expan></rs></l>
-                                 <l n="2"><lb n="3"/><expan><abbr>Θεό</abbr><supplied reason="lost">δ</supplied><abbr>ωρ</abbr><ex>ον</ex> </expan>
-                                <lb n="4"/><expan><abbr>ο</abbr><supplied reason="lost">ἰ</supplied><abbr>κέτ</abbr><ex>ην</ex></expan></l>
+                            <lg type="metrical" met="dodecasyllable">
+                  <l n="1"><lb n="1"/><rs type="invocation" ref="#inv009"><expan><abbr>σῴζοι</abbr><ex>ς</ex></expan>
+                                   <lb n="2"/><expan><abbr>πάναγν</abbr><ex>ε</ex></expan></rs></l>
+                  <l n="2"><lb n="3"/><expan><abbr>Θεό<supplied reason="lost">δ</supplied>ωρ</abbr><ex>ον</ex></expan>
+                                  <lb n="4"/><expan><abbr>ο<supplied reason="lost">ἰ</supplied>κέτ</abbr><ex>ην</ex></expan></l>
                           </lg>
                                   
                             
@@ -368,7 +368,7 @@
                       </ab>
                   </div>
                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, diplomatic-->
-                                          <lg met="dodecasyllabic" subtype="true">
+                                          <lg type="met" met="dodecasyllabic" subtype="true">
                                               
                           <l n="1">
                          <lb n="0"/>
@@ -390,8 +390,8 @@
          </div>
          <div type="translation">
             <p>Μήτηρ Θεοῦ / Σῴζοις, πάναγνε, Θεόδωρον οἰκέτην.</p>
-            <p xml:lang="en">Mother of God. All-holy One, may you save your servant Theodore.</p>
-            <p xml:lang="de">Muttergottes. Allheiliger, möge du deinen Diener Theodore retten.</p>
+            <p xml:lang="en">Mother of God. All-holy One, may you save your servant Theodoros.</p>
+            <p xml:lang="de">Muttergottes. Allheiliger, mögest du deinen Diener Theodoros retten.</p>
             <p xml:lang="el">Θεοτόκος. Πάναγνη, σώσε το δούλο σου Θεόδωρο.</p>
          </div>
          <!--<div type="commentary" subtype="text">

@@ -325,33 +325,28 @@
    <text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <body>
          <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"> <!--change the language code according to the language of your edition, the values (also when combined, e.g. Greek-Latin) are in the guidelines. Same goes for what comes next, textpart etc.-->
-                  <div type="textpart" subtype="sigla" n="obv" rend="columns" xml:lang="grc"> <!--obverse, editorial-->
+                  <!--<div type="textpart" subtype="sigla" n="obv" rend="columns" xml:lang="grc"> obverse, editorial
                       
                       <ab>
                          
                                    </ab>
-                  </div>
+                  </div>-->
                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
                       <ab ana="dat">
                             
-                          <lb n="1"/><persName type="attested" ref="#basil-pediadites"><supplied reason="lost">Β</supplied>ασιλε<supplied reason="lost">ίῳ</supplied> </persName>
-                                <lb n="2"/><rs type="office" subtype="civil" ref="#primikerios_001"><expan><supplied reason="lost"><abbr>πρ</abbr><ex>ιμι</ex></supplied><abbr>κ</abbr><ex>ερίῳ</ex> </expan> </rs><rs type="office" subtype="civil" ref="#koitonites_001"><expan><abbr>κυτ</abbr><ex>ω</ex>
-                                <lb n="3" break="no"/><supplied reason="lost">νί</supplied><abbr>τ</abbr><ex>ῃ</ex></expan></rs> <rs type="office" subtype="civil" ref="#praipositos_001"><expan>πρεπ<ex>ο</ex>
-                                <lb n="4" break="no"/><supplied reason="lost">σί</supplied><abbr>τ</abbr><ex>ω</ex> </expan></rs> το<expan><abbr> Π</abbr><supplied reason="lost">ε</supplied>
-                                <lb n="5" break="no"/><abbr>δ</abbr><ex>ι</ex><abbr>αδ</abbr><ex>ί</ex><abbr>τ</abbr><ex>ῃ</ex></expan>
+                          <lb n="1"/><supplied reason="lost">Β</supplied>ασιλε<supplied reason="lost">ίῳ</supplied> 
+                                <lb n="2"/><rs type="office" subtype="civil" ref="#of0163"><expan><supplied reason="lost"><abbr>πρ</abbr><ex>ιμι</ex></supplied><abbr>κ</abbr><ex>ερίῳ</ex></expan></rs> <rs type="office" subtype="civil" ref="#of0099"><expan><abbr>κυτ</abbr><ex>ω</ex>
+                                <lb n="3" break="no"/><abbr><supplied reason="lost">νί</supplied>τ</abbr><ex>ῃ</ex></expan></rs> <rs type="office" subtype="civil" ref="#of0160"><expan><abbr>πρεπ</abbr><ex>ο</ex>
+                                <lb n="4" break="no"/><abbr><supplied reason="lost">σί</supplied>τ</abbr><ex>ω</ex></expan></rs> το <expan><abbr>Π<supplied reason="lost">ε</supplied>
+                                <lb n="5" break="no"/>δ</abbr><ex>ι</ex><abbr>αδ</abbr><ex>ί</ex><abbr>τ</abbr><ex>ῃ</ex></expan>
                             </ab>
                   </div>
               </div>
          <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"> 
-                  <div type="textpart" subtype="sigla" n="obv" rend="columns" xml:lang="grc"> <!--obverse, diplomatic-->
-                      <ab> 
-                        
-                  
-                          
-
-
+                  >!--<div type="textpart" subtype="sigla" n="obv" rend="columns" xml:lang="grc"> <!--obverse, diplomatic
+                     <ab>
                       </ab>
-                  </div>
+                  </div>-->
                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, diplomatic-->
                       <ab>
                               <lb n="1"/>.Ασιλε.
@@ -370,9 +365,9 @@
          </div>
          <div type="translation">
             <p>Βασιλείῳ πριμικερίῳ κοιτωνίτῃ πρεποσίτω το Πεδιαδίτῃ.</p>
-            <p xml:lang="en">Lord, help Basileios Pediadites, primikerios, koitonites, and praipositos.</p>
-            <p xml:lang="de">Gott, hilf Basileios Pediadites, primikerios, koitonites und praipositos.</p>
-            <p xml:lang="el">Κύριε βοήθησε το Βασίλειο Πεδιαδίτη, πριμικήριο, κοιτωνίτη και πραιπόσιτο.</p>
+            <p xml:lang="en">(Lord, help) Basileios Pediadites, primikerios, koitonites, and praipositos.</p>
+            <p xml:lang="de">(Herr, hilf) Basileios Pediadites, primikerios, koitonites und praipositos.</p>
+            <p xml:lang="el">(Κύριε βοήθησε) το Βασίλειο Πεδιαδίτη, πριμικήριο, κοιτωνίτη και πραιπόσιτο.</p>
          </div>
          <div type="commentary" subtype="text">
             <p xml:lang="en">Basilieos Pediadites is well know from other sources: this seal shows the earliest known stages of his career[1].</p>

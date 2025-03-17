@@ -333,11 +333,9 @@
                 
                 <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc">
                       <ab ana="gen">
-            <lb n="1"/>
-        <w lemma="Εὐθύμιος">Εὐ
-            <lb n="2"/>θύμι
-            <lb n="3"/>ου
-        </w>
+            <lb n="1"/>Εὐ
+            <lb n="2" break="no"/>θύμι
+            <lb n="3" break="no"/>ου
 </ab>
 
                   </div>
@@ -371,7 +369,7 @@
             <p>Εὐθύμιου</p>
             <p xml:lang="en">(Seal of) Euthymios.</p>
             <p xml:lang="de">(Siegel des) Euthymios.</p>
-            <p xml:lang="el">(Σφραγίδα του)Ευθυμίου.</p>
+            <p xml:lang="el">(Σφραγίδα του) Ευθυμίου.</p>
          </div>
          <div type="commentary" subtype="text">
             <p xml:lang="en">Schlumberger mistakenly identified the standing figure on the obverse with the Virgin or Christ.</p>

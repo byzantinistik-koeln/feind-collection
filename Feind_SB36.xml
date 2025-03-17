@@ -337,12 +337,12 @@
                       </ab>
                   </div>
                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, editorial-->
-                      <ab>
-                          <lb n="1"/><expan><abbr>Ἰω</abbr><ex>άννης</ex></expan> <expan><ex>πρωτο</ex>
-                          <lb n="2" break="no"/><abbr>σπαθ</abbr><ex>άριος</ex></expan> <expan><abbr>ὕπατ</abbr><ex>ος</ex></expan> 
-                          <lb n="3"/><expan><abbr>κ<supplied reason="lost">ρι</supplied>τ</abbr><ex>ὴς</ex></expan> τοῦ <expan><abbr>ἱππ<supplied reason="lost">ο</supplied>
-                          <lb n="4" break="no"/>δ<supplied reason="lost">ρ</supplied>όμ</abbr><ex>ου</ex></expan> <expan><ex>καὶ</ex></expan> τῶν 
-                          <lb n="5"/><expan><abbr>Ἀ<supplied reason="lost">ρ</supplied>μενικ</abbr><ex>ῶν</ex></expan> 
+                      <ab ana="nom">
+                          <lb n="1"/><expan><abbr>Ἰω</abbr><ex>άννης</ex></expan> <rs type="dignity" ref="#d0066"><expan><ex>πρωτο</ex>
+                          <lb n="2" break="no"/><abbr>σπαθ</abbr><ex>άριος</ex></expan></rs> <rs type="dignity" ref="#d0089"><expan><abbr>ὕπατ</abbr><ex>ος</ex></expan></rs> 
+                          <lb n="3"/><rs type="office" subtype="civil" ref="#of0112"><expan><abbr>κ<supplied reason="lost">ρι</supplied>τ</abbr><ex>ὴς</ex></expan></rs> τοῦ <rs type="institution" ref="#org0017"><expan><abbr>ἱππ<supplied reason="lost">ο</supplied>
+                          <lb n="4" break="no"/>δ<supplied reason="lost">ρ</supplied>όμ</abbr><ex>ου</ex></expan></rs> <expan><abbr><am>S</am></abbr><ex>καὶ</ex></expan> τῶν 
+                          <lb n="5"/><placeName ref="#geo0018"><expan><abbr>Ἀ<supplied reason="lost">ρ</supplied>μενικ</abbr><ex>ῶν</ex></expan></placeName> 
                           <lb n="6"/><expan><abbr>θ<supplied reason="lost">ε</supplied>μάτ</abbr><ex>ων</ex></expan>
                       </ab>
                   </div>
@@ -374,7 +374,7 @@
          </div>
          <div type="translation">
             <p>Μήτηρ Θεοῦ / Ἰωάννης πρωτοσπαθάριος, ὕπατος κριτὴς τοῦ ἱπποδρόμου καὶ τῶν Ἀρμενικῶν θεμάτων.</p>
-            <p xml:lang="en">Mother of God. (Seal of Ioannes) protospatharios, hypatos, krites tou hippodromou and of the Armenika themata.</p>
+            <p xml:lang="en">Mother of God. (Seal of) Ioannes protospatharios, hypatos, krites tou hippodromou and of the Armenika themata.</p>
             <p xml:lang="de">Muttergottes. (Siegel des) Ioannes protospatharios, hypatos, krites tou hippodromou und der Armenika themata.</p>
             <p xml:lang="el">Θεοτόκος. (Σφραγίδα του) Ιωάννη, πρωτοσπαθαρίου, υπάτου, κριτή του ιπποδρόμου και των Αρμενιακών θεμάτων.</p>
          </div>

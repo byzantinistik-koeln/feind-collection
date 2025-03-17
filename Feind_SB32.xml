@@ -324,24 +324,17 @@
          <div type="edition" subtype="editorial" xml:space="preserve" xml:lang="grc"> 
     <div type="textpart" subtype="sigla" n="obv" rend="linear" xml:lang="grc"> 
         <ab> 
-            <cb n="a"/>
-            <rs type="marianTerm" subtype="sigla" ref="#meter-theou">
-                <expan>
-                    <w lemma="μήτηρ"><abbr>Μ</abbr><ex>ήτη</ex><abbr>ρ</abbr></w>
-                </expan>
-                <cb n="b"/>
-                <expan>
-                    <supplied reason="lost"><w lemma="θεός"><abbr>Θ</abbr><ex>εο</ex><abbr>ῦ</abbr></w></supplied></expan>
-            </rs>
+            <cb n="a"/><expan><abbr>Μ</abbr><ex>ήτη</ex><abbr>ρ</abbr></expan>
+                <cb n="b"/><supplied reason="lost"><expan><abbr>Θ</abbr><ex>εο</ex><abbr>ῦ</abbr></expan></supplied>
         </ab> 
     </div>
 
     <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc">
         <ab ana="nom">
-            
-                <lb n="1"/><w lemma="Θηρδάτος"><supplied reason="lost">Θ</supplied>ηρ<lb n="2" break="no"/>δάτο<lb n="3" break="no"/>ς</w>
-                <rs type="dignity" ref="#hypatos">
-                    <w lemma="ὕπατος">ὕπατ<lb n="4" break="no"/>ος</w>
+            <lb n="1"/><supplied reason="lost">Θ</supplied>ηρ
+           <lb n="2" break="no"/>δάτο
+           <lb n="3" break="no"/>ς <rs type="dignity" ref="#d0089">ὕπατ
+              <lb n="4" break="no"/>ος
                 </rs>
         </ab>
     </div>

@@ -346,7 +346,7 @@
                           
                   </div>-->
                   <div type="textpart" subtype="face" n="rev" rend="linear" xml:lang="grc"> <!--reverse, diplomatic-->
-                      <ab>
+                      <ab ana="nom gen">
                           <lb n="1"/>ΧΙΜ
                           <lb n="2"/>ΛΗΑ
                                                 </ab>

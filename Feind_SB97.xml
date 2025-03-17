@@ -356,11 +356,11 @@
                   </div>
                   <div type="textpart" n="rev" subtype="face" rend="linear" xml:lang="grc"><!--ostiarios both dignity and office-->
                       <ab ana="dat">
-                          <lb n="1"/><expan><abbr>Θ</abbr><ex>εοτό</ex>)<abbr>κε</abbr></expan> <expan><supplied reason="lost"><abbr>β</abbr><ex>οή</ex><abbr>θ</abbr><ex>ει</ex></supplied></expan>
-                           <lb n="2"/><expan><abbr><supplied reason="lost">Θ</supplied>εοδώ<supplied reason="lost">ρ<ex>ῳ</ex></supplied></abbr></expan>
-                           <lb n="3"/><expan><abbr><supplied reason="lost">σ</supplied>παθ<supplied reason="lost">αρ(<ex>ο</ex>κου</supplied></abbr>
-                           <lb n="4" break="no"/><supplied reason="lost">κου</supplied><abbr>β</abbr><ex>ι</ex><abbr>κ</abbr><supplied reason="lost">ουλ<ex>αρίῳ</ex></supplied></expan>
-                              <lb n="5"/><supplied reason="lost"><expan><abbr><am>S</am></abbr><ex>καὶ</ex></expan></supplied> <expan><abbr>χαρ</abbr><supplied reason="lost">τ(<ex>ουλαρίῳ</ex></supplied></expan>
+                          <lb n="1"/><rs type="invocation" ref="#inv001"><expan><abbr>Θ</abbr><ex>εοτό</ex><abbr>κε</abbr></expan> <supplied reason="lost"><expan><abbr>β</abbr><ex>οή</ex><abbr>θ</abbr><ex>ει</ex></expan></supplied></rs>
+                           <lb n="2"/><expan><abbr><supplied reason="lost">Θ</supplied>εοδώ</abbr><supplied reason="lost"><abbr>ρ</abbr><ex>ῳ</ex></supplied></expan>
+                           <lb n="3"/><rs type="dignity" ref="#d0082"><expan><abbr><supplied reason="lost">σ</supplied>παθ<supplied reason="lost">αρ</supplied></abbr><supplied reason="lost"><ex>ο</ex>
+                           <lb n="4" break="no"/><abbr>κου</abbr></supplied><abbr>β</abbr><ex>ι</ex><abbr>κ</abbr><supplied reason="lost"><abbr>ουλ</abbr><ex>αρίῳ</ex></supplied></expan></rs>
+                              <lb n="5"/><supplied reason="lost"><expan><abbr><am>S</am></abbr><ex>καὶ</ex></expan></supplied> <rs type="office" subtype="civil" ref="#of0193"><expan><abbr>χαρ</abbr><supplied reason="lost"><abbr>τ</abbr><ex>ουλαρίῳ</ex></supplied></expan></rs>
                       </ab>
                   </div>
               </div>
@@ -386,7 +386,7 @@
             <p>Θεοτόκε βοήθει Θεοδώρῳ σπαθαροκουβικουλαρίῳ καὶ χαρτουλαρίῳ.</p>
             <p xml:lang="en">Mother of god help Theodoros spatharokoubikoularios and
                     chartoularios.</p>
-            <p xml:lang="de">Mutter Gottes, hilf Theodoros, spatharokoubikoularios und
+            <p xml:lang="de">Muttergottes, hilf Theodoros, spatharokoubikoularios und
                     chartoularios.</p>
             <p xml:lang="el">Θεοτόκε βοήθησε το Θεόδωρο, σπαθαροκουβικουλάριο και
                     χαρτουλάριο.</p>
