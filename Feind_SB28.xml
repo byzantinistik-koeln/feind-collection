@@ -343,7 +343,7 @@
                   </div>
               </div>
          <div type="edition" subtype="diplomatic" xml:space="preserve" xml:lang="grc"> 
-                  >!--<div type="textpart" subtype="sigla" n="obv" rend="columns" xml:lang="grc"> <!--obverse, diplomatic
+                  <!--<div type="textpart" subtype="sigla" n="obv" rend="columns" xml:lang="grc"> <!-\-obverse, diplomatic-\->
                      <ab>
                       </ab>
                   </div>-->
