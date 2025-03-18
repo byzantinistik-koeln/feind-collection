@@ -341,8 +341,8 @@
                           <lb n="3" break="no"/>ᾳ <rs type="dignity" ref="#d0047">πατρικί
                           <lb n="4" break="no"/>ο</rs> <rs type="dignity" ref="#d0067"><expan><abbr>β</abbr><ex>ασιλικῷ</ex></expan> <expan><abbr><am>Α</am></abbr><ex>πρωτο</ex><abbr>σπαθ</abbr><ex>αρίῳ</ex></expan></rs> <expan><abbr><am>S</am></abbr><ex>καὶ</ex></expan>
                           <lb n="5"/><rs type="office" subtype="military" ref="#of0279">στρατ<supplied reason="lost">ηγῷ</supplied></rs> 
-                          <lb n="6"/><supplied reason="lost">τ</supplied>ῶν <placename ref="#geo0016"><expan><abbr>Ἀν<supplied reason="lost">α
-                          <lb n="7" break="no"/>τ</supplied>ολικ</abbr><ex>ῶν</ex></expan></placename>
+                          <lb n="6"/><supplied reason="lost">τ</supplied>ῶν <placeName ref="#geo0016"><expan><abbr>Ἀν<supplied reason="lost">α
+                          <lb n="7" break="no"/>τ</supplied>ολικ</abbr><ex>ῶν</ex></expan></placeName>
                       </ab>
                   </div>
               </div>
