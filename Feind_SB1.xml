@@ -326,7 +326,7 @@
       <surfaceGrp>
          <surface n="r">
             <desc>Obverse</desc>
-            <graphic url="https://sigidoc.cceh.uni-koeln.de/rti/SB-1obv/plane_0.jpg"
+            <graphic url="/rti/SB-1obv/plane_0.jpg"
                      type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
