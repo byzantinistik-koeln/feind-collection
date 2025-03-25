@@ -332,7 +332,7 @@
                <desc xml:lang="de">[Bildbeschriftung]</desc>
                <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
-            <graphic url="/rti/SB-1obv/info.json"
+            <graphic url="https://sigidoc.cceh.uni-koeln.de/rti/SB-1obv/info.json"
                      type="RTI"/>
          </surface>
       </surfaceGrp>
