@@ -1,4 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- last changed before 1.0 version release 2021-08-02 --><!-- last changed before 1.1 release: 2023-04-12 --><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- last changed before 1.0 version release 2021-08-02 -->
+<!-- last changed before 1.1 release: 2023-04-12 -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
@@ -57,13 +62,23 @@
                      <seg xml:lang="de">Deutschland</seg>
                      <seg xml:lang="el">Γερμανία</seg>
                   </country>
-                  <settlement><seg xml:lang="en"><placeName ref="https://www.geonames.org/6553049/koeln.html">
+                  <settlement>
+                     <seg xml:lang="en">
+                        <placeName ref="https://www.geonames.org/6553049/koeln.html">
                 Cologne
-            </placeName></seg><seg xml:lang="de"><placeName ref="https://www.geonames.org/6553049/koeln.html">
+            </placeName>
+                     </seg>
+                     <seg xml:lang="de">
+                        <placeName ref="https://www.geonames.org/6553049/koeln.html">
                     Köln
-                </placeName></seg><seg xml:lang="el"><placeName ref="https://www.geonames.org/6553049/koeln.html">
+                </placeName>
+                     </seg>
+                     <seg xml:lang="el">
+                        <placeName ref="https://www.geonames.org/6553049/koeln.html">
                 Κολωνία
-            </placeName></seg></settlement>
+            </placeName>
+                     </seg>
+                  </settlement>
                   <institution/>
                   <repository/>
                   <collection type="private">
@@ -85,7 +100,6 @@
                      <seg xml:lang="de">Privat</seg>
                      <seg xml:lang="el">Μολυβδόβουλλα ιδιωτών</seg>
                   </summary>
-                  
                </msContents>
                <physDesc>
                   <objectDesc>
@@ -162,7 +176,11 @@
                                 <interp type="datingCriteria" xml:lang="de"/>
                             </origDate>-->
                      <!-- for a date range or centuries (NOT BEFORE - NOT AFTER)-->
-                     <origDate type="analysis" notBefore="1151" notAfter="1250" evidence="iconography epigraphy" resp="#MC">
+                     <origDate type="analysis"
+                               notBefore="1151"
+                               notAfter="1250"
+                               evidence="iconography epigraphy"
+                               resp="#MC">
                         <seg xml:lang="en">12th c., second half – 13th c., first half.</seg>
                         <seg xml:lang="de">12. Jh., zweite Hälfte – 13. Jh., erste Hälfte.</seg>
                         <seg xml:lang="el">12ος αι, δεύτερο μισό – 13ος αι, πρώτο μισό.</seg>
@@ -312,21 +330,27 @@
       <surfaceGrp>
          <surface n="r">
             <desc>Obverse</desc>
-            <graphic url="SB_295a.jpg" type="photo">
+            <graphic url="https://sigidoc.cceh.uni-koeln.de/rti/SB-295obv/plane_0.jpg"
+                     type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
                <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
+            <graphic url="https://sigidoc.cceh.uni-koeln.de/rti/SB-295obv/info.json"
+                     type="RTI"/>
          </surface>
       </surfaceGrp>
       <surfaceGrp>
          <surface n="v">
             <desc>Reverse</desc>
-            <graphic url="SB_295b.jpg" type="photo">
+            <graphic url="https://sigidoc.cceh.uni-koeln.de/rti/SB-295rev/plane_0.jpg"
+                     type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
                <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
             </graphic>
+            <graphic url="https://sigidoc.cceh.uni-koeln.de/rti/SB-295rev/info.json"
+                     type="RTI"/>
          </surface>
       </surfaceGrp>
    </facsimile>
@@ -396,16 +420,16 @@
          <div type="bibliography" subtype="parallels"><!--"Seibt, Zarnitz" = "Seibt1997"? bitte prüfen-->
             <p>(1) Geneve, Museum of Art and History, CdN 2004-558 (Zacos Collection) – <bibl>
                   <ptr target="ZacosGenève"/>, no. <citedRange unit="entry">354a</citedRange>
-            </bibl>; Spink, Auction 135 (6 October 1999), lot 314;  </p>
+               </bibl>; Spink, Auction 135 (6 October 1999), lot 314;  </p>
             <p> (2) Munich, Staatliche Münzsammlung (Zarnitz Collection) – <bibl>
                   <ptr target="Seibt1997"/>, no. <citedRange unit="entry">4.1.8</citedRange>
                </bibl>; Münz Zentrum, Auction 77 (13–15 April 1994), lot 1181 (<bibl>
                   <ptr target="SBS_Auctions1991-1996"/>, p. <citedRange unit="page">151</citedRange>, no. <citedRange unit="entry">1181</citedRange>
                </bibl>); Schenk-Behrens Nachf., Auction 65 (26-28 May 1993), lot 892; </p>
-               <p>(3) Geneve, Museum of Art and History, CdN 2004-213 (Zacos Collection) – <bibl>
+            <p>(3) Geneve, Museum of Art and History, CdN 2004-213 (Zacos Collection) – <bibl>
                   <ptr target="ZacosGenève"/>, no. <citedRange unit="entry">354b</citedRange>
                </bibl>; </p>
-                  <p>(4) Triton, Auction XI (8–9 January 2008), lot 1198, from the Robert E. Hecht Collection (<bibl>
+            <p>(4) Triton, Auction XI (8–9 January 2008), lot 1198, from the Robert E. Hecht Collection (<bibl>
                   <ptr target="SBS_Auctions2007-2011"/>, p. <citedRange unit="page">195</citedRange>, no. <citedRange unit="entry">1198</citedRange>
                </bibl>); Gorny &amp; Mosch, Auction 152 (9–10 January 2006), <ref target="https://www.cngcoins.com/Coin.aspx?CoinID=115621">lot 2713</ref> (<bibl>
                   <ptr target="SBS_Auctions2002-2006"/>, p. <citedRange unit="page">167</citedRange>, no. <citedRange unit="entry">2713</citedRange>
@@ -414,7 +438,7 @@
                </bibl>);</p>
             <p>(5) Classical Numismatic Group, Auction 376 (15 June 2016), lot 599; </p>
             <p>(6) Classical Numismatic Group, Auction 111 (29 May 2019), lot 882, from the Gert Boersema Collection; </p>
-                        <p>(7) Classical Numismatic Group, Auction 114 (13 May 2020), <ref target="https://auctions.cngcoins.com/lots/view/4-CLOFL/theodore-megalommates-1150-1250-pb-seal-37mm-3947-g-12h">lot 1063</ref>, from the Exarch Collection.
+            <p>(7) Classical Numismatic Group, Auction 114 (13 May 2020), <ref target="https://auctions.cngcoins.com/lots/view/4-CLOFL/theodore-megalommates-1150-1250-pb-seal-37mm-3947-g-12h">lot 1063</ref>, from the Exarch Collection.
                 </p>
          </div>
          <div type="bibliography" subtype="discussion">
