@@ -1,4 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- last changed before 1.0 version release 2021-08-02 --><!-- last changed before 1.1 release: 2023-04-12 --><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- last changed before 1.0 version release 2021-08-02 -->
+<!-- last changed before 1.1 release: 2023-04-12 -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
@@ -57,13 +62,23 @@
                      <seg xml:lang="de">Deutschland</seg>
                      <seg xml:lang="el">Γερμανία</seg>
                   </country>
-                  <settlement><seg xml:lang="en"><placeName ref="https://www.geonames.org/6553049/koeln.html">
+                  <settlement>
+                     <seg xml:lang="en">
+                        <placeName ref="https://www.geonames.org/6553049/koeln.html">
                 Cologne
-            </placeName></seg><seg xml:lang="de"><placeName ref="https://www.geonames.org/6553049/koeln.html">
+            </placeName>
+                     </seg>
+                     <seg xml:lang="de">
+                        <placeName ref="https://www.geonames.org/6553049/koeln.html">
                     Köln
-                </placeName></seg><seg xml:lang="el"><placeName ref="https://www.geonames.org/6553049/koeln.html">
+                </placeName>
+                     </seg>
+                     <seg xml:lang="el">
+                        <placeName ref="https://www.geonames.org/6553049/koeln.html">
                 Κολωνία
-            </placeName></seg></settlement>
+            </placeName>
+                     </seg>
+                  </settlement>
                   <institution/>
                   <repository/>
                   <collection type="private">
@@ -85,7 +100,6 @@
                      <seg xml:lang="de">Privat</seg>
                      <seg xml:lang="el">Μολυβδόβουλλα ιδιωτών</seg>
                   </summary>
-                  
                </msContents>
                <physDesc>
                   <objectDesc>
@@ -161,7 +175,11 @@
                                 <interp type="datingCriteria" xml:lang="de"/>
                             </origDate>-->
                      <!-- for a date range or centuries (NOT BEFORE - NOT AFTER)-->
-                     <origDate type="analysis" notBefore="1241" notAfter="1400" evidence="epigraphy" resp="#MC">
+                     <origDate type="analysis"
+                               notBefore="1241"
+                               notAfter="1400"
+                               evidence="epigraphy"
+                               resp="#MC">
                         <seg xml:lang="en">mid-13th c. – 14th c.</seg>
                         <seg xml:lang="de">Mitte 13. Jh. – 14. Jh.</seg>
                         <seg xml:lang="el">Μέσα 13ου αι. –  14ου αι.</seg>
@@ -310,7 +328,7 @@
       <surfaceGrp>
          <surface n="r">
             <desc>Obverse</desc>
-            <graphic url="Kr_12a.jpg" type="photo">
+            <graphic url="https://sigidoc.cceh.uni-koeln.de/static/Kr-12.1.JPG" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
                <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
@@ -320,7 +338,7 @@
       <surfaceGrp>
          <surface n="v">
             <desc>Reverse</desc>
-            <graphic url="Kr_12b.jpg" type="photo">
+            <graphic url="https://sigidoc.cceh.uni-koeln.de/static/Kr-12.2.JPG" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
                <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>

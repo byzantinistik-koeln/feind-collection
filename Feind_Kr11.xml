@@ -1,4 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- last changed before 1.0 version release 2021-08-02 --><!-- last changed before 1.1 release: 2023-04-12 --><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- last changed before 1.0 version release 2021-08-02 -->
+<!-- last changed before 1.1 release: 2023-04-12 -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <!-- schema location for users of the SigiDoc's version of EFES available at https://github.com/SigiDoc/SigiDoc-->
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
@@ -69,13 +74,23 @@
                      <seg xml:lang="de">Deutschland</seg>
                      <seg xml:lang="el">Γερμανία</seg>
                   </country>
-                  <settlement><seg xml:lang="en"><placeName ref="https://www.geonames.org/6553049/koeln.html">
+                  <settlement>
+                     <seg xml:lang="en">
+                        <placeName ref="https://www.geonames.org/6553049/koeln.html">
                 Cologne
-            </placeName></seg><seg xml:lang="de"><placeName ref="https://www.geonames.org/6553049/koeln.html">
+            </placeName>
+                     </seg>
+                     <seg xml:lang="de">
+                        <placeName ref="https://www.geonames.org/6553049/koeln.html">
                     Köln
-                </placeName></seg><seg xml:lang="el"><placeName ref="https://www.geonames.org/6553049/koeln.html">
+                </placeName>
+                     </seg>
+                     <seg xml:lang="el">
+                        <placeName ref="https://www.geonames.org/6553049/koeln.html">
                 Κολωνία
-            </placeName></seg></settlement>
+            </placeName>
+                     </seg>
+                  </settlement>
                   <institution/>
                   <repository/>
                   <collection type="private">
@@ -173,7 +188,11 @@
                                 <interp type="datingCriteria" xml:lang="de"/>
                             </origDate>-->
                      <!-- for a date range or centuries (NOT BEFORE - NOT AFTER)-->
-                     <origDate type="analysis" notBefore="0901" notAfter="0920" evidence="epigraphy iconography" resp="#MC">
+                     <origDate type="analysis"
+                               notBefore="0901"
+                               notAfter="0920"
+                               evidence="epigraphy iconography"
+                               resp="#MC">
                         <seg xml:lang="en">Early 10th c.</seg>
                         <seg xml:lang="de">Frühes 10. Jh.</seg>
                         <seg xml:lang="el">Αρχές 10ου αι.</seg>
@@ -238,7 +257,8 @@
                               </dimensions>
                               <p xml:lang="en">Iconography with circular legend; along the circumference, within concentric borders of dots, the circular inscription begins with a cross at 7 o'clock.</p>
                               <p xml:lang="de">Ikonographie mit umlaufender Legende; die umlaufende Legende am äußeren Rand zwischen Perlrändern beginnt mit einem Kreuz bei 7 Uhr.</p>
-                              <p xml:lang="el">Εικονογραφία με κυκλοτερή επιγραφή. Κατά μήκος της περιφέρειας μέσα σε στικτό πλάισιο κυκλοτερή επιγραφή, η οποία ξεκινάει με σταυρό στα αριστερά, στο σημείο του άξονα 7.</p>    </layout>
+                              <p xml:lang="el">Εικονογραφία με κυκλοτερή επιγραφή. Κατά μήκος της περιφέρειας μέσα σε στικτό πλάισιο κυκλοτερή επιγραφή, η οποία ξεκινάει με σταυρό στα αριστερά, στο σημείο του άξονα 7.</p>
+                           </layout>
                         </layoutDesc>
                      </objectDesc>
                      <handDesc>
@@ -322,7 +342,7 @@
       <surfaceGrp>
          <surface n="r">
             <desc>Obverse</desc>
-            <graphic url="Kr_11a.jpg" type="photo">
+            <graphic url="https://sigidoc.cceh.uni-koeln.de/static/Kr-11.1.JPG" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
                <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
@@ -332,7 +352,7 @@
       <surfaceGrp>
          <surface n="v">
             <desc>Reverse</desc>
-            <graphic url="Kr_11b.jpg" type="photo">
+            <graphic url="https://sigidoc.cceh.uni-koeln.de/static/Kr-11.2.JPG" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
                <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>

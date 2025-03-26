@@ -324,8 +324,7 @@
       <surfaceGrp>
          <surface n="r">
             <desc>Obverse</desc>
-            <graphic url="https://sigidoc.cceh.uni-koeln.de/rti/S-195obv/plane_0.jpg"
-                     type="photo">
+            <graphic url="https://sigidoc.cceh.uni-koeln.de/static/S-195.1.JPG" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
                <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
@@ -337,8 +336,7 @@
       <surfaceGrp>
          <surface n="v">
             <desc>Reverse</desc>
-            <graphic url="https://sigidoc.cceh.uni-koeln.de/rti/S-195rev/plane_0.jpg"
-                     type="photo">
+            <graphic url="https://sigidoc.cceh.uni-koeln.de/static/S-195.2.JPG" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
                <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>

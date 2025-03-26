@@ -1,4 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -62,13 +67,23 @@
                      <seg xml:lang="de">Deutschland</seg>
                      <seg xml:lang="el">Γερμανία</seg>
                   </country>
-                  <settlement><seg xml:lang="en"><placeName ref="https://www.geonames.org/6553049/koeln.html">
+                  <settlement>
+                     <seg xml:lang="en">
+                        <placeName ref="https://www.geonames.org/6553049/koeln.html">
                 Cologne
-            </placeName></seg><seg xml:lang="de"><placeName ref="https://www.geonames.org/6553049/koeln.html">
+            </placeName>
+                     </seg>
+                     <seg xml:lang="de">
+                        <placeName ref="https://www.geonames.org/6553049/koeln.html">
                     Köln
-                </placeName></seg><seg xml:lang="el"><placeName ref="https://www.geonames.org/6553049/koeln.html">
+                </placeName>
+                     </seg>
+                     <seg xml:lang="el">
+                        <placeName ref="https://www.geonames.org/6553049/koeln.html">
                 Κολωνία
-            </placeName></seg></settlement>
+            </placeName>
+                     </seg>
+                  </settlement>
                   <institution/>
                   <repository/>
                   <collection type="private">
@@ -86,7 +101,7 @@
                   <summary n="whole">
                      <seg xml:lang="en">Dignitaries</seg>
                      <seg xml:lang="de">Würdenträger</seg>
-                     <seg xml:lang="de">Μολυβδόβουλλα αξιωματούχων.</seg>  
+                     <seg xml:lang="de">Μολυβδόβουλλα αξιωματούχων.</seg>
                   </summary>
                </msContents>
                <physDesc>
@@ -150,7 +165,12 @@
                      <origPlace>
                         <seg xml:lang="en"/>
                      </origPlace>
-                     <origDate type="analysis" notBefore="0601" notAfter="0650" evidence="epigraphy onomastics" cert="high" resp="#MC">
+                     <origDate type="analysis"
+                               notBefore="0601"
+                               notAfter="0650"
+                               evidence="epigraphy onomastics"
+                               cert="high"
+                               resp="#MC">
                         <seg xml:lang="en">7th c., first half.</seg>
                         <seg xml:lang="de">7. Jh., erste Hälfte.</seg>
                         <seg xml:lang="el">7ος αι., πρώτο μισό. </seg>
@@ -273,7 +293,7 @@
       <surfaceGrp>
          <surface n="r">
             <desc>Obverse</desc>
-            <graphic url="M_160a.jpg" type="photo">
+            <graphic url="https://sigidoc.cceh.uni-koeln.de/static/M-160.1.JPG" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
                <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
@@ -283,7 +303,7 @@
       <surfaceGrp>
          <surface n="v">
             <desc>Reverse</desc>
-            <graphic url="M_160b.jpg" type="photo">
+            <graphic url="https://sigidoc.cceh.uni-koeln.de/static/M-160.2.JPG" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
                <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
@@ -323,8 +343,9 @@
          </div>
          <div type="commentary" subtype="text"><!--add "Zografopoulos2005" to bibliography: Zografopoulos K. J., Die byzantinischen Bleisiegel aus Karthago [PhD Diss.], Wien 2005.-->
             <p xml:lang="en">A seal of Martinos stratelates edited in <bibl>
-                  <ptr target="Zografopoulos2005"/>, <citedRange unit="entry">M17</citedRange></bibl>, and dated to the first half of the 7th century is not a parallel.</p>
-            </div>
+                  <ptr target="Zografopoulos2005"/>, <citedRange unit="entry">M17</citedRange>
+               </bibl>, and dated to the first half of the 7th century is not a parallel.</p>
+         </div>
          <!--<div type="bibliography" subtype="parallels">
                 <p>
                     <bibl>

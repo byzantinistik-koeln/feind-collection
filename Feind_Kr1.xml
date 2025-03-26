@@ -1,4 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!-- last changed before 1.0 version release 2021-08-02 --><!-- last changed before 1.1 release: 2023-04-12 --><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://sigidoc.github.io/Schema/schema/latest/sigidoc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- last changed before 1.0 version release 2021-08-02 -->
+<!-- last changed before 1.1 release: 2023-04-12 -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <fileDesc>
          <titleStmt>
@@ -57,13 +62,23 @@
                      <seg xml:lang="de">Deutschland</seg>
                      <seg xml:lang="el">Γερμανία</seg>
                   </country>
-                  <settlement><seg xml:lang="en"><placeName ref="https://www.geonames.org/6553049/koeln.html">
+                  <settlement>
+                     <seg xml:lang="en">
+                        <placeName ref="https://www.geonames.org/6553049/koeln.html">
                 Cologne
-            </placeName></seg><seg xml:lang="de"><placeName ref="https://www.geonames.org/6553049/koeln.html">
+            </placeName>
+                     </seg>
+                     <seg xml:lang="de">
+                        <placeName ref="https://www.geonames.org/6553049/koeln.html">
                     Köln
-                </placeName></seg><seg xml:lang="el"><placeName ref="https://www.geonames.org/6553049/koeln.html">
+                </placeName>
+                     </seg>
+                     <seg xml:lang="el">
+                        <placeName ref="https://www.geonames.org/6553049/koeln.html">
                 Κολωνία
-            </placeName></seg></settlement>
+            </placeName>
+                     </seg>
+                  </settlement>
                   <institution/>
                   <repository/>
                   <collection type="private">
@@ -86,7 +101,6 @@
                      <seg xml:lang="el">Μολυβδόβουλλα αξιωματούχων της περιφερειακής διοίκησης.
                      </seg>
                   </summary>
-                  
                </msContents>
                <physDesc>
                   <objectDesc>
@@ -163,7 +177,11 @@
                                 <interp type="datingCriteria" xml:lang="de"/>
                             </origDate>-->
                      <!-- for a date range or centuries (NOT BEFORE - NOT AFTER)-->
-                     <origDate type="analysis" notBefore="0941" notAfter="0960" evidence="iconography epigraphy" resp="#MC">
+                     <origDate type="analysis"
+                               notBefore="0941"
+                               notAfter="0960"
+                               evidence="iconography epigraphy"
+                               resp="#MC">
                         <seg xml:lang="en">mid-10th c.</seg>
                         <seg xml:lang="de">Mitte 10. Jh.</seg>
                         <seg xml:lang="el">μέσα 10ου αι.</seg>
@@ -244,13 +262,12 @@
                            <figure><!--ana to be done-->
                               <figDesc ana="cross" n="r" xml:lang="en">Patriarchal cross (with a X at the lower transverse bar) mounted on three steps. Fleurons on either side. In the upper field, a decoration of a pellet at left and right.</figDesc>
                               <figDesc ana="cross" n="r" xml:lang="de">Patriarchenkreuz auf drei Stufen mit Zierranken. Die Balken sind auch gekreuzt. Rechts und links im oberen Feld ein Punkt.</figDesc>
-                                 <figDesc ana="cross" n="r" xml:lang="el">Πατριαρχικός σταυρός υψώνεται  επάνω σε τριβαθμιδωτή
-                                 βάση. </figDesc> 
+                              <figDesc ana="cross" n="r" xml:lang="el">Πατριαρχικός σταυρός υψώνεται  επάνω σε τριβαθμιδωτή
+                                 βάση. </figDesc>
                               <figDesc n="decoR" xml:lang="en">Cross at the beginning of the legend. Border of dots.</figDesc>
                               <figDesc n="decoR" xml:lang="de">Kreuz am Anfang der Legende. Perlrand.</figDesc>
                               <figDesc n="decoR" xml:lang="el">Σταυρός στην αρχή της
                                  επιγραφής. Στικτό πλαίσιο.</figDesc>
-                          
                            </figure>
                         </decoNote>
                      </decoDesc>
@@ -315,7 +332,7 @@
       <surfaceGrp>
          <surface n="r">
             <desc>Obverse</desc>
-            <graphic url="Kr_1a.jpg" type="photo">
+            <graphic url="https://sigidoc.cceh.uni-koeln.de/static/Kr-1.1.JPG" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
                <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
@@ -325,7 +342,7 @@
       <surfaceGrp>
          <surface n="v">
             <desc>Reverse</desc>
-            <graphic url="Kr_1b.jpg" type="photo">
+            <graphic url="https://sigidoc.cceh.uni-koeln.de/static/Kr-1.2.JPG" type="photo">
                <desc xml:lang="en">[caption of the image]</desc>
                <desc xml:lang="de">[Bildbeschriftung]</desc>
                <desc xml:lang="el">[Εισαγωγή λεζάντας]</desc>
