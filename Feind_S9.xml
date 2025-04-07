@@ -45,15 +45,15 @@
             <listPerson type="issuer">
                <person role="private" gender="M">
                   <persName xml:lang="en">
-                     <forename>Michael</forename>&gt;
+                     <forename>Michael</forename>
                                                     <surname>Karantenos</surname>
                   </persName>
                   <persName xml:lang="de">
-                     <forename>Michael</forename>&gt;
+                     <forename>Michael</forename>
                                                     <surname>Karantenos</surname>
                   </persName>
                   <persName xml:lang="el">
-                     <forename>Μιχαήλ</forename>&gt;
+                     <forename>Μιχαήλ</forename>
                                                     <surname>Καραντηνός</surname>
                   </persName>
                </person>

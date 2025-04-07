@@ -48,13 +48,13 @@
             <listPerson type="issuer">
                <person role="private" gender="M">
                   <persName xml:lang="en">
-                     <forename>Michael</forename>&gt; <surname>Lazaritzes</surname>
+                     <forename>Michael</forename><surname>Lazaritzes</surname>
                   </persName>
                   <persName xml:lang="de">
-                     <forename>Michael</forename>&gt; <surname>Lazaritzes</surname>
+                     <forename>Michael</forename> <surname>Lazaritzes</surname>
                   </persName>
                   <persName xml:lang="el">
-                     <forename>Μιχαήλ</forename>&gt; <surname>Λαζαρίτζης</surname>
+                     <forename>Μιχαήλ</forename> <surname>Λαζαρίτζης</surname>
                   </persName>
                </person>
             </listPerson>
