@@ -339,7 +339,7 @@
                       </ab>
                   </div>
                   <div type="textpart" n="rev" subtype="face" rend="linear" xml:lang="grc"><!--Something for mark-up in here? METRICAL?-->
-                      <lg type="met" met="dodecasyllable">
+                      <lg type="metrical" met="dodecasyllable">
                           <l n="1"><lb n="1"/><supplied reason="lost">Ἀ</supplied>θλητὰ 
                           <lb n="2"/><supplied reason="lost">Γεώ</supplied>ργιε μαρ
                           <lb n="3" break="no"/><supplied reason="lost">τύρ</supplied>ων κλέος</l> 
